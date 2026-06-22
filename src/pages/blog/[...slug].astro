@@ -1,0 +1,80 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+function formatDate(dateStr: string) {
+  if (!dateStr) return '';
+  const date = new Date(dateStr);
+  return date.toLocaleDateString('id-ID', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+}
+---
+
+<Layout 
+  title={post.data.title} 
+  description={post.data.description} 
+  featuredImage={post.data.featuredImage}
+  articleDate={post.data.pubDate}
+>
+  <article class="container" style="max-width: 800px; margin: 0 auto; padding-bottom: 5rem;">
+    
+    <!-- Category Tag -->
+    {post.data.category && (
+      <div style="margin-bottom: 1.5rem;">
+        <a 
+          href={`/category/${post.data.category.toLowerCase().replace(/\s+/g, '-')}`} 
+          style="background: var(--primary-light); color: var(--primary); padding: 0.35rem 0.85rem; border-radius: 99px; font-weight: 700; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; display: inline-block;"
+        >
+          {post.data.category}
+        </a>
+      </div>
+    )}
+
+    <!-- Title -->
+    <h1 style="font-size: 2.75rem; font-weight: 800; margin-bottom: 1.5rem; line-height: 1.25; letter-spacing: -0.02em;">
+      {post.data.title}
+    </h1>
+
+    <!-- Meta Info -->
+    <div style="display: flex; align-items: center; gap: 1rem; color: var(--text-muted); font-size: 0.95rem; margin-bottom: 3rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border);">
+      <div style="display: flex; align-items: center; gap: 0.5rem;">
+        <span style="font-weight: 600; color: var(--text);">Oleh April</span>
+      </div>
+      <span>&bull;</span>
+      <div>
+        {post.data.pubDate ? formatDate(post.data.pubDate) : ''}
+      </div>
+    </div>
+
+    <!-- Featured Image -->
+    {post.data.featuredImage && (
+      <div style="margin-bottom: 3rem; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.04);">
+        <img 
+          src={post.data.featuredImage} 
+          alt={post.data.title} 
+          style="width: 100%; height: auto; display: block;"
+        />
+      </div>
+    )}
+
+    <!-- Content Body -->
+    <div class="entry-content">
+      <Content />
+    </div>
+    
+  </article>
+</Layout>
