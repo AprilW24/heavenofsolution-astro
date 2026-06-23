@@ -31,37 +31,37 @@ const isContactPage = page.id === 'contact';
     <!-- Contact Form (Only shown on the contact page) -->
     {isContactPage && (
       <div style="margin-top: 3.5rem; background: var(--bg-alt); border: 1px solid var(--border); padding: 2.5rem; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.02);">
-        <h3 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem; color: var(--text);">Hubungi Kami</h3>
+        <h3 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem; color: var(--text);">Contact Us</h3>
         <p style="color: var(--text-muted); margin-bottom: 2rem; font-size: 0.95rem;">
-          Kirimkan pesan Anda menggunakan formulir di bawah ini. Kami akan membalas secepatnya.
+          Send us your message using the form below. We will reply as soon as possible.
         </p>
         
-        <!-- Formulir Kontak Menggunakan Web3Forms (Layanan gratis langsung terkirim ke email) -->
+        <!-- Contact Form using Web3Forms (Free service sent directly to email) -->
         <form action="https://api.web3forms.com/submit" method="POST" style="display: flex; flex-direction: column; gap: 1.5rem;">
-          <!-- Ganti access_key ini dengan key Anda dari web3forms.com -->
+          <!-- Replace this access_key with your key from web3forms.com -->
           <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" />
-          <input type="hidden" name="subject" value="Pesan Baru dari Heaven of Solution" />
+          <input type="hidden" name="subject" value="New Message from Heaven of Solution" />
           <input type="checkbox" name="botcheck" style="display: none;" />
-
+ 
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
             <div style="display: flex; flex-direction: column; gap: 0.5rem;">
-              <label for="name" style="font-weight: 600; font-size: 0.9rem; color: var(--text);">Nama Lengkap</label>
-              <input type="text" name="name" id="name" required placeholder="Nama Anda" style="padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); outline: none; font-family: inherit; font-size: 0.95rem; transition: border-color 0.2s;" />
+              <label for="name" style="font-weight: 600; font-size: 0.9rem; color: var(--text);">Full Name</label>
+              <input type="text" name="name" id="name" required placeholder="Your Name" style="padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); outline: none; font-family: inherit; font-size: 0.95rem; transition: border-color 0.2s;" />
             </div>
             
             <div style="display: flex; flex-direction: column; gap: 0.5rem;">
-              <label for="email" style="font-weight: 600; font-size: 0.9rem; color: var(--text);">Alamat Email</label>
-              <input type="email" name="email" id="email" required placeholder="nama@email.com" style="padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); outline: none; font-family: inherit; font-size: 0.95rem; transition: border-color 0.2s;" />
+              <label for="email" style="font-weight: 600; font-size: 0.9rem; color: var(--text);">Email Address</label>
+              <input type="email" name="email" id="email" required placeholder="name@email.com" style="padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); outline: none; font-family: inherit; font-size: 0.95rem; transition: border-color 0.2s;" />
             </div>
           </div>
-
+ 
           <div style="display: flex; flex-direction: column; gap: 0.5rem;">
-            <label for="message" style="font-weight: 600; font-size: 0.9rem; color: var(--text);">Pesan Anda</label>
-            <textarea name="message" id="message" rows="5" required placeholder="Tuliskan pesan atau pertanyaan Anda di sini..." style="padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); outline: none; font-family: inherit; font-size: 0.95rem; resize: vertical; transition: border-color 0.2s;"></textarea>
+            <label for="message" style="font-weight: 600; font-size: 0.9rem; color: var(--text);">Your Message</label>
+            <textarea name="message" id="message" rows="5" required placeholder="Write your message or question here..." style="padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); outline: none; font-family: inherit; font-size: 0.95rem; resize: vertical; transition: border-color 0.2s;"></textarea>
           </div>
-
+ 
           <button type="submit" style="background: var(--primary); color: white; border: none; padding: 1rem 2rem; border-radius: 8px; font-weight: 700; font-family: inherit; font-size: 1rem; cursor: pointer; transition: background 0.2s; align-self: flex-start;">
-            Kirim Pesan
+            Send Message
           </button>
         </form>
       </div>

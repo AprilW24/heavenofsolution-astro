@@ -29,7 +29,7 @@ const { category, posts } = Astro.props;
 function formatDate(dateStr: string) {
   if (!dateStr) return '';
   const date = new Date(dateStr);
-  return date.toLocaleDateString('id-ID', {
+  return date.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
     day: 'numeric'
@@ -37,13 +37,13 @@ function formatDate(dateStr: string) {
 }
 ---
 
-<Layout title={`Kategori: ${category}`} description={`Kumpulan artikel panduan solusi untuk kategori ${category}.`}>
+<Layout title={`Category: ${category}`} description={`Collection of guide solutions for category ${category}.`}>
   <section style="background-color: var(--bg-alt); padding: 4rem 0; border-bottom: 1px solid var(--border); margin-top: -2.5rem;">
     <div class="container" style="text-align: center;">
-      <span style="color: var(--primary); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em; display: inline-block; margin-bottom: 0.5rem;">Kategori</span>
+      <span style="color: var(--primary); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em; display: inline-block; margin-bottom: 0.5rem;">Category</span>
       <h1 style="font-size: 2.5rem; font-weight: 800; letter-spacing: -0.02em;">{category}</h1>
       <p style="color: var(--text-muted); margin-top: 0.5rem; font-size: 1.1rem;">
-        Menampilkan <span style="font-weight: 700; color: var(--text);">{posts.length}</span> panduan solusi.
+        Showing <span style="font-weight: 700; color: var(--text);">{posts.length}</span> guide solutions.
       </p>
     </div>
   </section>
@@ -84,7 +84,7 @@ function formatDate(dateStr: string) {
                 {post.data.description}
               </p>
               <div style="border-top: 1px solid var(--border); padding-top: 1rem; font-weight: 700; font-size: 0.9rem; color: var(--primary); display: flex; align-items: center; gap: 0.5rem;">
-                Baca Selengkapnya &rarr;
+                Read More &rarr;
               </div>
             </div>
           </article>

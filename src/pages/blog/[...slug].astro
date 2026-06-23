@@ -16,7 +16,7 @@ const { Content } = await render(post);
 function formatDate(dateStr: string) {
   if (!dateStr) return '';
   const date = new Date(dateStr);
-  return date.toLocaleDateString('id-ID', {
+  return date.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
     day: 'numeric'
@@ -50,15 +50,15 @@ function formatDate(dateStr: string) {
     </h1>
 
     <!-- Meta Info -->
-    <div style="display: flex; align-items: center; gap: 1rem; color: var(--text-muted); font-size: 0.95rem; margin-bottom: 3rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border);">
-      <div style="display: flex; align-items: center; gap: 0.5rem;">
-        <span style="font-weight: 600; color: var(--text);">Oleh April</span>
+      <div style="display: flex; align-items: center; gap: 1rem; color: var(--text-muted); font-size: 0.95rem; margin-bottom: 3rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border);">
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <span style="font-weight: 600; color: var(--text);">By April</span>
+        </div>
+        <span>&bull;</span>
+        <div>
+          {post.data.pubDate ? formatDate(post.data.pubDate) : ''}
+        </div>
       </div>
-      <span>&bull;</span>
-      <div>
-        {post.data.pubDate ? formatDate(post.data.pubDate) : ''}
-      </div>
-    </div>
 
     <!-- Featured Image -->
     {post.data.featuredImage && (
