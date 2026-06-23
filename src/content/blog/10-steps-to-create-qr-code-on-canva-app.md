@@ -14,29 +14,29 @@ First things first, make sure you’ve got the Canva app installed on your Andro
 
 ### Open Your Design
 
-- Launch the Canva app on your Android device.
+1. Launch the Canva app on your Android device.
 
-- Start a new design or open an existing one where you want to add the QR code.
+2. Start a new design or open an existing one where you want to add the QR code.
 
-- Tap on the “+” icon to add a new element to your design.
+3. Tap on the “+” icon to add a new element to your design.
 
 ### Generate the QR Code
 
-- In the elements menu, search for “QR Code” in the search bar.
+1. In the elements menu, search for “QR Code” in the search bar.
 
-- Tap on the QR Code app when it appears in the results.
+2. Tap on the QR Code app when it appears in the results.
 
-- Enter the URL you want your QR code to link to in the provided field.
+3. Enter the URL you want your QR code to link to in the provided field.
 
-- Hit the “Generate QR Code” button.
+4. Hit the “Generate QR Code” button.
 
-- Your QR code will now appear in your design – how cool is that? 😎
+5. Your QR code will now appear in your design – how cool is that? 😎
 
 ### Customize Your QR Code
 
-- Resize the QR code by pinching and zooming with your fingers.
+1. Resize the QR code by pinching and zooming with your fingers.
 
-- Move it around your design by dragging it to your desired position.
+2. Move it around your design by dragging it to your desired position.
 
 ## Making It Your Own
 

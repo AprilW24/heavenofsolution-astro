@@ -20,21 +20,21 @@ Once you set it up as the default assistant, *Gemini* can use what is on your sc
 
 ## Step by step to make Gemini your default assistant on Android
 
-- Install or update the *Gemini* app on your Android phone so you have the latest version.
+1. Install or update the *Gemini* app on your Android phone so you have the latest version.
 
-- Open the *Gemini* app and sign in with your main *Google* account that you use for email and other services.
+2. Open the *Gemini* app and sign in with your main *Google* account that you use for email and other services.
 
-- When the app asks if you want to use *Gemini* as your assistant, choose the option to switch from *Google Assistant* to *Gemini*.
+3. When the app asks if you want to use *Gemini* as your assistant, choose the option to switch from *Google Assistant* to *Gemini*.
 
-- If you do not see a prompt, open the *Google* app, tap your profile picture, and go into the Settings section.
+4. If you do not see a prompt, open the *Google* app, tap your profile picture, and go into the Settings section.
 
-- In the Settings section tap *Google Assistant*, then tap *Digital assistants from Google*, choose *Gemini* and tap *Switch*.
+5. In the Settings section tap *Google Assistant*, then tap *Digital assistants from Google*, choose *Gemini* and tap *Switch*.
 
-- On some phones you might also need to open system settings, find the assistant app settings, and choose *Gemini* again there.
+6. On some phones you might also need to open system settings, find the assistant app settings, and choose *Gemini* again there.
 
-- Test it by long pressing the power button or using your voice trigger and checking that *Gemini* appears.
+7. Test it by long pressing the power button or using your voice trigger and checking that *Gemini* appears.
 
-- If you want hands free use, go into voice settings and make sure the voice hotword is enabled so you can talk to *Gemini* without touching the screen.
+8. If you want hands free use, go into voice settings and make sure the voice hotword is enabled so you can talk to *Gemini* without touching the screen.
 
 ## How Gemini AI works as a personal assistant across your apps and screen
 
@@ -46,23 +46,23 @@ On top of that, there is a focus on personal intelligence where *Gemini* can rea
 
 ## Step by step to use Gemini in your daily routine
 
-- Start your day by asking *Gemini* to summarize your emails, calendar events, and key tasks so you know what matters first.
+1. Start your day by asking *Gemini* to summarize your emails, calendar events, and key tasks so you know what matters first.
 
-- When you find a long article, PDF, or thread, share it to *Gemini* and ask for a short summary with next actions.
+2. When you find a long article, PDF, or thread, share it to *Gemini* and ask for a short summary with next actions.
 
-- Use *Gemini* to draft messages, replies, or posts, then you edit the tone so it still sounds like you.
+3. Use *Gemini* to draft messages, replies, or posts, then you edit the tone so it still sounds like you.
 
-- During work, ask *Gemini* to research topics and break them into bullet points so you can move faster on planning.
+4. During work, ask *Gemini* to research topics and break them into bullet points so you can move faster on planning.
 
-- When planning routes or errands, ask *Gemini* to suggest a plan using maps, time estimates, and nearby locations.
+5. When planning routes or errands, ask *Gemini* to suggest a plan using maps, time estimates, and nearby locations.
 
-- Use voice with *Gemini* when your hands are busy and treat it like a friend you talk through ideas with.
+6. Use voice with *Gemini* when your hands are busy and treat it like a friend you talk through ideas with.
 
-- At night, ask *Gemini* to recap what you did, what is still pending, and what you should handle tomorrow.
+7. At night, ask *Gemini* to recap what you did, what is still pending, and what you should handle tomorrow.
 
-- When you notice a repeated task, like weekly reports or checklists, create a saved prompt or pattern for *Gemini* so you do not start from scratch each time.
+8. When you notice a repeated task, like weekly reports or checklists, create a saved prompt or pattern for *Gemini* so you do not start from scratch each time.
 
-- Regularly tweak how you ask questions so *Gemini* gives answers in the style and length you like.
+9. Regularly tweak how you ask questions so *Gemini* gives answers in the style and length you like.
 
 ## How to customize Gemini AI so it fits your personal style and workflow
 

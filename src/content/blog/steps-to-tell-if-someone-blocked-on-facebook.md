@@ -14,13 +14,13 @@ The first and most straightforward step in determining if someone has blocked yo
 
 To check your Friends List on the Facebook app:
 
-- Open the Facebook app on your smartphone
+1. Open the Facebook app on your smartphone
 
-- Tap on the menu icon (three horizontal lines)
+2. Tap on the menu icon (three horizontal lines)
 
-- Scroll down and tap on “Friends”
+3. Scroll down and tap on “Friends”
 
-- Use the search bar at the top to look for the person in question
+4. Use the search bar at the top to look for the person in question
 
 If their name doesn’t appear in your Friends List, proceed to the next steps to gather more information.
 
@@ -30,19 +30,19 @@ If you can’t find the person in your Friends List, the next step is to search 
 
 To search for a profile:
 
-- Tap on the search bar at the top of the Facebook app
+1. Tap on the search bar at the top of the Facebook app
 
-- Type in the person’s name
+2. Type in the person’s name
 
-- Look through the search results
+3. Look through the search results
 
 If the person’s profile doesn’t appear in the search results, it could mean one of three things:
 
-- They’ve blocked you
+1. They’ve blocked you
 
-- They’ve deactivated their account
+2. They’ve deactivated their account
 
-- They’ve changed their privacy settings to be unsearchable
+3. They’ve changed their privacy settings to be unsearchable
 
 To differentiate between these possibilities, you’ll need to investigate further.
 
@@ -52,11 +52,11 @@ Another way to determine if you’ve been blocked is to try tagging the person i
 
 To attempt tagging:
 
-- Create a new post or comment on an existing one
+1. Create a new post or comment on an existing one
 
-- Try to tag the person by typing “@” followed by their name
+2. Try to tag the person by typing “@” followed by their name
 
-- If their name doesn’t appear in the suggestions, it’s a strong indication that you’ve been blocked
+3. If their name doesn’t appear in the suggestions, it’s a strong indication that you’ve been blocked
 
 ## 4. Check Past Interactions
 
@@ -64,11 +64,11 @@ Even if someone has blocked you, your past interactions with them on Facebook wi
 
 To check past interactions:
 
-- Scroll through your timeline or visit mutual friends’ profiles
+1. Scroll through your timeline or visit mutual friends’ profiles
 
-- Look for posts or comments where the person in question was involved
+2. Look for posts or comments where the person in question was involved
 
-- If their name appears as bold black text instead of a clickable link, it’s a sign that you may have been blocked
+3. If their name appears as bold black text instead of a clickable link, it’s a sign that you may have been blocked
 
 ## 5. Use Facebook Messenger
 
@@ -76,13 +76,13 @@ Facebook Messenger can provide additional clues about whether you’ve been bloc
 
 To check using Messenger:
 
-- Open the Facebook Messenger app
+1. Open the Facebook Messenger app
 
-- Search for the person’s name in your conversation list
+2. Search for the person’s name in your conversation list
 
-- If you can’t find them, try to start a new conversation by searching for their name
+3. If you can’t find them, try to start a new conversation by searching for their name
 
-- If you receive an error message stating that you can’t message the person, it’s a strong indication that you’ve been blocked
+4. If you receive an error message stating that you can’t message the person, it’s a strong indication that you’ve been blocked
 
 ## 6. Attempt to Invite the Person to an Event or Group
 
@@ -90,11 +90,11 @@ If you’re still unsure, try inviting the person to a Facebook event or group. 
 
 To test this:
 
-- Create a new Facebook event or group
+1. Create a new Facebook event or group
 
-- Attempt to invite the person by searching for their name
+2. Attempt to invite the person by searching for their name
 
-- If their name doesn’t appear in the search results, it’s another sign that you may have been blocked
+3. If their name doesn’t appear in the search results, it’s another sign that you may have been blocked
 
 ## 7. Ask a Mutual Friend for Help
 

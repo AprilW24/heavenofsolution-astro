@@ -14,11 +14,11 @@ Canva is a popular graphic design platform that offers both free and paid subscr
 
 Before we dive into the cancellation process, it’s important to understand a few key points about your Canva subscription:
 
-- **Billing Cycle**: Canva subscriptions are typically billed on a monthly or annual basis. It’s crucial to cancel at least a day before your next billing cycle to avoid being charged for the following period.
+1. **Billing Cycle**: Canva subscriptions are typically billed on a monthly or annual basis. It’s crucial to cancel at least a day before your next billing cycle to avoid being charged for the following period.
 
-- **Subscription Source**: The method for canceling your subscription depends on how you initially signed up. If you subscribed through the Canva website, you’ll need to cancel through their web interface. However, if you subscribed via the App Store or Google Play Store, you’ll need to cancel through those platforms.
+2. **Subscription Source**: The method for canceling your subscription depends on how you initially signed up. If you subscribed through the Canva website, you’ll need to cancel through their web interface. However, if you subscribed via the App Store or Google Play Store, you’ll need to cancel through those platforms.
 
-- **Access After Cancellation**: After canceling, you’ll still have access to Canva Pro features until the end of your current billing period. This means you can continue to use premium features until your subscription officially ends.
+3. **Access After Cancellation**: After canceling, you’ll still have access to Canva Pro features until the end of your current billing period. This means you can continue to use premium features until your subscription officially ends.
 
 Now that we’ve covered the basics, let’s get into the specific steps for canceling your Canva subscription on different types of phones.
 
@@ -26,17 +26,17 @@ Now that we’ve covered the basics, let’s get into the specific steps for can
 
 If you’ve subscribed to Canva through the iOS app, you’ll need to cancel your subscription through the App Store. Here’s how:
 
-- Open the **Settings** app on your iPhone.
+1. Open the **Settings** app on your iPhone.
 
-- Tap on your **Apple ID** at the top of the screen.
+2. Tap on your **Apple ID** at the top of the screen.
 
-- Select **Subscriptions**.
+3. Select **Subscriptions**.
 
-- Find and tap on **Canva** in the list of active subscriptions.
+4. Find and tap on **Canva** in the list of active subscriptions.
 
-- Tap **Cancel Subscription**.
+5. Tap **Cancel Subscription**.
 
-- Confirm your decision to cancel when prompted.
+6. Confirm your decision to cancel when prompted.
 
 It’s worth noting that if you don’t see the Canva subscription listed, it’s possible that you didn’t subscribe through the App Store. In this case, you’ll need to cancel through the Canva website or contact Canva support for assistance.
 
@@ -46,19 +46,19 @@ For Android users who subscribed through the Google Play Store, the process is s
 
 ![](/wp-content/uploads/2025/01/HoS_Canva.-2.jpg)
 
-- Open the **Google Play Store** app on your Android device.
+1. Open the **Google Play Store** app on your Android device.
 
-- Tap on your **Profile Picture** in the top right corner.
+2. Tap on your **Profile Picture** in the top right corner.
 
-- Select **Payments & subscriptions**.
+3. Select **Payments & subscriptions**.
 
-- Tap on **Subscriptions**.
+4. Tap on **Subscriptions**.
 
-- Find and tap on **Canva** in the list.
+5. Find and tap on **Canva** in the list.
 
-- Tap **Cancel subscription**.
+6. Tap **Cancel subscription**.
 
-- Follow the prompts to confirm your cancellation.
+7. Follow the prompts to confirm your cancellation.
 
 Again, if you don’t see Canva listed in your Google Play subscriptions, you may have subscribed through a different method and will need to cancel through the Canva website or by contacting their support team.
 
@@ -66,19 +66,19 @@ Again, if you don’t see Canva listed in your Google Play subscriptions, you ma
 
 If you subscribed directly through Canva, you can cancel your subscription using the Canva mobile app. Here’s how:
 
-- Open the **Canva app** on your phone.
+1. Open the **Canva app** on your phone.
 
-- Tap on the **Menu** icon (usually three lines or dots).
+2. Tap on the **Menu** icon (usually three lines or dots).
 
-- Go to **Settings**.
+3. Go to **Settings**.
 
-- Select **Billing & plans**.
+4. Select **Billing & plans**.
 
-- Find your current plan and tap the **ellipsis** (three dots) next to it.
+5. Find your current plan and tap the **ellipsis** (three dots) next to it.
 
-- Choose **Request cancellation**.
+6. Choose **Request cancellation**.
 
-- Follow the prompts to complete the cancellation process.
+7. Follow the prompts to complete the cancellation process.
 
 This method works for both Android and iOS devices, as long as you’re using the official Canva app and have subscribed directly through Canva.
 
@@ -86,11 +86,11 @@ This method works for both Android and iOS devices, as long as you’re using th
 
 Sometimes, you might encounter issues when trying to cancel your subscription through your phone. In such cases, don’t panic. Here are some alternative steps you can take:
 
-- **Use a Web Browser**: Access the Canva website through your phone’s web browser and navigate to the account settings to cancel your subscription.
+1. **Use a Web Browser**: Access the Canva website through your phone’s web browser and navigate to the account settings to cancel your subscription.
 
-- **Contact Canva Support**: If you’re still having trouble, reach out to Canva’s customer support team. They can assist you with canceling your subscription manually.
+2. **Contact Canva Support**: If you’re still having trouble, reach out to Canva’s customer support team. They can assist you with canceling your subscription manually.
 
-- **Check Your Email**: Look for the original subscription confirmation email. It might contain specific instructions on how to cancel your subscription.
+3. **Check Your Email**: Look for the original subscription confirmation email. It might contain specific instructions on how to cancel your subscription.
 
 ## Tips for a Smooth Cancellation Process
 

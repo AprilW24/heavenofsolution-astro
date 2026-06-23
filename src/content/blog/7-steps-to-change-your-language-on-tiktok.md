@@ -26,37 +26,37 @@ Now that you understand the benefits, let’s get started! Follow these simple s
 
 #### For iPhone Users
 
-- Open the TikTok app and tap your profile icon in the bottom right corner.
+1. Open the TikTok app and tap your profile icon in the bottom right corner.
 
-- Tap the three-line menu icon at the top right.
+2. Tap the three-line menu icon at the top right.
 
-- Scroll down and select **Settings and privacy**.
+3. Scroll down and select **Settings and privacy**.
 
-- Choose **Language** to access the language settings.
+4. Choose **Language** to access the language settings.
 
-- Under **App Language**, tap **Change Language**.
+5. Under **App Language**, tap **Change Language**.
 
-- Select your desired language(s) – you can add multiple!
+6. Select your desired language(s) – you can add multiple!
 
-- Toggle **Show Translations** on to view captions in your chosen language(s).
+7. Toggle **Show Translations** on to view captions in your chosen language(s).
 
-- Tap **Save** to confirm your changes.
+8. Tap **Save** to confirm your changes.
 
 #### For Android Users
 
-- Open TikTok and tap the **Me** tab at the bottom of the screen.
+1. Open TikTok and tap the **Me** tab at the bottom of the screen.
 
-- Tap the three-dot menu icon in the upper right corner.
+2. Tap the three-dot menu icon in the upper right corner.
 
-- Choose **Settings and privacy** from the menu.
+3. Choose **Settings and privacy** from the menu.
 
-- Select **Language** to open the language settings.
+4. Select **Language** to open the language settings.
 
-- Tap **App Language** and pick your desired language(s).
+5. Tap **App Language** and pick your desired language(s).
 
-- Toggle on **Show Translations** to see translated captions.
+6. Toggle on **Show Translations** to see translated captions.
 
-- Tap **Confirm** to save your changes.
+7. Tap **Confirm** to save your changes.
 
 After updating your settings, close and relaunch the TikTok app to apply your new language preferences. You’ll now start seeing videos, captions, and app features in the languages you selected!
 

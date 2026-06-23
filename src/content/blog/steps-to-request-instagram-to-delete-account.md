@@ -38,11 +38,11 @@ Now that we’ve covered the basics, let’s delve into the steps you can take t
 
 Before proceeding with a deletion request, it’s crucial to confirm that the account in question is genuinely inactive. Here’s how you can do this:
 
-- Search for the account using Instagram’s search function.
+1. Search for the account using Instagram’s search function.
 
-- Check the profile for recent activity, including posts, stories, or likes on other users’ content.
+2. Check the profile for recent activity, including posts, stories, or likes on other users’ content.
 
-- If possible, attempt to interact with the account through comments or direct messages to see if there’s any response.
+3. If possible, attempt to interact with the account through comments or direct messages to see if there’s any response.
 
 If you’ve confirmed that the account shows no signs of activity for an extended period, you can move forward with the deletion request process.
 
@@ -66,33 +66,33 @@ Having this information ready will streamline the process and increase the likel
 
 Instagram’s Help Center is your primary resource for submitting account-related requests. To access it:
 
-- Go to Instagram’s official website or open the app.
+1. Go to Instagram’s official website or open the app.
 
-- Navigate to the Help Center, usually found in the settings or support section.
+2. Navigate to the Help Center, usually found in the settings or support section.
 
-- Look for options related to account management or reporting issues.
+3. Look for options related to account management or reporting issues.
 
 ### Step 4: Submit a Deletion Request
 
 While Instagram doesn’t have a specific form for requesting the deletion of inactive accounts, you can use their general support channels to make your case. Here’s how:
 
-- In the Help Center, look for options like “Report a Problem” or “Contact Us.”
+1. In the Help Center, look for options like “Report a Problem” or “Contact Us.”
 
-- Choose the most relevant category for your request, such as “Account Issues” or “Something Else.”
+2. Choose the most relevant category for your request, such as “Account Issues” or “Something Else.”
 
-- Clearly explain your request to delete an inactive account, providing all the information you gathered in Step 2.
+3. Clearly explain your request to delete an inactive account, providing all the information you gathered in Step 2.
 
-- Be concise but thorough in your explanation, emphasizing the length of inactivity and any potential issues caused by the dormant account.
+4. Be concise but thorough in your explanation, emphasizing the length of inactivity and any potential issues caused by the dormant account.
 
 ### Step 5: Follow Up and Be Patient
 
 After submitting your request, it’s important to:
 
-- Keep an eye on the email address associated with your Instagram account for any responses or requests for additional information.
+1. Keep an eye on the email address associated with your Instagram account for any responses or requests for additional information.
 
-- Be patient, as Instagram may take several days or even weeks to process your request.
+2. Be patient, as Instagram may take several days or even weeks to process your request.
 
-- If you don’t receive a response within a reasonable timeframe (e.g., 2-3 weeks), consider submitting a follow-up request.
+3. If you don’t receive a response within a reasonable timeframe (e.g., 2-3 weeks), consider submitting a follow-up request.
 
 ### Step 6: Consider Alternative Actions
 

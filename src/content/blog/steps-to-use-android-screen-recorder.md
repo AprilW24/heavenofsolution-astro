@@ -22,25 +22,25 @@ Recording with the built-in tool saves time, doesn’t drain your phone, and wor
 
 ## Step-by-Step to Recording Your Screen Tutorial
 
-- Swipe down twice to open Quick Settings.
+1. Swipe down twice to open Quick Settings.
 
-- Find the Screen Record icon and tap it.
+2. Find the Screen Record icon and tap it.
 
-- Adjust settings for audio (mic or internal).
+3. Adjust settings for audio (mic or internal).
 
-- Choose if you want to show touches.
+4. Choose if you want to show touches.
 
-- Set the video resolution and frame rate.
+5. Set the video resolution and frame rate.
 
-- Make sure *Do Not Disturb* is on to avoid interruptions.
+6. Make sure *Do Not Disturb* is on to avoid interruptions.
 
-- Clear background apps to prevent lag.
+7. Clear background apps to prevent lag.
 
-- Pick the app or screen you want to record.
+8. Pick the app or screen you want to record.
 
-- Tap Start and wait for the countdown.
+9. Tap Start and wait for the countdown.
 
-- Finish by swiping down and tapping Stop.
+10. Finish by swiping down and tapping Stop.
 
 ## Tips for Better Tutorial Videos with Android Screen Recorder
 

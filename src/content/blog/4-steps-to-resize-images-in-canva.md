@@ -16,19 +16,19 @@ Before diving into the methods, it’s essential to understand why resizing with
 
 For Canva Pro users, the resize feature offers a straightforward way to adjust image dimensions without cropping. Here’s how to use it:
 
-- Log into your Canva account and create a new project or open an existing one.
+1. Log into your Canva account and create a new project or open an existing one.
 
-- Upload the image you want to resize or select one from Canva’s library.
+2. Upload the image you want to resize or select one from Canva’s library.
 
-- Click on the image to select it. You’ll see it outlined in purple.
+3. Click on the image to select it. You’ll see it outlined in purple.
 
-- Look for the **Resize** button at the top of the screen and click on it.
+4. Look for the **Resize** button at the top of the screen and click on it.
 
-- In the menu that appears, you can set custom dimensions for your image. You can choose between centimeters, inches, millimeters, or pixels.
+5. In the menu that appears, you can set custom dimensions for your image. You can choose between centimeters, inches, millimeters, or pixels.
 
-- Enter the desired width and height for your image.
+6. Enter the desired width and height for your image.
 
-- Click **Apply** to resize your image.
+7. Click **Apply** to resize your image.
 
 This method allows you to maintain the aspect ratio of your image while adjusting its overall size. It’s important to note that this feature is only available to Canva Pro subscribers.
 
@@ -36,21 +36,21 @@ This method allows you to maintain the aspect ratio of your image while adjustin
 
 For those without a Pro subscription or looking for an alternative method, you can resize your image by adjusting the canvas size to match the image dimensions. Here’s how:
 
-- Create a new design in Canva and upload your image.
+1. Create a new design in Canva and upload your image.
 
-- Add the image to your canvas.
+2. Add the image to your canvas.
 
-- With the image selected, click on **Position** in the top toolbar.
+3. With the image selected, click on **Position** in the top toolbar.
 
-- Under the **Size** section, you’ll see the current dimensions of your image.
+4. Under the **Size** section, you’ll see the current dimensions of your image.
 
-- Note down these dimensions.
+5. Note down these dimensions.
 
-- Click on **Resize** at the top of the screen, then select **Custom Size**.
+6. Click on **Resize** at the top of the screen, then select **Custom Size**.
 
-- Enter the exact dimensions of your image that you noted earlier.
+7. Enter the exact dimensions of your image that you noted earlier.
 
-- Click **Continue** and then **Resize**.
+8. Click **Continue** and then **Resize**.
 
 This method creates a new canvas that perfectly fits your image, effectively resizing it without any cropping.
 
@@ -58,17 +58,17 @@ This method creates a new canvas that perfectly fits your image, effectively res
 
 Another effective way to resize your image without cropping is by setting it as the background of your design. Here’s how:
 
-- Create a new design with custom dimensions or choose a preset size.
+1. Create a new design with custom dimensions or choose a preset size.
 
-- Upload your image to Canva.
+2. Upload your image to Canva.
 
-- Drag the image onto your canvas.
+3. Drag the image onto your canvas.
 
-- Right-click on the image and select **Set image as background**.
+4. Right-click on the image and select **Set image as background**.
 
-- Your image will now fill the entire canvas, potentially stretching or shrinking to fit.
+5. Your image will now fill the entire canvas, potentially stretching or shrinking to fit.
 
-- If needed, you can adjust the image within the background by clicking **Edit background** and using the zoom and position controls.
+6. If needed, you can adjust the image within the background by clicking **Edit background** and using the zoom and position controls.
 
 This method is particularly useful when you need to fit an image into a specific dimension while ensuring it covers the entire canvas.
 
@@ -76,15 +76,15 @@ This method is particularly useful when you need to fit an image into a specific
 
 For more precise control over your image size, you can manually resize while maintaining the aspect ratio:
 
-- Add your image to a Canva design.
+1. Add your image to a Canva design.
 
-- Click on the image to select it.
+2. Click on the image to select it.
 
-- Look for the resize handles at the corners of the image.
+3. Look for the resize handles at the corners of the image.
 
-- Hold down the **Shift** key (or **Command** key on Mac) while dragging one of the corner handles.
+4. Hold down the **Shift** key (or **Command** key on Mac) while dragging one of the corner handles.
 
-- This will resize the image proportionally, maintaining its aspect ratio.
+5. This will resize the image proportionally, maintaining its aspect ratio.
 
 You can also use the **Position** menu to enter exact pixel values for width and height while keeping the aspect ratio locked.
 

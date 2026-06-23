@@ -26,19 +26,19 @@ While tagging everyone can be very useful, it’s important to use it judiciousl
 
 Unfortunately, WhatsApp does not have a built-in **@everyone** tag to notify all members at once. However, you can still tag everyone individually in a few quick steps:
 
-- **Open the WhatsApp group**: Launch WhatsApp on your Android device and open the group chat where you want to tag everyone.
+1. **Open the WhatsApp group**: Launch WhatsApp on your Android device and open the group chat where you want to tag everyone.
 
-- **Tap the message field**: Tap on the message field at the bottom of the screen to bring up the keyboard.
+2. **Tap the message field**: Tap on the message field at the bottom of the screen to bring up the keyboard.
 
-- **Type “@”**: On the keyboard, type the **@** symbol. This will bring up a list of all the group members.
+3. **Type “@”**: On the keyboard, type the **@** symbol. This will bring up a list of all the group members.
 
-- **Select members**: You’ll need to select each member you want to tag one by one. As you start typing a name after the **@**, WhatsApp will suggest matching contacts. Tap on a name to select it. The selected name will appear in blue in your message.
+4. **Select members**: You’ll need to select each member you want to tag one by one. As you start typing a name after the **@**, WhatsApp will suggest matching contacts. Tap on a name to select it. The selected name will appear in blue in your message.
 
-- **Repeat for all members**: Continue typing **@** and selecting names until you’ve tagged everyone in the group you want to notify.
+5. **Repeat for all members**: Continue typing **@** and selecting names until you’ve tagged everyone in the group you want to notify.
 
-- **Write your message**: After you’ve tagged everyone, write out the rest of your message as normal.
+6. **Write your message**: After you’ve tagged everyone, write out the rest of your message as normal.
 
-- **Send the message**: Once your message is complete, tap the send arrow to send the message. All tagged members will be notified, even if the group is muted.
+7. **Send the message**: Once your message is complete, tap the send arrow to send the message. All tagged members will be notified, even if the group is muted.
 
 That’s it! With these simple steps, you can ensure your message gets the attention it needs from everyone in the group.
 

@@ -14,29 +14,29 @@ The Google Play Store is a pre-installed app on most Android devices, serving as
 
 ## Step 1: Disable the Play Store App
 
-- Go to your device’s **Settings** menu.
+1. Go to your device’s **Settings** menu.
 
-- Scroll down and tap on **Apps & notifications** or **Application Manager**.
+2. Scroll down and tap on **Apps & notifications** or **Application Manager**.
 
-- Find and tap on the **Google Play Store** app in the list.
+3. Find and tap on the **Google Play Store** app in the list.
 
-- Tap on the **Disable** button.
+4. Tap on the **Disable** button.
 
-- Confirm your action by tapping **Disable App** in the pop-up window.
+5. Confirm your action by tapping **Disable App** in the pop-up window.
 
 Disabling the Play Store app will prevent it from running and hide it from your app drawer. However, the app will still remain on your device, taking up storage space.
 
 ## Step 2: Uninstall Play Store Updates
 
-- Go back to the **Apps & notifications** or **Application Manager** section in your device’s settings.
+1. Go back to the **Apps & notifications** or **Application Manager** section in your device’s settings.
 
-- Find and tap on the **Google Play Store** app again.
+2. Find and tap on the **Google Play Store** app again.
 
-- Tap on the **three-dot menu** in the top-right corner.
+3. Tap on the **three-dot menu** in the top-right corner.
 
-- Select **Uninstall updates**.
+4. Select **Uninstall updates**.
 
-- Confirm by tapping **OK** in the pop-up window.
+5. Confirm by tapping **OK** in the pop-up window.
 
 This step will revert the Play Store app to its original version that came with your device, removing any updates that have been installed.
 
@@ -44,27 +44,27 @@ This step will revert the Play Store app to its original version that came with 
 
 To completely delete the Play Store app, you need to have root access on your Android device. **Rooting is the process of gaining administrative privileges, allowing you to modify system files and settings.**
 
-- Research and find a reliable rooting method for your specific Android device model.
+1. Research and find a reliable rooting method for your specific Android device model.
 
-- Follow the rooting instructions carefully, as the process varies depending on your device.
+2. Follow the rooting instructions carefully, as the process varies depending on your device.
 
-- Once your device is rooted, proceed to the next step.
+3. Once your device is rooted, proceed to the next step.
 
 **Note:** Rooting your device can void its warranty and may introduce security risks. Make sure to understand the implications before rooting your device.
 
 ## Step 4: Delete the Play Store App
 
-- Download and install a root file manager app from a trusted source.
+1. Download and install a root file manager app from a trusted source.
 
-- Open the root file manager app and grant it root access when prompted.
+2. Open the root file manager app and grant it root access when prompted.
 
-- Navigate to the following directory: **/system/app/**
+3. Navigate to the following directory: **/system/app/**
 
-- Find the **GooglePlayStore.apk** file in the directory.
+4. Find the **GooglePlayStore.apk** file in the directory.
 
-- Long-press on the file and select **Delete**.
+5. Long-press on the file and select **Delete**.
 
-- Confirm the deletion when prompted.
+6. Confirm the deletion when prompted.
 
 After deleting the Play Store app file, restart your device for the changes to take effect.
 

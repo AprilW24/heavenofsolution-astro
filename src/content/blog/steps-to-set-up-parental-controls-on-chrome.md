@@ -26,25 +26,25 @@ By setting up parental controls on your child’s device, you can help mitigate 
 
 Google Family Link is a free app that allows parents to manage their child’s Google account and set up parental controls on their Android device. Here’s how to set it up:
 
-- Download the Google Family Link app on your own Android device or iPhone.
+1. Download the Google Family Link app on your own Android device or iPhone.
 
-- Open the app and tap **Get started**.
+2. Open the app and tap **Get started**.
 
-- Follow the prompts to create a Google account for your child or link their existing account to your family group.
+3. Follow the prompts to create a Google account for your child or link their existing account to your family group.
 
-- Once your child’s account is set up, you can use Family Link to manage their device and set up parental controls.
+4. Once your child’s account is set up, you can use Family Link to manage their device and set up parental controls.
 
 ## Step 2: Enable SafeSearch
 
 SafeSearch is a feature in Google Search that filters out explicit content from search results. Here’s how to turn it on:
 
-- Open the Google Chrome app on your child’s Android device.
+1. Open the Google Chrome app on your child’s Android device.
 
-- Tap the three-dot menu icon in the top-right corner and select **Settings**.
+2. Tap the three-dot menu icon in the top-right corner and select **Settings**.
 
-- Scroll down and tap **Safe Browsing**.
+3. Scroll down and tap **Safe Browsing**.
 
-- Turn on the **Safe Browsing** toggle switch.
+4. Turn on the **Safe Browsing** toggle switch.
 
 With SafeSearch enabled, your child will be less likely to encounter inappropriate content when using Google Search.
 
@@ -52,15 +52,15 @@ With SafeSearch enabled, your child will be less likely to encounter inappropria
 
 If there are specific websites that you want to block your child from accessing, you can do so using Chrome’s built-in site blocking feature. Here’s how:
 
-- Open the Google Chrome app on your child’s Android device.
+1. Open the Google Chrome app on your child’s Android device.
 
-- Tap the three-dot menu icon in the top-right corner and select **Settings**.
+2. Tap the three-dot menu icon in the top-right corner and select **Settings**.
 
-- Scroll down and tap **Site settings**.
+3. Scroll down and tap **Site settings**.
 
-- Tap **Add site exception**.
+4. Tap **Add site exception**.
 
-- Enter the URL of the website you want to block and tap **Add**.
+5. Enter the URL of the website you want to block and tap **Add**.
 
 Repeat this process for any additional websites you want to block.
 
@@ -68,15 +68,15 @@ Repeat this process for any additional websites you want to block.
 
 Excessive screen time can have negative impacts on a child’s physical and mental health. Google Family Link allows you to set daily screen time limits and bedtime hours for your child’s device. Here’s how:
 
-- Open the Family Link app on your own device.
+1. Open the Family Link app on your own device.
 
-- Select your child’s account.
+2. Select your child’s account.
 
-- Tap **Screen time** and then **Daily limit**.
+3. Tap **Screen time** and then **Daily limit**.
 
-- Set a daily time limit for your child’s device usage.
+4. Set a daily time limit for your child’s device usage.
 
-- Tap **Bedtime** and set a schedule for when your child’s device will be locked at night.
+5. Tap **Bedtime** and set a schedule for when your child’s device will be locked at night.
 
 By setting these limits, you can help ensure that your child is not spending too much time on their device and getting enough sleep.
 
@@ -84,13 +84,13 @@ By setting these limits, you can help ensure that your child is not spending too
 
 Google Family Link also allows you to monitor your child’s online activity and see which apps they are using and for how long. Here’s how:
 
-- Open the Family Link app on your own device.
+1. Open the Family Link app on your own device.
 
-- Select your child’s account.
+2. Select your child’s account.
 
-- Tap **View activity** to see a list of the apps and websites your child has used recently.
+3. Tap **View activity** to see a list of the apps and websites your child has used recently.
 
-- Tap on an app or website to see more detailed usage information.
+4. Tap on an app or website to see more detailed usage information.
 
 By monitoring your child’s activity, you can have conversations with them about their online habits and address any concerns you may have.
 

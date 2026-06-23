@@ -30,25 +30,25 @@ Lastly, don’t be afraid to test and tweak. Run the same concept with small cha
 
 ## Step-by-Step to Generate Realistic AI Images
 
-- Open ChatGPT with image generation turned on.
+1. Open ChatGPT with image generation turned on.
 
-- Choose the “**Create Image**” option or just type your first prompt.
+2. Choose the “**Create Image**” option or just type your first prompt.
 
-- Start with the subject (person, object, scene).
+3. Start with the subject (person, object, scene).
 
-- Add lighting details like “soft glow,” “sunset light,” or “natural daylight.”
+4. Add lighting details like “soft glow,” “sunset light,” or “natural daylight.”
 
-- Describe the background clearly.
+5. Describe the background clearly.
 
-- Include mood words such as “peaceful,” “energetic,” or “melancholic.”
+6. Include mood words such as “peaceful,” “energetic,” or “melancholic.”
 
-- Add technical terms like “8K,” “HDR lighting,” or “shallow depth of field.”
+7. Add technical terms like “8K,” “HDR lighting,” or “shallow depth of field.”
 
-- If you want a certain camera style, say “cinematic” or “macro lens look.”
+8. If you want a certain camera style, say “cinematic” or “macro lens look.”
 
-- Add what you don’t want, for example “avoid blurriness” or “no distortion.”
+9. Add what you don’t want, for example “avoid blurriness” or “no distortion.”
 
-- Tap “**Generate Image**” and wait a few seconds for the result.
+10. Tap “**Generate Image**” and wait a few seconds for the result.
 
 ## Best Example Prompt to Try Right Away
 

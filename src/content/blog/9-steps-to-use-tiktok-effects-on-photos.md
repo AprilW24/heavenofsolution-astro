@@ -30,23 +30,23 @@ TikTok offers a vast library of effects, which are regularly updated to include 
 
 Now, let’s get into the step-by-step process of applying effects to your photos on TikTok:
 
-- **Open the TikTok app**: Start by launching the TikTok app on your mobile device. Make sure you’re logged into your account.
+1. **Open the TikTok app**: Start by launching the TikTok app on your mobile device. Make sure you’re logged into your account.
 
-- **Tap the “+” button**: This button is located at the bottom center of the screen and is used to create new content.
+2. **Tap the “+” button**: This button is located at the bottom center of the screen and is used to create new content.
 
-- **Upload a photo**: Instead of recording a video, tap on the “Upload” button in the bottom right corner. From your device’s gallery, select the photo you want to edit.
+3. **Upload a photo**: Instead of recording a video, tap on the “Upload” button in the bottom right corner. From your device’s gallery, select the photo you want to edit.
 
-- **Access the effects menu**: Once your photo is uploaded, you’ll see a row of editing options at the bottom of the screen. Tap on the “Effects” button, which looks like a smiley face with stars.
+4. **Access the effects menu**: Once your photo is uploaded, you’ll see a row of editing options at the bottom of the screen. Tap on the “Effects” button, which looks like a smiley face with stars.
 
-- **Browse and select an effect**: You’ll now see a variety of effect categories. Swipe through them to explore different options. When you find an effect you like, tap on it to apply it to your photo.
+5. **Browse and select an effect**: You’ll now see a variety of effect categories. Swipe through them to explore different options. When you find an effect you like, tap on it to apply it to your photo.
 
-- **Adjust the effect**: Some effects allow for customization. You may be able to adjust the intensity or specific parameters of the effect. Look for sliders or additional options that appear after selecting an effect.
+6. **Adjust the effect**: Some effects allow for customization. You may be able to adjust the intensity or specific parameters of the effect. Look for sliders or additional options that appear after selecting an effect.
 
-- **Preview and fine-tune**: Take a moment to preview how the effect looks on your photo. If you’re not satisfied, you can try different effects or make adjustments until you achieve the desired look.
+7. **Preview and fine-tune**: Take a moment to preview how the effect looks on your photo. If you’re not satisfied, you can try different effects or make adjustments until you achieve the desired look.
 
-- **Add additional elements**: After applying the effect, you can further enhance your photo by adding text, stickers, or music using TikTok’s other editing tools.
+8. **Add additional elements**: After applying the effect, you can further enhance your photo by adding text, stickers, or music using TikTok’s other editing tools.
 
-- **Post your creation**: Once you’re happy with your edited photo, tap the “Next” button to add a caption, hashtags, and adjust your sharing settings before posting.
+9. **Post your creation**: Once you’re happy with your edited photo, tap the “Next” button to add a caption, hashtags, and adjust your sharing settings before posting.
 
 ## Popular TikTok Effects for Photos
 
@@ -68,19 +68,19 @@ Remember, the key to using effects effectively is to enhance your photo without 
 
 To make the most of TikTok’s photo effects and create content that captures attention, consider these tips:
 
-- **Experiment with different effects**: Don’t be afraid to try out various effects to see what works best for your style and content. Sometimes unexpected combinations can lead to the most interesting results.
+1. **Experiment with different effects**: Don’t be afraid to try out various effects to see what works best for your style and content. Sometimes unexpected combinations can lead to the most interesting results.
 
-- **Stay consistent with your brand**: If you’re using TikTok for business or personal branding, try to maintain a consistent visual style. This might mean using similar effects across your posts to create a cohesive look.
+2. **Stay consistent with your brand**: If you’re using TikTok for business or personal branding, try to maintain a consistent visual style. This might mean using similar effects across your posts to create a cohesive look.
 
-- **Tell a story**: Even with a single photo, you can tell a story. Use effects to enhance the narrative or emotion you want to convey.
+3. **Tell a story**: Even with a single photo, you can tell a story. Use effects to enhance the narrative or emotion you want to convey.
 
-- **Combine effects with other TikTok features**: Integrate your photo effects with text overlays, stickers, or music to create more engaging and dynamic posts.
+4. **Combine effects with other TikTok features**: Integrate your photo effects with text overlays, stickers, or music to create more engaging and dynamic posts.
 
-- **Keep up with trends**: TikTok trends change rapidly. Stay current by exploring trending effects and finding creative ways to incorporate them into your photo content.
+5. **Keep up with trends**: TikTok trends change rapidly. Stay current by exploring trending effects and finding creative ways to incorporate them into your photo content.
 
-- **Quality matters**: Start with high-quality photos. While effects can enhance an image, they can’t completely salvage a poor-quality original.
+6. **Quality matters**: Start with high-quality photos. While effects can enhance an image, they can’t completely salvage a poor-quality original.
 
-- **Consider your audience**: Think about what kind of effects will resonate with your target audience. What do they find appealing or engaging?
+7. **Consider your audience**: Think about what kind of effects will resonate with your target audience. What do they find appealing or engaging?
 
 ## Troubleshooting Common Issues
 

@@ -38,11 +38,11 @@ The comments section shows the profile name and picture of each person commentin
 
 To add your voice to the conversation:
 
-- Tap the comment box at the bottom of the video that says **Write a comment**
+1. Tap the comment box at the bottom of the video that says **Write a comment**
 
-- A keyboard will pop up – type your comment or question
+2. A keyboard will pop up – type your comment or question
 
-- Tap the blue **Send** arrow button to post your comment
+3. Tap the blue **Send** arrow button to post your comment
 
 Your comment will now be visible to the broadcaster and other viewers watching the live stream. The broadcaster may even reply to your comment live on the air.
 

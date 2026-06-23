@@ -12,11 +12,11 @@ Losing important audio files like music, voice recordings, or podcasts on your A
 
 Many Android devices have a built-in recycle bin or trash folder where deleted files are temporarily stored before being permanently removed. This is the first place you should look when trying to recover deleted audio files.
 
-- Open your device’s **file manager** app (e.g., Google Files, My Files, or File Manager).
+1. Open your device’s **file manager** app (e.g., Google Files, My Files, or File Manager).
 
-- Look for a folder named **Recycle Bin** or **Trash.**
+2. Look for a folder named **Recycle Bin** or **Trash.**
 
-- If you find your deleted audio files there, select them and tap **Restore** to move them back to their original location.
+3. If you find your deleted audio files there, select them and tap **Restore** to move them back to their original location.
 
 ![](/wp-content/uploads/2024/06/HoS_AudioFiles-1.jpg)
 
@@ -26,47 +26,47 @@ If you have previously enabled Google Drive backup on your Android device, there
 
 ![](/wp-content/uploads/2024/06/HoS_AudioFiles.jpg)
 
-- Open the **Google Drive** app on your Android device.
+1. Open the **Google Drive** app on your Android device.
 
-- Tap on the **Backups** section.
+2. Tap on the **Backups** section.
 
-- Locate the backup that contains your audio files.
+3. Locate the backup that contains your audio files.
 
-- Select the files you want to restore and download them back to your device.
+4. Select the files you want to restore and download them back to your device.
 
 ## 3. Try Third-Party Data Recovery Apps
 
 There are several third-party data recovery apps available on the Google Play Store that can help you recover deleted audio files without a computer. Some popular options include DiskDigger, EaseUS MobiSaver, and iMobie PhoneRescue.
 
-- Download and install a reputable data recovery app from the Google Play Store.
+1. Download and install a reputable data recovery app from the Google Play Store.
 
-- Launch the app and grant it the necessary permissions to scan your device’s storage.
+2. Launch the app and grant it the necessary permissions to scan your device’s storage.
 
-- Select the type of files you want to recover (in this case, audio files).
+3. Select the type of files you want to recover (in this case, audio files).
 
-- Wait for the app to complete the scanning process.
+4. Wait for the app to complete the scanning process.
 
-- Preview and select the audio files you want to recover, then tap **Recover** to save them back to your device.
+5. Preview and select the audio files you want to recover, then tap **Recover** to save them back to your device.
 
 ## 4. Check Cloud Storage Services
 
 If you use cloud storage services like Dropbox, OneDrive, or iCloud to back up your files, your deleted audio files might be stored there.
 
-- Open the respective cloud storage app on your Android device.
+1. Open the respective cloud storage app on your Android device.
 
-- Navigate to the folder where you usually store your audio files.
+2. Navigate to the folder where you usually store your audio files.
 
-- If you find the deleted files, download them back to your device.
+3. If you find the deleted files, download them back to your device.
 
 ## 5. Restore from a Previous Backup
 
 If you regularly back up your Android device using built-in features like Samsung Cloud or third-party apps like Helium or Titanium Backup, you can restore your deleted audio files from a previous backup.
 
-- Open the backup and restore app on your Android device.
+1. Open the backup and restore app on your Android device.
 
-- Locate the most recent backup that contains your audio files.
+2. Locate the most recent backup that contains your audio files.
 
-- Select the audio files you want to restore and tap **Restore** to save them back to your device.
+3. Select the audio files you want to restore and tap **Restore** to save them back to your device.
 
 ## Conclusion
 

@@ -26,11 +26,11 @@ Regardless of the reason, the good news is that Instagram provides alternative m
 
 The first step in recovering your Instagram account is to attempt to log in using your username. Even if you don’t remember your password, this step is crucial as it initiates the account recovery process.
 
-- Open the Instagram app or go to instagram.com in your web browser.
+1. Open the Instagram app or go to instagram.com in your web browser.
 
-- On the login page, enter your username in the username field.
+2. On the login page, enter your username in the username field.
 
-- Click on “Forgot password?” or “Need more help?”
+3. Click on “Forgot password?” or “Need more help?”
 
 This action will take you to Instagram’s account recovery options.
 
@@ -38,9 +38,9 @@ This action will take you to Instagram’s account recovery options.
 
 If you don’t have access to your email or phone number, you’ll need to use Instagram’s additional support options.
 
-- On the password reset page, look for an option that says “Need more help?” or “I can’t access this email or phone number.”
+1. On the password reset page, look for an option that says “Need more help?” or “I can’t access this email or phone number.”
 
-- Click on this option to proceed to Instagram’s account recovery form.
+2. Click on this option to proceed to Instagram’s account recovery form.
 
 ## Step 3: Fill Out the Account Recovery Form
 
@@ -90,11 +90,11 @@ Be prepared to provide this information promptly to expedite the recovery proces
 
 If Instagram successfully verifies your identity, they will provide instructions on how to regain access to your account. This may involve:
 
-- **Setting a new password**
+1. **Setting a new password**
 
-- **Updating your email address and phone number**
+2. **Updating your email address and phone number**
 
-- **Enabling two-factor authentication for added security**
+3. **Enabling two-factor authentication for added security**
 
 Once you regain access, take immediate steps to secure your account:
 

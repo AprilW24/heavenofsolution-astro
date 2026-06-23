@@ -30,11 +30,11 @@ When you first join a Telegram group, take a moment to read through the group’
 
 To view a group’s description:
 
-- Open the Telegram app and navigate to the group chat.
+1. Open the Telegram app and navigate to the group chat.
 
-- Tap on the group’s name at the top of the screen.
+2. Tap on the group’s name at the top of the screen.
 
-- Look for a **Description** section in the group info page that appears.
+3. Look for a **Description** section in the group info page that appears.
 
 If the admins are listed there, great! You can stop here and reach out to them directly. If not, proceed to the next step.
 
@@ -44,11 +44,11 @@ In most active Telegram groups, the admins will post from time to time with anno
 
 To check for pinned messages from admins:
 
-- Open the group chat.
+1. Open the group chat.
 
-- Scroll to the very top of the message history.
+2. Scroll to the very top of the message history.
 
-- Look for messages with a **Pinned** label and an admin’s name.
+3. Look for messages with a **Pinned** label and an admin’s name.
 
 Even if a message isn’t pinned, you can still browse through the chat history and look for messages that seem to come from an authoritative source, like someone laying down the law or making official announcements. Chances are, those messages are from the admin.
 
@@ -58,13 +58,13 @@ Every Telegram group has a member list that shows all the users who are part of 
 
 Here’s how to access the member list and look for admins:
 
-- Open the group chat.
+1. Open the group chat.
 
-- Tap on the group’s name at the top of the screen to open the group info page.
+2. Tap on the group’s name at the top of the screen to open the group info page.
 
-- Tap on **Members** to open the full list of participants.
+3. Tap on **Members** to open the full list of participants.
 
-- Scroll through the list and look for users with the **admin** label.
+4. Scroll through the list and look for users with the **admin** label.
 
 Keep in mind that some groups, especially larger ones, may have multiple admins. Look for the **creator** label to find the primary admin who has the highest level of control over the group.
 
@@ -74,11 +74,11 @@ If you’ve tried the steps above and still can’t determine who the admin is, 
 
 To ask about the group’s admin:
 
-- Open the group chat.
+1. Open the group chat.
 
-- Post a message politely asking who the admin is and how you can contact them.
+2. Post a message politely asking who the admin is and how you can contact them.
 
-- Wait for a response from the group. Someone will likely tag the admin or provide their username.
+3. Wait for a response from the group. Someone will likely tag the admin or provide their username.
 
 Be aware that in some groups, directly asking for the admin may be seen as disruptive or against the rules. Use your best judgment based on the group’s culture and your reason for needing admin contact.
 
@@ -88,15 +88,15 @@ If all else fails and you have an urgent need to get in touch with a group’s a
 
 To contact Telegram support:
 
-- Open the **Settings** menu in your Telegram app.
+1. Open the **Settings** menu in your Telegram app.
 
-- Go to **Ask a Question** under the support section.
+2. Go to **Ask a Question** under the support section.
 
-- Explain your situation and why you need to urgently reach the admin of a specific group.
+3. Explain your situation and why you need to urgently reach the admin of a specific group.
 
-- Provide the group’s username or invite link for reference.
+4. Provide the group’s username or invite link for reference.
 
-- Wait for a response from the support team with further instructions.
+5. Wait for a response from the support team with further instructions.
 
 Remember, this option should only be used as a last resort for serious, time-sensitive issues. Telegram’s team is not there to resolve petty disputes or non-urgent admin contact requests.
 

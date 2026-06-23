@@ -32,11 +32,11 @@ Go to the App Store, search for the app you offloaded, and reinstall it. This wi
 
 An alternative approach is to fully delete the app and then reinstall. Here is how:
 
-- Tap and hold the app icon until the icons start to shake
+1. Tap and hold the app icon until the icons start to shake
 
-- Tap the X icon on the app to delete it
+2. Tap the X icon on the app to delete it
 
-- Go to the App Store and reinstall the app
+3. Go to the App Store and reinstall the app
 
 This achieves the same result as offloading the app, giving you a fresh install without any previous documents and data.
 

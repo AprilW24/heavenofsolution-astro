@@ -28,19 +28,19 @@ Now that we understand the importance of managing our search history, let’s ge
 
 If you’re using an Android device, follow these steps to clear your Facebook search history:
 
-- **Open the Facebook app** on your Android device.
+1. **Open the Facebook app** on your Android device.
 
-- **Tap the search icon** at the top of the screen. This is usually represented by a magnifying glass.
+2. **Tap the search icon** at the top of the screen. This is usually represented by a magnifying glass.
 
-- **In the search bar**, you’ll see your recent searches. Tap on the **“See all”** option.
+3. **In the search bar**, you’ll see your recent searches. Tap on the **“See all”** option.
 
-- At the top right corner of the screen, you’ll see an **“Edit”** button. Tap on it.
+4. At the top right corner of the screen, you’ll see an **“Edit”** button. Tap on it.
 
-- You’ll now see your full search history. To clear individual searches, tap the **“X”** next to each item you want to remove.
+5. You’ll now see your full search history. To clear individual searches, tap the **“X”** next to each item you want to remove.
 
-- To clear your entire search history at once, tap on **“Clear searches”** at the top of the screen.
+6. To clear your entire search history at once, tap on **“Clear searches”** at the top of the screen.
 
-- A confirmation pop-up will appear. Tap **“Clear searches”** again to confirm.
+7. A confirmation pop-up will appear. Tap **“Clear searches”** again to confirm.
 
 And that’s it! Your Facebook search history on your Android device is now cleared.
 
@@ -48,23 +48,23 @@ And that’s it! Your Facebook search history on your Android device is now clea
 
 For iPhone and iPad users, the process is slightly different:
 
-- **Open the Facebook app** on your iOS device.
+1. **Open the Facebook app** on your iOS device.
 
-- **Tap on the three horizontal lines** (hamburger menu) in the bottom right corner.
+2. **Tap on the three horizontal lines** (hamburger menu) in the bottom right corner.
 
-- Scroll down and tap on **“Settings & Privacy”**, then select **“Settings”**.
+3. Scroll down and tap on **“Settings & Privacy”**, then select **“Settings”**.
 
-- Scroll down to the **“Your Facebook Information”** section and tap on **“Activity Log”**.
+4. Scroll down to the **“Your Facebook Information”** section and tap on **“Activity Log”**.
 
-- At the top of the Activity Log, tap on **“Filter”**.
+5. At the top of the Activity Log, tap on **“Filter”**.
 
-- Scroll down and tap on **“Search History”** under the **“Logged Actions and Other Activity”** section.
+6. Scroll down and tap on **“Search History”** under the **“Logged Actions and Other Activity”** section.
 
-- You’ll now see your search history. To delete individual searches, tap the three dots next to each item and select **“Delete”**.
+7. You’ll now see your search history. To delete individual searches, tap the three dots next to each item and select **“Delete”**.
 
-- To clear your entire search history, tap on **“Clear Searches”** at the top of the screen.
+8. To clear your entire search history, tap on **“Clear Searches”** at the top of the screen.
 
-- Confirm your action by tapping **“Clear Searches”** again in the pop-up window.
+9. Confirm your action by tapping **“Clear Searches”** again in the pop-up window.
 
 Your Facebook search history on your iOS device is now cleared.
 

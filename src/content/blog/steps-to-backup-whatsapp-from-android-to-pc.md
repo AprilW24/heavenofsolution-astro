@@ -12,13 +12,13 @@ In today’s digital age, our smartphones have become repositories of precious m
 
 Before we dive into the how-to, let’s briefly discuss why backing up your WhatsApp messages is important:
 
-- **Data Security**: Protect your conversations from accidental deletion or device loss.
+1. **Data Security**: Protect your conversations from accidental deletion or device loss.
 
-- **Device Switching**: Easily transfer your chat history when upgrading to a new phone.
+2. **Device Switching**: Easily transfer your chat history when upgrading to a new phone.
 
-- **Storage Management**: Free up space on your device without losing important messages.
+3. **Storage Management**: Free up space on your device without losing important messages.
 
-- **Peace of Mind**: Know that your valuable conversations are safely stored elsewhere.
+4. **Peace of Mind**: Know that your valuable conversations are safely stored elsewhere.
 
 ## Methods to Backup WhatsApp Messages to PC
 
@@ -26,31 +26,31 @@ Before we dive into the how-to, let’s briefly discuss why backing up your What
 
 While this method doesn’t directly save to your PC, it’s a crucial first step:
 
-- Open WhatsApp on your Android device.
+1. Open WhatsApp on your Android device.
 
-- Tap the three-dot menu icon and go to Settings > Chats > Chat backup.
+2. Tap the three-dot menu icon and go to Settings > Chats > Chat backup.
 
-- Select **Back up to Google Drive** and choose your preferred backup frequency.
+3. Select **Back up to Google Drive** and choose your preferred backup frequency.
 
-- Ensure you’re signed in to your Google account.
+4. Ensure you’re signed in to your Google account.
 
-- Tap **Back up** to start the process.
+5. Tap **Back up** to start the process.
 
 **Note**: This backup can later be restored to your phone and then transferred to your PC using other methods.
 
 ### 2. Local Backup to Phone Storage
 
-- In WhatsApp, go to Settings > Chats > Chat backup.
+1. In WhatsApp, go to Settings > Chats > Chat backup.
 
-- Tap **Back up** to create a local backup on your phone.
+2. Tap **Back up** to create a local backup on your phone.
 
-- Connect your Android device to your PC via USB.
+3. Connect your Android device to your PC via USB.
 
-- On your PC, navigate to your phone’s internal storage or SD card.
+4. On your PC, navigate to your phone’s internal storage or SD card.
 
-- Find the WhatsApp > Databases folder.
+5. Find the WhatsApp > Databases folder.
 
-- Copy the most recent backup file (usually named msgstore.db.crypt14) to your PC.
+6. Copy the most recent backup file (usually named msgstore.db.crypt14) to your PC.
 
 ### 3. Using Third-Party Tools (Free Options)
 
@@ -58,33 +58,33 @@ Several free tools can help you backup WhatsApp messages directly to your PC:
 
 #### a. WhatsApp Web Method
 
-- Open WhatsApp on your phone and go to Settings > WhatsApp Web/Desktop.
+1. Open WhatsApp on your phone and go to Settings > WhatsApp Web/Desktop.
 
-- Scan the QR code on web.whatsapp.com using your phone.
+2. Scan the QR code on web.whatsapp.com using your phone.
 
-- Your chats will load in the browser. You can now copy-paste important conversations or use browser extensions to save chats.
+3. Your chats will load in the browser. You can now copy-paste important conversations or use browser extensions to save chats.
 
 #### b. Email Chat Method
 
-- Open a WhatsApp chat you want to backup.
+1. Open a WhatsApp chat you want to backup.
 
-- Tap the three-dot menu and select **More** > **Export chat**.
+2. Tap the three-dot menu and select **More** > **Export chat**.
 
-- Choose whether to include media files.
+3. Choose whether to include media files.
 
-- Select **Email** as the export method.
+4. Select **Email** as the export method.
 
-- Send the email to yourself and download the attachment on your PC.
+5. Send the email to yourself and download the attachment on your PC.
 
 ## Best Practices for WhatsApp Backups
 
-- **Regular Backups**: Set up automatic backups to Google Drive for continuous protection.
+1. **Regular Backups**: Set up automatic backups to Google Drive for continuous protection.
 
-- **Verify Your Backups**: Occasionally check if your backups are working correctly.
+2. **Verify Your Backups**: Occasionally check if your backups are working correctly.
 
-- **Secure Your Google Account**: Use strong passwords and enable two-factor authentication.
+3. **Secure Your Google Account**: Use strong passwords and enable two-factor authentication.
 
-- **Be Mindful of Storage**: WhatsApp backups can take up significant space, especially with media files.
+4. **Be Mindful of Storage**: WhatsApp backups can take up significant space, especially with media files.
 
 ## Conclusion
 

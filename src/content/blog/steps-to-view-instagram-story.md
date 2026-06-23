@@ -24,17 +24,17 @@ You could use Instagram’s own quirks, such as the ‘peek’ trick by half-swi
 
 ## Step-by-Step to Watch Instagram Stories Secretly
 
-- Open Instagram and make sure the stories you want to check are loaded ahead of time.
+1. Open Instagram and make sure the stories you want to check are loaded ahead of time.
 
-- Switch your phone to airplane mode before opening the specific story.
+2. Switch your phone to airplane mode before opening the specific story.
 
-- Tap and view the story while you are offline.
+3. Tap and view the story while you are offline.
 
-- Before going back online, close the Instagram app completely (really swipe it out).
+4. Before going back online, close the Instagram app completely (really swipe it out).
 
-- Once you’re offline and the app is closed, turn airplane mode off.
+5. Once you’re offline and the app is closed, turn airplane mode off.
 
-- For more privacy, log out before reconnecting your device. Be careful with browser extensions, since not all of them are safe for your privacy.
+6. For more privacy, log out before reconnecting your device. Be careful with browser extensions, since not all of them are safe for your privacy.
 
 ## Using Online Tools and Anonymous Browsers for Extra Stealth
 

@@ -24,13 +24,13 @@ Regardless of your reason, Messenger provides easy-to-use tools to help you mana
 
 The simplest way to hide a conversation on Messenger is to archive it. Archiving a chat removes it from your main chat list without deleting the messages. You can unarchive the conversation at any time to view it again. Here’s how to archive a chat on Messenger for Android:
 
-- Open the Messenger app on your Android device.
+1. Open the Messenger app on your Android device.
 
-- Find the conversation you want to hide in your chat list.
+2. Find the conversation you want to hide in your chat list.
 
-- **Swipe left** on the conversation.
+3. **Swipe left** on the conversation.
 
-- Tap on the **Archive** button (folder icon) that appears.
+4. Tap on the **Archive** button (folder icon) that appears.
 
 ![](/wp-content/uploads/2024/08/HoS_HideMessageson-1.jpg)
 
@@ -42,15 +42,15 @@ If you want to hide a conversation without archiving it, you can mute its notifi
 
 ![](/wp-content/uploads/2024/08/HoS_HideMessageson.jpg)
 
-- Open the Messenger app on your Android device.
+1. Open the Messenger app on your Android device.
 
-- Find the conversation you want to mute in your chat list.
+2. Find the conversation you want to mute in your chat list.
 
-- **Swipe left** on the conversation.
+3. **Swipe left** on the conversation.
 
-- Tap on the **Mute** button (bell icon) that appears.
+4. Tap on the **Mute** button (bell icon) that appears.
 
-- Select the duration for which you want to mute the notifications (15 minutes, 1 hour, 8 hours, 24 hours, or until you turn it back on).
+5. Select the duration for which you want to mute the notifications (15 minutes, 1 hour, 8 hours, 24 hours, or until you turn it back on).
 
 You can unmute a conversation at any time by repeating the steps above and tapping on the **Unmute** button.
 
@@ -58,15 +58,15 @@ You can unmute a conversation at any time by repeating the steps above and tappi
 
 For an extra layer of privacy, Messenger offers a feature called Secret Conversations. Secret Conversations are end-to-end encrypted chats that provide additional security features, such as disappearing messages and device-specific encryption keys. To start a Secret Conversation on Messenger for Android:
 
-- Open the Messenger app on your Android device.
+1. Open the Messenger app on your Android device.
 
-- Tap on the **compose message icon** (pencil icon) in the top right corner.
+2. Tap on the **compose message icon** (pencil icon) in the top right corner.
 
-- Tap on the **lock icon** in the top right corner of the “To:” field.
+3. Tap on the **lock icon** in the top right corner of the “To:” field.
 
-- Select the contact with whom you want to start a Secret Conversation.
+4. Select the contact with whom you want to start a Secret Conversation.
 
-- Compose your message and tap the **send button**.
+5. Compose your message and tap the **send button**.
 
 Keep in mind that Secret Conversations are separate from your regular chats and can only be accessed on the device where they were initiated.
 
@@ -74,15 +74,15 @@ Keep in mind that Secret Conversations are separate from your regular chats and 
 
 If you want to completely hide messages from a specific person, you can block or ignore them on Messenger. Blocking someone prevents them from contacting you entirely, while ignoring a contact moves their messages to your Message Requests folder without notifying them. To block or ignore a contact on Messenger for Android:
 
-- Open the Messenger app on your Android device.
+1. Open the Messenger app on your Android device.
 
-- Find the conversation with the person you want to block or ignore in your chat list.
+2. Find the conversation with the person you want to block or ignore in your chat list.
 
-- **Tap and hold** on the conversation.
+3. **Tap and hold** on the conversation.
 
-- Tap on the **info icon** (i) that appears.
+4. Tap on the **info icon** (i) that appears.
 
-- Scroll down and tap on **Block** or **Ignore Messages** depending on your preference.
+5. Scroll down and tap on **Block** or **Ignore Messages** depending on your preference.
 
 ![](/wp-content/uploads/2024/08/HoS_HideMessageson-2.jpg)
 

@@ -12,17 +12,17 @@ We’ve all been there – stuck in a never-ending group text with no escape in 
 
 The easiest way to deal with an annoying group text is to simply mute the conversation. This allows you to stay in the group without being bombarded by constant notifications. Here’s how to do it:
 
-- Open the **Messages** app on your Android phone
+1. Open the **Messages** app on your Android phone
 
-- Tap on the group conversation you want to mute
+2. Tap on the group conversation you want to mute
 
-- Tap the **three dots** in the upper right corner
+3. Tap the **three dots** in the upper right corner
 
-- Select **People & Options** from the drop-down menu
+4. Select **People & Options** from the drop-down menu
 
-- Tap on **Notifications**
+5. Tap on **Notifications**
 
-- Select **Silent** to mute the conversation
+6. Select **Silent** to mute the conversation
 
 Now you can go about your day in peace without your phone buzzing every two minutes. You’ll still be able to view the messages if you want, but you won’t get notified every time someone chimes in.
 
@@ -32,15 +32,15 @@ If muting the conversation isn’t enough and you want to remove all traces of t
 
 ![](/wp-content/uploads/2024/07/HoS_RemoveYourself-1.jpg)
 
-- Open the **Messages** app
+1. Open the **Messages** app
 
-- Locate the group conversation you want to delete
+2. Locate the group conversation you want to delete
 
-- Tap and **hold the conversation** until a menu pops up
+3. Tap and **hold the conversation** until a menu pops up
 
-- Tap **Delete**
+4. Tap **Delete**
 
-- Confirm that you want to delete the thread
+5. Confirm that you want to delete the thread
 
 Poof! The group conversation has vanished. Again, this is only temporary, but it can provide some much-needed relief from a particularly active group chat.
 
@@ -56,15 +56,15 @@ In extreme cases where the group creator won’t remove you or people keep re-ad
 
 ![](/wp-content/uploads/2024/07/HoS_RemoveYourself.jpg)
 
-- Open the group conversation
+1. Open the group conversation
 
-- Tap the **three dots** in the upper right corner
+2. Tap the **three dots** in the upper right corner
 
-- Select **People & Options**
+3. Select **People & Options**
 
-- Tap **Block**
+4. Tap **Block**
 
-- Confirm that you want to block the group
+5. Confirm that you want to block the group
 
 After blocking the group, you won’t receive any more messages from them. If you decide you want to unblock the group later, just follow the same steps and select **Unblock** from the menu.
 

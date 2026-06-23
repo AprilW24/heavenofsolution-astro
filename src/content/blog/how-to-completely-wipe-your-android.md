@@ -46,11 +46,11 @@ You can use Google’s built-in backup feature or third-party apps to save your 
 
 Encrypting your Android phone adds an extra layer of security by scrambling your data, making it unreadable without a special key. Most modern Android devices have encryption enabled by default. To check if your phone is encrypted:
 
-- Go to **Settings** > **Security**
+1. Go to **Settings** > **Security**
 
-- Look for the **Encryption** option
+2. Look for the **Encryption** option
 
-- If encryption is not enabled, tap on **Encrypt phone** and follow the on-screen instructions
+3. If encryption is not enabled, tap on **Encrypt phone** and follow the on-screen instructions
 
 ## Step 3: Remove Accounts and Perform a Factory Reset
 
@@ -58,17 +58,17 @@ The next step is to remove all accounts linked to your phone and perform a facto
 
 To remove accounts:
 
-- Go to **Settings** > **Accounts**
+1. Go to **Settings** > **Accounts**
 
-- Tap on each account and select **Remove account**
+2. Tap on each account and select **Remove account**
 
 To perform a factory reset:
 
-- Go to **Settings** > **System** > **Reset options**
+1. Go to **Settings** > **System** > **Reset options**
 
-- Tap on **Erase all data (factory reset)**
+2. Tap on **Erase all data (factory reset)**
 
-- Confirm by tapping **Erase all data**
+3. Confirm by tapping **Erase all data**
 
 ## Step 4: Overwrite Data with Junk Files
 

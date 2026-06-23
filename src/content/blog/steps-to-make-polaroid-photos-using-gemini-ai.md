@@ -18,25 +18,25 @@ Another thing I dig is the creative part. You can mix styles, use backgrounds yo
 
 ## Steps to Generate Polaroid-Inspired Photos in Gemini AI on Android
 
-- Open the Gemini AI app or website and log in on your Android device.
+1. Open the Gemini AI app or website and log in on your Android device.
 
-- Go to the image generation feature inside Gemini.
+2. Go to the image generation feature inside Gemini.
 
-- Prepare one or two selfie images, or grab snapshots you want to turn into *polaroids*.
+3. Prepare one or two selfie images, or grab snapshots you want to turn into *polaroids*.
 
-- Decide on a vibe—retro, cozy, urban, *anime*, outdoor, or something else.
+4. Decide on a vibe—retro, cozy, urban, *anime*, outdoor, or something else.
 
-- Tap “**Upload**” and choose your photo(s).
+5. Tap “**Upload**” and choose your photo(s).
 
-- Enter a clear and detailed prompt that matches the style you want. You can also use the prompt below.
+6. Enter a clear and detailed prompt that matches the style you want. You can also use the prompt below.
 
-- (Optional) Adjust color, lighting, or other editing options if available.
+7. (Optional) Adjust color, lighting, or other editing options if available.
 
-- Tap the “**Generate**” button to let Gemini work.
+8. Tap the “**Generate**” button to let Gemini work.
 
-- Preview the result and make tweaks if it doesn’t look right.
+9. Preview the result and make tweaks if it doesn’t look right.
 
-- Once satisfied, tap to save and share your new AI-crafted *polaroid* shot. 📸
+10. Once satisfied, tap to save and share your new AI-crafted *polaroid* shot. 📸
 
 ## Extra Tips for Better AI Polaroid Pics on Gemini AI
 

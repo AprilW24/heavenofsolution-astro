@@ -22,25 +22,25 @@ What makes it even better is the trust factor. 🛡️ A verified WhatsApp Busin
 
 Here’s how to set it all up without any confusion. 📱
 
-- Open the Google Play Store or Apple App Store on your phone and search for “WhatsApp Business.”
+1. Open the Google Play Store or Apple App Store on your phone and search for “WhatsApp Business.”
 
-- Tap **Install** or **Get** and wait for the app to finish downloading.
+2. Tap **Install** or **Get** and wait for the app to finish downloading.
 
-- Open the app and tap **Agree and Continue** on the welcome screen to accept the terms of service.
+3. Open the app and tap **Agree and Continue** on the welcome screen to accept the terms of service.
 
-- Enter your business phone number (with your country code) in the provided field.
+4. Enter your business phone number (with your country code) in the provided field.
 
-- Tap **Done** and wait for a 6-digit SMS code to arrive, then enter it to verify your number.
+5. Tap **Done** and wait for a 6-digit SMS code to arrive, then enter it to verify your number.
 
-- If the SMS doesn’t come through, tap **Call me** to get the code via an automated voice call instead.
+6. If the SMS doesn’t come through, tap **Call me** to get the code via an automated voice call instead.
 
-- Type in your official business name, keeping in mind that this **cannot be changed later** once it’s set.
+7. Type in your official business name, keeping in mind that this **cannot be changed later** once it’s set.
 
-- Select a business category from the dropdown menu (like Retail, Education, Food, or Beauty).
+8. Select a business category from the dropdown menu (like Retail, Education, Food, or Beauty).
 
-- Upload a clear, high-resolution profile picture, ideally your brand logo in a square format.
+9. Upload a clear, high-resolution profile picture, ideally your brand logo in a square format.
 
-- Tap **Save** and your account is officially live! 🎉
+10. Tap **Save** and your account is officially live! 🎉
 
 ## How to Fill Out WhatsApp Business Profile to Build Customer Trust
 

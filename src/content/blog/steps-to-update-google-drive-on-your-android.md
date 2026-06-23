@@ -12,13 +12,13 @@ Google Drive is an essential app for many Android users, providing cloud storage
 
 Before we dive into the steps, let’s briefly discuss the importance of updating the Google Drive app:
 
-- **New Features**: Google regularly adds new features and enhancements to the Drive app. By updating, you’ll gain access to the latest tools and functionalities that can improve your productivity and user experience.
+1. **New Features**: Google regularly adds new features and enhancements to the Drive app. By updating, you’ll gain access to the latest tools and functionalities that can improve your productivity and user experience.
 
-- **Bug Fixes**: Updates often include fixes for known bugs and issues, ensuring that the app runs smoothly and without glitches.
+2. **Bug Fixes**: Updates often include fixes for known bugs and issues, ensuring that the app runs smoothly and without glitches.
 
-- **Security Patches**: Google releases security patches to address vulnerabilities and protect your data. Keeping your app updated helps maintain the security of your files and personal information.
+3. **Security Patches**: Google releases security patches to address vulnerabilities and protect your data. Keeping your app updated helps maintain the security of your files and personal information.
 
-- **Compatibility**: As Android OS evolves, updating Google Drive ensures compatibility with the latest system versions and other apps.
+4. **Compatibility**: As Android OS evolves, updating Google Drive ensures compatibility with the latest system versions and other apps.
 
 ### Steps to Update Google Drive on Android
 
@@ -56,11 +56,11 @@ Once the update is complete, you can tap the **Open** button to launch the updat
 
 To ensure that you always have the latest version of Google Drive without manually checking for updates, you can enable automatic updates for the app:
 
-- Open the Google Play Store and navigate to the Google Drive app page.
+1. Open the Google Play Store and navigate to the Google Drive app page.
 
-- Tap on the three-dot menu in the top-right corner of the screen.
+2. Tap on the three-dot menu in the top-right corner of the screen.
 
-- Select **Enable auto-update** from the dropdown menu.
+3. Select **Enable auto-update** from the dropdown menu.
 
 With automatic updates enabled, the Play Store will update Google Drive whenever a new version is available, as long as your device is connected to Wi-Fi.
 

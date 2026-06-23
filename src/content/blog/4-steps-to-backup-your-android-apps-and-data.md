@@ -12,13 +12,13 @@ If you’ve ever had to factory reset your Android phone or get a new device, yo
 
 The easiest way to backup your Android apps and data is by using Google One, Google’s cloud storage and backup service. It allows for simple, seamless backups and comes with 15GB of free storage for all Google accounts. Here’s how to set it up:
 
-- Download the Google One app from the Play Store and open it
+1. Download the Google One app from the Play Store and open it
 
-- Tap **Setup backup** and then **Turn On** to enable automatic backups
+2. Tap **Setup backup** and then **Turn On** to enable automatic backups
 
-- Choose what data you want to backup, including app data, messages, device settings, and photos/videos
+3. Choose what data you want to backup, including app data, messages, device settings, and photos/videos
 
-- Tap **Back up now** to perform your first backup
+4. Tap **Back up now** to perform your first backup
 
 Google One will then automatically backup your selected data over Wi-Fi when your phone is idle and charging. You can access and manage your backups anytime from the Google One app or website.
 
@@ -38,15 +38,15 @@ For more control over your app backups, you can use a third-party backup app fro
 
 To use a backup app:
 
-- Download and install the app of your choice from the Play Store
+1. Download and install the app of your choice from the Play Store
 
-- Grant it the necessary permissions
+2. Grant it the necessary permissions
 
-- Select the apps and data you want to backup
+3. Select the apps and data you want to backup
 
-- Choose a backup location (device storage or cloud)
+4. Choose a backup location (device storage or cloud)
 
-- Tap **Backup** to create your backup
+5. Tap **Backup** to create your backup
 
 Keep in mind some backup apps may require root access for full functionality. Be sure to carefully research any app before granting it extensive permissions on your device.
 
@@ -56,21 +56,21 @@ Another way to backup your Android apps and data is by connecting your phone to 
 
 For Windows PCs:
 
-- Connect your phone to your computer with a USB cable
+1. Connect your phone to your computer with a USB cable
 
-- On your phone, tap **Charging this device via USB** and change it to **File Transfer**
+2. On your phone, tap **Charging this device via USB** and change it to **File Transfer**
 
-- On your computer, open This PC and double-click your Android device
+3. On your computer, open This PC and double-click your Android device
 
-- Copy the desired folders (like Pictures, Downloads, or a backup folder) to your computer
+4. Copy the desired folders (like Pictures, Downloads, or a backup folder) to your computer
 
 For Macs:
 
-- Download and install Android File Transfer
+1. Download and install Android File Transfer
 
-- Connect your phone and open Android File Transfer
+2. Connect your phone and open Android File Transfer
 
-- Drag and drop folders from your phone to your Mac
+3. Drag and drop folders from your phone to your Mac
 
 Backing up to a computer is a good option if you have a lot of data that won’t fit in free cloud storage. Just be sure to copy your backups to an external drive or a cloud service for redundancy.
 

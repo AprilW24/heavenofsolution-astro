@@ -36,13 +36,13 @@ That’s it! Force zoom is now enabled. Restart Chrome for the change to take ef
 
 Once force zoom is enabled, you can use Chrome’s built-in zoom controls to adjust text size:
 
-- Open a web page
+1. Open a web page
 
-- Tap the three-dot menu icon
+2. Tap the three-dot menu icon
 
-- Select **Zoom**
+3. Select **Zoom**
 
-- Use the slider to adjust zoom level or tap the **+** and **–** buttons
+4. Use the slider to adjust zoom level or tap the **+** and **–** buttons
 
 You can also use pinch-to-zoom gestures on web pages to zoom in and out.
 

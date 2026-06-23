@@ -24,49 +24,49 @@ Before we get started, make sure you have the following:
 
 The first step is to install the companion desktop app that will allow your computer to communicate with your Android device.
 
-- Go to the Sync iTunes to android website: http://www.synctunes.net
+1. Go to the Sync iTunes to android website: http://www.synctunes.net
 
-- Download the **Windows or Mac version** of the desktop app
+2. Download the **Windows or Mac version** of the desktop app
 
-- Install the app on your computer
+3. Install the app on your computer
 
 ## Step 2: Set Up Wi-Fi Syncing
 
 Next, we need to connect your Android device to the desktop app over your Wi-Fi network.
 
-- Make sure your Android device and computer are **connected to the same Wi-Fi network**
+1. Make sure your Android device and computer are **connected to the same Wi-Fi network**
 
-- Open the Sync iTunes to android app on your Android device
+2. Open the Sync iTunes to android app on your Android device
 
-- Tap the **Connect** button
+3. Tap the **Connect** button
 
-- The app will search for the desktop companion app on your network
+4. The app will search for the desktop companion app on your network
 
-- Once found, tap **Pair** to establish the connection
+5. Once found, tap **Pair** to establish the connection
 
 ## Step 3: Select What to Sync
 
 Now that your devices are connected, you can choose what iTunes content you want to transfer to your Android device.
 
-- In the desktop app, select the **Music**, **Podcasts**, or **Videos** tab
+1. In the desktop app, select the **Music**, **Podcasts**, or **Videos** tab
 
-- **Check the boxes** next to the items you want to sync
+2. **Check the boxes** next to the items you want to sync
 
-- You can choose to sync your entire library, specific playlists, or individual songs/episodes
+3. You can choose to sync your entire library, specific playlists, or individual songs/episodes
 
-- Click **Apply** to save your selections
+4. Click **Apply** to save your selections
 
 ## Step 4: Start the Sync
 
 You’re now ready to copy your iTunes media to your Android device.
 
-- In the desktop app, click the **Sync Now** button
+1. In the desktop app, click the **Sync Now** button
 
-- The selected iTunes content will begin transferring wirelessly to your Android device
+2. The selected iTunes content will begin transferring wirelessly to your Android device
 
-- You can monitor the progress and see which tracks are currently syncing
+3. You can monitor the progress and see which tracks are currently syncing
 
-- **Syncing may take a while** depending on how much content you’re transferring
+4. **Syncing may take a while** depending on how much content you’re transferring
 
 ## Step 5: Access Your Synced Media
 
@@ -84,14 +84,14 @@ Once the sync is complete, you can access your iTunes songs, playlists, podcasts
 
 By following the steps above, you can easily sync your iTunes library to your Android device over Wi-Fi for free. The Sync iTunes to android app makes the process straightforward:
 
-- Install the desktop companion app
+1. Install the desktop companion app
 
-- Connect your Android device over Wi-Fi
+2. Connect your Android device over Wi-Fi
 
-- Select what iTunes content to sync
+3. Select what iTunes content to sync
 
-- Start the wireless sync
+4. Start the wireless sync
 
-- Access your media on your Android device
+5. Access your media on your Android device
 
 Now you can enjoy your iTunes collection on your new Android phone without having to manually transfer files or rebuild your playlists. The app will even keep your Android device in sync as you add new content to iTunes.

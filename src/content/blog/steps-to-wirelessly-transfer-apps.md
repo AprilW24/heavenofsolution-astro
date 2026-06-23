@@ -12,15 +12,15 @@ Upgrading to a new Android phone is exciting, but the thought of manually reinst
 
 One of the easiest ways to transfer apps to a new Android phone is by leveraging your Google account. Here’s how:
 
-- On your old phone, make sure your apps are backed up:
+1. On your old phone, make sure your apps are backed up:
 
 - Go to **Settings > System > Backup**
 
 - Toggle on **Back up to Google Drive**
 
-- Sign in to your Google account on your new phone during setup.
+1. Sign in to your Google account on your new phone during setup.
 
-- Your phone will automatically restore your backed-up apps and data.
+2. Your phone will automatically restore your backed-up apps and data.
 
 **Note:** Not all apps support Google Backup. You may need to manually reinstall some apps afterwards.
 
@@ -28,15 +28,15 @@ One of the easiest ways to transfer apps to a new Android phone is by leveraging
 
 For transfers between Samsung Galaxy devices, the Smart Switch app offers a convenient solution. To use it:
 
-- Download and install Smart Switch on both devices from the Google Play Store.
+1. Download and install Smart Switch on both devices from the Google Play Store.
 
-- Place both devices next to each other and launch Smart Switch on both.
+2. Place both devices next to each other and launch Smart Switch on both.
 
-- Tap **Send data** on the old device and **Receive data** on the new one.
+3. Tap **Send data** on the old device and **Receive data** on the new one.
 
-- Select **Wireless** as the transfer method.
+4. Select **Wireless** as the transfer method.
 
-- Choose the data and apps you want to send, then tap **Transfer**.
+5. Choose the data and apps you want to send, then tap **Transfer**.
 
 **Tip:** Smart Switch can also transfer data from an old iPhone to a new Samsung Galaxy.
 
@@ -52,15 +52,15 @@ There are also several third-party apps on the Google Play Store that facilitate
 
 To use these apps:
 
-- Download and install the app on both the old and new devices.
+1. Download and install the app on both the old and new devices.
 
-- Launch the app and grant necessary permissions.
+2. Launch the app and grant necessary permissions.
 
-- Select the sending device and receiving device within the app.
+3. Select the sending device and receiving device within the app.
 
-- Choose the apps and data you wish to transfer.
+4. Choose the apps and data you wish to transfer.
 
-- Initiate the transfer and wait for it to complete.
+5. Initiate the transfer and wait for it to complete.
 
 **Pro tip:** Make sure both phones are connected to the same WiFi network for the smoothest transfer experience.
 
@@ -68,15 +68,15 @@ To use these apps:
 
 If both your old and new phones have NFC (Near Field Communication), you can use Android Beam to quickly share apps:
 
-- Make sure NFC is enabled on both devices in Settings.
+1. Make sure NFC is enabled on both devices in Settings.
 
-- Open the Google Play Store on the old device and navigate to **My apps & games**.
+2. Open the Google Play Store on the old device and navigate to **My apps & games**.
 
-- Select the app you want to transfer and tap **Share**.
+3. Select the app you want to transfer and tap **Share**.
 
-- Hold the devices back-to-back until you hear a sound or feel a vibration.
+4. Hold the devices back-to-back until you hear a sound or feel a vibration.
 
-- Tap the screen on the old phone to initiate the transfer.
+5. Tap the screen on the old phone to initiate the transfer.
 
 **Note:** Android Beam was discontinued in Android 10, so this method only works for older devices.
 

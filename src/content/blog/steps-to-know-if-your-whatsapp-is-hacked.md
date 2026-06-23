@@ -30,13 +30,13 @@ One of the most obvious signs that your WhatsApp account may have been hacked is
 
 WhatsApp allows you to link your account to multiple devices, including computers via WhatsApp Web. Hackers may exploit this feature to gain access to your account. Here’s how to check:
 
-- Open WhatsApp on your Android device.
+1. Open WhatsApp on your Android device.
 
-- Tap the three-dot menu in the top right corner.
+2. Tap the three-dot menu in the top right corner.
 
-- Select “Linked Devices.”
+3. Select “Linked Devices.”
 
-- Review the list of devices connected to your account.
+4. Review the list of devices connected to your account.
 
 If you see any unfamiliar devices or locations, it’s a strong indication that your account has been compromised.
 
@@ -46,11 +46,11 @@ If you see any unfamiliar devices or locations, it’s a strong indication that 
 
 A hacked WhatsApp account can lead to increased battery drain and data usage on your Android device. The malicious software running in the background may consume more resources than usual. To check:
 
-- Go to your Android Settings.
+1. Go to your Android Settings.
 
-- Navigate to “Battery” or “Battery usage.”
+2. Navigate to “Battery” or “Battery usage.”
 
-- Look for WhatsApp in the list of apps.
+3. Look for WhatsApp in the list of apps.
 
 If WhatsApp is consuming an unusually high amount of battery or data, it could be a sign of unauthorized access.
 
@@ -100,11 +100,11 @@ While these issues can sometimes be due to technical glitches, persistent proble
 
 WhatsApp offers a security feature that notifies you when a contact’s security code changes. This can help you detect if someone is trying to impersonate one of your contacts. To enable this:
 
-- Open WhatsApp Settings.
+1. Open WhatsApp Settings.
 
-- Go to Account > Security.
+2. Go to Account > Security.
 
-- Toggle on “Show Security Notifications.”
+3. Toggle on “Show Security Notifications.”
 
 **Take action**: If you receive a security code change notification for a contact you’re actively chatting with, verify their identity through another communication channel before continuing the conversation.
 

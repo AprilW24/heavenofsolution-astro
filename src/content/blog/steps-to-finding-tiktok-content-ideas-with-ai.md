@@ -24,25 +24,25 @@ Other sweet spots: keep an eye on top-performing creators in your *niche*, and s
 
 ### Step-by-Step to Find TikTok Content Ideas with AI on Your Phone
 
-- Download or open a mobile-friendly AI tool like ChatGPT or YesChat.ai.
+1. Download or open a mobile-friendly AI tool like ChatGPT or YesChat.ai.
 
-- Pick your topic, *niche*, or theme that matches your TikTok vibe.
+2. Pick your topic, *niche*, or theme that matches your TikTok vibe.
 
-- Check TikTok’s Creative Center or Explore for trending hashtags and audio.
+3. Check TikTok’s Creative Center or Explore for trending hashtags and audio.
 
-- Screenshot or jot down the trends that catch your eye.
+4. Screenshot or jot down the trends that catch your eye.
 
-- Enter your topic, goal, and trend notes into the AI tool.
+5. Enter your topic, goal, and trend notes into the AI tool.
 
-- Ask for video ideas, hooks, or even captions based on those trends.
+6. Ask for video ideas, hooks, or even captions based on those trends.
 
-- Scroll through the AI suggestions and pick 3 that fit your style.
+7. Scroll through the AI suggestions and pick 3 that fit your style.
 
-- Refine or remix the ideas by asking AI for hooks, jokes, or story twists.
+8. Refine or remix the ideas by asking AI for hooks, jokes, or story twists.
 
-- Organize the ideas on your phone’s notes app or planner.
+9. Organize the ideas on your phone’s notes app or planner.
 
-- Get ready to shoot and post right from your phone.
+10. Get ready to shoot and post right from your phone.
 
 ### One Prompt to Generate TikTok Content Ideas with AI
 

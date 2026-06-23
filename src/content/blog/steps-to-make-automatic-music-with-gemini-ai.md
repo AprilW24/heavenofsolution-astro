@@ -22,25 +22,25 @@ The system can do instrumental tracks or full songs with singing, and it can cre
 
 Here is exactly how I would walk through my first track from scratch using Gemini AI and *Lyria 3*
 
-- Open Gemini on your device and make sure you are signed in to your Google account.
+1. Open Gemini on your device and make sure you are signed in to your Google account.
 
-- Start a new chat so you have a clean space only focused on music generation.
+2. Start a new chat so you have a clean space only focused on music generation.
 
-- Tap the **+** icon, choose **More tools** and click **Create music**.
+3. Tap the **+** icon, choose **More tools** and click **Create music**.
 
-- Decide what you want first mood, genre, use case or all three and write that in one sentence in your head before typing.
+4. Decide what you want first mood, genre, use case or all three and write that in one sentence in your head before typing.
 
-- Type a clear prompt like *upbeat 90s hip hop beat with punchy drums mellow piano and no vocals for study background*.
+5. Type a clear prompt like *upbeat 90s hip hop beat with punchy drums mellow piano and no vocals for study background*.
 
-- If you want vocals add it directly into the prompt for example *add emotional male vocals singing about chasing dreams* and mention if you want lyrics in English or another language.
+6. If you want vocals add it directly into the prompt for example *add emotional male vocals singing about chasing dreams* and mention if you want lyrics in English or another language.
 
-- Optionally upload an image or short video that matches the vibe you want so Gemini can match the soundtrack mood to that visual.
+7. Optionally upload an image or short video that matches the vibe you want so Gemini can match the soundtrack mood to that visual.
 
-- Send the prompt and wait while Gemini generates your 30 second track with cover art.
+8. Send the prompt and wait while Gemini generates your 30 second track with cover art.
 
-- Play the preview then decide if you want to keep it, download it as audio, or ask Gemini to tweak things like tempo, intensity, or instruments.
+9. Play the preview then decide if you want to keep it, download it as audio, or ask Gemini to tweak things like tempo, intensity, or instruments.
 
-- Use follow up prompts in the same chat like *make a second version with more bass and slightly slower tempo* so you get multiple variations to choose from.
+10. Use follow up prompts in the same chat like *make a second version with more bass and slightly slower tempo* so you get multiple variations to choose from.
 
 ## Crafting strong prompts so Gemini sounds less generic
 

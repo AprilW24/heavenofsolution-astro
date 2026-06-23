@@ -28,13 +28,13 @@ Before we dive into the specifics, it’s important to note that the Gmail mobil
 
 The most straightforward way to sort Gmail by size on your phone is by using search operators. These are special commands you can type into the Gmail search bar to filter your emails based on specific criteria. Here’s how to do it:
 
-- **Open the Gmail app** on your smartphone.
+1. **Open the Gmail app** on your smartphone.
 
-- **Tap the search bar** at the top of the screen.
+2. **Tap the search bar** at the top of the screen.
 
-- **Type in the search operator** “size:” followed by a number and unit (e.g., “size:5M” for emails larger than 5 megabytes).
+3. **Type in the search operator** “size:” followed by a number and unit (e.g., “size:5M” for emails larger than 5 megabytes).
 
-- **Press the search button** or hit enter on your keyboard.
+4. **Press the search button** or hit enter on your keyboard.
 
 This will display all emails that match the size criteria you specified. You can adjust the size value to narrow or broaden your search as needed. For example:
 
@@ -50,15 +50,15 @@ This will display all emails that match the size criteria you specified. You can
 
 While not as quick as using search operators, the Gmail app does offer some advanced search options that can help you filter emails by size:
 
-- **Open the Gmail app** and tap the search bar.
+1. **Open the Gmail app** and tap the search bar.
 
-- **Tap the three dots** (⋮) on the right side of the search bar to open advanced search options.
+2. **Tap the three dots** (⋮) on the right side of the search bar to open advanced search options.
 
-- **Scroll down** to find the “Size” option.
+3. **Scroll down** to find the “Size” option.
 
-- **Select “Greater than”** and enter a size value (e.g., 5 MB).
+4. **Select “Greater than”** and enter a size value (e.g., 5 MB).
 
-- **Tap the blue search button** to see the results.
+5. **Tap the blue search button** to see the results.
 
 This method provides a more user-friendly interface for those who aren’t comfortable with search operators, but it does require a few more taps to access.
 
@@ -66,15 +66,15 @@ This method provides a more user-friendly interface for those who aren’t comfo
 
 Since Gmail and Google Drive are closely integrated, you can sometimes get a better overview of large emails by checking your Drive storage:
 
-- **Open the Google Drive app** on your phone.
+1. **Open the Google Drive app** on your phone.
 
-- **Tap the menu icon** (≡) in the top-left corner.
+2. **Tap the menu icon** (≡) in the top-left corner.
 
-- **Select “Storage”** from the menu.
+3. **Select “Storage”** from the menu.
 
-- **Tap “View details”** to see a breakdown of your storage usage.
+4. **Tap “View details”** to see a breakdown of your storage usage.
 
-- **Look for the “Gmail”** section to identify how much space your emails are using.
+5. **Look for the “Gmail”** section to identify how much space your emails are using.
 
 While this method doesn’t allow you to sort individual emails, it can give you a good idea of how much storage your Gmail account is using overall.
 
@@ -114,13 +114,13 @@ These apps often offer features like the ability to sort by size, quick unsubscr
 
 Keep an eye on your overall Google account storage usage. You can do this by:
 
-- **Opening the Gmail app**
+1. **Opening the Gmail app**
 
-- **Tapping your profile picture** in the top-right corner
+2. **Tapping your profile picture** in the top-right corner
 
-- **Selecting “Manage your Google Account”**
+3. **Selecting “Manage your Google Account”**
 
-- **Tapping “Account storage”**
+4. **Tapping “Account storage”**
 
 This will show you how much of your storage is being used by Gmail, Google Drive, and Google Photos, helping you identify where you might need to focus your cleanup efforts.
 

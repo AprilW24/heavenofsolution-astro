@@ -12,29 +12,29 @@ It’s important to note that **uninstalling the Gmail app does not delete your 
 
 ## Steps to Reinstall Gmail on Android
 
-- Open the **Google Play Store** app on your Android phone.
+1. Open the **Google Play Store** app on your Android phone.
 
-- Tap on your **profile icon** in the top right corner.
+2. Tap on your **profile icon** in the top right corner.
 
-- Select **Manage apps & device**, then tap **Manage**.
+3. Select **Manage apps & device**, then tap **Manage**.
 
-- Find **Gmail** in the list of apps. If you can’t see it, tap on the **Installed** tab at the top and select **Not Installed**.
+4. Find **Gmail** in the list of apps. If you can’t see it, tap on the **Installed** tab at the top and select **Not Installed**.
 
-- Tap on **Gmail**, then hit the **Install** button.
+5. Tap on **Gmail**, then hit the **Install** button.
 
 That’s it! The Gmail app will now download and install on your phone. Once it’s done, open the app and sign in with your Google account to access your emails.
 
 ## Steps to Reinstall Gmail on iPhone
 
-- Open the **App Store** on your iPhone.
+1. Open the **App Store** on your iPhone.
 
-- Tap on the **Search** tab at the bottom of the screen.
+2. Tap on the **Search** tab at the bottom of the screen.
 
-- Type **Gmail** into the search bar and tap **Search**.
+3. Type **Gmail** into the search bar and tap **Search**.
 
-- Find the **Gmail** app developed by Google LLC in the search results and tap on it.
+4. Find the **Gmail** app developed by Google LLC in the search results and tap on it.
 
-- Tap the **cloud icon** or **Get** button to start the installation.
+5. Tap the **cloud icon** or **Get** button to start the installation.
 
 You may need to enter your Apple ID password or use Face ID to confirm the installation[4]. Once the app is installed, tap **Open** to launch Gmail and sign in with your Google account.
 

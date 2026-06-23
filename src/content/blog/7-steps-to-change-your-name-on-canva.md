@@ -18,19 +18,19 @@ Changing your name on Canva might be necessary if you’ve recently changed your
 
 Here are the steps to update your name on Canva:
 
-- **Log in to your Canva account**: Go to Canva.com and sign in with your credentials.
+1. **Log in to your Canva account**: Go to Canva.com and sign in with your credentials.
 
-- **Access your profile settings**: Click on your profile picture or icon in the top right corner of the screen.
+2. **Access your profile settings**: Click on your profile picture or icon in the top right corner of the screen.
 
-- **Open account settings**: From the drop-down menu, select “Account settings.”
+3. **Open account settings**: From the drop-down menu, select “Account settings.”
 
-- **Edit your name**: In the account settings section, find the field with your current name and click the “Edit” button next to it.
+4. **Edit your name**: In the account settings section, find the field with your current name and click the “Edit” button next to it.
 
-- **Enter your new name**: Type in your new name in the appropriate fields (first and last name).
+5. **Enter your new name**: Type in your new name in the appropriate fields (first and last name).
 
-- **Save changes**: Click the “Save” button at the bottom of the page to update your name.
+6. **Save changes**: Click the “Save” button at the bottom of the page to update your name.
 
-- **Verify changes**: Check your profile to ensure the name has been updated successfully.
+7. **Verify changes**: Check your profile to ensure the name has been updated successfully.
 
 ## Tips for Changing Your Name on Canva
 

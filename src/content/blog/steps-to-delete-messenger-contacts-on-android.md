@@ -22,15 +22,15 @@ Before we begin, it’s crucial to ensure that you’re using the latest version
 
 To update your Messenger app:
 
-- Open the Google Play Store on your Android phone.
+1. Open the Google Play Store on your Android phone.
 
-- Tap on the menu icon (usually three horizontal lines) in the top-left corner.
+2. Tap on the menu icon (usually three horizontal lines) in the top-left corner.
 
-- Select “My apps & games.”
+3. Select “My apps & games.”
 
-- Look for “Messenger” in the list of apps with available updates.
+4. Look for “Messenger” in the list of apps with available updates.
 
-- If an update is available, tap “Update” next to the Messenger app.
+5. If an update is available, tap “Update” next to the Messenger app.
 
 Once your app is up to date, you’re ready to proceed with the contact deletion process.
 
@@ -42,11 +42,11 @@ Now that your Messenger app is updated, it’s time to launch it. Locate the Mes
 
 To delete contacts, you’ll need to access your full contact list within the Messenger app. Follow these steps:
 
-- Tap on your profile picture or the menu icon (usually three horizontal lines) in the top-left corner of the screen.
+1. Tap on your profile picture or the menu icon (usually three horizontal lines) in the top-left corner of the screen.
 
-- Scroll down the menu options and look for “People” or “Contacts.”
+2. Scroll down the menu options and look for “People” or “Contacts.”
 
-- Tap on this option to view your complete list of Messenger contacts.
+3. Tap on this option to view your complete list of Messenger contacts.
 
 You should now see a comprehensive list of all your Messenger contacts, including both active and inactive users.
 

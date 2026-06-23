@@ -20,25 +20,25 @@ On top of that, it works globally. Whether you’re commuting, multitasking at w
 
 ## Steps to Get Perplexity AI Set Up and Working on WhatsApp
 
-- Open Contacts on your Android phone.
+1. Open Contacts on your Android phone.
 
-- Tap “**Add new contact**.”
+2. Tap “**Add new contact**.”
 
-- Save this official number: +1 (833) 436-3285.
+3. Save this official number: +1 (833) 436-3285.
 
-- Name it something like “**Perplexity AI**.”
+4. Name it something like “**Perplexity AI**.”
 
-- Open WhatsApp and find the saved contact.
+5. Open WhatsApp and find the saved contact.
 
-- Tap it to open a new chat window.
+6. Tap it to open a new chat window.
 
-- Type your first question or request — keep it casual.
+7. Type your first question or request — keep it casual.
 
-- Wait a few seconds for a response.
+8. Wait a few seconds for a response.
 
-- Keep the chat going; it supports follow-up questions too.
+9. Keep the chat going; it supports follow-up questions too.
 
-- You’re all set — now you can get info, summaries, or images anytime.
+10. You’re all set — now you can get info, summaries, or images anytime.
 
 ## Features That Make Using It Super Convenient
 

@@ -32,15 +32,15 @@ It’s important to note that Canva for Education is not available to uncertifie
 
 Before we delve into the account creation process, let’s explore some of the key benefits that make Canva for Education an invaluable tool for teachers and students:
 
-- **Access to Premium Features:** Canva for Education provides free access to premium features that would otherwise require a paid subscription. This includes an extensive library of templates, stock photos, and design elements.
+1. **Access to Premium Features:** Canva for Education provides free access to premium features that would otherwise require a paid subscription. This includes an extensive library of templates, stock photos, and design elements.
 
-- **Collaboration Tools:** Teachers can easily create virtual classrooms, assign projects, and collaborate with students in real-time. This feature is particularly useful for remote or hybrid learning environments.
+2. **Collaboration Tools:** Teachers can easily create virtual classrooms, assign projects, and collaborate with students in real-time. This feature is particularly useful for remote or hybrid learning environments.
 
-- **Educational Templates:** The platform offers over 60,000 education-specific templates created by teachers for teachers. These range from lesson plans and worksheets to infographics and presentations.
+3. **Educational Templates:** The platform offers over 60,000 education-specific templates created by teachers for teachers. These range from lesson plans and worksheets to infographics and presentations.
 
-- **Integration with Learning Management Systems:** Canva for Education can be integrated with popular LMS platforms like Canvas, making it easier to incorporate design projects into your existing digital classroom setup.
+4. **Integration with Learning Management Systems:** Canva for Education can be integrated with popular LMS platforms like Canvas, making it easier to incorporate design projects into your existing digital classroom setup.
 
-- **Safe and Secure Environment:** Canva for Education provides a controlled environment where teachers can monitor student activity and ensure appropriate content usage.
+5. **Safe and Secure Environment:** Canva for Education provides a controlled environment where teachers can monitor student activity and ensure appropriate content usage.
 
 ## Creating Your Canva for Education Account
 
@@ -76,17 +76,17 @@ Now that you understand the benefits and eligibility criteria, let’s walk thro
 
 Once you’ve successfully created your Canva for Education account, it’s time to start exploring its features and integrating it into your teaching practice. Here are some tips to help you make the most of your new account:
 
-- **Explore the Template Library:** Familiarize yourself with the vast array of educational templates available. These can serve as excellent starting points for creating engaging lesson materials, presentations, and student assignments.
+1. **Explore the Template Library:** Familiarize yourself with the vast array of educational templates available. These can serve as excellent starting points for creating engaging lesson materials, presentations, and student assignments.
 
-- **Set Up Your Virtual Classroom:** Take advantage of Canva’s collaboration features by setting up a virtual classroom. This allows you to easily share resources with students and manage group projects.
+2. **Set Up Your Virtual Classroom:** Take advantage of Canva’s collaboration features by setting up a virtual classroom. This allows you to easily share resources with students and manage group projects.
 
-- **Integrate with Your LMS:** If your school uses a learning management system like Canvas, consider integrating Canva for Education to streamline your workflow and make it easier for students to access design projects.
+3. **Integrate with Your LMS:** If your school uses a learning management system like Canvas, consider integrating Canva for Education to streamline your workflow and make it easier for students to access design projects.
 
-- **Encourage Student Creativity:** Use Canva for Education to assign creative projects that allow students to express themselves visually. This could include infographics, posters, or digital presentations on various subjects.
+4. **Encourage Student Creativity:** Use Canva for Education to assign creative projects that allow students to express themselves visually. This could include infographics, posters, or digital presentations on various subjects.
 
-- **Attend Canva Workshops:** Keep an eye out for free workshops and webinars offered by Canva. These can provide valuable insights into new features and creative ways to use the platform in your teaching.
+5. **Attend Canva Workshops:** Keep an eye out for free workshops and webinars offered by Canva. These can provide valuable insights into new features and creative ways to use the platform in your teaching.
 
-- **Collaborate with Other Educators:** Join Canva’s educator community to share ideas, get inspiration, and collaborate with fellow teachers from around the world.
+6. **Collaborate with Other Educators:** Join Canva’s educator community to share ideas, get inspiration, and collaborate with fellow teachers from around the world.
 
 ## Conclusion
 

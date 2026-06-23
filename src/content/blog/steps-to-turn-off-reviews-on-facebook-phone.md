@@ -20,55 +20,55 @@ First things first, locate and tap the Facebook app icon on your phone’s home 
 
 Once you’re in the Facebook app, you’ll need to access your Facebook page. Here’s how:
 
-- Tap the menu icon (usually three horizontal lines) in the bottom right corner of the screen.
+1. Tap the menu icon (usually three horizontal lines) in the bottom right corner of the screen.
 
-- Scroll down and tap “Pages” to see a list of pages you manage.
+2. Scroll down and tap “Pages” to see a list of pages you manage.
 
-- Select the page for which you want to turn off reviews.
+3. Select the page for which you want to turn off reviews.
 
 ### Step 3: Access Page Settings
 
 After you’ve opened your Facebook page:
 
-- Tap the “Settings” gear icon, usually located near the top of the screen.
+1. Tap the “Settings” gear icon, usually located near the top of the screen.
 
-- Scroll down to find and tap on “Page Settings.”
+2. Scroll down to find and tap on “Page Settings.”
 
 ### Step 4: Find the Reviews Section
 
 In the Page Settings menu:
 
-- Look for the “Templates and Tabs” option and tap on it.
+1. Look for the “Templates and Tabs” option and tap on it.
 
-- Scroll down until you see “Reviews” or “Recommendations.”
+2. Scroll down until you see “Reviews” or “Recommendations.”
 
 ### Step 5: Toggle Off Reviews
 
 Now that you’ve found the Reviews section:
 
-- Tap on “Reviews” or “Recommendations.”
+1. Tap on “Reviews” or “Recommendations.”
 
-- You should see a toggle switch next to “Show Reviews” or “Allow Recommendations.”
+2. You should see a toggle switch next to “Show Reviews” or “Allow Recommendations.”
 
-- Tap the toggle to switch it to the off position.
+3. Tap the toggle to switch it to the off position.
 
 ### Step 6: Confirm Your Choice
 
 After toggling off reviews:
 
-- Facebook may ask you to confirm your decision.
+1. Facebook may ask you to confirm your decision.
 
-- Read any prompts carefully and tap “Confirm” or “OK” to proceed.
+2. Read any prompts carefully and tap “Confirm” or “OK” to proceed.
 
 ### Step 7: Check Your Page
 
 To ensure the changes have taken effect:
 
-- Go back to your page’s main view.
+1. Go back to your page’s main view.
 
-- Scroll down to where reviews were previously displayed.
+2. Scroll down to where reviews were previously displayed.
 
-- Verify that the reviews section is no longer visible.
+3. Verify that the reviews section is no longer visible.
 
 ## What Happens When You Turn Off Reviews?
 
@@ -86,13 +86,13 @@ It’s worth noting that **turning off reviews doesn’t delete them permanently
 
 Before you decide to completely turn off reviews, consider these alternatives:
 
-- **Respond to negative reviews**: Addressing concerns professionally can turn a negative experience into a positive one.
+1. **Respond to negative reviews**: Addressing concerns professionally can turn a negative experience into a positive one.
 
-- **Report inappropriate reviews**: Facebook allows you to report reviews that violate their community standards.
+2. **Report inappropriate reviews**: Facebook allows you to report reviews that violate their community standards.
 
-- **Use the “Hide” feature**: You can hide individual reviews without turning off the entire feature.
+3. **Use the “Hide” feature**: You can hide individual reviews without turning off the entire feature.
 
-- **Encourage positive reviews**: Ask satisfied customers to leave reviews to balance out any negative ones.
+4. **Encourage positive reviews**: Ask satisfied customers to leave reviews to balance out any negative ones.
 
 ## The Pros and Cons of Disabling Facebook Reviews
 
@@ -116,15 +116,15 @@ Before you decide to completely turn off reviews, consider these alternatives:
 
 If you decide to keep reviews enabled, here are some tips for effective management:
 
-- **Respond promptly**: Address both positive and negative reviews in a timely manner.
+1. **Respond promptly**: Address both positive and negative reviews in a timely manner.
 
-- **Be professional**: Always maintain a courteous and helpful tone, even when faced with criticism.
+2. **Be professional**: Always maintain a courteous and helpful tone, even when faced with criticism.
 
-- **Take action**: Use feedback constructively to improve your products or services.
+3. **Take action**: Use feedback constructively to improve your products or services.
 
-- **Encourage reviews**: Remind satisfied customers to leave reviews, but never offer incentives as this violates Facebook’s policies.
+4. **Encourage reviews**: Remind satisfied customers to leave reviews, but never offer incentives as this violates Facebook’s policies.
 
-- **Monitor regularly**: Check your reviews frequently to stay on top of customer sentiment.
+5. **Monitor regularly**: Check your reviews frequently to stay on top of customer sentiment.
 
 ## Conclusion
 

@@ -16,21 +16,21 @@ Before we dive into the specific steps, it’s important to understand what Inst
 
 Now, let’s get into the nitty-gritty of how to see what you’ve viewed on Instagram. Follow these steps to access your activity log:
 
-- **Open the Instagram app**: Start by launching the Instagram app on your mobile device. Make sure you’re logged into your account.
+1. **Open the Instagram app**: Start by launching the Instagram app on your mobile device. Make sure you’re logged into your account.
 
-- **Navigate to your profile**: Tap on the profile icon in the bottom right corner of the screen. This will take you to your personal Instagram profile.
+2. **Navigate to your profile**: Tap on the profile icon in the bottom right corner of the screen. This will take you to your personal Instagram profile.
 
-- **Access the menu**: Look for the three horizontal lines (hamburger menu) in the top right corner of your profile page. Tap on this icon to open the menu.
+3. **Access the menu**: Look for the three horizontal lines (hamburger menu) in the top right corner of your profile page. Tap on this icon to open the menu.
 
-- **Find “Your activity”**: Scroll through the menu options until you see “Your activity.” This section contains various insights into your Instagram usage.
+4. **Find “Your activity”**: Scroll through the menu options until you see “Your activity.” This section contains various insights into your Instagram usage.
 
-- **Explore recent interactions**: Once you’re in the “Your activity” section, you’ll see several categories. Look for options like “Interactions” or “Recent searches” to review your recent activity.
+5. **Explore recent interactions**: Once you’re in the “Your activity” section, you’ll see several categories. Look for options like “Interactions” or “Recent searches” to review your recent activity.
 
-- **Check your search history**: Tap on “Recent searches” to see a list of accounts, hashtags, and places you’ve recently searched for on Instagram.
+6. **Check your search history**: Tap on “Recent searches” to see a list of accounts, hashtags, and places you’ve recently searched for on Instagram.
 
-- **Review your likes**: In the “Interactions” section, you can find a list of posts you’ve recently liked. This can be helpful if you’re trying to locate a specific post you enjoyed.
+7. **Review your likes**: In the “Interactions” section, you can find a list of posts you’ve recently liked. This can be helpful if you’re trying to locate a specific post you enjoyed.
 
-- **Examine your comments**: Also under “Interactions,” you’ll find a record of your recent comments. This can be useful for revisiting conversations or finding posts you’ve engaged with.
+8. **Examine your comments**: Also under “Interactions,” you’ll find a record of your recent comments. This can be useful for revisiting conversations or finding posts you’ve engaged with.
 
 By following these steps, you’ll gain access to a wealth of information about your recent Instagram activity. However, it’s important to remember that this feature is primarily designed for personal use and reflection, rather than as a comprehensive tracking tool.
 

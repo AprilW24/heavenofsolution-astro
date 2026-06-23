@@ -28,11 +28,11 @@ Whatever the reason, follow the steps below to fully uninstall Greenify.
 
 The first step is to disable Greenify in your Android settings, if possible:
 
-- Go to Settings > Apps & notifications > See all apps
+1. Go to Settings > Apps & notifications > See all apps
 
-- Scroll down and tap on Greenify
+2. Scroll down and tap on Greenify
 
-- Tap Disable
+3. Tap Disable
 
 **Note:** On some devices, the Disable button may be grayed out, preventing you from disabling Greenify. If this is the case, skip ahead to Step 2.
 
@@ -40,11 +40,11 @@ The first step is to disable Greenify in your Android settings, if possible:
 
 If you couldn’t disable Greenify in settings, you can still stop the app from running:
 
-- Go to Settings > Apps & notifications > See all apps
+1. Go to Settings > Apps & notifications > See all apps
 
-- Tap on Greenify
+2. Tap on Greenify
 
-- Tap Force Stop to stop the app from running in the background
+3. Tap Force Stop to stop the app from running in the background
 
 Keep in mind that Force Stop only temporarily stops the app. Greenify may start itself again when certain events occur or after you restart your phone. To keep it stopped, you’ll need to Force Stop it regularly or use an app like Greenify itself to automate disabling it on a schedule.
 
@@ -52,11 +52,11 @@ Keep in mind that Force Stop only temporarily stops the app. Greenify may start 
 
 Many system apps that come preinstalled on Android devices can’t be fully uninstalled. However, you can uninstall any updates to the app and revert it back to the original factory version, which takes up less space. Here’s how:
 
-- Go to Settings > Apps & notifications > See all apps
+1. Go to Settings > Apps & notifications > See all apps
 
-- Tap on Greenify
+2. Tap on Greenify
 
-- Tap the three-dot menu in the top-right and select Uninstall updates
+3. Tap the three-dot menu in the top-right and select Uninstall updates
 
 Your device will now have the original version of Greenify that came with the phone. This may not fully remove the app, but it will take up less storage.
 
@@ -64,11 +64,11 @@ Your device will now have the original version of Greenify that came with the ph
 
 If you enabled Greenify as a device administrator during setup, you’ll need to remove this permission before uninstalling it completely:
 
-- Go to Settings > Security > Device admin apps
+1. Go to Settings > Security > Device admin apps
 
-- Tap on Greenify to deselect it
+2. Tap on Greenify to deselect it
 
-- Tap Deactivate on the popup to remove device administrator privileges
+3. Tap Deactivate on the popup to remove device administrator privileges
 
 You should now be able to uninstall Greenify from your device.
 
@@ -76,13 +76,13 @@ You should now be able to uninstall Greenify from your device.
 
 With the above steps completed, you can now uninstall Greenify from your Android device:
 
-- Go to Settings > Apps & notifications > See all apps
+1. Go to Settings > Apps & notifications > See all apps
 
-- Tap on Greenify
+2. Tap on Greenify
 
-- Tap Uninstall
+3. Tap Uninstall
 
-- Tap OK to confirm you want to uninstall the app
+4. Tap OK to confirm you want to uninstall the app
 
 Greenify will now be completely removed from your non-rooted Android phone or tablet.
 

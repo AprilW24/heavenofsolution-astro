@@ -16,21 +16,21 @@ To mute the original video sound in Canva, you’ll need to use a workaround sin
 
 Here are the steps you can follow to mute the video sound using other tools:
 
-- **Use a Video Editing App**: You can use apps like iMovie on Mac or InShot on mobile devices. These apps allow you to import your video, mute the audio, and then export it.
+1. **Use a Video Editing App**: You can use apps like iMovie on Mac or InShot on mobile devices. These apps allow you to import your video, mute the audio, and then export it.
 
-- **Use Online Video Editors**: Websites like Kapwing or Clipchamp offer free tools to mute video audio online. You can upload your video, remove the audio, and download it.
+2. **Use Online Video Editors**: Websites like Kapwing or Clipchamp offer free tools to mute video audio online. You can upload your video, remove the audio, and download it.
 
-- **Import to Canva**: Once you’ve muted the audio, import the video into Canva. You can then add your own audio tracks or music to the video.
+3. **Import to Canva**: Once you’ve muted the audio, import the video into Canva. You can then add your own audio tracks or music to the video.
 
 ## How to Add Audio in Canva
 
 After you’ve muted the original sound, you can add your own audio in Canva. Here’s how:
 
-- **Upload Your Audio**: Go to the “Uploads” tab in Canva and upload your audio file.
+1. **Upload Your Audio**: Go to the “Uploads” tab in Canva and upload your audio file.
 
-- **Add Audio to Video**: Drag and drop the audio file onto your video timeline in Canva.
+2. **Add Audio to Video**: Drag and drop the audio file onto your video timeline in Canva.
 
-- **Adjust Audio Settings**: You can adjust the volume, trim the audio, or add more audio tracks as needed.
+3. **Adjust Audio Settings**: You can adjust the volume, trim the audio, or add more audio tracks as needed.
 
 ## Tips for Working with Audio in Canva
 

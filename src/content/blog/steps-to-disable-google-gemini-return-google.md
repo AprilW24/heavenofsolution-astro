@@ -24,25 +24,25 @@ It’s also worth knowing that Gemini comes with privacy trade-offs. When it’s
 
 Here’s the fastest and most reliable way to get Google Assistant back as your default assistant. This method works through the Gemini app settings directly.
 
-- Open the **Gemini** app on your Android phone.
+1. Open the **Gemini** app on your Android phone.
 
-- Tap your **profile icon** in the top-right corner of the screen.
+2. Tap your **profile icon** in the top-right corner of the screen.
 
-- Select **Settings** from the menu that appears.
+3. Select **Settings** from the menu that appears.
 
-- Scroll down and tap **Digital assistants from Google**.
+4. Scroll down and tap **Digital assistants from Google**.
 
-- Select **Google Assistant** from the list of options.
+5. Select **Google Assistant** from the list of options.
 
-- Tap **Switch** on the confirmation prompt that pops up.
+6. Tap **Switch** on the confirmation prompt that pops up.
 
-- Open your phone’s **Settings** app as a backup check.
+7. Open your phone’s **Settings** app as a backup check.
 
-- Go to **Apps & notifications**, then tap **Default apps**.
+8. Go to **Apps & notifications**, then tap **Default apps**.
 
-- Tap **Digital assistant app** and confirm it’s now set to **Google Assistant**.
+9. Tap **Digital assistant app** and confirm it’s now set to **Google Assistant**.
 
-- Restart your phone to make sure the change sticks. ✅
+10. Restart your phone to make sure the change sticks. ✅
 
 If you don’t see Gemini on your phone but still want to change the default assistant, you can go through the Google app instead. Open the **Google app**, tap your profile picture, go to **Settings**, then tap **Google Assistant**, and look for **Digital Assistants from Google** to make the switch.
 

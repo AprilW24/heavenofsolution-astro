@@ -72,13 +72,13 @@ It’s important to note that blocking is reciprocal on TikTok. This means that 
 
 After blocking someone, you might want to review your list of blocked users or even unblock someone in the future. TikTok makes this process relatively simple:
 
-- Go to your profile by tapping the “Me” icon at the bottom right of the screen.
+1. Go to your profile by tapping the “Me” icon at the bottom right of the screen.
 
-- Tap the three dots or “More” icon at the top right to access your settings.
+2. Tap the three dots or “More” icon at the top right to access your settings.
 
-- Scroll down to find “Privacy” and tap on it.
+3. Scroll down to find “Privacy” and tap on it.
 
-- Look for “Blocked accounts” and tap to view your list of blocked users.
+4. Look for “Blocked accounts” and tap to view your list of blocked users.
 
 From this list, you can see all the accounts you’ve blocked. If you decide to unblock someone, simply tap on their name and select “Unblock.” Remember, unblocking someone doesn’t automatically restore any previous connections. If you were following each other before, you’ll need to manually follow them again, and they’ll need to do the same.
 

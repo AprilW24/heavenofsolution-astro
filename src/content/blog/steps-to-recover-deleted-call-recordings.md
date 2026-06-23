@@ -12,11 +12,11 @@ Have you ever accidentally deleted an important call recording on your Android p
 
 **The first step in recovering deleted call recordings is to check your device’s Recycle Bin or Trash folder.** Many Android devices have a built-in feature that temporarily stores deleted files before permanently erasing them. To check your Recycle Bin:
 
-- Open your device’s File Manager app
+1. Open your device’s File Manager app
 
-- Look for a folder named **Recycle Bin** or **Trash**
+2. Look for a folder named **Recycle Bin** or **Trash**
 
-- If you find your deleted call recording, simply restore it to its original location
+3. If you find your deleted call recording, simply restore it to its original location
 
 ## 2. Use a Data Recovery App
 
@@ -30,37 +30,37 @@ If you can’t find your deleted call recording in the Recycle Bin, **the next s
 
 To use a data recovery app:
 
-- Download and install the app of your choice from the Google Play Store
+1. Download and install the app of your choice from the Google Play Store
 
-- Launch the app and grant it necessary permissions
+2. Launch the app and grant it necessary permissions
 
-- Select the type of files you want to recover (in this case, audio files)
+3. Select the type of files you want to recover (in this case, audio files)
 
-- Choose the location where your call recordings were stored (usually in the **Call Recordings** folder)
+4. Choose the location where your call recordings were stored (usually in the **Call Recordings** folder)
 
-- Scan the selected location and wait for the app to find your deleted recordings
+5. Scan the selected location and wait for the app to find your deleted recordings
 
-- Once found, select the files you want to recover and restore them to your device
+6. Once found, select the files you want to recover and restore them to your device
 
 ## 3. Connect Your Device to a Computer
 
 **Another method to recover deleted call recordings is by connecting your Android device to a computer.** This allows you to access your phone’s internal storage and search for the deleted files using data recovery software. To do this:
 
-- Connect your Android device to your computer using a USB cable
+1. Connect your Android device to your computer using a USB cable
 
-- Enable USB debugging on your phone (Settings > Developer Options > USB Debugging)
+2. Enable USB debugging on your phone (Settings > Developer Options > USB Debugging)
 
-- Download and install Android data recovery software on your computer (e.g., Dr. Fone, EaseUS MobiSaver)
+3. Download and install Android data recovery software on your computer (e.g., Dr. Fone, EaseUS MobiSaver)
 
-- Launch the software and select the **Recover** option
+4. Launch the software and select the **Recover** option
 
-- Choose your device from the list of connected devices
+5. Choose your device from the list of connected devices
 
-- Select the type of files you want to recover (audio files) and the location where they were stored
+6. Select the type of files you want to recover (audio files) and the location where they were stored
 
-- Scan your device and wait for the software to find your deleted call recordings
+7. Scan your device and wait for the software to find your deleted call recordings
 
-- Preview the found files, select the ones you want to recover, and save them to your computer
+8. Preview the found files, select the ones you want to recover, and save them to your computer
 
 ## 4. Contact Your Service Provider
 

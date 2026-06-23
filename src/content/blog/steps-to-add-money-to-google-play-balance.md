@@ -104,15 +104,15 @@ If you’ve accumulated Google Play Points through purchases or promotions, you 
 
 When adding money to your Google Play balance, keep these points in mind:
 
-- **Balance Restrictions:** Google Play balance is non-refundable and non-transferable unless required by law. This applies to gift cards, prepaid balance, and promotional credit.
+1. **Balance Restrictions:** Google Play balance is non-refundable and non-transferable unless required by law. This applies to gift cards, prepaid balance, and promotional credit.
 
-- **Regional Limitations:** The availability of certain features and denominations may vary depending on your country or region.
+2. **Regional Limitations:** The availability of certain features and denominations may vary depending on your country or region.
 
-- **Usage Limitations:** Google Play balance can only be used for purchases within the Google Play ecosystem. It cannot be used for Google Pay transactions outside of Google Play.
+3. **Usage Limitations:** Google Play balance can only be used for purchases within the Google Play ecosystem. It cannot be used for Google Pay transactions outside of Google Play.
 
-- **Expiration:** In some cases, Google Play balance may have an expiration date, especially for promotional credits. Be sure to check the terms associated with your balance.
+4. **Expiration:** In some cases, Google Play balance may have an expiration date, especially for promotional credits. Be sure to check the terms associated with your balance.
 
-- **Security:** Always ensure you’re using secure and trusted methods to add money to your Google Play balance. Keep your payment information private and use strong passwords for your Google account.
+5. **Security:** Always ensure you’re using secure and trusted methods to add money to your Google Play balance. Keep your payment information private and use strong passwords for your Google account.
 
 ## Benefits of Maintaining a Google Play Balance
 

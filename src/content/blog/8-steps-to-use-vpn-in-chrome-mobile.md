@@ -12,13 +12,13 @@ Chrome mobile is a popular web browser for Android devices, offering a seamless 
 
 Before we dive into the steps, let’s briefly discuss why you might want to use a VPN in Chrome mobile:
 
-- **Enhanced privacy**: A VPN encrypts your internet traffic, making it difficult for ISPs, hackers, or other third parties to monitor your online activities.
+1. **Enhanced privacy**: A VPN encrypts your internet traffic, making it difficult for ISPs, hackers, or other third parties to monitor your online activities.
 
-- **Access geo-restricted content**: VPNs allow you to bypass geographical restrictions and access content that may be blocked in your region.
+2. **Access geo-restricted content**: VPNs allow you to bypass geographical restrictions and access content that may be blocked in your region.
 
-- **Improved security**: When using public Wi-Fi networks, a VPN adds an extra layer of security to protect your sensitive information.
+3. **Improved security**: When using public Wi-Fi networks, a VPN adds an extra layer of security to protect your sensitive information.
 
-- **Anonymous browsing**: By masking your IP address, a VPN helps you maintain anonymity online.
+4. **Anonymous browsing**: By masking your IP address, a VPN helps you maintain anonymity online.
 
 Now that we understand the benefits, let’s explore how to set up and use a VPN in Chrome mobile.
 
@@ -44,75 +44,75 @@ Research different providers and choose one that best fits your needs and budget
 
 Once you’ve chosen a VPN service, follow these steps to download and install the app:
 
-- Open the Google Play Store on your Android device.
+1. Open the Google Play Store on your Android device.
 
-- Search for your chosen VPN provider’s app.
+2. Search for your chosen VPN provider’s app.
 
-- Tap **Install** to download and install the app.
+3. Tap **Install** to download and install the app.
 
-- Once installed, open the app.
+4. Once installed, open the app.
 
 ### Step 3: Set Up Your VPN Account
 
 After installing the VPN app, you’ll need to set up your account:
 
-- If you’re a new user, tap **Sign Up** or **Create Account** and follow the prompts to create your account.
+1. If you’re a new user, tap **Sign Up** or **Create Account** and follow the prompts to create your account.
 
-- If you already have an account, tap **Log In** and enter your credentials.
+2. If you already have an account, tap **Log In** and enter your credentials.
 
-- Some VPN apps may require you to verify your email address or phone number.
+3. Some VPN apps may require you to verify your email address or phone number.
 
 ### Step 4: Configure VPN Settings
 
 Before connecting to a VPN server, you may want to configure some settings:
 
-- Open the VPN app and navigate to the settings menu.
+1. Open the VPN app and navigate to the settings menu.
 
-- Look for options like **Auto-connect**, **Kill switch**, or **Split tunneling** and enable them according to your preferences.
+2. Look for options like **Auto-connect**, **Kill switch**, or **Split tunneling** and enable them according to your preferences.
 
-- Some apps allow you to choose specific protocols (e.g., OpenVPN, IKEv2). Select the one that best suits your needs.
+3. Some apps allow you to choose specific protocols (e.g., OpenVPN, IKEv2). Select the one that best suits your needs.
 
 ### Step 5: Connect to a VPN Server
 
 Now you’re ready to connect to a VPN server:
 
-- In the VPN app, you’ll typically see a list of available server locations.
+1. In the VPN app, you’ll typically see a list of available server locations.
 
-- Choose a server location based on your needs (e.g., for faster speeds, select a nearby server; for accessing geo-restricted content, choose a server in the desired country).
+2. Choose a server location based on your needs (e.g., for faster speeds, select a nearby server; for accessing geo-restricted content, choose a server in the desired country).
 
-- Tap the **Connect** button to establish a VPN connection.
+3. Tap the **Connect** button to establish a VPN connection.
 
-- Wait for the app to confirm that you’re connected.
+4. Wait for the app to confirm that you’re connected.
 
 ### Step 6: Verify Your VPN Connection
 
 Before you start browsing, it’s a good idea to verify that your VPN connection is working:
 
-- Open a web browser and search for **What is my IP address**.
+1. Open a web browser and search for **What is my IP address**.
 
-- Check if the displayed IP address matches the location of the VPN server you connected to.
+2. Check if the displayed IP address matches the location of the VPN server you connected to.
 
-- You can also visit ipleak.net to perform a more comprehensive check of your connection.
+3. You can also visit ipleak.net to perform a more comprehensive check of your connection.
 
 ### Step 7: Use Chrome Mobile with VPN
 
 Now that your VPN is active, you can use Chrome mobile with enhanced privacy and security:
 
-- Open the Chrome mobile app on your Android device.
+1. Open the Chrome mobile app on your Android device.
 
-- Browse the internet as you normally would.
+2. Browse the internet as you normally would.
 
-- Your internet traffic will now be routed through the VPN server, encrypting your data and masking your IP address.
+3. Your internet traffic will now be routed through the VPN server, encrypting your data and masking your IP address.
 
 ### Step 8: Disconnect from VPN When Not Needed
 
 When you’re done using the VPN, it’s a good practice to disconnect:
 
-- Open your VPN app.
+1. Open your VPN app.
 
-- Tap the **Disconnect** button.
+2. Tap the **Disconnect** button.
 
-- Wait for the app to confirm that you’re disconnected.
+3. Wait for the app to confirm that you’re disconnected.
 
 ## Additional Tips for Using VPN in Chrome Mobile
 
@@ -120,11 +120,9 @@ To make the most of your VPN experience in Chrome mobile, consider these additio
 
 1. **Use the VPN app’s browser extension**: Some VPN providers offer browser extensions for Chrome mobile. These can provide additional features and easier access to VPN controls.
 
-- 
-
 2. **Enable “Always-on VPN”**: For constant protection, you can enable the **Always-on VPN** feature in your Android settings:
 
-Go to Settings > Network & Internet > Advanced > VPN.
+- Go to Settings > Network & Internet > Advanced > VPN.
 
 - Tap the gear icon next to your VPN.
 

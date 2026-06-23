@@ -20,25 +20,25 @@ That said, Perplexity hasn’t left us totally out in the cold. The actual image
 
 Ready to roll? Here’s everything you need, in just a few taps:
 
-- Open Chrome (or your browser of choice) on your Android device.
+1. Open Chrome (or your browser of choice) on your Android device.
 
-- Go to *perplexity.ai* and log in to your account.
+2. Go to *perplexity.ai* and log in to your account.
 
-- Close any pop-up that tries to redirect you to the Android app.
+3. Close any pop-up that tries to redirect you to the Android app.
 
-- Start a new chat or thread as you usually would.
+4. Start a new chat or thread as you usually would.
 
-- Type your prompt, like “generate an image of a cat surfing” (get creative!).
+5. Type your prompt, like “generate an image of a cat surfing” (get creative!).
 
-- Send the prompt and wait for Perplexity to respond.
+6. Send the prompt and wait for Perplexity to respond.
 
-- If available, look for the “Generate Image” section or button in the response thread.
+7. If available, look for the “Generate Image” section or button in the response thread.
 
-- Tap to customize the image style (choose from illustration, photo, painting, diagram, etc.).
+8. Tap to customize the image style (choose from illustration, photo, painting, diagram, etc.).
 
-- Submit your choices and let Perplexity work its magic.
+9. Submit your choices and let Perplexity work its magic.
 
-- Download, share, or tweak the AI-generated image right from your phone.
+10. Download, share, or tweak the AI-generated image right from your phone.
 
 ## Picking the Right Style and Model for Your AI Images
 

@@ -58,13 +58,13 @@ Once you’ve created a reminder, you have several options for managing it:
 
 To make the most of Messenger’s reminder feature, consider these tips:
 
-- **Be specific**: Use clear, concise language in your reminder titles.
+1. **Be specific**: Use clear, concise language in your reminder titles.
 
-- **Set appropriate alerts**: Choose notification times that give you enough lead time to prepare.
+2. **Set appropriate alerts**: Choose notification times that give you enough lead time to prepare.
 
-- **Use for group planning**: Leverage reminders in group chats to coordinate events effortlessly.
+3. **Use for group planning**: Leverage reminders in group chats to coordinate events effortlessly.
 
-- **Combine with other features**: Use polls or location sharing in conjunction with reminders for comprehensive event planning.
+4. **Combine with other features**: Use polls or location sharing in conjunction with reminders for comprehensive event planning.
 
 ## Troubleshooting Common Issues
 

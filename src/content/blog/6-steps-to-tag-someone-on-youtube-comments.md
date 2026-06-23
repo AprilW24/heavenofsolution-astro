@@ -52,13 +52,13 @@ While the above method is the primary way to **tag** someone in YouTube comments
 
 If you’re a content creator, you can mention other channels in your video titles or descriptions. Here’s how:
 
-- Go to YouTube Studio
+1. Go to YouTube Studio
 
-- Create a new video or edit an existing one
+2. Create a new video or edit an existing one
 
-- In the title or description field, type **@** followed by the channel name
+3. In the title or description field, type **@** followed by the channel name
 
-- Select the correct channel from the dropdown list that appears
+4. Select the correct channel from the dropdown list that appears
 
 **Note:** Both your channel and the one you’re mentioning must have over 1000 subscribers for this to work.
 
@@ -66,27 +66,27 @@ If you’re a content creator, you can mention other channels in your video titl
 
 Another way to mention someone is by including their channel URL in your comment. While this doesn’t notify them directly, it does create a clickable link to their channel. Here’s how:
 
-- Go to the channel you want to mention
+1. Go to the channel you want to mention
 
-- Copy their channel URL from the address bar
+2. Copy their channel URL from the address bar
 
-- In your comment, paste the full URL
+3. In your comment, paste the full URL
 
-- When posted, this will appear as a clickable link
+4. When posted, this will appear as a clickable link
 
 ## Best Practices for Tagging on YouTube
 
 When tagging or mentioning others on YouTube, keep these best practices in mind:
 
-- **Be relevant:** Only tag people when it’s directly relevant to the conversation or content.
+1. **Be relevant:** Only tag people when it’s directly relevant to the conversation or content.
 
-- **Don’t overdo it:** Excessive tagging can be seen as spam. Use the feature sparingly and purposefully.
+2. **Don’t overdo it:** Excessive tagging can be seen as spam. Use the feature sparingly and purposefully.
 
-- **Respect privacy:** Some users may not want to be tagged frequently. Be mindful of this and respect others’ boundaries.
+3. **Respect privacy:** Some users may not want to be tagged frequently. Be mindful of this and respect others’ boundaries.
 
-- **Add value:** When tagging someone, ensure your comment adds value to the discussion. Don’t tag just for the sake of it.
+4. **Add value:** When tagging someone, ensure your comment adds value to the discussion. Don’t tag just for the sake of it.
 
-- **Be aware of context:** Consider the video’s topic and the existing comment thread before tagging someone.
+5. **Be aware of context:** Consider the video’s topic and the existing comment thread before tagging someone.
 
 ## Troubleshooting Common Issues
 

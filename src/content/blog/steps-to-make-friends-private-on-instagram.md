@@ -22,15 +22,15 @@ The most straightforward way to control who can see your friends list on Instagr
 
 To make your account private:
 
-- Open the Instagram app and go to your profile.
+1. Open the Instagram app and go to your profile.
 
-- Tap the three horizontal lines (hamburger menu) in the top right corner.
+2. Tap the three horizontal lines (hamburger menu) in the top right corner.
 
-- Select “Settings and Privacy.”
+3. Select “Settings and Privacy.”
 
-- Tap on “Privacy.”
+4. Tap on “Privacy.”
 
-- Toggle on the “Private Account” option.
+5. Toggle on the “Private Account” option.
 
 **Note:** When you switch to a private account, any pending follow requests will need to be approved manually. Additionally, your existing followers will still have access to your content and friends list.
 
@@ -40,13 +40,13 @@ If you’ve had a public account for a while and want to clean up your follower 
 
 To remove followers:
 
-- Go to your profile and tap on your follower count.
+1. Go to your profile and tap on your follower count.
 
-- Scroll through your list of followers.
+2. Scroll through your list of followers.
 
-- Tap the three dots next to a follower’s name.
+3. Tap the three dots next to a follower’s name.
 
-- Select “Remove follower.”
+4. Select “Remove follower.”
 
 This method allows you to curate your audience without the awkwardness of blocking someone or the risk of them noticing that you’ve removed them.
 
@@ -56,11 +56,11 @@ If there are particular individuals you want to prevent from seeing your profile
 
 To block a user:
 
-- Go to the user’s profile.
+1. Go to the user’s profile.
 
-- Tap the three dots in the top right corner.
+2. Tap the three dots in the top right corner.
 
-- Select “Block.”
+3. Select “Block.”
 
 Blocked users won’t be able to find your profile, see your posts, or view your friends list. However, keep in mind that they may still be able to see your profile if they’re not logged in or if they use another account.
 
@@ -88,11 +88,11 @@ If you want to share content with a select group without making your entire acco
 
 To set up Close Friends:
 
-- Go to your profile and tap the hamburger menu.
+1. Go to your profile and tap the hamburger menu.
 
-- Select “Close Friends.”
+2. Select “Close Friends.”
 
-- Add people to your Close Friends list.
+3. Add people to your Close Friends list.
 
 Now, when you post a story, you can choose to share it only with your Close Friends, giving you more control over who sees certain content.
 
@@ -106,13 +106,13 @@ Two-factor authentication adds an extra layer of security to your account, makin
 
 To enable 2FA:
 
-- Go to Settings and Privacy.
+1. Go to Settings and Privacy.
 
-- Tap “Security.”
+2. Tap “Security.”
 
-- Select “Two-Factor Authentication.”
+3. Select “Two-Factor Authentication.”
 
-- Choose your preferred method (Authentication App or Text Message).
+4. Choose your preferred method (Authentication App or Text Message).
 
 ### Manage Your Activity Status
 
@@ -120,37 +120,37 @@ By default, Instagram shows when you’re active on the app. You can turn this o
 
 To hide your activity status:
 
-- Go to Settings and Privacy.
+1. Go to Settings and Privacy.
 
-- Tap “Privacy.”
+2. Tap “Privacy.”
 
-- Select “Activity Status.”
+3. Select “Activity Status.”
 
-- Toggle off “Show Activity Status.”
+4. Toggle off “Show Activity Status.”
 
 ### Control Tag Settings
 
 Prevent others from tagging you in posts without your approval:
 
-- Go to Settings and Privacy.
+1. Go to Settings and Privacy.
 
-- Tap “Privacy.”
+2. Tap “Privacy.”
 
-- Select “Tags.”
+3. Select “Tags.”
 
-- Choose “Add Manually” under “Allow Tags From.”
+4. Choose “Add Manually” under “Allow Tags From.”
 
 ### Limit Data Sharing with Third-Party Apps
 
 Review and revoke access to any third-party apps that you’ve connected to your Instagram account:
 
-- Go to Settings and Privacy.
+1. Go to Settings and Privacy.
 
-- Tap “Security.”
+2. Tap “Security.”
 
-- Select “Apps and Websites.”
+3. Select “Apps and Websites.”
 
-- Review and remove any unwanted connections.
+4. Review and remove any unwanted connections.
 
 ## Conclusion
 

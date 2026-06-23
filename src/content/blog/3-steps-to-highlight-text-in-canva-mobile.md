@@ -20,17 +20,17 @@ The Background Effect is perhaps the simplest way to highlight text in Canva mob
 
 **Steps:**
 
-- Open your Canva mobile app and create a new design or open an existing one.
+1. Open your Canva mobile app and create a new design or open an existing one.
 
-- Tap on the text box containing the text you want to highlight. If you haven’t added text yet, tap the “+” icon and select “Text” to add a new text box.
+2. Tap on the text box containing the text you want to highlight. If you haven’t added text yet, tap the “+” icon and select “Text” to add a new text box.
 
-- With the text box selected, tap on the “Effects” button at the bottom of the screen.
+3. With the text box selected, tap on the “Effects” button at the bottom of the screen.
 
-- Scroll through the effects options and select “Background.”
+4. Scroll through the effects options and select “Background.”
 
-- You’ll now see options to customize your text highlight. You can adjust:• Color: Tap the color swatch to choose a highlight color.• Roundness: Use the slider to adjust how rounded the corners of your highlight are.• Spread: Adjust how far the highlight extends beyond your text.• Transparency: Make your highlight more or less opaque.
+5. You’ll now see options to customize your text highlight. You can adjust:• Color: Tap the color swatch to choose a highlight color.• Roundness: Use the slider to adjust how rounded the corners of your highlight are.• Spread: Adjust how far the highlight extends beyond your text.• Transparency: Make your highlight more or less opaque.
 
-- Experiment with these settings until you’re happy with the result.
+6. Experiment with these settings until you’re happy with the result.
 
 This method is quick and easy, but it does have some limitations. The highlight will apply to the entire text box, so you can’t highlight individual words or phrases within a longer block of text. For more precise highlighting, you’ll need to use one of the following methods.
 
@@ -40,21 +40,21 @@ For more control over your text highlights, you can use Canva’s shape elements
 
 **Steps:**
 
-- Open your design in Canva mobile.
+1. Open your design in Canva mobile.
 
-- Tap the “+” icon and select “Elements.”
+2. Tap the “+” icon and select “Elements.”
 
-- Search for “rectangle” or “square” in the elements search bar.
+3. Search for “rectangle” or “square” in the elements search bar.
 
-- Choose a rectangle or square shape and tap to add it to your design.
+4. Choose a rectangle or square shape and tap to add it to your design.
 
-- Resize and position the shape behind the text you want to highlight. You can use two fingers to pinch and zoom for more precise positioning.
+5. Resize and position the shape behind the text you want to highlight. You can use two fingers to pinch and zoom for more precise positioning.
 
-- With the shape selected, tap the color icon at the top of the screen to change its color. Choose a highlight color that complements your design.
+6. With the shape selected, tap the color icon at the top of the screen to change its color. Choose a highlight color that complements your design.
 
-- If the shape is covering your text, tap the “Position” button at the bottom of the screen and select “Back” to move the shape behind the text.
+7. If the shape is covering your text, tap the “Position” button at the bottom of the screen and select “Back” to move the shape behind the text.
 
-- Adjust the transparency of the shape if needed by tapping the transparency icon (it looks like two overlapping squares) and using the slider.
+8. Adjust the transparency of the shape if needed by tapping the transparency icon (it looks like two overlapping squares) and using the slider.
 
 This method offers more flexibility than the Background Effect, allowing you to create custom highlights for specific words or phrases. You can even use multiple shapes to highlight different parts of your text in various colors.
 
@@ -64,21 +64,21 @@ For the most precise control over your text highlights, you can use Canva’s dr
 
 **Steps:**
 
-- Open your design in Canva mobile.
+1. Open your design in Canva mobile.
 
-- Tap the “+” icon and select “Draw.”
+2. Tap the “+” icon and select “Draw.”
 
-- Choose a brush style from the options at the bottom of the screen. The marker or highlighter styles work well for text highlighting.
+3. Choose a brush style from the options at the bottom of the screen. The marker or highlighter styles work well for text highlighting.
 
-- Select a color for your highlight.
+4. Select a color for your highlight.
 
-- Use your finger or a stylus to draw the highlight behind your text. You may want to zoom in for more precise control.
+5. Use your finger or a stylus to draw the highlight behind your text. You may want to zoom in for more precise control.
 
-- If you make a mistake, you can use the eraser tool to clean up your highlight.
+6. If you make a mistake, you can use the eraser tool to clean up your highlight.
 
-- Once you’re happy with your highlight, tap the checkmark to confirm.
+7. Once you’re happy with your highlight, tap the checkmark to confirm.
 
-- If necessary, use the “Position” button to move your drawn highlight behind the text.
+8. If necessary, use the “Position” button to move your drawn highlight behind the text.
 
 The drawing tool offers the most creative freedom, allowing you to create unique, hand-drawn style highlights. This can be particularly effective for designs that aim for a more casual or artistic look.
 

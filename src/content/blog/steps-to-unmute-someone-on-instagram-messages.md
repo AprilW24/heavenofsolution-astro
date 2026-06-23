@@ -62,15 +62,15 @@ While the method described above is the most common way to unmute someone on Ins
 
 While knowing how to unmute someone on Instagram is important, it’s equally crucial to manage your messages effectively. Here are some best practices to keep in mind:
 
-- **Use muting judiciously**: Mute conversations only when necessary. Overusing this feature might cause you to miss important messages.
+1. **Use muting judiciously**: Mute conversations only when necessary. Overusing this feature might cause you to miss important messages.
 
-- **Regularly review muted conversations**: Set a reminder to periodically check your muted conversations. You might find that it’s time to unmute some of them.
+2. **Regularly review muted conversations**: Set a reminder to periodically check your muted conversations. You might find that it’s time to unmute some of them.
 
-- **Communicate your availability**: If you’re muting someone because you’re busy, consider letting them know. This can help maintain good relationships and prevent misunderstandings.
+3. **Communicate your availability**: If you’re muting someone because you’re busy, consider letting them know. This can help maintain good relationships and prevent misunderstandings.
 
-- **Utilize Instagram’s “Close Friends” feature**: For important contacts, add them to your “Close Friends” list. This ensures their messages always appear at the top of your inbox.
+4. **Utilize Instagram’s “Close Friends” feature**: For important contacts, add them to your “Close Friends” list. This ensures their messages always appear at the top of your inbox.
 
-- **Take advantage of message requests**: Instagram automatically filters messages from people you don’t follow into a separate “Message Requests” folder. This can help manage your inbox without needing to mute conversations.
+5. **Take advantage of message requests**: Instagram automatically filters messages from people you don’t follow into a separate “Message Requests” folder. This can help manage your inbox without needing to mute conversations.
 
 ## The Impact of Unmuting on Instagram Interactions
 
@@ -90,13 +90,13 @@ When you unmute someone on Instagram messages, it’s important to understand ho
 
 While unmuting someone on Instagram is usually a straightforward process, you might encounter some issues. Here are solutions to common problems:
 
-- **Can’t find the mute option**: If you can’t find the mute option in the conversation settings, try updating your Instagram app to the latest version.
+1. **Can’t find the mute option**: If you can’t find the mute option in the conversation settings, try updating your Instagram app to the latest version.
 
-- **Still not receiving notifications after unmuting**: Check your device’s notification settings for the Instagram app. Ensure that Instagram has permission to send notifications.
+2. **Still not receiving notifications after unmuting**: Check your device’s notification settings for the Instagram app. Ensure that Instagram has permission to send notifications.
 
-- **The conversation remains at the bottom of the inbox**: Even after unmuting, the conversation might not immediately move up in your inbox. This will change once new messages are received.
+3. **The conversation remains at the bottom of the inbox**: Even after unmuting, the conversation might not immediately move up in your inbox. This will change once new messages are received.
 
-- **Unable to unmute a group chat**: If you’re having trouble unmuting a group chat, try leaving and rejoining the group. Note that this will delete your chat history in that group.
+4. **Unable to unmute a group chat**: If you’re having trouble unmuting a group chat, try leaving and rejoining the group. Note that this will delete your chat history in that group.
 
 ## Conclusion
 

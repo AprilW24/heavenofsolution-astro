@@ -12,41 +12,41 @@ Are you switching from an iPhone to an Android phone but don’t have your old i
 
 First, you’ll need to export your contacts from iCloud:
 
-- On your computer, open a web browser and go to iCloud.com
+1. On your computer, open a web browser and go to iCloud.com
 
-- Sign in with your Apple ID and password
+2. Sign in with your Apple ID and password
 
-- Click on the **Contacts** icon
+3. Click on the **Contacts** icon
 
-- Select the contacts you want to export, or press **Ctrl+A** (Windows) or **Command+A** (Mac) to select all
+4. Select the contacts you want to export, or press **Ctrl+A** (Windows) or **Command+A** (Mac) to select all
 
-- Click the gear icon in the bottom-left and choose **Export vCard**
+5. Click the gear icon in the bottom-left and choose **Export vCard**
 
-- Save the .vcf file to your computer
+6. Save the .vcf file to your computer
 
 ### Step 2: Import Contacts to Google Contacts
 
 Next, import the contacts to your Google account so they sync to your Android phone:
 
-- Go to contacts.google.com and sign in with the Google account linked to your Android phone
+1. Go to contacts.google.com and sign in with the Google account linked to your Android phone
 
-- Click **Import** in the left sidebar
+2. Click **Import** in the left sidebar
 
-- Click **Select file** and choose the .vcf file you exported from iCloud
+3. Click **Select file** and choose the .vcf file you exported from iCloud
 
-- Click **Import** to upload the contacts to Google
+4. Click **Import** to upload the contacts to Google
 
 ### Step 3: Sync Contacts to Android
 
 Finally, make sure contact sync is enabled on your Android phone:
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap **Accounts**, then tap your Google account
+2. Tap **Accounts**, then tap your Google account
 
-- Make sure **Contacts** is checked to enable syncing
+3. Make sure **Contacts** is checked to enable syncing
 
-- Open the **Contacts** app and your imported iCloud contacts should appear
+4. Open the **Contacts** app and your imported iCloud contacts should appear
 
 ### Alternative: Use a Contacts Transfer App
 

@@ -14,47 +14,47 @@ When you delete a photo using your Android phone’s Gallery app, it’s not act
 
 However, if you want to delete photos from your Android phone right away, here are the steps:
 
-- **Open the Gallery or Photos app** on your Android device. This is where all the photos stored on your phone’s internal storage or SD card can be viewed and managed.
+1. **Open the Gallery or Photos app** on your Android device. This is where all the photos stored on your phone’s internal storage or SD card can be viewed and managed.
 
-- **Select the photos you want to delete.** Tap and hold a photo thumbnail until it is highlighted, then tap any additional photos you want to remove. You can also tap the **Select** button and then tap the photos to delete multiple at once.
+2. **Select the photos you want to delete.** Tap and hold a photo thumbnail until it is highlighted, then tap any additional photos you want to remove. You can also tap the **Select** button and then tap the photos to delete multiple at once.
 
-- **Tap the Trash or Delete icon.** This will move the selected photos to the Trash or Recycle Bin.
+3. **Tap the Trash or Delete icon.** This will move the selected photos to the Trash or Recycle Bin.
 
-- **Empty the Trash or Recycle Bin.** The deleted photos will remain here for 30-60 days. To delete them permanently, tap the three-dot menu icon and select **Empty Trash** or **Empty Recycle Bin**. Confirm the permanent deletion.
+4. **Empty the Trash or Recycle Bin.** The deleted photos will remain here for 30-60 days. To delete them permanently, tap the three-dot menu icon and select **Empty Trash** or **Empty Recycle Bin**. Confirm the permanent deletion.
 
 Alternatively, you can bypass the Trash entirely and delete photos permanently in one step:
 
-- **Select the photos** you want to delete in the Gallery or Photos app.
+1. **Select the photos** you want to delete in the Gallery or Photos app.
 
-- **Tap the three-dot menu icon** in the upper right and choose **Delete permanently**.
+2. **Tap the three-dot menu icon** in the upper right and choose **Delete permanently**.
 
-- **Confirm the deletion** by tapping **Delete** in the dialog that appears. The photos will be erased permanently right away.
+3. **Confirm the deletion** by tapping **Delete** in the dialog that appears. The photos will be erased permanently right away.
 
 ### 2. Deleting Photos from an SD Card
 
 Many Android phones have an SD card slot for expandable storage. If you store photos on an SD card, you can delete them permanently using these steps:
 
-- **Open the Files app** on your Android phone. This lets you browse files and folders on your device’s storage.
+1. **Open the Files app** on your Android phone. This lets you browse files and folders on your device’s storage.
 
-- **Tap SD card** to view the contents of your phone’s SD card.
+2. **Tap SD card** to view the contents of your phone’s SD card.
 
-- **Navigate to the folder** containing the photos you want to delete, such as DCIM/Camera.
+3. **Navigate to the folder** containing the photos you want to delete, such as DCIM/Camera.
 
-- **Tap and hold a photo** to select it. Tap additional photos you want to delete.
+4. **Tap and hold a photo** to select it. Tap additional photos you want to delete.
 
-- **Tap the Delete icon** and confirm the deletion. The photos will be permanently erased from the SD card right away.
+5. **Tap the Delete icon** and confirm the deletion. The photos will be permanently erased from the SD card right away.
 
 ### 3. Deleting Synced Photos from Cloud Storage
 
 Many Android users sync their photos to a cloud storage service like Google Photos. To fully delete synced photos:
 
-- **Open the Google Photos app** on your Android phone.
+1. **Open the Google Photos app** on your Android phone.
 
-- **Select the photos** you want to delete. Tap and hold a photo then tap others to select multiple.
+2. **Select the photos** you want to delete. Tap and hold a photo then tap others to select multiple.
 
-- **Tap the three-dot menu** and choose **Delete from device** to remove the local copies from your phone.
+3. **Tap the three-dot menu** and choose **Delete from device** to remove the local copies from your phone.
 
-- **Tap the three-dot menu** again and choose **Delete from cloud** to also erase the copies stored in Google Photos. Confirm the permanent deletion.
+4. **Tap the three-dot menu** again and choose **Delete from cloud** to also erase the copies stored in Google Photos. Confirm the permanent deletion.
 
 Note that deleting photos from cloud storage will remove them from all your synced devices, not just your phone. Make sure you really want to delete them before confirming.
 

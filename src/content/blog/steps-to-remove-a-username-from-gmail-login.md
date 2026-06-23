@@ -20,17 +20,17 @@ Chrome’s auto-fill feature is convenient when signing into your regular accoun
 
 Removing a single saved username from the Gmail login is a quick process:
 
-- Open the **Chrome app** on your Android phone or tablet
+1. Open the **Chrome app** on your Android phone or tablet
 
-- Navigate to the **Gmail sign-in page**
+2. Navigate to the **Gmail sign-in page**
 
-- On the login screen, tap the **username field**
+3. On the login screen, tap the **username field**
 
-- Chrome will display a drop-down list of saved usernames
+4. Chrome will display a drop-down list of saved usernames
 
-- Tap and **hold the username** you want to delete
+5. Tap and **hold the username** you want to delete
 
-- Tap **Remove** from the pop-up menu
+6. Tap **Remove** from the pop-up menu
 
 That’s it! Chrome will no longer auto-fill that username on the Gmail login page. You’ll need to repeat these steps for each username you want to remove.
 
@@ -52,15 +52,15 @@ Just tap and hold on the incorrect form field data wherever it appears and selec
 
 Saved passwords are handled a bit differently than usernames and other form data. To view and delete saved passwords in Chrome on Android:
 
-- Open the **Chrome app**
+1. Open the **Chrome app**
 
-- Tap the **three-dot menu** in the top right corner
+2. Tap the **three-dot menu** in the top right corner
 
-- Go to **Settings > Passwords**
+3. Go to **Settings > Passwords**
 
-- Find the **password entry** you want to remove
+4. Find the **password entry** you want to remove
 
-- Tap the **trash can icon** to delete it
+5. Tap the **trash can icon** to delete it
 
 Be careful when removing passwords, as you’ll have to manually re-enter them the next time you sign into your account. Only delete passwords you’re sure you no longer need.
 
@@ -78,15 +78,15 @@ Reasons you may want to remove an account include:
 
 Here’s how to remove your Google account on Android:
 
-- Open your phone’s **Settings** app
+1. Open your phone’s **Settings** app
 
-- Tap **Accounts** (or Users & Accounts)
+2. Tap **Accounts** (or Users & Accounts)
 
-- Tap **Google**
+3. Tap **Google**
 
-- Select the **account** you want to remove
+4. Select the **account** you want to remove
 
-- Tap **More > Remove account**
+5. Tap **More > Remove account**
 
 After removing the account, you can still use the Gmail app and other Google services by signing in again. But the account will no longer automatically sync data like contacts, calendars, and documents to your phone.
 
@@ -96,15 +96,15 @@ Before removing an account, double-check that you don’t need access to any dat
 
 What if you’ve lost your phone or let someone borrow it and forgot to remove your account? You can remove account access remotely from a computer:
 
-- Go to [Google’s security page](https://myaccount.google.com/security)
+1. Go to [Google’s security page](https://myaccount.google.com/security)
 
-- Sign into the **account** you want to remove from the phone
+2. Sign into the **account** you want to remove from the phone
 
-- In the **Your devices** section, select **Manage devices**
+3. In the **Your devices** section, select **Manage devices**
 
-- Choose the **phone** you want to remove the account from
+4. Choose the **phone** you want to remove the account from
 
-- Click **Sign out**
+5. Click **Sign out**
 
 This signs your account out of Gmail and other Google apps on that device. It’s a good security precaution if your phone is ever lost or stolen. You can also use the **Find My** **Device** feature to locate, lock, or erase a lost phone.
 
@@ -112,25 +112,25 @@ This signs your account out of Gmail and other Google apps on that device. It’
 
 After removing an old or unused Google account from your Android phone, you may want to add a new one. Here’s how:
 
-- Open your phone’s **Settings** app
+1. Open your phone’s **Settings** app
 
-- Tap **Accounts > Add account**
+2. Tap **Accounts > Add account**
 
-- Select **Google**
+3. Select **Google**
 
-- Choose **Existing** or **Create account**
+4. Choose **Existing** or **Create account**
 
-- Sign in with your **account credentials**
+5. Sign in with your **account credentials**
 
 Once signed in, you can adjust your account’s sync settings to control which data gets stored on your device:
 
-- In Settings, tap **Accounts > Google**
+1. In Settings, tap **Accounts > Google**
 
-- Select your **account**
+2. Select your **account**
 
-- Tap **Account sync**
+3. Tap **Account sync**
 
-- Use the toggles to **turn sync on or off** for each type of data
+4. Use the toggles to **turn sync on or off** for each type of data
 
 Syncing keeps your data backed up and accessible across devices. But syncing a lot of data can also slow down your phone and eat up storage space. Adjust the settings to find the right balance for your needs.
 

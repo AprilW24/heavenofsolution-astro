@@ -38,23 +38,23 @@ The first step is simple – open the Twitter app on your Android device. Make s
 
 To begin your thread, you’ll start by composing your first tweet as you normally would:
 
-- Tap the blue compose icon (it looks like a feather or plus sign) in the bottom right corner of your screen.
+1. Tap the blue compose icon (it looks like a feather or plus sign) in the bottom right corner of your screen.
 
-- In the tweet composition box, start writing your first tweet. Remember, you have 280 characters to work with for each individual tweet in your thread.
+2. In the tweet composition box, start writing your first tweet. Remember, you have 280 characters to work with for each individual tweet in your thread.
 
-- If you want to add media to your first tweet, you can do so by tapping the image icon, GIF icon, or poll icon at the bottom of the composition screen.
+3. If you want to add media to your first tweet, you can do so by tapping the image icon, GIF icon, or poll icon at the bottom of the composition screen.
 
 ### Step 3: Add Subsequent Tweets to Your Thread
 
 Once you’ve composed your first tweet, it’s time to add the subsequent tweets that will form your thread:
 
-- Look for the blue plus (+) icon in the bottom right corner of your tweet composition box. This icon indicates that you can add another tweet to create a thread.
+1. Look for the blue plus (+) icon in the bottom right corner of your tweet composition box. This icon indicates that you can add another tweet to create a thread.
 
-- Tap the plus icon to open a new tweet composition box below your first tweet.
+2. Tap the plus icon to open a new tweet composition box below your first tweet.
 
-- Compose your second tweet in this new box.
+3. Compose your second tweet in this new box.
 
-- Repeat this process, tapping the plus icon and adding new tweets, until you’ve completed your thread.
+4. Repeat this process, tapping the plus icon and adding new tweets, until you’ve completed your thread.
 
 **Remember:** There’s no strict limit to how many tweets you can include in a thread, but it’s generally a good idea to keep your threads concise and focused to maintain your audience’s attention.
 
@@ -62,23 +62,23 @@ Once you’ve composed your first tweet, it’s time to add the subsequent tweet
 
 Before you publish your thread, it’s important to review and edit your tweets:
 
-- Scroll through your draft thread to ensure all the tweets are in the correct order.
+1. Scroll through your draft thread to ensure all the tweets are in the correct order.
 
-- Check for any typos, grammatical errors, or unclear phrasing.
+2. Check for any typos, grammatical errors, or unclear phrasing.
 
-- Make sure your media (if any) is attached to the correct tweets.
+3. Make sure your media (if any) is attached to the correct tweets.
 
-- If you need to make changes, you can edit any tweet in the thread by tapping on it.
+4. If you need to make changes, you can edit any tweet in the thread by tapping on it.
 
-- To remove a tweet from the thread, tap the X icon in the top left corner of the tweet you want to delete.
+5. To remove a tweet from the thread, tap the X icon in the top left corner of the tweet you want to delete.
 
 ### Step 5: Publish Your Thread
 
 Once you’re satisfied with your thread, it’s time to share it with the world:
 
-- When you’re ready to post, look for the “Tweet all” button at the bottom right of your screen.
+1. When you’re ready to post, look for the “Tweet all” button at the bottom right of your screen.
 
-- Tap “Tweet all” to publish your entire thread at once.
+2. Tap “Tweet all” to publish your entire thread at once.
 
 Congratulations! You’ve just created and published your first Twitter thread using your Android device.
 
@@ -86,19 +86,19 @@ Congratulations! You’ve just created and published your first Twitter thread u
 
 Now that you know how to create a thread technically, let’s discuss some strategies for making your threads more engaging and effective:
 
-- **Start strong:** Your first tweet should hook your readers and give them a reason to continue reading the thread. Consider posing a question, sharing a surprising fact, or teasing the content to come.
+1. **Start strong:** Your first tweet should hook your readers and give them a reason to continue reading the thread. Consider posing a question, sharing a surprising fact, or teasing the content to come.
 
-- **Use numbering:** If your thread follows a specific order (like steps in a process or a countdown), consider numbering your tweets. This helps readers follow along and know how far along they are in the thread.
+2. **Use numbering:** If your thread follows a specific order (like steps in a process or a countdown), consider numbering your tweets. This helps readers follow along and know how far along they are in the thread.
 
-- **Break up long text:** Even though threads allow for more content, try to keep individual tweets concise. Break up longer thoughts into multiple tweets for easier reading.
+3. **Break up long text:** Even though threads allow for more content, try to keep individual tweets concise. Break up longer thoughts into multiple tweets for easier reading.
 
-- **Use media wisely:** Incorporate images, GIFs, or videos where appropriate to illustrate your points and break up text-heavy sections.
+4. **Use media wisely:** Incorporate images, GIFs, or videos where appropriate to illustrate your points and break up text-heavy sections.
 
-- **End with a call-to-action:** Conclude your thread with a clear next step for your readers, whether it’s asking for their thoughts, directing them to a link, or encouraging them to share the thread.
+5. **End with a call-to-action:** Conclude your thread with a clear next step for your readers, whether it’s asking for their thoughts, directing them to a link, or encouraging them to share the thread.
 
-- **Use hashtags sparingly:** While hashtags can increase visibility, too many can make your thread look cluttered. Use them strategically and relevantly.
+6. **Use hashtags sparingly:** While hashtags can increase visibility, too many can make your thread look cluttered. Use them strategically and relevantly.
 
-- **Consider your audience:** Tailor your content and tone to your target audience. What information or style will resonate most with them?
+7. **Consider your audience:** Tailor your content and tone to your target audience. What information or style will resonate most with them?
 
 ## Conclusion
 

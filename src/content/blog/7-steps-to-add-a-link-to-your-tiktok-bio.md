@@ -28,19 +28,19 @@ If you meet these requirements, you’re ready to add a link to your TikTok bio.
 
 Follow these simple steps to add a link to your TikTok bio:
 
-- **Open the TikTok app**: Launch the TikTok app on your Android device and make sure you’re logged in to your account.
+1. **Open the TikTok app**: Launch the TikTok app on your Android device and make sure you’re logged in to your account.
 
-- **Navigate to your profile**: Tap on the “Profile” icon located in the bottom right corner of the screen. This will take you to your TikTok profile page.
+2. **Navigate to your profile**: Tap on the “Profile” icon located in the bottom right corner of the screen. This will take you to your TikTok profile page.
 
-- **Access the Edit Profile section**: Look for the “Edit profile” button below your profile picture and tap on it.
+3. **Access the Edit Profile section**: Look for the “Edit profile” button below your profile picture and tap on it.
 
-- **Find the Website field**: In the Edit Profile section, scroll down until you see the “Website” field. If you don’t see this option, it means you either don’t have a business account or haven’t reached the 1,000 follower threshold yet.
+4. **Find the Website field**: In the Edit Profile section, scroll down until you see the “Website” field. If you don’t see this option, it means you either don’t have a business account or haven’t reached the 1,000 follower threshold yet.
 
-- **Add your link**: Tap on the “Website” field and enter the URL you want to add to your bio. Make sure to include the full URL, including “https://” or “http://”.
+5. **Add your link**: Tap on the “Website” field and enter the URL you want to add to your bio. Make sure to include the full URL, including “https://” or “http://”.
 
-- **Save your changes**: Once you’ve entered your desired URL, tap the “Save” button in the top right corner of the screen to confirm your changes.
+6. **Save your changes**: Once you’ve entered your desired URL, tap the “Save” button in the top right corner of the screen to confirm your changes.
 
-- **Verify the link**: Return to your profile page and check if the link appears in your bio. You should now see the clickable URL displayed below your bio text.
+7. **Verify the link**: Return to your profile page and check if the link appears in your bio. You should now see the clickable URL displayed below your bio text.
 
 Congratulations! You’ve successfully added a link to your TikTok bio on your Android device. Now that your link is in place, let’s explore some best practices to make the most of this feature.
 
@@ -48,19 +48,19 @@ Congratulations! You’ve successfully added a link to your TikTok bio on your A
 
 Adding a link to your TikTok bio is just the first step. To ensure you’re getting the most out of this feature, consider implementing these best practices:
 
-- **Choose a relevant destination**: Make sure the link you add to your bio aligns with your TikTok content and overall goals. Whether it’s your website, online store, or another social media profile, the destination should provide value to your audience.
+1. **Choose a relevant destination**: Make sure the link you add to your bio aligns with your TikTok content and overall goals. Whether it’s your website, online store, or another social media profile, the destination should provide value to your audience.
 
-- **Use a link shortener**: Long URLs can look messy and take up valuable space in your bio. Consider using a link shortening service like Bitly or TinyURL to create a cleaner, more professional-looking link.
+2. **Use a link shortener**: Long URLs can look messy and take up valuable space in your bio. Consider using a link shortening service like Bitly or TinyURL to create a cleaner, more professional-looking link.
 
-- **Update your link regularly**: Keep your bio link fresh and relevant by updating it periodically. This is especially important if you’re promoting time-sensitive content or running specific campaigns.
+3. **Update your link regularly**: Keep your bio link fresh and relevant by updating it periodically. This is especially important if you’re promoting time-sensitive content or running specific campaigns.
 
-- **Mention your link in your videos**: Remind your viewers about the link in your bio by mentioning it in your TikTok videos. This can help drive more traffic to your desired destination.
+4. **Mention your link in your videos**: Remind your viewers about the link in your bio by mentioning it in your TikTok videos. This can help drive more traffic to your desired destination.
 
-- **Create a custom landing page**: Instead of linking directly to your website’s homepage, consider creating a custom landing page specifically for your TikTok audience. This can help provide a more tailored experience and improve conversion rates.
+5. **Create a custom landing page**: Instead of linking directly to your website’s homepage, consider creating a custom landing page specifically for your TikTok audience. This can help provide a more tailored experience and improve conversion rates.
 
-- **Track your link performance**: Use analytics tools to monitor the performance of your bio link. This can help you understand how many people are clicking on it and adjust your strategy accordingly.
+6. **Track your link performance**: Use analytics tools to monitor the performance of your bio link. This can help you understand how many people are clicking on it and adjust your strategy accordingly.
 
-- **Experiment with different types of links**: Try linking to various destinations, such as product pages, blog posts, or email sign-up forms, to see what resonates best with your audience.
+7. **Experiment with different types of links**: Try linking to various destinations, such as product pages, blog posts, or email sign-up forms, to see what resonates best with your audience.
 
 ## Leveraging Link in Bio Tools for Multiple Links
 

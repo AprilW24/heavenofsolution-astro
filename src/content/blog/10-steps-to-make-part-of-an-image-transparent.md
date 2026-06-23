@@ -20,25 +20,25 @@ Before you start, ensure your image is uploaded to Canva. If you’re using a co
 
 To start making part of an image transparent, you need to have a clear idea of what you want to achieve. If you’re aiming for a simple background removal, Canva’s built-in tools can be very helpful. However, for more intricate edits, you might need to use external photo editing software.
 
-- **Upload Your Image**: Start by uploading the image you want to edit to Canva.
+1. **Upload Your Image**: Start by uploading the image you want to edit to Canva.
 
-- **Select the Image**: Click on the image to select it.
+2. **Select the Image**: Click on the image to select it.
 
-- **Edit Image**: Click the ‘Edit Image’ button in the top toolbar.
+3. **Edit Image**: Click the ‘Edit Image’ button in the top toolbar.
 
-- **Use Background Remover**: If the part you want to make transparent is the background, use the ‘Background Remover’ tool. This is available with a Canva Pro account.
+4. **Use Background Remover**: If the part you want to make transparent is the background, use the ‘Background Remover’ tool. This is available with a Canva Pro account.
 
-- **Manual Editing**: For more complex edits, you might need to use a separate photo editing tool to manually remove parts of the image before importing it back into Canva.
+5. **Manual Editing**: For more complex edits, you might need to use a separate photo editing tool to manually remove parts of the image before importing it back into Canva.
 
-- **Adjust Transparency**: If you want to adjust the transparency of the entire image, use the transparency slider in Canva.
+6. **Adjust Transparency**: If you want to adjust the transparency of the entire image, use the transparency slider in Canva.
 
-- **Export with Transparency**: When exporting, choose PNG or SVG to maintain transparency.
+7. **Export with Transparency**: When exporting, choose PNG or SVG to maintain transparency.
 
-- **Check Transparency**: Ensure that the “Transparent background” option is checked when exporting.
+8. **Check Transparency**: Ensure that the “Transparent background” option is checked when exporting.
 
-- **Review and Adjust**: Review your exported image to ensure the transparency is correct and make any necessary adjustments.
+9. **Review and Adjust**: Review your exported image to ensure the transparency is correct and make any necessary adjustments.
 
-- **Finalize**: Once satisfied, use your image with the transparent background in your design.
+10. **Finalize**: Once satisfied, use your image with the transparent background in your design.
 
 ## Tips for Better Transparency
 

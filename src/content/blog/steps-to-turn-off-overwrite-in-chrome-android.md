@@ -16,17 +16,17 @@ Overwrite mode is a text entry setting where each character you type replaces th
 
 Follow these quick steps to turn off overwrite mode in Chrome on your Android device:
 
-- Open the Chrome browser on your Android phone or tablet
+1. Open the Chrome browser on your Android phone or tablet
 
-- Navigate to the text field where you’re experiencing the overwrite issue
+2. Navigate to the text field where you’re experiencing the overwrite issue
 
-- Tap and hold the text field to bring up the editing menu
+3. Tap and hold the text field to bring up the editing menu
 
-- Look for the **Overwrite** option in the menu. If present, it means overwrite mode is currently enabled.
+4. Look for the **Overwrite** option in the menu. If present, it means overwrite mode is currently enabled.
 
-- Tap **Overwrite** to toggle it off. The option should disappear from the menu.
+5. Tap **Overwrite** to toggle it off. The option should disappear from the menu.
 
-- Start typing normally – your text should now be inserted instead of overwriting existing characters
+6. Start typing normally – your text should now be inserted instead of overwriting existing characters
 
 That’s it! You’ve successfully disabled overwrite mode. If you ever need to enable it again, just repeat the steps above and tap **Overwrite** in the menu to toggle it back on.
 

@@ -30,25 +30,25 @@ AI resume builders walk you through every step. They handle design and structure
 
 ## Step-by-Step Using AI to Make Your Resume on Mobile
 
-- Choose a trusted AI resume builder that works on your device.
+1. Choose a trusted AI resume builder that works on your device.
 
-- Open the app or website and hit the Create Resume button.
+2. Open the app or website and hit the Create Resume button.
 
-- Pick a template or start from scratch if you want a unique layout.
+3. Pick a template or start from scratch if you want a unique layout.
 
-- Type in your job title or the job you want to apply for.
+4. Type in your job title or the job you want to apply for.
 
-- Enter your contact details like phone and email.
+5. Enter your contact details like phone and email.
 
-- Fill in your job history, education, and other background info.
+6. Fill in your job history, education, and other background info.
 
-- Let the AI suggest bullet points, skills, and summary for each section.
+7. Let the AI suggest bullet points, skills, and summary for each section.
 
-- Double-check the AI’s text and adjust anything that feels off.
+8. Double-check the AI’s text and adjust anything that feels off.
 
-- Download your finished resume in *PDF* or Word format.
+9. Download your finished resume in *PDF* or Word format.
 
-- Review your resume and send it straight from your phone! 🚀
+10. Review your resume and send it straight from your phone! 🚀
 
 ## The Only Prompt You Need for an Automatic Resume with AI
 

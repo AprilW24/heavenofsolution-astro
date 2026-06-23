@@ -16,13 +16,13 @@ One of the simplest ways to read deleted WhatsApp messages on Android is by usin
 
 **Steps:**
 
-- **Open Settings:** Go to your device’s settings.
+1. **Open Settings:** Go to your device’s settings.
 
-- **Navigate to Notifications:** Scroll down and tap on **Apps & Notifications.**
+2. **Navigate to Notifications:** Scroll down and tap on **Apps & Notifications.**
 
-- **Access Notification History:** Tap on **Notifications** and then **Notification history.**
+3. **Access Notification History:** Tap on **Notifications** and then **Notification history.**
 
-- **Enable Notification History:** Toggle the button next to **Use notification history** to turn it on.
+4. **Enable Notification History:** Toggle the button next to **Use notification history** to turn it on.
 
 Once enabled, this feature will keep a log of all your notifications, including WhatsApp messages, even if they are deleted by the sender. You can access this log to read the deleted messages.
 
@@ -36,13 +36,13 @@ WAMR is a popular app that allows you to recover deleted messages and media from
 
 **Steps:**
 
-- **Download WAMR:** Install the app from the Google Play Store.
+1. **Download WAMR:** Install the app from the Google Play Store.
 
-- **Grant Permissions:** Open the app and grant the necessary permissions, including notification access and media access.
+2. **Grant Permissions:** Open the app and grant the necessary permissions, including notification access and media access.
 
-- **Enable Notification Access:** Follow the on-screen instructions to enable notification access for WAMR.
+3. **Enable Notification Access:** Follow the on-screen instructions to enable notification access for WAMR.
 
-- **Recover Messages:** Once set up, WAMR will start logging your notifications. You can view deleted messages and media within the app.
+4. **Recover Messages:** Once set up, WAMR will start logging your notifications. You can view deleted messages and media within the app.
 
 **b. Notisave**
 
@@ -50,13 +50,13 @@ Notisave is another app that keeps track of your notifications, allowing you to 
 
 **Steps:**
 
-- **Download Notisave:** Install the app from the Google Play Store.
+1. **Download Notisave:** Install the app from the Google Play Store.
 
-- **Grant Permissions:** Open the app and grant the necessary permissions, including notification access.
+2. **Grant Permissions:** Open the app and grant the necessary permissions, including notification access.
 
-- **Enable Auto-Start:** Ensure the app is set to auto-start to keep logging notifications.
+3. **Enable Auto-Start:** Ensure the app is set to auto-start to keep logging notifications.
 
-- **View Deleted Messages:** Open Notisave to view deleted WhatsApp messages from the notification log.
+4. **View Deleted Messages:** Open Notisave to view deleted WhatsApp messages from the notification log.
 
 **c. Get Deleted Messages**
 
@@ -64,11 +64,11 @@ This app is specifically designed to recover deleted WhatsApp messages.
 
 **Steps:**
 
-- **Download the App:** Install **Get Deleted Messages** from the Google Play Store.
+1. **Download the App:** Install **Get Deleted Messages** from the Google Play Store.
 
-- **Grant Permissions:** Open the app and grant the necessary permissions.
+2. **Grant Permissions:** Open the app and grant the necessary permissions.
 
-- **Check Deleted Messages:** Whenever a message is deleted on WhatsApp, open the app to check the deleted message.
+3. **Check Deleted Messages:** Whenever a message is deleted on WhatsApp, open the app to check the deleted message.
 
 #### 3. **Restoring from Backup**
 
@@ -76,19 +76,19 @@ If you regularly back up your WhatsApp chats, you can restore deleted messages f
 
 **Steps for Android:**
 
-- **Uninstall WhatsApp:** Remove the app from your device.
+1. **Uninstall WhatsApp:** Remove the app from your device.
 
-- **Reinstall WhatsApp:** Download and reinstall WhatsApp from the Google Play Store.
+2. **Reinstall WhatsApp:** Download and reinstall WhatsApp from the Google Play Store.
 
-- **Restore from Backup:** During the setup process, you will be prompted to restore your chat history from Google Drive. Select the backup that contains the deleted messages.
+3. **Restore from Backup:** During the setup process, you will be prompted to restore your chat history from Google Drive. Select the backup that contains the deleted messages.
 
 **Steps for iOS:**
 
-- **Uninstall WhatsApp:** Remove the app from your device.
+1. **Uninstall WhatsApp:** Remove the app from your device.
 
-- **Reinstall WhatsApp:** Download and reinstall WhatsApp from the App Store.
+2. **Reinstall WhatsApp:** Download and reinstall WhatsApp from the App Store.
 
-- **Restore from iCloud:** During the setup process, you will be prompted to restore your chat history from iCloud. Select the backup that contains the deleted messages.
+3. **Restore from iCloud:** During the setup process, you will be prompted to restore your chat history from iCloud. Select the backup that contains the deleted messages.
 
 ### Conclusion
 

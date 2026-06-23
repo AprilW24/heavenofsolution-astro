@@ -32,25 +32,25 @@ Here’s an example of a basic prompt structure you can adapt for your own use. 
 
 Here’s the full process, exactly as I’d do it myself.
 
-- Open your browser and go to *gemini.google.com*, or download the Gemini app on Android or iOS.
+1. Open your browser and go to *gemini.google.com*, or download the Gemini app on Android or iOS.
 
-- Log in using your Google account if you aren’t already signed in.
+2. Log in using your Google account if you aren’t already signed in.
 
-- In the chat input area at the bottom, click the plus (**+**) icon to access the file upload option.
+3. In the chat input area at the bottom, click the plus (**+**) icon to access the file upload option.
 
-- Select and upload the first photo (Person A) from your device.
+4. Select and upload the first photo (Person A) from your device.
 
-- Upload the second photo (Person B) the same way so both images sit in the same message field.
+5. Upload the second photo (Person B) the same way so both images sit in the same message field.
 
-- Type your detailed prompt in the text box. Example prompt: *“Create a photorealistic image of these two people sharing a warm, natural hug. STRICTLY do not change either person’s face, keep all facial features, skin tone, hair, and identity exactly as shown in the uploaded photos. The taller person stands behind and gently wraps their arms around the other. Soft warm indoor lighting, relaxed and natural posture, slightly blurred background. Photorealistic photography style, no filters, no illustration, no distortion.”*
+6. Type your detailed prompt in the text box. Example prompt: *“Create a photorealistic image of these two people sharing a warm, natural hug. STRICTLY do not change either person’s face, keep all facial features, skin tone, hair, and identity exactly as shown in the uploaded photos. The taller person stands behind and gently wraps their arms around the other. Soft warm indoor lighting, relaxed and natural posture, slightly blurred background. Photorealistic photography style, no filters, no illustration, no distortion.”*
 
-- Click the send button and give Gemini about 10 to 30 seconds to generate the image.
+7. Click the send button and give Gemini about 10 to 30 seconds to generate the image.
 
-- If one face looks off or changed, type a follow-up prompt like *“Regenerate this but strictly do not alter either person’s face. Faces must match the original uploaded photos exactly.”*
+8. If one face looks off or changed, type a follow-up prompt like *“Regenerate this but strictly do not alter either person’s face. Faces must match the original uploaded photos exactly.”*
 
-- For a Polaroid-style output, adjust your prompt. Example: *“Make this look like a Polaroid photo taken in a dark room with even camera flash lighting. Add a slight motion blur effect. STRICTLY do not change the faces. Replace the background with a white curtain. The two people are hugging.”*
+9. For a Polaroid-style output, adjust your prompt. Example: *“Make this look like a Polaroid photo taken in a dark room with even camera flash lighting. Add a slight motion blur effect. STRICTLY do not change the faces. Replace the background with a white curtain. The two people are hugging.”*
 
-- Once the result looks good, click the download button below the image or long-press on mobile to save it to your device.
+10. Once the result looks good, click the download button below the image or long-press on mobile to save it to your device.
 
 ## Conclusion
 

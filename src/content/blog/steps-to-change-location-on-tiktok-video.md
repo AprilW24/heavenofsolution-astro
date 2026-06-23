@@ -12,11 +12,11 @@ TikTok has become one of the most popular social media platforms, allowing users
 
 Before we dive into the process of changing a location on a posted TikTok video, it’s essential to understand how the location feature works. When you create a video on TikTok, you have the option to add a location tag before posting. This tag can be a specific place, city, or even a general area. The location feature serves several purposes:
 
-- **Increased discoverability**: Videos with location tags are more likely to appear in local searches and on the “For You” page of users in that area.
+1. **Increased discoverability**: Videos with location tags are more likely to appear in local searches and on the “For You” page of users in that area.
 
-- **Context for viewers**: Location tags provide additional information about where the video was filmed or what it’s related to.
+2. **Context for viewers**: Location tags provide additional information about where the video was filmed or what it’s related to.
 
-- **Community building**: Users can find and connect with others in their area or discover content from specific locations they’re interested in.
+3. **Community building**: Users can find and connect with others in their area or discover content from specific locations they’re interested in.
 
 While adding a location can be beneficial, there may be times when you want to change or remove it after posting. Let’s explore how to do that.
 
@@ -26,23 +26,23 @@ Unfortunately, TikTok doesn’t provide a direct option to edit the location of 
 
 ### Method 1: Edit and Repost
 
-- **Open the TikTok app** on your mobile device.
+1. **Open the TikTok app** on your mobile device.
 
-- **Navigate to your profile** by tapping the “Me” icon in the bottom right corner.
+2. **Navigate to your profile** by tapping the “Me” icon in the bottom right corner.
 
-- **Find the video** you want to change the location for and tap on it.
+3. **Find the video** you want to change the location for and tap on it.
 
-- **Tap the three dots** (ellipsis) on the right side of the screen to open the video options.
+4. **Tap the three dots** (ellipsis) on the right side of the screen to open the video options.
 
-- **Select “Save video”** to download the video to your device.
+5. **Select “Save video”** to download the video to your device.
 
-- **Delete the original post** by tapping the three dots again and selecting “Delete.”
+6. **Delete the original post** by tapping the three dots again and selecting “Delete.”
 
-- **Create a new post** by tapping the “+” icon at the bottom of the screen.
+7. **Create a new post** by tapping the “+” icon at the bottom of the screen.
 
-- **Upload the saved video** from your device.
+8. **Upload the saved video** from your device.
 
-- **Add the new location** you want before posting the video again.
+9. **Add the new location** you want before posting the video again.
 
 This method allows you to essentially start fresh with your video, giving you the opportunity to add or change the location as desired.
 
@@ -50,15 +50,15 @@ This method allows you to essentially start fresh with your video, giving you th
 
 While you can’t directly edit the location, you can make some changes to your posted video:
 
-- **Open the TikTok app** and go to your profile.
+1. **Open the TikTok app** and go to your profile.
 
-- **Find the video** you want to edit and tap on it.
+2. **Find the video** you want to edit and tap on it.
 
-- **Tap the three dots** to open the video options.
+3. **Tap the three dots** to open the video options.
 
-- **Select “Edit”** from the list of options.
+4. **Select “Edit”** from the list of options.
 
-- **Remove the location** if one is already added by tapping on it and selecting “Remove.”
+5. **Remove the location** if one is already added by tapping on it and selecting “Remove.”
 
 Note that this method only allows you to remove an existing location, not add a new one or change it. If you want to add a new location, you’ll need to use Method 1.
 
@@ -66,15 +66,15 @@ Note that this method only allows you to remove an existing location, not add a 
 
 Now that you know how to change or remove a location on a posted TikTok video, here are some best practices to keep in mind:
 
-- **Be mindful of privacy**: Always consider whether sharing your location is necessary or appropriate for each video.
+1. **Be mindful of privacy**: Always consider whether sharing your location is necessary or appropriate for each video.
 
-- **Use relevant locations**: Choose locations that are directly related to your content to improve discoverability and viewer engagement.
+2. **Use relevant locations**: Choose locations that are directly related to your content to improve discoverability and viewer engagement.
 
-- **Mix it up**: Don’t always use the same location tag. Vary your tags to reach different audiences and keep your content fresh.
+3. **Mix it up**: Don’t always use the same location tag. Vary your tags to reach different audiences and keep your content fresh.
 
-- **Check before posting**: Double-check your location tag before posting to avoid the need for changes later.
+4. **Check before posting**: Double-check your location tag before posting to avoid the need for changes later.
 
-- **Utilize location-based trends**: Keep an eye on trending hashtags or challenges specific to certain locations and participate when relevant.
+5. **Utilize location-based trends**: Keep an eye on trending hashtags or challenges specific to certain locations and participate when relevant.
 
 ## Additional TikTok Editing Tips
 

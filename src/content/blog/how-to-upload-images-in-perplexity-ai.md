@@ -28,21 +28,21 @@ By incorporating visual information into your queries, you can receive more accu
 
 Uploading images to Perplexity AI on your Android device is a straightforward process. Follow these steps to get started:
 
-- **Open the Perplexity AI app** on your Android device. If you haven’t installed it yet, you can download it from the Google Play Store.
+1. **Open the Perplexity AI app** on your Android device. If you haven’t installed it yet, you can download it from the Google Play Store.
 
-- **Start a new thread** by tapping on the search bar at the bottom of the screen.
+2. **Start a new thread** by tapping on the search bar at the bottom of the screen.
 
-- **Look for the attachment icon**, which typically appears as a “+” symbol below the search bar.
+3. **Look for the attachment icon**, which typically appears as a “+” symbol below the search bar.
 
-- **Tap the “+” icon** to open your device’s image selection interface.
+4. **Tap the “+” icon** to open your device’s image selection interface.
 
-- **Choose an image** from your gallery or take a new photo using your camera.
+5. **Choose an image** from your gallery or take a new photo using your camera.
 
-- Once selected, the image will be **attached to your query**.
+6. Once selected, the image will be **attached to your query**.
 
-- **Type your question or prompt** related to the image in the search bar.
+7. **Type your question or prompt** related to the image in the search bar.
 
-- **Send your query** by tapping the send button or pressing enter on your keyboard.
+8. **Send your query** by tapping the send button or pressing enter on your keyboard.
 
 Perplexity AI will then process your image along with your text query, providing insights based on both the visual and textual information you’ve provided.
 
@@ -90,15 +90,15 @@ The ability to upload images can significantly enhance your search experience on
 
 If you encounter problems while uploading images on Perplexity AI for Android, try these troubleshooting steps:
 
-- **Check your internet connection**: Ensure you have a stable internet connection for successful uploads.
+1. **Check your internet connection**: Ensure you have a stable internet connection for successful uploads.
 
-- **Update the app**: Make sure you’re using the latest version of the Perplexity AI app.
+2. **Update the app**: Make sure you’re using the latest version of the Perplexity AI app.
 
-- **Clear app cache**: If issues persist, try clearing the app’s cache in your device settings.
+3. **Clear app cache**: If issues persist, try clearing the app’s cache in your device settings.
 
-- **Verify file format and size**: Confirm that your image meets the format and size requirements.
+4. **Verify file format and size**: Confirm that your image meets the format and size requirements.
 
-- **Restart the app**: Sometimes, simply closing and reopening the app can resolve minor glitches.
+5. **Restart the app**: Sometimes, simply closing and reopening the app can resolve minor glitches.
 
 ## Conclusion
 
@@ -148,21 +148,21 @@ By incorporating visual information into your queries, you can receive more accu
 
 Uploading images to Perplexity AI on your Android device is a straightforward process. Follow these steps to get started:
 
-- **Open the Perplexity AI app** on your Android device. If you haven’t installed it yet, you can download it from the Google Play Store.
+1. **Open the Perplexity AI app** on your Android device. If you haven’t installed it yet, you can download it from the Google Play Store.
 
-- **Start a new thread** by tapping on the search bar at the bottom of the screen.
+2. **Start a new thread** by tapping on the search bar at the bottom of the screen.
 
-- **Look for the attachment icon**, which typically appears as a “+” symbol below the search bar.
+3. **Look for the attachment icon**, which typically appears as a “+” symbol below the search bar.
 
-- **Tap the “+” icon** to open your device’s image selection interface.
+4. **Tap the “+” icon** to open your device’s image selection interface.
 
-- **Choose an image** from your gallery or take a new photo using your camera.
+5. **Choose an image** from your gallery or take a new photo using your camera.
 
-- Once selected, the image will be **attached to your query**.
+6. Once selected, the image will be **attached to your query**.
 
-- **Type your question or prompt** related to the image in the search bar.
+7. **Type your question or prompt** related to the image in the search bar.
 
-- **Send your query** by tapping the send button or pressing enter on your keyboard.
+8. **Send your query** by tapping the send button or pressing enter on your keyboard.
 
 Perplexity AI will then process your image along with your text query, providing insights based on both the visual and textual information you’ve provided.
 
@@ -210,15 +210,15 @@ The ability to upload images can significantly enhance your search experience on
 
 If you encounter problems while uploading images on Perplexity AI for Android, try these troubleshooting steps:
 
-- **Check your internet connection**: Ensure you have a stable internet connection for successful uploads.
+1. **Check your internet connection**: Ensure you have a stable internet connection for successful uploads.
 
-- **Update the app**: Make sure you’re using the latest version of the Perplexity AI app.
+2. **Update the app**: Make sure you’re using the latest version of the Perplexity AI app.
 
-- **Clear app cache**: If issues persist, try clearing the app’s cache in your device settings.
+3. **Clear app cache**: If issues persist, try clearing the app’s cache in your device settings.
 
-- **Verify file format and size**: Confirm that your image meets the format and size requirements.
+4. **Verify file format and size**: Confirm that your image meets the format and size requirements.
 
-- **Restart the app**: Sometimes, simply closing and reopening the app can resolve minor glitches.
+5. **Restart the app**: Sometimes, simply closing and reopening the app can resolve minor glitches.
 
 ## Conclusion
 

@@ -16,21 +16,21 @@ Before we dive into the specifics, it’s important to understand WhatsApp’s f
 
 Now, let’s get into the nitty-gritty of sending PDFs on WhatsApp using your Android device. Follow these simple steps:
 
-- **Open WhatsApp**: Start by launching the WhatsApp application on your Android device. Ensure you’re using the latest version of the app for the best experience.
+1. **Open WhatsApp**: Start by launching the WhatsApp application on your Android device. Ensure you’re using the latest version of the app for the best experience.
 
-- **Select a Chat**: Navigate to the chat where you want to send the PDF. This can be an individual chat or a group conversation.
+2. **Select a Chat**: Navigate to the chat where you want to send the PDF. This can be an individual chat or a group conversation.
 
-- **Tap the Attachment Icon**: Look for the paperclip icon, typically located near the text input field. Tap on this icon to open the attachment options.
+3. **Tap the Attachment Icon**: Look for the paperclip icon, typically located near the text input field. Tap on this icon to open the attachment options.
 
-- **Choose ‘Document’**: From the list of attachment options, select ‘Document’. This will open your device’s file manager.
+4. **Choose ‘Document’**: From the list of attachment options, select ‘Document’. This will open your device’s file manager.
 
-- **Locate Your PDF**: Browse through your device’s storage to find the PDF file you want to send. You may need to navigate through different folders depending on where you’ve saved the file.
+5. **Locate Your PDF**: Browse through your device’s storage to find the PDF file you want to send. You may need to navigate through different folders depending on where you’ve saved the file.
 
-- **Select the PDF**: Once you’ve found the PDF, tap on it to select it. You can select multiple PDFs if needed.
+6. **Select the PDF**: Once you’ve found the PDF, tap on it to select it. You can select multiple PDFs if needed.
 
-- **Add a Caption (Optional)**: If you want to add a message along with the PDF, you can type it in the text field.
+7. **Add a Caption (Optional)**: If you want to add a message along with the PDF, you can type it in the text field.
 
-- **Send the PDF**: Finally, tap the send button (usually a paper airplane icon) to send the PDF to your chosen recipient or group.
+8. **Send the PDF**: Finally, tap the send button (usually a paper airplane icon) to send the PDF to your chosen recipient or group.
 
 ## Tips for Sending PDFs on WhatsApp
 

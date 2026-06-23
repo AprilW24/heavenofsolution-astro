@@ -42,9 +42,9 @@ Once you’re happy with your edited video, it’s time to export it and upload 
 
 After exporting, you have two options for uploading to YouTube:
 
-- **Upload Directly from CapCut**: CapCut allows you to upload your video directly to YouTube from within the app. Simply click the **YouTube** button, sign in to your account, and fill in the video details like title, description, and tags.
+1. **Upload Directly from CapCut**: CapCut allows you to upload your video directly to YouTube from within the app. Simply click the **YouTube** button, sign in to your account, and fill in the video details like title, description, and tags.
 
-- **Upload from Your Device**: Alternatively, you can locate the exported video file on your device and upload it to YouTube using the regular upload process. This gives you more control over the upload settings and allows you to schedule your video for later publication.
+2. **Upload from Your Device**: Alternatively, you can locate the exported video file on your device and upload it to YouTube using the regular upload process. This gives you more control over the upload settings and allows you to schedule your video for later publication.
 
 ## Conclusion
 

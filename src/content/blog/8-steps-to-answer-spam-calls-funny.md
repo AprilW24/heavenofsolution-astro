@@ -14,11 +14,11 @@ Spam calls are like uninvited guests at a party – they show up unannounced and
 
 Before you dive into your comedic performance, it’s essential to set the right tone and mindset:
 
-- **Take a deep breath:** When you see an unknown number, pause and remind yourself that this is an opportunity for fun, not frustration.
+1. **Take a deep breath:** When you see an unknown number, pause and remind yourself that this is an opportunity for fun, not frustration.
 
-- **Put on your actor’s hat:** Imagine you’re about to step onto a stage. What character will you play today?
+2. **Put on your actor’s hat:** Imagine you’re about to step onto a stage. What character will you play today?
 
-- **Have a prop ready:** Keep a notepad, funny accent guide, or sound effects app nearby for added entertainment value.
+3. **Have a prop ready:** Keep a notepad, funny accent guide, or sound effects app nearby for added entertainment value.
 
 ## Step 2: Choose Your Character
 
@@ -40,13 +40,13 @@ Remember, the key is to stay in character throughout the entire call. Commitment
 
 Once you’ve chosen your character, it’s time to put your improv skills to the test. The goal is to keep the caller on the line while steering the conversation in increasingly absurd directions:
 
-- **Ask irrelevant questions:** “Before we continue, what’s your stance on the great pineapple on pizza debate?”
+1. **Ask irrelevant questions:** “Before we continue, what’s your stance on the great pineapple on pizza debate?”
 
-- **Misinterpret everything:** If they’re selling insurance, act like they’re offering to insure your collection of rare rubber ducks.
+2. **Misinterpret everything:** If they’re selling insurance, act like they’re offering to insure your collection of rare rubber ducks.
 
-- **Create elaborate backstories:** Launch into a detailed account of your life as a part-time unicorn groomer.
+3. **Create elaborate backstories:** Launch into a detailed account of your life as a part-time unicorn groomer.
 
-- **Use nonsensical responses:** Reply to their questions with completely unrelated answers. “What’s your credit card number?” “Purple, because aliens don’t wear hats.”
+4. **Use nonsensical responses:** Reply to their questions with completely unrelated answers. “What’s your credit card number?” “Purple, because aliens don’t wear hats.”
 
 The more off-topic and bizarre you can make the conversation, the more likely the spammer is to give up and move on.
 
@@ -68,13 +68,13 @@ The key is to be quick on your feet and ready with a humorous response that catc
 
 Sometimes, the funniest approach is to seemingly play along with the scammer’s script, but with an unexpected twist:
 
-- **The Oversharer:** Agree to everything they say, but then launch into extremely detailed and personal stories about your life.
+1. **The Oversharer:** Agree to everything they say, but then launch into extremely detailed and personal stories about your life.
 
-- **The One-Upper:** Whatever they’re offering, claim you already have something better. “A timeshare in Florida? Ha! I own a castle on Mars!”
+2. **The One-Upper:** Whatever they’re offering, claim you already have something better. “A timeshare in Florida? Ha! I own a castle on Mars!”
 
-- **The Reverse Salesperson:** Start trying to sell them something instead. “Before we discuss your offer, have you heard about our amazing vacuum cleaners?”
+3. **The Reverse Salesperson:** Start trying to sell them something instead. “Before we discuss your offer, have you heard about our amazing vacuum cleaners?”
 
-- **The Time Traveler:** Pretend you’re from a different time period and are confused by modern technology. “Credit card? Is that like a wax seal for letters?”
+4. **The Time Traveler:** Pretend you’re from a different time period and are confused by modern technology. “Credit card? Is that like a wax seal for letters?”
 
 By playing along but adding your own comedic spin, you keep the caller engaged while maintaining control of the conversation.
 

@@ -30,25 +30,25 @@ Your prompt quality directly determines the output quality. A vague prompt gives
 
 ## Step-by-Step Guide to Create Elevator Portraits with Gemini AI
 
-- Open your browser and head to [gemini.google.com](https://gemini.google.com/), then sign in with your Google account.
+1. Open your browser and head to [gemini.google.com](https://gemini.google.com/), then sign in with your Google account.
 
-- Click the tools menu at the bottom of the chat and select the 🍌 *“Create images”* option to activate the *Nano Banana* feature.
+2. Click the tools menu at the bottom of the chat and select the 🍌 *“Create images”* option to activate the *Nano Banana* feature.
 
-- Pick your model from the model menu, “Fast” works for a quick draft, while “Pro” and “Thinking” is better if you want sharper, more detailed output.
+3. Pick your model from the model menu, “Fast” works for a quick draft, while “Pro” and “Thinking” is better if you want sharper, more detailed output.
 
-- Click the image upload button and attach a clear, well-lit, front-facing photo of yourself.
+4. Click the image upload button and attach a clear, well-lit, front-facing photo of yourself.
 
-- Type your prompt in the text field, here’s a solid example prompt to start with and adjust to fit your style 👇 *“A photorealistic portrait of a person standing inside a sleek modern elevator, shot from a high top-down security camera angle. The elevator has brushed metal walls, soft cool ambient lighting, and closed doors behind the subject. The subject looks upward toward the camera with a calm, neutral expression. Cinematic quality, high detail, natural skin texture, no face retouching.”*
+5. Type your prompt in the text field, here’s a solid example prompt to start with and adjust to fit your style 👇 *“A photorealistic portrait of a person standing inside a sleek modern elevator, shot from a high top-down security camera angle. The elevator has brushed metal walls, soft cool ambient lighting, and closed doors behind the subject. The subject looks upward toward the camera with a calm, neutral expression. Cinematic quality, high detail, natural skin texture, no face retouching.”*
 
-- Hit the generate button and wait around 10 to 30 seconds for Gemini AI to process the image.
+6. Hit the generate button and wait around 10 to 30 seconds for Gemini AI to process the image.
 
-- Review the result carefully, check the camera angle, lighting, and whether your facial features look accurate.
+7. Review the result carefully, check the camera angle, lighting, and whether your facial features look accurate.
 
-- If something’s off, type a follow-up message like “make the elevator walls darker” or “shift the angle more top-down” to refine the image without starting over.
+8. If something’s off, type a follow-up message like “make the elevator walls darker” or “shift the angle more top-down” to refine the image without starting over.
 
-- Once the result looks right, click the download button to save the image to your device.
+9. Once the result looks right, click the download button to save the image to your device.
 
-- Post it on Instagram, TikTok, or wherever you create content, and enjoy the comments asking how you got that shot 😄
+10. Post it on Instagram, TikTok, or wherever you create content, and enjoy the comments asking how you got that shot 😄
 
 ## Conclusion
 

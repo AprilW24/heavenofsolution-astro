@@ -24,25 +24,25 @@ The best tools let me test captions, try variations, and save my favorites for t
 
 ## Step-by-Step to Making Viral Instagram Captions with AI
 
-- Pick an AI caption generator app on your phone.
+1. Pick an AI caption generator app on your phone.
 
-- Tap to upload your photo or select your post type (*Reel*, story, or feed).
+2. Tap to upload your photo or select your post type (*Reel*, story, or feed).
 
-- Describe your post in short, easy language.
+3. Describe your post in short, easy language.
 
-- Decide if you want a funny, bold, or chill tone.
+4. Decide if you want a funny, bold, or chill tone.
 
-- Tap generate and check the list of captions given.
+5. Tap generate and check the list of captions given.
 
-- Pick the caption that feels right.
+6. Pick the caption that feels right.
 
-- Add or edit emojis for extra flavor.
+7. Add or edit emojis for extra flavor.
 
-- Copy the caption to your Instagram app.
+8. Copy the caption to your Instagram app.
 
-- Paste it as your post’s text.
+9. Paste it as your post’s text.
 
-- Hit post and watch the engagement roll in. 🚀
+10. Hit post and watch the engagement roll in. 🚀
 
 ## The One Complete Prompt You Need for Viral Instagram Captions
 

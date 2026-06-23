@@ -12,11 +12,11 @@ Sharing audio on Messenger is easy and allows you to instantly send your favorit
 
 In this guide, we will cover three simple methods to share audio files on Facebook Messenger:
 
-- Using file sharing services like Google Drive or Dropbox
+1. Using file sharing services like Google Drive or Dropbox
 
-- Converting audio to video
+2. Converting audio to video
 
-- Sending shorter 1-minute audio messages
+3. Sending shorter 1-minute audio messages
 
 Follow these steps, and you’ll be able to share audio seamlessly on Messenger, even if the clips are longer than 1 minute.
 
@@ -28,13 +28,13 @@ The easiest way to share long audio is by using a file hosting service like Goog
 
 Follow these steps:
 
-- Upload your audio file (MP3, WAV, etc.) to Google Drive or Dropbox
+1. Upload your audio file (MP3, WAV, etc.) to Google Drive or Dropbox
 
-- Get a shareable link for the file
+2. Get a shareable link for the file
 
-- Paste the link in your Messenger chat
+3. Paste the link in your Messenger chat
 
-- The recipient can then stream or download the audio
+4. The recipient can then stream or download the audio
 
 This method works for audio of any length. Services like Google Drive will even stream the audio directly in Messenger, allowing your friends to listen without downloading.
 
@@ -44,13 +44,13 @@ Another excellent way to share audio is to convert it into a shareable video fil
 
 Here is how to convert audio to video:
 
-- Go to [Audiogram](https://audiogram.com/) and upload your audio file
+1. Go to [Audiogram](https://audiogram.com/) and upload your audio file
 
-- Audiogram will automatically convert the audio into a stylish, shareable video
+2. Audiogram will automatically convert the audio into a stylish, shareable video
 
-- Download the generated video to your device
+3. Download the generated video to your device
 
-- Share the video directly on Messenger as you would any other video
+4. Share the video directly on Messenger as you would any other video
 
 The video file will include the audio waveform visualization and can be shared seamlessly. This method makes it easy to post longer audio content on Messenger.
 
@@ -60,15 +60,15 @@ If you only need to share short audio clips, you can easily record them directly
 
 To send a 1-minute audio recording:
 
-- Open your Messenger chat
+1. Open your Messenger chat
 
-- Press and hold the mic icon to start recording
+2. Press and hold the mic icon to start recording
 
-- Record your message (up to 1 minute)
+3. Record your message (up to 1 minute)
 
-- Release your finger to stop recording
+4. Release your finger to stop recording
 
-- Press send!
+5. Press send!
 
 The 1-minute recording limit allows you to quickly capture voice messages, songs, or other short audio clips. While you can’t directly share longer files this way, it’s the easiest method for quick sound bites.
 

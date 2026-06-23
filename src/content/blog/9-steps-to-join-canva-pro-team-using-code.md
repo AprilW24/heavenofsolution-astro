@@ -30,15 +30,15 @@ By upgrading to Canva Pro, you’re not just getting more features; you’re inv
 
 The first step in joining Canva Pro using a code is, of course, to obtain a valid code. There are several ways you might come across a Canva Pro code:
 
-- **Official Canva promotions:** Keep an eye out for special offers directly from Canva. They occasionally run promotions that include discount codes for Pro subscriptions.
+1. **Official Canva promotions:** Keep an eye out for special offers directly from Canva. They occasionally run promotions that include discount codes for Pro subscriptions.
 
-- **Partner websites:** Canva sometimes partners with other companies or websites to offer promotional codes.
+2. **Partner websites:** Canva sometimes partners with other companies or websites to offer promotional codes.
 
-- **Educational institutions:** If you’re a student or educator, your school might have a partnership with Canva that provides access to Pro features.
+3. **Educational institutions:** If you’re a student or educator, your school might have a partnership with Canva that provides access to Pro features.
 
-- **Professional associations:** Some professional organizations in design, marketing, or related fields may offer Canva Pro codes as a member benefit.
+4. **Professional associations:** Some professional organizations in design, marketing, or related fields may offer Canva Pro codes as a member benefit.
 
-- **Canva events or webinars:** Attending Canva-sponsored events or webinars can sometimes lead to special offers or codes for Pro subscriptions.
+5. **Canva events or webinars:** Attending Canva-sponsored events or webinars can sometimes lead to special offers or codes for Pro subscriptions.
 
 Remember, it’s important to ensure that any code you use is legitimate and current. Using expired or unauthorized codes may not work and could potentially violate Canva’s terms of service.
 
@@ -48,35 +48,35 @@ Remember, it’s important to ensure that any code you use is legitimate and cur
 
 Once you have a valid Canva Pro code, the process of redeeming it is straightforward. Here’s a step-by-step guide to help you join the Canva Pro team:
 
-- **Log in to your Canva account:** Start by visiting the Canva website and logging into your existing account. If you don’t have an account yet, you’ll need to create one before proceeding.
+1. **Log in to your Canva account:** Start by visiting the Canva website and logging into your existing account. If you don’t have an account yet, you’ll need to create one before proceeding.
 
-- **Navigate to the upgrade page:** Look for an “Upgrade to Canva Pro” or “Go Pro” button, usually located in the top right corner of the Canva dashboard.
+2. **Navigate to the upgrade page:** Look for an “Upgrade to Canva Pro” or “Go Pro” button, usually located in the top right corner of the Canva dashboard.
 
-- **Select the Pro plan:** On the pricing page, choose the Pro plan option.
+3. **Select the Pro plan:** On the pricing page, choose the Pro plan option.
 
-- **Look for the promo code field:** As you proceed through the checkout process, look for a field labeled “Promo Code” or “Coupon Code.”
+4. **Look for the promo code field:** As you proceed through the checkout process, look for a field labeled “Promo Code” or “Coupon Code.”
 
-- **Enter your code:** Carefully type or paste your Canva Pro code into this field. Double-check to ensure there are no typos or extra spaces.
+5. **Enter your code:** Carefully type or paste your Canva Pro code into this field. Double-check to ensure there are no typos or extra spaces.
 
-- **Apply the code:** Click on the “Apply” or “Redeem” button next to the code field.
+6. **Apply the code:** Click on the “Apply” or “Redeem” button next to the code field.
 
-- **Verify the discount:** If the code is valid, you should see the discount applied to your order summary. The amount of the discount will depend on the specific promotion associated with your code.
+7. **Verify the discount:** If the code is valid, you should see the discount applied to your order summary. The amount of the discount will depend on the specific promotion associated with your code.
 
-- **Complete the checkout process:** Follow the remaining prompts to finalize your Canva Pro subscription. This may include entering payment information, depending on the terms of your promotional code.
+8. **Complete the checkout process:** Follow the remaining prompts to finalize your Canva Pro subscription. This may include entering payment information, depending on the terms of your promotional code.
 
-- **Confirmation:** Once the process is complete, you should receive a confirmation email, and your account will be upgraded to Canva Pro status.
+9. **Confirmation:** Once the process is complete, you should receive a confirmation email, and your account will be upgraded to Canva Pro status.
 
 ## Troubleshooting Code Issues
 
 If you encounter any problems while trying to redeem your Canva Pro code, don’t worry. Here are some common issues and how to address them:
 
-- **Invalid code:** Double-check that you’ve entered the code correctly, paying attention to uppercase and lowercase letters.
+1. **Invalid code:** Double-check that you’ve entered the code correctly, paying attention to uppercase and lowercase letters.
 
-- **Expired code:** Promotional codes often have expiration dates. Verify that your code is still valid.
+2. **Expired code:** Promotional codes often have expiration dates. Verify that your code is still valid.
 
-- **One-time use code:** Some codes can only be used once. If someone else has already used the code, it won’t work again.
+3. **One-time use code:** Some codes can only be used once. If someone else has already used the code, it won’t work again.
 
-- **Account restrictions:** Certain codes may be restricted to new users or specific account types. Make sure you meet the criteria for the code you’re trying to use.
+4. **Account restrictions:** Certain codes may be restricted to new users or specific account types. Make sure you meet the criteria for the code you’re trying to use.
 
 If you continue to have issues, Canva’s customer support team is usually very helpful. You can reach out to them through the help center on the Canva website.
 
@@ -84,15 +84,15 @@ If you continue to have issues, Canva’s customer support team is usually very 
 
 Congratulations! You’ve successfully joined the Canva Pro team. Now it’s time to explore all the new features at your fingertips. Here are some tips to help you make the most of your Pro subscription:
 
-- **Explore premium templates:** Dive into the vast library of premium templates available exclusively to Pro users. These can serve as excellent starting points for your designs.
+1. **Explore premium templates:** Dive into the vast library of premium templates available exclusively to Pro users. These can serve as excellent starting points for your designs.
 
-- **Utilize the Brand Kit feature:** Set up your brand colors, fonts, and logos for easy access across all your designs.
+2. **Utilize the Brand Kit feature:** Set up your brand colors, fonts, and logos for easy access across all your designs.
 
-- **Try the Background Remover tool:** This powerful feature can help you create professional-looking images with ease.
+3. **Try the Background Remover tool:** This powerful feature can help you create professional-looking images with ease.
 
-- **Experiment with Magic Resize:** Save time by automatically resizing your designs for different platforms and formats.
+4. **Experiment with Magic Resize:** Save time by automatically resizing your designs for different platforms and formats.
 
-- **Collaborate with your team:** Take advantage of the team collaboration features to work seamlessly with colleagues or clients.
+5. **Collaborate with your team:** Take advantage of the team collaboration features to work seamlessly with colleagues or clients.
 
 Remember, the key to mastering Canva Pro is practice and experimentation. Don’t be afraid to try new features and push the boundaries of your design skills!
 

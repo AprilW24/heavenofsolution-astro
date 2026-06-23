@@ -26,13 +26,13 @@ Now, let’s explore the different methods to find unread emails in Gmail on you
 
 The search function in Gmail is a powerful tool that can help you quickly locate unread emails. Here’s how to use it:
 
-- Open the Gmail app on your phone.
+1. Open the Gmail app on your phone.
 
-- Tap the search bar at the top of the screen.
+2. Tap the search bar at the top of the screen.
 
-- Type “is:unread” (without quotes) into the search bar.
+3. Type “is:unread” (without quotes) into the search bar.
 
-- Press the search button or hit enter on your keyboard.
+4. Press the search button or hit enter on your keyboard.
 
 This simple search query will display all your unread emails, regardless of which folder or label they’re in. You can further refine your search by adding more criteria. For example:
 
@@ -46,13 +46,13 @@ This simple search query will display all your unread emails, regardless of whic
 
 Gmail automatically creates an “Unread” label for all your unread messages. Here’s how to access it:
 
-- Open the Gmail app on your phone.
+1. Open the Gmail app on your phone.
 
-- Tap the three horizontal lines (hamburger menu) in the top-left corner.
+2. Tap the three horizontal lines (hamburger menu) in the top-left corner.
 
-- Scroll down the list of labels and folders.
+3. Scroll down the list of labels and folders.
 
-- Tap on “Unread” to view all your unread emails.
+4. Tap on “Unread” to view all your unread emails.
 
 This method is particularly useful if you want to see all your unread emails across different categories and labels in one place.
 
@@ -60,19 +60,19 @@ This method is particularly useful if you want to see all your unread emails acr
 
 Gmail offers an “Unread First” inbox type that prioritizes your unread emails. To enable this feature:
 
-- Open the Gmail app on your phone.
+1. Open the Gmail app on your phone.
 
-- Tap the three horizontal lines (hamburger menu) in the top-left corner.
+2. Tap the three horizontal lines (hamburger menu) in the top-left corner.
 
-- Scroll down and tap on “Settings.”
+3. Scroll down and tap on “Settings.”
 
-- Select the account you want to modify.
+4. Select the account you want to modify.
 
-- Tap on “Inbox type.”
+5. Tap on “Inbox type.”
 
-- Choose “Unread first” from the list of options.
+6. Choose “Unread first” from the list of options.
 
-- Tap “Done” to save your changes.
+7. Tap “Done” to save your changes.
 
 With this setting enabled, your unread emails will always appear at the top of your inbox, making them easier to spot and address.
 
@@ -80,19 +80,19 @@ With this setting enabled, your unread emails will always appear at the top of y
 
 Gmail allows you to customize swipe actions, which can be a quick way to mark emails as read or unread. Here’s how to set it up:
 
-- Open the Gmail app on your phone.
+1. Open the Gmail app on your phone.
 
-- Tap the three horizontal lines (hamburger menu) in the top-left corner.
+2. Tap the three horizontal lines (hamburger menu) in the top-left corner.
 
-- Scroll down and tap on “Settings.”
+3. Scroll down and tap on “Settings.”
 
-- Select “General settings.”
+4. Select “General settings.”
 
-- Tap on “Swipe actions.”
+5. Tap on “Swipe actions.”
 
-- Choose either “Left swipe” or “Right swipe.”
+6. Choose either “Left swipe” or “Right swipe.”
 
-- Select “Mark as read/unread” from the list of actions.
+7. Select “Mark as read/unread” from the list of actions.
 
 Now, you can quickly swipe on an email to mark it as read or unread, helping you manage your unread emails more efficiently.
 
@@ -100,17 +100,17 @@ Now, you can quickly swipe on an email to mark it as read or unread, helping you
 
 While not a direct method to find unread emails, properly managing your Gmail notifications can help you stay on top of new, unread messages as they arrive. To customize your notifications:
 
-- Open the Gmail app on your phone.
+1. Open the Gmail app on your phone.
 
-- Tap the three horizontal lines (hamburger menu) in the top-left corner.
+2. Tap the three horizontal lines (hamburger menu) in the top-left corner.
 
-- Scroll down and tap on “Settings.”
+3. Scroll down and tap on “Settings.”
 
-- Select the account you want to modify.
+4. Select the account you want to modify.
 
-- Tap on “Notifications.”
+5. Tap on “Notifications.”
 
-- Choose your preferred notification settings.
+6. Choose your preferred notification settings.
 
 By fine-tuning your notifications, you can ensure that you’re alerted to important unread emails as soon as they hit your inbox.
 
@@ -118,19 +118,19 @@ By fine-tuning your notifications, you can ensure that you’re alerted to impor
 
 Now that you know how to find your unread emails, here are some best practices to help you manage them effectively:
 
-- **Set aside dedicated time**: Allocate specific times during the day to check and respond to your unread emails.
+1. **Set aside dedicated time**: Allocate specific times during the day to check and respond to your unread emails.
 
-- **Use the two-minute rule**: If an email can be dealt with in two minutes or less, handle it immediately.
+2. **Use the two-minute rule**: If an email can be dealt with in two minutes or less, handle it immediately.
 
-- **Create labels and filters**: Organize your incoming emails automatically using Gmail’s labels and filters.
+3. **Create labels and filters**: Organize your incoming emails automatically using Gmail’s labels and filters.
 
-- **Unsubscribe from unnecessary newsletters**: Reduce clutter by unsubscribing from emails you no longer need or want.
+4. **Unsubscribe from unnecessary newsletters**: Reduce clutter by unsubscribing from emails you no longer need or want.
 
-- **Use the “Star” feature**: Star important unread emails that require follow-up or more time to address.
+5. **Use the “Star” feature**: Star important unread emails that require follow-up or more time to address.
 
-- **Archive or delete**: Once you’ve read and dealt with an email, archive or delete it to keep your inbox clean.
+6. **Archive or delete**: Once you’ve read and dealt with an email, archive or delete it to keep your inbox clean.
 
-- **Regularly review your email habits**: Periodically assess your email management strategies and adjust as needed.
+7. **Regularly review your email habits**: Periodically assess your email management strategies and adjust as needed.
 
 ## Conclusion
 

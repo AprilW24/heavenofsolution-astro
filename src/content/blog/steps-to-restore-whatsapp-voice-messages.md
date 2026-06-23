@@ -16,27 +16,27 @@ In this article, we’ll guide you through the steps to restore your lost WhatsA
 
 Android devices automatically create a local backup of your WhatsApp data, which can be used to restore deleted voice messages. Here’s how:
 
-- Using a file manager app, navigate to the WhatsApp folder on your device’s internal storage.
+1. Using a file manager app, navigate to the WhatsApp folder on your device’s internal storage.
 
-- Locate the **Databases** folder and rename the backup file **msgstore.db.crypt12** to **msgstore_BACKUP.db.crypt12**.
+2. Locate the **Databases** folder and rename the backup file **msgstore.db.crypt12** to **msgstore_BACKUP.db.crypt12**.
 
-- Uninstall and reinstall WhatsApp on your device.
+3. Uninstall and reinstall WhatsApp on your device.
 
-- When prompted during the setup process, tap **Restore** to retrieve your deleted voice messages from the local backup.
+4. When prompted during the setup process, tap **Restore** to retrieve your deleted voice messages from the local backup.
 
 ### Method 2: Using a Third-Party Recovery Tool
 
 If the local backup method doesn’t work, you can use a third-party data recovery tool like DroidKit. This powerful software can scan your Android device and recover deleted WhatsApp voice messages without a backup. Here’s how:
 
-- Download and install DroidKit on your computer.
+1. Download and install DroidKit on your computer.
 
-- Connect your Android device to the computer and select **WhatsApp Recovery**.
+2. Connect your Android device to the computer and select **WhatsApp Recovery**.
 
-- Click **Start** to begin scanning your device for deleted WhatsApp data.
+3. Click **Start** to begin scanning your device for deleted WhatsApp data.
 
-- Once the scan is complete, preview and select the voice messages you want to recover.
+4. Once the scan is complete, preview and select the voice messages you want to recover.
 
-- Click **Recover** to save the selected files to your computer.
+5. Click **Recover** to save the selected files to your computer.
 
 ## Recovering Deleted WhatsApp Voice Messages on iPhone
 
@@ -44,35 +44,35 @@ If the local backup method doesn’t work, you can use a third-party data recove
 
 If you have enabled iCloud backup for WhatsApp on your iPhone, you can easily restore deleted voice messages:
 
-- Uninstall and reinstall WhatsApp on your iPhone.
+1. Uninstall and reinstall WhatsApp on your iPhone.
 
-- During the setup process, tap **Restore Chat History** when prompted.
+2. During the setup process, tap **Restore Chat History** when prompted.
 
-- Select the most recent iCloud backup to restore your deleted voice messages.
+3. Select the most recent iCloud backup to restore your deleted voice messages.
 
 ### Method 2: Using a Third-Party Recovery Tool
 
 Similar to Android, you can use a third-party data recovery tool like Dr.Fone to recover deleted WhatsApp voice messages on your iPhone without a backup:
 
-- Download and install Dr.Fone on your computer.
+1. Download and install Dr.Fone on your computer.
 
-- Connect your iPhone to the computer and select **WhatsApp Recovery**.
+2. Connect your iPhone to the computer and select **WhatsApp Recovery**.
 
-- Click **Start Scan** to begin scanning your device for deleted WhatsApp data.
+3. Click **Start Scan** to begin scanning your device for deleted WhatsApp data.
 
-- Once the scan is complete, preview and select the voice messages you want to recover.
+4. Once the scan is complete, preview and select the voice messages you want to recover.
 
-- Click **Recover to Computer** to save the selected files.
+5. Click **Recover to Computer** to save the selected files.
 
 ## Tips to Prevent Losing WhatsApp Voice Messages
 
 To avoid losing important WhatsApp voice messages in the future, consider the following tips:
 
-- **Enable Auto Backup**: Make sure to enable automatic backups for WhatsApp on your device. This will create regular backups of your chat history, including voice messages, to your Google Drive (Android) or iCloud (iPhone) account.
+1. **Enable Auto Backup**: Make sure to enable automatic backups for WhatsApp on your device. This will create regular backups of your chat history, including voice messages, to your Google Drive (Android) or iCloud (iPhone) account.
 
-- **Export Important Voice Messages**: For particularly important audio recordings, you can export them from WhatsApp and save them to your device’s storage or a cloud service like Dropbox or Google Drive.
+2. **Export Important Voice Messages**: For particularly important audio recordings, you can export them from WhatsApp and save them to your device’s storage or a cloud service like Dropbox or Google Drive.
 
-- **Use a WhatsApp Backup App**: There are several third-party apps available that can help you create and manage WhatsApp backups, such as WhatsApp Backup & Restore (Android) and iMazing (iPhone).
+3. **Use a WhatsApp Backup App**: There are several third-party apps available that can help you create and manage WhatsApp backups, such as WhatsApp Backup & Restore (Android) and iMazing (iPhone).
 
 ## Conclusion
 

@@ -16,19 +16,19 @@ Instagram’s chat themes are a fun way to express yourself and add some visual 
 
 Follow these simple steps to transform your Instagram chats with a new theme:
 
-- **Open the Instagram app**: Launch the Instagram app on your Android or iOS device.
+1. **Open the Instagram app**: Launch the Instagram app on your Android or iOS device.
 
-- **Access your direct messages**: Tap the paper airplane icon (Send/Messenger) located in the top right corner of the screen to enter your direct messages.
+2. **Access your direct messages**: Tap the paper airplane icon (Send/Messenger) located in the top right corner of the screen to enter your direct messages.
 
-- **Select a chat**: From the Chats list, choose the conversation you want to customize. This can be a private DM or a group chat.
+3. **Select a chat**: From the Chats list, choose the conversation you want to customize. This can be a private DM or a group chat.
 
-- **Open chat settings**: Once inside the chat, tap on the profile name at the top of the screen to access the Chat settings menu.
+4. **Open chat settings**: Once inside the chat, tap on the profile name at the top of the screen to access the Chat settings menu.
 
-- **Choose the “Theme” option**: In the Chat settings, select the **Theme** option to view the available themes.
+5. **Choose the “Theme” option**: In the Chat settings, select the **Theme** option to view the available themes.
 
-- **Pick your desired theme**: Browse through the Themes section or the Colors & gradients options. Instagram offers a wide variety of themes, from simple color gradients to elaborate designs inspired by popular culture, holidays, and more.
+6. **Pick your desired theme**: Browse through the Themes section or the Colors & gradients options. Instagram offers a wide variety of themes, from simple color gradients to elaborate designs inspired by popular culture, holidays, and more.
 
-- **Apply the theme**: Once you’ve found the perfect theme that suits your style, simply tap on it to apply it to your chat instantly.
+7. **Apply the theme**: Once you’ve found the perfect theme that suits your style, simply tap on it to apply it to your chat instantly.
 
 That’s it! Your selected theme will now be visible to all participants in the chat. Instagram will also display a message in the chat window, stating “[User] changed the theme to [theme name],” along with a **Change Theme** link that directs users to the chat themes menu.
 

@@ -12,15 +12,15 @@ Are you looking to give your TikTok profile a fresh new look? One of the easiest
 
 Before we dive into the steps, let’s consider why you might want to change your TikTok username. Your username is often the first thing other users see when they come across your profile or content. It’s an essential part of your TikTok identity and can significantly impact how others perceive you on the platform. Here are a few reasons why you might consider changing your username:
 
-- **Rebranding**: If you’re shifting the focus of your content or want to present a more professional image, a new username can help reflect this change.
+1. **Rebranding**: If you’re shifting the focus of your content or want to present a more professional image, a new username can help reflect this change.
 
-- **Improved Discoverability**: A more relevant or catchy username can make it easier for potential followers to find and remember you.
+2. **Improved Discoverability**: A more relevant or catchy username can make it easier for potential followers to find and remember you.
 
-- **Personal Growth**: As you evolve as a creator, your old username might no longer represent who you are or the content you produce.
+3. **Personal Growth**: As you evolve as a creator, your old username might no longer represent who you are or the content you produce.
 
-- **Privacy Concerns**: If your current username contains personal information you’d rather not share, changing it can help protect your privacy.
+4. **Privacy Concerns**: If your current username contains personal information you’d rather not share, changing it can help protect your privacy.
 
-- **Consistency Across Platforms**: You might want to use the same username across all your social media accounts for brand consistency.
+5. **Consistency Across Platforms**: You might want to use the same username across all your social media accounts for brand consistency.
 
 Now that we’ve covered the ‘why,’ let’s move on to the ‘how.’
 
@@ -28,25 +28,25 @@ Now that we’ve covered the ‘why,’ let’s move on to the ‘how.’
 
 Changing your TikTok username on an Android device is a straightforward process. Follow these steps to update your username in just a few taps:
 
-- **Open the TikTok app** on your Android device. Make sure you’re logged into the account you want to modify.
+1. **Open the TikTok app** on your Android device. Make sure you’re logged into the account you want to modify.
 
-- **Tap on the “Profile” icon** located in the bottom right corner of the screen. This will take you to your TikTok profile page.
+2. **Tap on the “Profile” icon** located in the bottom right corner of the screen. This will take you to your TikTok profile page.
 
-- **Look for the “Edit profile” button** just below your profile picture and tap on it. This will open up your profile editing options.
+3. **Look for the “Edit profile” button** just below your profile picture and tap on it. This will open up your profile editing options.
 
-- **Scroll down to find the “Username” field**. Your current username will be displayed here.
+4. **Scroll down to find the “Username” field**. Your current username will be displayed here.
 
-- **Tap on the “Username” field** to bring up the keyboard and edit the text.
+5. **Tap on the “Username” field** to bring up the keyboard and edit the text.
 
-- **Delete your current username** and type in your desired new username. Remember, TikTok usernames must be unique, so you might need to try a few variations if your first choice is already taken.
+6. **Delete your current username** and type in your desired new username. Remember, TikTok usernames must be unique, so you might need to try a few variations if your first choice is already taken.
 
-- **Check for the green checkmark** next to your new username. This indicates that the username is available and meets TikTok’s requirements.
+7. **Check for the green checkmark** next to your new username. This indicates that the username is available and meets TikTok’s requirements.
 
-- If you see a red message instead, it means the username is either taken or doesn’t meet TikTok’s guidelines. In this case, try a different username until you see the green checkmark.
+8. If you see a red message instead, it means the username is either taken or doesn’t meet TikTok’s guidelines. In this case, try a different username until you see the green checkmark.
 
-- Once you’ve found an available username you like, **tap the “Save” button** at the top right corner of the screen.
+9. Once you’ve found an available username you like, **tap the “Save” button** at the top right corner of the screen.
 
-- **Confirm your changes** if prompted. TikTok may ask you to verify that you want to change your username.
+10. **Confirm your changes** if prompted. TikTok may ask you to verify that you want to change your username.
 
 And that’s it! Your TikTok username has now been successfully changed. Your new username will be visible on your profile and will appear on all your future posts and comments.
 
@@ -68,19 +68,19 @@ While the process of changing your username is simple, there are a few important
 
 Now that you know how to change your username, here are some tips to help you choose the perfect one:
 
-- **Keep it Simple**: Choose a username that’s easy to spell and remember. Avoid complicated words or excessive numbers.
+1. **Keep it Simple**: Choose a username that’s easy to spell and remember. Avoid complicated words or excessive numbers.
 
-- **Reflect Your Content**: Try to choose a username that gives users an idea of what kind of content you create.
+2. **Reflect Your Content**: Try to choose a username that gives users an idea of what kind of content you create.
 
-- **Be Unique**: While you want to be discoverable, try to avoid generic usernames. A unique username will help you stand out.
+3. **Be Unique**: While you want to be discoverable, try to avoid generic usernames. A unique username will help you stand out.
 
-- **Consider Your Brand**: If you’re using TikTok for business or personal branding, try to keep your username consistent with your brand name or other social media handles.
+4. **Consider Your Brand**: If you’re using TikTok for business or personal branding, try to keep your username consistent with your brand name or other social media handles.
 
-- **Avoid Sensitive Information**: Don’t include personal information like your birth year or location in your username.
+5. **Avoid Sensitive Information**: Don’t include personal information like your birth year or location in your username.
 
-- **Future-Proof It**: Choose a username that you’ll be happy with in the long term. Remember, you can only change it once every 30 days.
+6. **Future-Proof It**: Choose a username that you’ll be happy with in the long term. Remember, you can only change it once every 30 days.
 
-- **Check Availability**: Before settling on a username, check if it’s available on other social platforms you use or might use in the future.
+7. **Check Availability**: Before settling on a username, check if it’s available on other social platforms you use or might use in the future.
 
 ## Conclusion
 

@@ -12,15 +12,15 @@ Facebook is one of the most popular social media platforms, allowing you to conn
 
 The first step to finding nearby friends on Facebook is to make sure the app has permission to access your location. Here’s how:
 
-- Open the Facebook app on your iOS or Android device
+1. Open the Facebook app on your iOS or Android device
 
-- Tap the three-line menu icon in the bottom-right corner
+2. Tap the three-line menu icon in the bottom-right corner
 
-- Scroll down and tap **Settings & Privacy** > **Settings**
+3. Scroll down and tap **Settings & Privacy** > **Settings**
 
-- Tap **Location** under the **Permissions** section
+4. Tap **Location** under the **Permissions** section
 
-- Make sure **Location Services** is enabled
+5. Make sure **Location Services** is enabled
 
 Allowing Facebook to access your location enables features like Nearby Friends and location tagging in posts and stories. You can always adjust your location settings later for more privacy.
 
@@ -28,15 +28,15 @@ Allowing Facebook to access your location enables features like Nearby Friends a
 
 Facebook has a dedicated feature called Nearby Friends that shows you a list of your friends who are physically close to you. To use it:
 
-- Open the Facebook app and tap the three-line menu icon
+1. Open the Facebook app and tap the three-line menu icon
 
-- Scroll down and tap **See More**
+2. Scroll down and tap **See More**
 
-- Look for **Nearby Friends** in the list and tap it
+3. Look for **Nearby Friends** in the list and tap it
 
-- If prompted, tap **Get Started** and follow the on-screen instructions to set up Nearby Friends
+4. If prompted, tap **Get Started** and follow the on-screen instructions to set up Nearby Friends
 
-- Once set up, you’ll see a list of friends who are near your current location
+5. Once set up, you’ll see a list of friends who are near your current location
 
 **Note:** The Nearby Friends option may not appear for all users depending on your region and app version. If you don’t see it, try updating the Facebook app to the latest version.
 
@@ -46,13 +46,13 @@ With Nearby Friends, you can see approximately how far away friends are from you
 
 Many people tag their location when sharing posts and stories on Facebook. You can browse these location tags to see if any nearby friends have checked in somewhere close to you. Here’s how:
 
-- Open Facebook and go to a friend’s profile
+1. Open Facebook and go to a friend’s profile
 
-- Scroll down to see if any of their recent posts or stories have a location tag
+2. Scroll down to see if any of their recent posts or stories have a location tag
 
-- Tap the location tag to see details on a map
+3. Tap the location tag to see details on a map
 
-- Browse the posts and stories at that location to see if other friends have also checked in there
+4. Browse the posts and stories at that location to see if other friends have also checked in there
 
 Location tags can give you a good sense of the places your friends like to visit in your area. You may discover some new hangout spots or realize a friend was at the same event as you.
 
@@ -60,15 +60,15 @@ Location tags can give you a good sense of the places your friends like to visit
 
 Facebook allows you to explore public posts and events happening near your location. You can use this to find friends who may be attending local happenings. To search nearby:
 
-- Tap the search bar at the top of the Facebook app
+1. Tap the search bar at the top of the Facebook app
 
-- Enter keywords like **events near me** or the name of your city
+2. Enter keywords like **events near me** or the name of your city
 
-- Tap the **Events** tab in the search results to see a list of upcoming events in your area
+3. Tap the **Events** tab in the search results to see a list of upcoming events in your area
 
-- Browse the guest list or posts on the event page to see if any friends are planning to attend
+4. Browse the guest list or posts on the event page to see if any friends are planning to attend
 
-- You can also use the regular **Posts** tab to see public posts tagged near your location
+5. You can also use the regular **Posts** tab to see public posts tagged near your location
 
 Discovering nearby public posts and events is a great way to see what’s happening in your community and potentially meet up with friends who share your interests.
 
@@ -76,15 +76,15 @@ Discovering nearby public posts and events is a great way to see what’s happen
 
 Facebook Groups are online communities where people can connect and share information around common interests or locations. Joining local groups can help you find nearby friends with similar hobbies or neighborhood ties. To find groups:
 
-- Tap the search bar and enter keywords related to your area like **New York City** or **Bay Area**
+1. Tap the search bar and enter keywords related to your area like **New York City** or **Bay Area**
 
-- Tap the **Groups** tab to see a list of groups related to your search
+2. Tap the **Groups** tab to see a list of groups related to your search
 
-- Browse the group descriptions to find ones that match your interests
+3. Browse the group descriptions to find ones that match your interests
 
-- Request to join any relevant groups and introduce yourself to the other members
+4. Request to join any relevant groups and introduce yourself to the other members
 
-- Scan the member list and posts to see if you recognize any friends or acquaintances
+5. Scan the member list and posts to see if you recognize any friends or acquaintances
 
 Local Facebook Groups often host in-person meetups and events as well, providing more opportunities to connect with nearby friends face-to-face.
 
@@ -92,15 +92,15 @@ Local Facebook Groups often host in-person meetups and events as well, providing
 
 Facebook allows businesses and landmarks to create their own Pages where people can check in, post reviews, and more. You can use the Nearby Places feature to see if any friends have visited places in your area:
 
-- Tap the three-line menu icon and scroll down to **See More**
+1. Tap the three-line menu icon and scroll down to **See More**
 
-- Look for **Nearby Places** and tap it to see a list of popular spots near you
+2. Look for **Nearby Places** and tap it to see a list of popular spots near you
 
-- Tap on a place to visit its Facebook Page
+3. Tap on a place to visit its Facebook Page
 
-- Scroll down to the **Posts** section to view check-ins, reviews, and posts tagged at that location
+4. Scroll down to the **Posts** section to view check-ins, reviews, and posts tagged at that location
 
-- See if you recognize any friends who have visited that place recently
+5. See if you recognize any friends who have visited that place recently
 
 The Nearby Places feature is useful for finding popular restaurants, shops, and attractions in your area that friends may frequent. You can also leave your own reviews and check-ins to let friends know about your favorite local spots.
 
@@ -124,18 +124,18 @@ Facebook may be a global platform, but it also provides plenty of tools to help 
 
 To recap, here are the key steps to find nearby friends on Facebook mobile:
 
-- **Enable location services** to let Facebook access your location for features like Nearby Friends
+1. **Enable location services** to let Facebook access your location for features like Nearby Friends
 
-- Use **Nearby Friends** to see a list of friends who are physically close to you
+2. Use **Nearby Friends** to see a list of friends who are physically close to you
 
-- **Check location tags** on posts and stories to see if friends have checked in somewhere nearby
+3. **Check location tags** on posts and stories to see if friends have checked in somewhere nearby
 
-- **Search nearby posts and events** to discover local happenings friends may be attending
+4. **Search nearby posts and events** to discover local happenings friends may be attending
 
-- **Join local Facebook Groups** to meet people in your area who share common interests
+5. **Join local Facebook Groups** to meet people in your area who share common interests
 
-- **Explore Nearby Places** to view check-ins and posts from friends at popular spots in your area
+6. **Explore Nearby Places** to view check-ins and posts from friends at popular spots in your area
 
-- **Share your own location** in posts, stories, and Nearby Friends to help others find you
+7. **Share your own location** in posts, stories, and Nearby Friends to help others find you
 
 By leveraging these Facebook features, you can more easily meet up with existing friends in your area and potentially make new connections based on shared locations and interests. So next time you’re looking for some local companionship, try finding nearby friends on Facebook!

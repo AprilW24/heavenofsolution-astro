@@ -18,39 +18,39 @@ The mobile app version of Google Translate offers more flexibility when it comes
 
 ### For Android Devices:
 
-- **Open the Google Translate app** on your Android device.
+1. **Open the Google Translate app** on your Android device.
 
-- **Tap the menu icon** (three horizontal lines) in the top-left corner of the screen.
+2. **Tap the menu icon** (three horizontal lines) in the top-left corner of the screen.
 
-- **Select “Settings”** from the menu options.
+3. **Select “Settings”** from the menu options.
 
-- **Scroll down to find “Speech”** or “Voice” settings.
+4. **Scroll down to find “Speech”** or “Voice” settings.
 
-- **Look for “Speech Region” or “Voice Region”** options. This is where you can potentially change the accent or dialect, which might affect the gender of the voice.
+5. **Look for “Speech Region” or “Voice Region”** options. This is where you can potentially change the accent or dialect, which might affect the gender of the voice.
 
-- **Select the language** you want to modify.
+6. **Select the language** you want to modify.
 
-- **Choose a different region** or dialect if available. For example, changing from “English (US)” to “English (UK)” might switch the voice gender in some cases.
+7. **Choose a different region** or dialect if available. For example, changing from “English (US)” to “English (UK)” might switch the voice gender in some cases.
 
-- **Test the new voice** by using the text-to-speech function in the main translation interface.
+8. **Test the new voice** by using the text-to-speech function in the main translation interface.
 
 ### For iOS Devices:
 
-- **Launch the Google Translate app** on your iPhone or iPad.
+1. **Launch the Google Translate app** on your iPhone or iPad.
 
-- **Tap your profile picture or the menu icon** in the top-right corner.
+2. **Tap your profile picture or the menu icon** in the top-right corner.
 
-- **Select “Settings”** from the dropdown menu.
+3. **Select “Settings”** from the dropdown menu.
 
-- **Look for “Speech” or “Voice” settings**.
+4. **Look for “Speech” or “Voice” settings**.
 
-- **Tap on “Speech Region” or “Voice Region”**.
+5. **Tap on “Speech Region” or “Voice Region”**.
 
-- **Choose the language** you want to modify.
+6. **Choose the language** you want to modify.
 
-- **Select a different region or dialect** if available.
+7. **Select a different region or dialect** if available.
 
-- **Test the new voice** to see if it has changed to a male voice.
+8. **Test the new voice** to see if it has changed to a male voice.
 
 It’s important to note that these steps might not guarantee a switch to a male voice for all languages, as the availability of different voice options can vary.
 
@@ -58,15 +58,15 @@ It’s important to note that these steps might not guarantee a switch to a male
 
 Unfortunately, the desktop version of Google Translate doesn’t offer as many options for changing voices as the mobile app. However, you can try the following:
 
-- **Visit the Google Translate website** (translate.google.com) in your browser.
+1. **Visit the Google Translate website** (translate.google.com) in your browser.
 
-- **Select your desired languages** for translation.
+2. **Select your desired languages** for translation.
 
-- **Enter some text** to translate.
+3. **Enter some text** to translate.
 
-- **Click the speaker icon** to hear the translation.
+4. **Click the speaker icon** to hear the translation.
 
-- **Check if there’s a dropdown menu** next to the speaker icon that allows you to select different voices or accents.
+5. **Check if there’s a dropdown menu** next to the speaker icon that allows you to select different voices or accents.
 
 If you don’t see options to change the voice, it means that Google doesn’t currently offer alternative voices for that particular language on the web version.
 
@@ -74,17 +74,17 @@ If you don’t see options to change the voice, it means that Google doesn’t c
 
 If you’re using Google Chrome or a compatible browser, you can explore third-party extensions that offer more control over text-to-speech voices. Here’s how you can use one such extension:
 
-- **Open the Chrome Web Store** and search for “text to speech” or “voice changer” extensions.
+1. **Open the Chrome Web Store** and search for “text to speech” or “voice changer” extensions.
 
-- **Find a reputable extension** with good reviews and install it. For example, “Select and Speak” or “Read Aloud” are popular choices.
+2. **Find a reputable extension** with good reviews and install it. For example, “Select and Speak” or “Read Aloud” are popular choices.
 
-- **Configure the extension** according to its instructions, usually by clicking on its icon in your browser toolbar.
+3. **Configure the extension** according to its instructions, usually by clicking on its icon in your browser toolbar.
 
-- **Visit Google Translate** and enter your text.
+4. **Visit Google Translate** and enter your text.
 
-- **Instead of using Google Translate’s built-in voice function**, use the extension to read the translated text.
+5. **Instead of using Google Translate’s built-in voice function**, use the extension to read the translated text.
 
-- **Many of these extensions allow you to choose from a variety of voices**, including male options.
+6. **Many of these extensions allow you to choose from a variety of voices**, including male options.
 
 Remember to be cautious when installing browser extensions and only use those from trusted sources to protect your privacy and security.
 
@@ -94,17 +94,17 @@ If you’re still unable to get a male voice directly through Google Translate, 
 
 ### Using Natural Readers:
 
-- **Translate your text** using Google Translate.
+1. **Translate your text** using Google Translate.
 
-- **Copy the translated text**.
+2. **Copy the translated text**.
 
-- **Visit naturalreaders.com** or use their app.
+3. **Visit naturalreaders.com** or use their app.
 
-- **Paste your translated text** into Natural Readers.
+4. **Paste your translated text** into Natural Readers.
 
-- **Select a male voice** from their available options.
+5. **Select a male voice** from their available options.
 
-- **Listen to the text** read aloud in your chosen male voice.
+6. **Listen to the text** read aloud in your chosen male voice.
 
 ### Text-to-Speech Apps:
 
@@ -120,17 +120,17 @@ There are numerous text-to-speech apps available for both mobile devices and des
 
 To use these apps:
 
-- **Translate your text** using Google Translate.
+1. **Translate your text** using Google Translate.
 
-- **Copy the translated text**.
+2. **Copy the translated text**.
 
-- **Open your chosen text-to-speech app**.
+3. **Open your chosen text-to-speech app**.
 
-- **Paste the translated text**.
+4. **Paste the translated text**.
 
-- **Select a male voice** from the available options.
+5. **Select a male voice** from the available options.
 
-- **Play the audio** to hear your translation in a male voice.
+6. **Play the audio** to hear your translation in a male voice.
 
 ## Tips for Better Voice Translation Experiences
 

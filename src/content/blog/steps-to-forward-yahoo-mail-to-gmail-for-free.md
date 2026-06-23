@@ -28,17 +28,17 @@ Whatever your reasons, Yahoo makes it easy to continuously forward copies of you
 
 First, log into your Yahoo Mail account in a web browser and access your mail settings:
 
-- Click the **Settings gear icon** in the upper right corner of the Yahoo Mail interface.
+1. Click the **Settings gear icon** in the upper right corner of the Yahoo Mail interface.
 
-- Select **More Settings** from the dropdown menu that appears.
+2. Select **More Settings** from the dropdown menu that appears.
 
-- In the left sidebar of the settings screen, choose **Mailboxes**.
+3. In the left sidebar of the settings screen, choose **Mailboxes**.
 
-- Under **Mailbox list**, click on your **Yahoo email address** to configure it.
+4. Under **Mailbox list**, click on your **Yahoo email address** to configure it.
 
-- Scroll down to the **Forwarding** section. Enter your **Gmail forwarding address** in the text field.
+5. Scroll down to the **Forwarding** section. Enter your **Gmail forwarding address** in the text field.
 
-- Click the **Verify** button next to the forwarding address.
+6. Click the **Verify** button next to the forwarding address.
 
 After completing these steps, Yahoo will send a verification email to your Gmail address to confirm you own that account and want to enable forwarding.
 
@@ -46,11 +46,11 @@ After completing these steps, Yahoo will send a verification email to your Gmail
 
 Next, log into your Gmail account to verify the forwarding request:
 
-- Open your Gmail inbox and look for an email from Yahoo with the subject line **Please verify your email address**.
+1. Open your Gmail inbox and look for an email from Yahoo with the subject line **Please verify your email address**.
 
-- Open the email and **click the verification link** inside to confirm you want to enable forwarding from Yahoo to that Gmail address.
+2. Open the email and **click the verification link** inside to confirm you want to enable forwarding from Yahoo to that Gmail address.
 
-- You will be redirected to a Yahoo confirmation page. Click the **Verify** button on this page to complete the process.
+3. You will be redirected to a Yahoo confirmation page. Click the **Verify** button on this page to complete the process.
 
 After you click Verify, your Yahoo Mail forwarding to Gmail will be active. From now on, a copy of every email that arrives in your Yahoo inbox will be automatically forwarded to your Gmail address.
 
@@ -70,10 +70,10 @@ Forwarding your Yahoo Mail to Gmail is a quick and easy process that can save yo
 
 The key steps are:
 
-- Enable forwarding in your Yahoo Mail settings and enter your Gmail address
+1. Enable forwarding in your Yahoo Mail settings and enter your Gmail address
 
-- Verify the forwarding request by clicking the link in the confirmation email sent to your Gmail
+2. Verify the forwarding request by clicking the link in the confirmation email sent to your Gmail
 
-- Optionally adjust your Gmail settings to better organize and access the forwarded emails
+3. Optionally adjust your Gmail settings to better organize and access the forwarded emails
 
 By consolidating your email accounts, you can streamline your communications and never miss an important message. Set up Yahoo Mail forwarding today and enjoy the convenience of having all your emails in one place.

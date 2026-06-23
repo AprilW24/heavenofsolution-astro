@@ -26,13 +26,13 @@ Before we dive into the solutions, it’s important to understand why TikTok doe
 
 TikTok’s standard method for deleting videos involves going through each video individually:
 
-- Open the TikTok app and go to your profile
+1. Open the TikTok app and go to your profile
 
-- Tap on the video you want to delete
+2. Tap on the video you want to delete
 
-- Tap the three-dot menu icon
+3. Tap the three-dot menu icon
 
-- Select “Delete” and confirm your choice
+4. Select “Delete” and confirm your choice
 
 While this process works fine for removing a few videos, it becomes incredibly time-consuming if you have dozens or hundreds of videos to delete. Fortunately, there are alternative methods to speed up this process.
 
@@ -42,13 +42,13 @@ One of the most effective ways to delete multiple TikTok videos quickly is by us
 
 **Browser Extension Option:**One popular option is the “Delete All My Videos on TikTok™” Chrome extension. Here’s how to use it:
 
-- Install the extension from the Chrome Web Store
+1. Install the extension from the Chrome Web Store
 
-- Open TikTok in your browser and log in to your account
+2. Open TikTok in your browser and log in to your account
 
-- Navigate to your profile page
+3. Navigate to your profile page
 
-- Click on the extension icon and follow the prompts to delete your videos
+4. Click on the extension icon and follow the prompts to delete your videos
 
 This extension claims to make it easy to bulk delete all of your saved TikTok videos quickly. It automates the process by clicking the delete buttons for you, allowing you to leave it running in the background while it does the work.
 
@@ -58,15 +58,15 @@ This extension claims to make it easy to bulk delete all of your saved TikTok vi
 
 While this method won’t delete your posted videos, it can help you quickly remove all your draft videos, which can be useful if you have many unpublished videos taking up space:
 
-- Open the TikTok app
+1. Open the TikTok app
 
-- Go to your profile and tap the three-line menu icon
+2. Go to your profile and tap the three-line menu icon
 
-- Select “Settings and privacy”
+3. Select “Settings and privacy”
 
-- Under “Cache & Cellular Data,” tap “Free up space”
+4. Under “Cache & Cellular Data,” tap “Free up space”
 
-- Tap “Clear” next to “Cache,” then confirm by tapping “Clear” again
+5. Tap “Clear” next to “Cache,” then confirm by tapping “Clear” again
 
 This process will remove temporary files and drafts associated with your account, potentially freeing up a significant amount of space. However, remember that this won’t affect videos you’ve already posted to your profile.
 
@@ -74,15 +74,15 @@ This process will remove temporary files and drafts associated with your account
 
 If you have a large number of videos to delete and don’t want to use third-party tools, you can try reaching out to TikTok support directly:
 
-- Open the TikTok app and go to your profile
+1. Open the TikTok app and go to your profile
 
-- Tap the three-line menu icon and select “Settings and privacy”
+2. Tap the three-line menu icon and select “Settings and privacy”
 
-- Scroll down and tap “Report a problem”
+3. Scroll down and tap “Report a problem”
 
-- Navigate to “Videos and sounds” > “Other”
+4. Navigate to “Videos and sounds” > “Other”
 
-- Tap “Need more help” and explain your situation
+5. Tap “Need more help” and explain your situation
 
 When contacting support, be clear about your request to delete all your videos. Explain why you need this done and ask if they can assist with a bulk deletion process. While there’s no guarantee that TikTok will accommodate your request, it’s worth trying if you’re dealing with a large volume of content.
 

@@ -14,27 +14,27 @@ To cut an element, like an image or text, in half in Canva, you’ll use the Cro
 
 To cut an image in half in Canva, you’ll use the Crop tool. Here are the steps:
 
-- Open your project in Canva and add the image you want to cut.
+1. Open your project in Canva and add the image you want to cut.
 
-- Double-click on the image to open the Crop tab.
+2. Double-click on the image to open the Crop tab.
 
-- Crop the image to one half by dragging the crop handles.
+3. Crop the image to one half by dragging the crop handles.
 
-- Add the same image again and crop the other half.
+4. Add the same image again and crop the other half.
 
-- Use rulers to align both halves perfectly.
+5. Use rulers to align both halves perfectly.
 
 ## Cutting Text in Half
 
 For text, you can create a split effect using shapes. Here’s how:
 
-- Add your text to the canvas.
+1. Add your text to the canvas.
 
-- Choose a shape (like a line) from the Elements tab to act as a divider.
+2. Choose a shape (like a line) from the Elements tab to act as a divider.
 
-- Place the shape over the text where you want it to split.
+3. Place the shape over the text where you want it to split.
 
-- Adjust the shape’s color and size to blend with your design.
+4. Adjust the shape’s color and size to blend with your design.
 
 ## Tips for Alignment
 

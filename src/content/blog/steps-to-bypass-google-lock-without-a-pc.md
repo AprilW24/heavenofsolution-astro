@@ -18,13 +18,13 @@ While Google lock is a useful anti-theft measure, it can be problematic if you f
 
 The first and simplest method to try is the official Google account recovery process:
 
-- On the Google verification screen, tap **Forgot Pattern** or **Forgot Password**.
+1. On the Google verification screen, tap **Forgot Pattern** or **Forgot Password**.
 
-- Tap **Answer security question** or use another verification method like backup email or phone number.
+2. Tap **Answer security question** or use another verification method like backup email or phone number.
 
-- Follow the prompts to recover access to your Google account.
+3. Follow the prompts to recover access to your Google account.
 
-- Once you regain access, enter your account credentials on the Google verification screen to unlock your device.
+4. Once you regain access, enter your account credentials on the Google verification screen to unlock your device.
 
 This method will only work if you set up security questions or alternative verification methods for your Google account. If you didn’t, you’ll need to try another method.
 
@@ -32,15 +32,15 @@ This method will only work if you set up security questions or alternative verif
 
 If you had Find My Device enabled on your phone before it was locked, you can use it to perform a remote factory reset and remove the Google account:
 
-- On another phone or tablet, open a web browser and go to [android.com/find](https://www.google.com/android/find).
+1. On another phone or tablet, open a web browser and go to [android.com/find](https://www.google.com/android/find).
 
-- Sign in to the Google account that was previously synced to your locked device.
+2. Sign in to the Google account that was previously synced to your locked device.
 
-- On the Find My Device page, select your locked phone from the list.
+3. On the Find My Device page, select your locked phone from the list.
 
-- Tap **Erase** to perform a remote factory reset.
+4. Tap **Erase** to perform a remote factory reset.
 
-- After the reset, your phone will no longer be locked to your Google account.
+5. After the reset, your phone will no longer be locked to your Google account.
 
 Keep in mind this will erase all data from your device. But it is an effective way to regain access if you’re locked out.
 

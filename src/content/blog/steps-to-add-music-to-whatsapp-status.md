@@ -22,25 +22,25 @@ The music library inside WhatsApp is massive, with millions of licensed tracks a
 
 The steps are almost identical on both Android and iPhone, so this guide works for either device. Make sure your WhatsApp is updated to the latest version before you start. 📱
 
-- Open WhatsApp and tap the **Updates** tab at the bottom of your screen.
+1. Open WhatsApp and tap the **Updates** tab at the bottom of your screen.
 
-- Tap **Add status** at the top left corner.
+2. Tap **Add status** at the top left corner.
 
-- Choose a photo or video from your gallery that you want to post.
+3. Choose a photo or video from your gallery that you want to post.
 
-- Once the photo or video loads in the editor, look for the **music note icon** at the top of the screen and tap it.
+4. Once the photo or video loads in the editor, look for the **music note icon** at the top of the screen and tap it.
 
-- Use the **search bar** to find a specific song, or scroll through the list of popular tracks in your region.
+5. Use the **search bar** to find a specific song, or scroll through the list of popular tracks in your region.
 
-- Tap the small **play icon** next to a song to preview it before adding.
+6. Tap the small **play icon** next to a song to preview it before adding.
 
-- Tap the **arrow icon** on the right side of the song to select and load it onto your *Status*.
+7. Tap the **arrow icon** on the right side of the song to select and load it onto your *Status*.
 
-- Tap the **album cover** or use the **slider** at the bottom to choose which part of the song plays.
+8. Tap the **album cover** or use the **slider** at the bottom to choose which part of the song plays.
 
-- Select a cover style (options include *Vinyl*, *Cassette*, slim card, or rectangle) to personalize how it looks.
+9. Select a cover style (options include *Vinyl*, *Cassette*, slim card, or rectangle) to personalize how it looks.
 
-- Tap **Done** at the top right, then hit the **green send icon** to post your *Status*.
+10. Tap **Done** at the top right, then hit the **green send icon** to post your *Status*.
 
 ## What to Do If the Music Icon Is Not Showing on Your WhatsApp
 

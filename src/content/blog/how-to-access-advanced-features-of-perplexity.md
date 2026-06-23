@@ -20,11 +20,11 @@ Upon launching the app, you’ll be greeted with a clean, intuitive interface. T
 
 One of the most powerful advanced features of Perplexity AI is its Focus Areas. These allow you to narrow down your search to specific types of content or sources. To access Focus Areas on your Android device:
 
-- Tap the search bar at the top of the screen.
+1. Tap the search bar at the top of the screen.
 
-- Look for the Focus Area options just below the search bar.
+2. Look for the Focus Area options just below the search bar.
 
-- Swipe left or right to view different Focus Areas such as All, Academic, Wolfram, YouTube, and Writing.
+3. Swipe left or right to view different Focus Areas such as All, Academic, Wolfram, YouTube, and Writing.
 
 By selecting a specific Focus Area, you’re instructing Perplexity AI to tailor its search results accordingly. For instance, choosing “Academic” will prioritize scholarly sources, while “YouTube” will focus on video content.
 
@@ -32,11 +32,11 @@ By selecting a specific Focus Area, you’re instructing Perplexity AI to tailor
 
 The Library feature is a game-changer for organizing your searches and maintaining a history of your queries. To access and make the most of the Library:
 
-- Tap the menu icon (usually three horizontal lines) in the top-left corner of the app.
+1. Tap the menu icon (usually three horizontal lines) in the top-left corner of the app.
 
-- Select “Library” from the menu options.
+2. Select “Library” from the menu options.
 
-- Here, you’ll find your search history organized into threads.
+3. Here, you’ll find your search history organized into threads.
 
 **Pro tip**: Use the Library to revisit past searches, continue conversations with the AI, or pick up where you left off on complex research topics.
 
@@ -44,13 +44,13 @@ The Library feature is a game-changer for organizing your searches and maintaini
 
 Perplexity AI’s file upload feature allows you to provide additional context to your queries by uploading documents, images, or PDFs. This is particularly useful for academic research or when you need to analyze specific data. To use this feature:
 
-- Start a new query by tapping the search bar.
+1. Start a new query by tapping the search bar.
 
-- Look for the paperclip or upload icon near the search bar.
+2. Look for the paperclip or upload icon near the search bar.
 
-- Tap it to select and upload a file from your device.
+3. Tap it to select and upload a file from your device.
 
-- Once uploaded, you can ask questions about the content of the file.
+4. Once uploaded, you can ask questions about the content of the file.
 
 Remember, the free version of Perplexity AI limits you to three file uploads per day, so use this feature judiciously.
 
@@ -58,11 +58,11 @@ Remember, the free version of Perplexity AI limits you to three file uploads per
 
 To get more personalized and relevant results, take advantage of the AI Profile feature. This allows you to provide information about yourself, your interests, and your preferences to the AI. To set up or modify your AI Profile:
 
-- Tap the menu icon and select “Settings.”
+1. Tap the menu icon and select “Settings.”
 
-- Look for “AI Profile” or a similar option.
+2. Look for “AI Profile” or a similar option.
 
-- Fill in the relevant information about yourself, including your location, interests, and areas of expertise.
+3. Fill in the relevant information about yourself, including your location, interests, and areas of expertise.
 
 By customizing your AI Profile, you’re helping Perplexity AI understand your context better, leading to more tailored and accurate responses.
 
@@ -80,11 +80,11 @@ While the free version of Perplexity AI offers a robust set of features, upgradi
 
 To upgrade to Pro:
 
-- Tap the menu icon and select “Upgrade to Pro.”
+1. Tap the menu icon and select “Upgrade to Pro.”
 
-- Choose your preferred subscription plan.
+2. Choose your preferred subscription plan.
 
-- Complete the payment process.
+3. Complete the payment process.
 
 ## Mastering Search Techniques
 
@@ -102,13 +102,13 @@ To truly access the advanced features of Perplexity AI, it’s crucial to master
 
 Collections are an advanced feature that allows you to organize related searches and share them with others. To create and manage collections:
 
-- Go to your Library.
+1. Go to your Library.
 
-- Look for the “Collections” tab or option.
+2. Look for the “Collections” tab or option.
 
-- Tap “Create New Collection” and give it a name.
+3. Tap “Create New Collection” and give it a name.
 
-- Add relevant searches to your collection by selecting them from your history.
+4. Add relevant searches to your collection by selecting them from your history.
 
 Collections are particularly useful for collaborative research or when working on long-term projects.
 
@@ -116,11 +116,11 @@ Collections are particularly useful for collaborative research or when working o
 
 The Discover feature keeps you informed about the latest developments in AI, technology, and other fields. To access Discover:
 
-- Tap the menu icon.
+1. Tap the menu icon.
 
-- Select “Discover” from the options.
+2. Select “Discover” from the options.
 
-- Browse through curated articles and topics of interest.
+3. Browse through curated articles and topics of interest.
 
 Regularly checking the Discover section can help you stay on top of new features and improvements to the Perplexity AI app.
 

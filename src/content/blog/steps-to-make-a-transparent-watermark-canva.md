@@ -20,25 +20,25 @@ Canva provides a variety of tools and templates to create custom watermarks. You
 
 Before diving into the steps, it’s important to have a clear idea of what you want your watermark to look like. Consider your brand’s style and how you want to represent it visually. Whether you’re using a logo, text, or a combination of both, ensure it aligns with your overall brand identity. Here are the steps to create a transparent watermark in Canva:
 
-- **Open Canva and Create a New Design**: Log into Canva and click on “Create a design” to start a new project.
+1. **Open Canva and Create a New Design**: Log into Canva and click on “Create a design” to start a new project.
 
-- **Add Your Logo or Text**: Use the “Text” or “Uploads” feature to add your logo or text for the watermark.
+2. **Add Your Logo or Text**: Use the “Text” or “Uploads” feature to add your logo or text for the watermark.
 
-- **Customize the Watermark Design**: Adjust the font, size, and color of your text or logo.
+3. **Customize the Watermark Design**: Adjust the font, size, and color of your text or logo.
 
-- **Adjust Transparency**: Select your watermark and click on the transparency icon (checkerboard icon) in the top toolbar. Adjust the slider to reduce the opacity (typically between 20-50%).
+4. **Adjust Transparency**: Select your watermark and click on the transparency icon (checkerboard icon) in the top toolbar. Adjust the slider to reduce the opacity (typically between 20-50%).
 
-- **Position the Watermark**: Use the transformation tools to resize and position your watermark.
+5. **Position the Watermark**: Use the transformation tools to resize and position your watermark.
 
-- **Save the Watermark**: Click “Share” > “Download” and select PNG format to save your watermark with a transparent background.
+6. **Save the Watermark**: Click “Share” > “Download” and select PNG format to save your watermark with a transparent background.
 
-- **Apply the Watermark to Your Designs**: Upload your watermark to Canva and apply it to any image or design.
+7. **Apply the Watermark to Your Designs**: Upload your watermark to Canva and apply it to any image or design.
 
-- **Finalize and Download**: Adjust the watermark’s transparency and position on your design, then download the final version.
+8. **Finalize and Download**: Adjust the watermark’s transparency and position on your design, then download the final version.
 
-- **Reuse Your Watermark**: Save your watermark for future use by downloading it as a PNG and reuploading it to Canva when needed.
+9. **Reuse Your Watermark**: Save your watermark for future use by downloading it as a PNG and reuploading it to Canva when needed.
 
-- **Experiment with Different Styles**: Try different fonts, colors, and effects to create unique watermarks.
+10. **Experiment with Different Styles**: Try different fonts, colors, and effects to create unique watermarks.
 
 ## Tips for Effective Watermarks
 

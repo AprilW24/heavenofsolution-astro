@@ -34,21 +34,21 @@ When choosing a third-party file manager, consider factors like ease of use, add
 
 One of the keys to efficient file management is keeping your files organized. Here are some tips to help you stay on top of your file organization:
 
-- **Create folders**: Use folders to group related files together. For example, create separate folders for work documents, personal photos, and downloaded files.
+1. **Create folders**: Use folders to group related files together. For example, create separate folders for work documents, personal photos, and downloaded files.
 
-- **Use descriptive names**: When naming your files and folders, use descriptive names that clearly indicate their contents. This will make it easier to find specific files later on.
+2. **Use descriptive names**: When naming your files and folders, use descriptive names that clearly indicate their contents. This will make it easier to find specific files later on.
 
-- **Regularly clean up**: Take some time each month to go through your files and delete any that you no longer need. This will help prevent clutter and free up storage space on your device.
+3. **Regularly clean up**: Take some time each month to go through your files and delete any that you no longer need. This will help prevent clutter and free up storage space on your device.
 
 ## Backing Up Your Files
 
 To protect your files from accidental deletion or device failure, it’s crucial to regularly back up your data. Android devices offer several backup options:
 
-- **Cloud storage**: Services like Google Drive, Dropbox, and OneDrive allow you to store your files in the cloud and access them from any device with an internet connection.
+1. **Cloud storage**: Services like Google Drive, Dropbox, and OneDrive allow you to store your files in the cloud and access them from any device with an internet connection.
 
-- **External storage**: If your device supports expandable storage, consider using an SD card to store important files. You can then easily remove the SD card and transfer your files to another device if needed.
+2. **External storage**: If your device supports expandable storage, consider using an SD card to store important files. You can then easily remove the SD card and transfer your files to another device if needed.
 
-- **USB transfer**: Connect your Android device to your computer using a USB cable, and transfer your files to your computer’s hard drive for safekeeping.
+3. **USB transfer**: Connect your Android device to your computer using a USB cable, and transfer your files to your computer’s hard drive for safekeeping.
 
 ## Conclusion
 

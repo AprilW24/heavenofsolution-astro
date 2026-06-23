@@ -12,13 +12,13 @@ Have you ever had a bunch of important tabs open in Google Chrome, but needed to
 
 The simplest way to save your open tabs is to configure Chrome to automatically reopen them the next time you start the browser:
 
-- Open the Chrome menu by clicking the three dots icon in the top right corner.
+1. Open the Chrome menu by clicking the three dots icon in the top right corner.
 
-- Select **Settings**.
+2. Select **Settings**.
 
-- In the left sidebar, click **On startup**.
+3. In the left sidebar, click **On startup**.
 
-- Select the radio button for **Continue where you left off**.
+4. Select the radio button for **Continue where you left off**.
 
 Now, the next time you open Chrome, it will automatically reopen the tabs you had open during your previous session. This works even if you closed Chrome normally or your computer crashed or lost power.
 
@@ -34,11 +34,11 @@ However, this method has some limitations:
 
 Another quick way to save a set of open tabs is to bookmark them all at once:
 
-- With the desired tabs open, use the keyboard shortcut Ctrl+Shift+D (Windows) or Cmd+Shift+D (Mac).
+1. With the desired tabs open, use the keyboard shortcut Ctrl+Shift+D (Windows) or Cmd+Shift+D (Mac).
 
-- In the dialog that appears, enter a name for the new bookmarks folder.
+2. In the dialog that appears, enter a name for the new bookmarks folder.
 
-- Click **Save** to create the bookmarks folder with all open tabs.
+3. Click **Save** to create the bookmarks folder with all open tabs.
 
 Later, you can access the saved tabs by opening the bookmarks folder in Chrome. Right-click the folder and select **Open All** to reopen the whole set of tabs together.
 
@@ -48,13 +48,13 @@ Later, you can access the saved tabs by opening the bookmarks folder in Chrome. 
 
 Tab groups are a newer Chrome feature that let you organize open tabs into collapsible groups. They also make it easy to save a set of tabs together.
 
-- To create a tab group, right-click any tab and select **Add Tab to New Group**.
+1. To create a tab group, right-click any tab and select **Add Tab to New Group**.
 
-- Give the group a name and color, then click anywhere outside the popup to save it.
+2. Give the group a name and color, then click anywhere outside the popup to save it.
 
-- Add more tabs to the group by dragging them into it.
+3. Add more tabs to the group by dragging them into it.
 
-- Collapse the group by clicking the group name to the left of the tabs. Click again to expand it.
+4. Collapse the group by clicking the group name to the left of the tabs. Click again to expand it.
 
 Tab groups are automatically saved and will be restored the next time you open Chrome, even if you close the browser. However, like the “Continue where you left off” setting, this will only save the groups from your last browsing session.
 
@@ -70,11 +70,11 @@ For the most control over saving and restoring your tabs, you can use a third-pa
 
 To use a tab manager extension:
 
-- Install the extension from the Chrome Web Store.
+1. Install the extension from the Chrome Web Store.
 
-- With your desired tabs open, click the extension icon and follow the prompts to save your tabs.
+2. With your desired tabs open, click the extension icon and follow the prompts to save your tabs.
 
-- When you want to restore the tabs, click the extension icon again and select the saved session.
+3. When you want to restore the tabs, click the extension icon again and select the saved session.
 
 Tab manager extensions give you the flexibility to save multiple sets of tabs, not just your last session. They’re ideal if you regularly need to save and restore different groups of tabs.
 

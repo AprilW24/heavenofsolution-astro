@@ -16,11 +16,11 @@ Fortunately, there are a few easy steps you can take to ensure that your WhatsAp
 
 The first step is to make sure that WhatsApp’s auto-download feature is enabled. Here’s how to do it:
 
-- Open WhatsApp and tap the three-dot menu icon in the top-right corner.
+1. Open WhatsApp and tap the three-dot menu icon in the top-right corner.
 
-- Tap **Settings** and then **Chats**.
+2. Tap **Settings** and then **Chats**.
 
-- Make sure the **Media Visibility** option is turned on.
+3. Make sure the **Media Visibility** option is turned on.
 
 ![](/wp-content/uploads/2024/04/HoS-14.jpg)
 
@@ -30,11 +30,11 @@ This will ensure that any new images you receive on WhatsApp will be automatical
 
 If your phone is running low on storage, WhatsApp may not be able to save new images to your gallery. To check your phone’s storage:
 
-- Open your phone’s **Settings** app.
+1. Open your phone’s **Settings** app.
 
-- Tap **Storage**.
+2. Tap **Storage**.
 
-- Check how much free space you have available.
+3. Check how much free space you have available.
 
 ![](/wp-content/uploads/2024/04/HoS-2-2.jpg)
 
@@ -44,11 +44,11 @@ If you’re running low on storage, try deleting some unused apps or files to fr
 
 In some cases, WhatsApp may not have permission to save images to your phone’s storage. To fix this:
 
-- Open your phone’s **Settings** app.
+1. Open your phone’s **Settings** app.
 
-- Tap **Apps & notifications** and then **WhatsApp**.
+2. Tap **Apps & notifications** and then **WhatsApp**.
 
-- Tap **Permissions** and make sure the **Storage** option is turned on.
+3. Tap **Permissions** and make sure the **Storage** option is turned on.
 
 ![](/wp-content/uploads/2024/04/HoS-13.jpg)
 
@@ -58,11 +58,11 @@ This will allow WhatsApp to save images to your phone’s gallery.
 
 WhatsApp has a few other settings that can affect whether images are saved to your gallery. To check these settings:
 
-- Open WhatsApp and tap the three-dot menu icon in the top-right corner.
+1. Open WhatsApp and tap the three-dot menu icon in the top-right corner.
 
-- Tap **Settings** and then **Chats**.
+2. Tap **Settings** and then **Chats**.
 
-- Make sure the **Save to Camera Roll** option is turned on.
+3. Make sure the **Save to Camera Roll** option is turned on.
 
 You can also adjust your auto-download settings here to control when WhatsApp downloads new images (e.g. only on Wi-Fi).
 
@@ -76,14 +76,14 @@ WhatsApp is a great way to share images with friends and family, but it can be f
 
 To recap, the key steps are:
 
-- Enable WhatsApp’s auto-download feature
+1. Enable WhatsApp’s auto-download feature
 
-- Check your phone’s storage and free up space if needed
+2. Check your phone’s storage and free up space if needed
 
-- Allow WhatsApp to access your phone’s storage
+3. Allow WhatsApp to access your phone’s storage
 
-- Check your WhatsApp settings
+4. Check your WhatsApp settings
 
-- Restart your phone if all else fails
+5. Restart your phone if all else fails
 
 By taking these simple steps, you’ll never have to worry about missing a WhatsApp image again. Happy sharing!

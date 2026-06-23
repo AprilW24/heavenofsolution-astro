@@ -20,25 +20,25 @@ This isn’t about being secretive. It’s about maintaining boundaries and prof
 
 ## Steps to Install and Set Up the Privacy Extension
 
-- Open Google Chrome and go to the Chrome Web Store by typing “chrome.google.com/webstore” in your address bar.
+1. Open Google Chrome and go to the Chrome Web Store by typing “chrome.google.com/webstore” in your address bar.
 
-- Search for “Privacy Extension for WhatsApp Web” in the search box at the top left.
+2. Search for “Privacy Extension for WhatsApp Web” in the search box at the top left.
 
-- Click on the extension (look for one with good reviews and ratings, usually developed by wabulk.net or similar verified developers).
+3. Click on the extension (look for one with good reviews and ratings, usually developed by wabulk.net or similar verified developers).
 
-- Click the blue “Add to Chrome” button on the extension page.
+4. Click the blue “Add to Chrome” button on the extension page.
 
-- When the popup appears, click “Add extension” to confirm the installation.
+5. When the popup appears, click “Add extension” to confirm the installation.
 
-- Wait for the confirmation message that says the extension has been added to Chrome (this takes just a few seconds).
+6. Wait for the confirmation message that says the extension has been added to Chrome (this takes just a few seconds).
 
-- Click the puzzle piece icon in your Chrome toolbar (top right corner) to see all your extensions.
+7. Click the puzzle piece icon in your Chrome toolbar (top right corner) to see all your extensions.
 
-- Find “Privacy Extension for WhatsApp Web” in the list and click the pin icon next to it so it stays visible in your toolbar.
+8. Find “Privacy Extension for WhatsApp Web” in the list and click the pin icon next to it so it stays visible in your toolbar.
 
-- Open WhatsApp Web in a new tab or refresh it if you already had it open.
+9. Open WhatsApp Web in a new tab or refresh it if you already had it open.
 
-- Click the extension icon in your toolbar and toggle on the features you want (like blur messages, blur profile pictures, blur media previews).
+10. Click the extension icon in your toolbar and toggle on the features you want (like blur messages, blur profile pictures, blur media previews).
 
 That’s it! 🎉 Your WhatsApp Web is now protected with blur effects that activate automatically.
 

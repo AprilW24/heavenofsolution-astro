@@ -24,19 +24,19 @@ Now that we understand the benefits, let’s explore how to log in to Instagram 
 
 If you’re new to Instagram or haven’t linked your phone number to your account yet, here’s how to get started:
 
-- **Download the Instagram app**: Head to your device’s app store (Google Play Store for Android or App Store for iOS) and search for “Instagram.” Download and install the official Instagram app.
+1. **Download the Instagram app**: Head to your device’s app store (Google Play Store for Android or App Store for iOS) and search for “Instagram.” Download and install the official Instagram app.
 
-- **Open the app**: Once installed, tap on the Instagram icon to launch the app.
+2. **Open the app**: Once installed, tap on the Instagram icon to launch the app.
 
-- **Choose “Sign up with phone or email”**: On the login screen, you’ll see an option to “Sign up with phone or email.” Tap on this link.
+3. **Choose “Sign up with phone or email”**: On the login screen, you’ll see an option to “Sign up with phone or email.” Tap on this link.
 
-- **Select “Phone”**: You’ll be presented with two options: Phone and Email. Choose “Phone” to proceed with phone number registration.
+4. **Select “Phone”**: You’ll be presented with two options: Phone and Email. Choose “Phone” to proceed with phone number registration.
 
-- **Enter your phone number**: Type in your full phone number, including the country code. Make sure it’s accurate to avoid any issues.
+5. **Enter your phone number**: Type in your full phone number, including the country code. Make sure it’s accurate to avoid any issues.
 
-- **Verify your number**: Instagram will send a verification code to the phone number you provided. Enter this code in the app to confirm your number.
+6. **Verify your number**: Instagram will send a verification code to the phone number you provided. Enter this code in the app to confirm your number.
 
-- **Complete your profile**: After verification, you’ll be prompted to enter additional information such as your full name and create a password. Fill in these details to complete your account setup.
+7. **Complete your profile**: After verification, you’ll be prompted to enter additional information such as your full name and create a password. Fill in these details to complete your account setup.
 
 By following these steps, you’ve successfully created an Instagram account using your phone number. Now, let’s look at how to log in using this method.
 
@@ -44,13 +44,13 @@ By following these steps, you’ve successfully created an Instagram account usi
 
 Once you’ve set up your account with a phone number, logging in is a straightforward process:
 
-- **Open the Instagram app**: Tap on the Instagram icon on your device to launch the application.
+1. **Open the Instagram app**: Tap on the Instagram icon on your device to launch the application.
 
-- **Enter your phone number**: On the login screen, you’ll see fields for username and password. Look for an option that says “Phone number, username, or email.” Tap on this field and enter your phone number.
+2. **Enter your phone number**: On the login screen, you’ll see fields for username and password. Look for an option that says “Phone number, username, or email.” Tap on this field and enter your phone number.
 
-- **Enter your password**: Type in the password associated with your Instagram account.
+3. **Enter your password**: Type in the password associated with your Instagram account.
 
-- **Tap “Log In”**: Once you’ve entered your phone number and password, tap the “Log In” button to access your account.
+4. **Tap “Log In”**: Once you’ve entered your phone number and password, tap the “Log In” button to access your account.
 
 If you’ve entered the correct information, you should now be logged in to your Instagram account using your phone number.
 
@@ -82,11 +82,11 @@ Now that you’re logging in with your phone number, it’s a good time to revie
 
 It’s important to keep your contact information up to date on Instagram. Here’s how you can manage your phone number:
 
-- Go to your profile and tap the menu icon (three horizontal lines).
+1. Go to your profile and tap the menu icon (three horizontal lines).
 
-- Select “Settings” and then “Account.”
+2. Select “Settings” and then “Account.”
 
-- Tap on “Personal information” to view and edit your phone number.
+3. Tap on “Personal information” to view and edit your phone number.
 
 Remember to update this information if you change your phone number to ensure you can always access your account.
 

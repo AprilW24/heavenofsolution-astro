@@ -24,17 +24,17 @@ Online YouTube playlist downloaders are web-based tools that allow you to downlo
 
 **Steps to use an online YouTube playlist downloader:**
 
-- Copy the URL of the YouTube playlist you want to download.
+1. Copy the URL of the YouTube playlist you want to download.
 
-- Visit a reputable online YouTube playlist downloader website (e.g., Ddownr or Loader.to).
+2. Visit a reputable online YouTube playlist downloader website (e.g., Ddownr or Loader.to).
 
-- Paste the playlist URL into the provided field on the website.
+3. Paste the playlist URL into the provided field on the website.
 
-- Select your preferred video format and quality (if options are available).
+4. Select your preferred video format and quality (if options are available).
 
-- Click the download button and wait for the process to complete.
+5. Click the download button and wait for the process to complete.
 
-- Once finished, download the files to your device’s gallery.
+6. Once finished, download the files to your device’s gallery.
 
 While online downloaders are convenient, they may have limitations on the number of videos you can download at once or the quality of the downloaded videos. Additionally, some may require you to download videos individually rather than as a complete playlist.
 
@@ -52,17 +52,17 @@ For users who frequently download playlists or prefer more robust features, desk
 
 **General steps for using desktop applications:**
 
-- Download and install your chosen application on your computer.
+1. Download and install your chosen application on your computer.
 
-- Copy the YouTube playlist URL.
+2. Copy the YouTube playlist URL.
 
-- Open the application and paste the URL into the designated area.
+3. Open the application and paste the URL into the designated area.
 
-- Choose your preferred format, quality, and download location.
+4. Choose your preferred format, quality, and download location.
 
-- Start the download process and wait for it to complete.
+5. Start the download process and wait for it to complete.
 
-- Transfer the downloaded files to your mobile device’s gallery if needed.
+6. Transfer the downloaded files to your mobile device’s gallery if needed.
 
 Desktop applications often offer more reliable and faster downloads, especially for large playlists. They also typically provide options to automatically convert videos to different formats, which can be useful for compatibility with various devices.
 
@@ -72,17 +72,17 @@ For those who primarily use mobile devices, there are numerous apps available th
 
 **Steps for using mobile apps to download playlists:**
 
-- Search for and install a reputable YouTube playlist downloader app from your device’s app store.
+1. Search for and install a reputable YouTube playlist downloader app from your device’s app store.
 
-- Open the YouTube app and navigate to the playlist you want to download.
+2. Open the YouTube app and navigate to the playlist you want to download.
 
-- Share the playlist link to the downloader app you installed.
+3. Share the playlist link to the downloader app you installed.
 
-- Select your preferred download settings within the app.
+4. Select your preferred download settings within the app.
 
-- Start the download process.
+5. Start the download process.
 
-- Once complete, the videos will typically be saved directly to your device’s gallery or a designated folder within the app.
+6. Once complete, the videos will typically be saved directly to your device’s gallery or a designated folder within the app.
 
 It’s important to note that the availability of these apps may vary depending on your device’s operating system and app store policies. Some popular options include TubeMate for Android (not available on Google Play Store) and Documents by Readdle for iOS.
 

@@ -12,13 +12,13 @@ In today’s digital age, staying connected to the internet is essential for bot
 
 The first step in troubleshooting Wi-Fi connectivity issues is to review your Android phone’s Wi-Fi settings. Here’s what you should do:
 
-- Go to **Settings > Network & Internet > Wi-Fi**.
+1. Go to **Settings > Network & Internet > Wi-Fi**.
 
-- Make sure the Wi-Fi toggle is turned on.
+2. Make sure the Wi-Fi toggle is turned on.
 
-- Tap on the Wi-Fi network you want to connect to and enter the password if required.
+3. Tap on the Wi-Fi network you want to connect to and enter the password if required.
 
-- Check if the **Auto-connect** option is enabled for the selected network.
+4. Check if the **Auto-connect** option is enabled for the selected network.
 
 By ensuring that your Wi-Fi is turned on and set to auto-connect to your preferred networks, you can minimize the chances of your phone disconnecting from Wi-Fi.
 
@@ -26,15 +26,15 @@ By ensuring that your Wi-Fi is turned on and set to auto-connect to your preferr
 
 If your Android phone is still having trouble staying connected to Wi-Fi, try forgetting the network and reconnecting to it. Here’s how:
 
-- Go to **Settings > Network & Internet > Wi-Fi**.
+1. Go to **Settings > Network & Internet > Wi-Fi**.
 
-- Tap on the connected Wi-Fi network.
+2. Tap on the connected Wi-Fi network.
 
-- Select **Forget**.
+3. Select **Forget**.
 
-- Restart your phone.
+4. Restart your phone.
 
-- Go back to the Wi-Fi settings and reconnect to the network by entering the password.
+5. Go back to the Wi-Fi settings and reconnect to the network by entering the password.
 
 This process can help clear any temporary glitches or configuration issues that may be causing the connectivity problems.
 
@@ -44,13 +44,13 @@ This process can help clear any temporary glitches or configuration issues that 
 
 Outdated software can sometimes lead to Wi-Fi connectivity issues. To ensure your Android phone has the latest bug fixes and performance improvements, follow these steps:
 
-- Go to **Settings > System > System Update**.
+1. Go to **Settings > System > System Update**.
 
-- Check for any available updates.
+2. Check for any available updates.
 
-- If an update is available, tap on **Download and Install**.
+3. If an update is available, tap on **Download and Install**.
 
-- Once the update is complete, restart your phone.
+4. Once the update is complete, restart your phone.
 
 Keeping your Android OS up to date can help resolve Wi-Fi connectivity issues and improve overall performance.
 
@@ -60,13 +60,13 @@ Keeping your Android OS up to date can help resolve Wi-Fi connectivity issues an
 
 Android phones offer advanced Wi-Fi settings that can help optimize your connection. Here are a few options to consider:
 
-- Go to **Settings > Network & Internet > Wi-Fi > Wi-Fi preferences**.
+1. Go to **Settings > Network & Internet > Wi-Fi > Wi-Fi preferences**.
 
-- Enable the **Turn on Wi-Fi automatically** option to allow your phone to turn on Wi-Fi when near high-quality saved networks.
+2. Enable the **Turn on Wi-Fi automatically** option to allow your phone to turn on Wi-Fi when near high-quality saved networks.
 
-- Disable the **Switch to mobile data automatically** option to prevent your phone from switching to mobile data when Wi-Fi connectivity is poor.
+3. Disable the **Switch to mobile data automatically** option to prevent your phone from switching to mobile data when Wi-Fi connectivity is poor.
 
-- Experiment with the **Wi-Fi frequency band** settings (2.4 GHz or 5 GHz) to see which one provides a more stable connection.
+4. Experiment with the **Wi-Fi frequency band** settings (2.4 GHz or 5 GHz) to see which one provides a more stable connection.
 
 By fine-tuning these advanced settings, you can potentially improve your Android phone’s ability to stay connected to Wi-Fi.
 
@@ -74,15 +74,15 @@ By fine-tuning these advanced settings, you can potentially improve your Android
 
 If none of the above steps resolve your Wi-Fi connectivity issues, consider resetting your Android phone’s network settings. This will erase all your saved Wi-Fi networks and other network-related settings, giving you a fresh start. Here’s how:
 
-- Go to **Settings > System > Reset options**.
+1. Go to **Settings > System > Reset options**.
 
-- Tap on **Reset Wi-Fi, mobile & Bluetooth**.
+2. Tap on **Reset Wi-Fi, mobile & Bluetooth**.
 
-- Confirm by tapping **Reset settings**.
+3. Confirm by tapping **Reset settings**.
 
-- Restart your phone.
+4. Restart your phone.
 
-- Reconnect to your Wi-Fi networks and reconfigure any necessary settings.
+5. Reconnect to your Wi-Fi networks and reconfigure any necessary settings.
 
 Resetting your network settings can help clear any persistent connectivity issues, but remember that you’ll need to reconnect to your Wi-Fi networks and re-enter any passwords.
 

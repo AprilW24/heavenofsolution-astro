@@ -26,13 +26,13 @@ Got everything ready? Great, let’s open that GPX file.
 
 The first step is to open the **Google My Maps** website:
 
-- Open a web browser on your Android device
+1. Open a web browser on your Android device
 
-- Go to [https://www.google.com/maps/d/](https://www.google.com/maps/d/)
+2. Go to [https://www.google.com/maps/d/](https://www.google.com/maps/d/)
 
-- Tap the **+Create a New Map** button
+3. Tap the **+Create a New Map** button
 
-- Give your map a title and description
+4. Give your map a title and description
 
 Google My Maps is where you’ll import and manage your custom map data, including GPX files. The main Google Maps app doesn’t have a way to directly import GPX files, so My Maps acts as the intermediary.
 
@@ -40,15 +40,15 @@ Google My Maps is where you’ll import and manage your custom map data, includi
 
 Next, you’ll import your GPX file into a new layer on your custom Google My Map:
 
-- In the legend under **Untitled Layer**, tap **Import**
+1. In the legend under **Untitled Layer**, tap **Import**
 
-- Tap **Select a file from your device**
+2. Tap **Select a file from your device**
 
-- Browse and select your GPX file
+3. Browse and select your GPX file
 
-- Choose the layer type (points, lines, or shapes)
+4. Choose the layer type (points, lines, or shapes)
 
-- Confirm the GPX import
+5. Confirm the GPX import
 
 After importing, you should see your GPX data (waypoints, routes, tracks) appear as a new layer on the map. You can customize the layer style if desired.
 
@@ -68,15 +68,15 @@ Feel free to explore and customize the imported GPX data on your My Map. You can
 
 To access your new GPX My Map in the regular Google Maps app:
 
-- Open the **Google Maps** app
+1. Open the **Google Maps** app
 
-- Tap **Saved** at the bottom
+2. Tap **Saved** at the bottom
 
-- Scroll to the **Maps** tab
+3. Scroll to the **Maps** tab
 
-- Select your GPX My Map
+4. Select your GPX My Map
 
-- The GPX data will load in Google Maps
+5. The GPX data will load in Google Maps
 
 Your waypoints will appear as saved places, while routes and tracks will appear as blue lines. You can tap any item for more details.
 
@@ -84,13 +84,13 @@ Your waypoints will appear as saved places, while routes and tracks will appear 
 
 Finally, you can use your imported GPX data to navigate or follow a route:
 
-- With your GPX My Map open in Google Maps, tap a point or route
+1. With your GPX My Map open in Google Maps, tap a point or route
 
-- Tap **Directions** to navigate to a waypoint
+2. Tap **Directions** to navigate to a waypoint
 
-- Tap **Start** to begin navigating
+3. Tap **Start** to begin navigating
 
-- For routes, tap the route line, then **Show steps** and **Preview** to follow it turn-by-turn
+4. For routes, tap the route line, then **Show steps** and **Preview** to follow it turn-by-turn
 
 The Google Maps app will give you navigation prompts and track your progress along the GPX route, just like any other driving, walking, or biking navigation.
 

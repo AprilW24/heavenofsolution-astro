@@ -30,25 +30,25 @@ Photo resolution plays a role too. Higher-quality photos give Gemini more detail
 
 ## Step-by-Step Guide to Building a Family Portrait from Individual Photos
 
-- Open your browser and go to gemini.google.com, then sign in with your Google account.
+1. Open your browser and go to gemini.google.com, then sign in with your Google account.
 
-- On the Gemini chat screen, click the plus (+) icon or the attachment button next to the text input field.
+2. On the Gemini chat screen, click the plus (+) icon or the attachment button next to the text input field.
 
-- Select “Upload files” and choose the first separate photo of a family member from your device.
+3. Select “Upload files” and choose the first separate photo of a family member from your device.
 
-- Repeat the upload process for each person’s individual photo, adding all of them into the same message before sending.
+4. Repeat the upload process for each person’s individual photo, adding all of them into the same message before sending.
 
-- Once all photos are uploaded, type a prompt like “*Analyze these photos and identify each person’s face*” and hit send.
+5. Once all photos are uploaded, type a prompt like “*Analyze these photos and identify each person’s face*” and hit send.
 
-- Wait for Gemini to process the images, then follow up with a detailed prompt describing the portrait you want.
+6. Wait for Gemini to process the images, then follow up with a detailed prompt describing the portrait you want.
 
-- Write something like “*Create a realistic family portrait with all these people together standing in a garden with warm natural lighting*” and send it.
+7. Write something like “*Create a realistic family portrait with all these people together standing in a garden with warm natural lighting*” and send it.
 
-- Review the generated result, and if you want tweaks, type a follow-up like “*Change the background to a cozy living room*” or “*Make the image brighter*.”
+8. Review the generated result, and if you want tweaks, type a follow-up like “*Change the background to a cozy living room*” or “*Make the image brighter*.”
 
-- Keep adjusting through follow-up prompts until the portrait looks exactly the way you want it. 🔁
+9. Keep adjusting through follow-up prompts until the portrait looks exactly the way you want it. 🔁
 
-- Once you’re happy with the result, click the download button on the generated image and save it to your device.
+10. Once you’re happy with the result, click the download button on the generated image and save it to your device.
 
 ## Conclusion
 

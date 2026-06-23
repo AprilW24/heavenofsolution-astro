@@ -20,19 +20,19 @@ Instagram itself offers some basic tools to help you fit multiple pictures in a 
 
 ![](/wp-content/uploads/2024/09/HoS_Make-Multiple-Pictures.jpg)
 
-- Open the Instagram app and tap the “+” icon to create a new post.
+1. Open the Instagram app and tap the “+” icon to create a new post.
 
-- Select the multiple photo option (square icon with two right-angled lines).
+2. Select the multiple photo option (square icon with two right-angled lines).
 
-- Choose the photos you want to include in your post.
+3. Choose the photos you want to include in your post.
 
-- On the editing screen, tap on each photo individually.
+4. On the editing screen, tap on each photo individually.
 
-- Use the zoom out gesture (pinch with two fingers) to reduce the size of the image within the frame.
+5. Use the zoom out gesture (pinch with two fingers) to reduce the size of the image within the frame.
 
-- Adjust the position of the image by dragging it around the frame.
+6. Adjust the position of the image by dragging it around the frame.
 
-- Repeat this process for each photo in your post.
+7. Repeat this process for each photo in your post.
 
 While this method is simple, it may not always provide the best results, especially for images with vastly different aspect ratios.
 
@@ -48,33 +48,33 @@ For more control over your image resizing, consider using third-party apps desig
 
 To use these apps:
 
-- Download and install your chosen app from the App Store or Google Play Store.
+1. Download and install your chosen app from the App Store or Google Play Store.
 
-- Open the app and select the photos you want to resize.
+2. Open the app and select the photos you want to resize.
 
-- Choose the desired Instagram post format (e.g., square, carousel).
+3. Choose the desired Instagram post format (e.g., square, carousel).
 
-- Adjust the images within the template, adding backgrounds or borders as needed.
+4. Adjust the images within the template, adding backgrounds or borders as needed.
 
-- Save the resized images to your device.
+5. Save the resized images to your device.
 
-- Upload the edited photos to Instagram as a multiple-image post.
+6. Upload the edited photos to Instagram as a multiple-image post.
 
 ### 3. Create a Collage
 
 Another effective way to fit multiple pictures on Instagram without cropping is to create a collage. This method works particularly well when you want to showcase several related images in a single, cohesive post. Here’s how to do it:
 
-- Use a collage-making app like **Layout** (Instagram’s official collage app), **PicCollage**, or **Canva**.
+1. Use a collage-making app like **Layout** (Instagram’s official collage app), **PicCollage**, or **Canva**.
 
-- Select the photos you want to include in your collage.
+2. Select the photos you want to include in your collage.
 
-- Choose a layout that accommodates all your images.
+3. Choose a layout that accommodates all your images.
 
-- Adjust the individual photos within the collage as needed.
+4. Adjust the individual photos within the collage as needed.
 
-- Save the collage to your device.
+5. Save the collage to your device.
 
-- Upload the collage to Instagram as a single image.
+6. Upload the collage to Instagram as a single image.
 
 **Pro tip**: When creating a collage, try to maintain a consistent theme or color scheme across all the images for a more visually appealing result.
 
@@ -82,17 +82,17 @@ Another effective way to fit multiple pictures on Instagram without cropping is 
 
 Instagram’s carousel feature allows you to share up to 10 photos or videos in a single post, which users can swipe through. This is an excellent option for sharing multiple full-size images without the need for resizing or cropping. Here’s how to use it:
 
-- Open Instagram and tap the “+” icon to create a new post.
+1. Open Instagram and tap the “+” icon to create a new post.
 
-- Select the multiple photo option (square icon with two right-angled lines).
+2. Select the multiple photo option (square icon with two right-angled lines).
 
-- Choose up to 10 photos or videos you want to include in your carousel.
+3. Choose up to 10 photos or videos you want to include in your carousel.
 
-- Arrange the order of your images by tapping and holding to drag them into place.
+4. Arrange the order of your images by tapping and holding to drag them into place.
 
-- Edit each image individually if desired.
+5. Edit each image individually if desired.
 
-- Add your caption and post the carousel.
+6. Add your caption and post the carousel.
 
 Using the carousel feature allows you to maintain the original aspect ratio of each image while still sharing multiple photos in a single post.
 
@@ -100,17 +100,17 @@ Using the carousel feature allows you to maintain the original aspect ratio of e
 
 Adding white borders or backgrounds to your images is an effective way to make them fit Instagram’s square format without cropping. This technique works well for both portrait and landscape orientations. Here’s how to achieve this look:
 
-- Use an app like **Whitagram**, **Instasize**, or **Canva**.
+1. Use an app like **Whitagram**, **Instasize**, or **Canva**.
 
-- Import your photo into the app.
+2. Import your photo into the app.
 
-- Choose the square canvas option with a white background.
+3. Choose the square canvas option with a white background.
 
-- Adjust the size and position of your image within the square.
+4. Adjust the size and position of your image within the square.
 
-- Save the edited image to your device.
+5. Save the edited image to your device.
 
-- Upload the photo to Instagram.
+6. Upload the photo to Instagram.
 
 This method not only helps you fit your entire image into Instagram’s format but also creates a clean, gallery-like aesthetic for your posts.
 
@@ -126,17 +126,17 @@ If you prefer not to download additional apps, there are several online tools av
 
 To use these online tools:
 
-- Visit the website of your chosen tool.
+1. Visit the website of your chosen tool.
 
-- Upload your images to the platform.
+2. Upload your images to the platform.
 
-- Select the desired Instagram dimensions or aspect ratio.
+3. Select the desired Instagram dimensions or aspect ratio.
 
-- Adjust your images as needed.
+4. Adjust your images as needed.
 
-- Download the resized images to your device.
+5. Download the resized images to your device.
 
-- Upload the edited photos to Instagram.
+6. Upload the edited photos to Instagram.
 
 **Note**: When using online tools, be mindful of the platform’s privacy policy and avoid uploading sensitive or personal images.
 

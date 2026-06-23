@@ -30,25 +30,25 @@ Another plus is portability. Whether you’re on a commute, chilling at home, or
 
 ## Steps to create automatic logos using AI generator on Android
 
-- Download an AI logo app such as *LogoWiz* or *Logowiz* from Google Play Store.
+1. Download an AI logo app such as *LogoWiz* or *Logowiz* from Google Play Store.
 
-- Open the app and log in or continue as a guest.
+2. Open the app and log in or continue as a guest.
 
-- Enter your brand name and type of business.
+3. Enter your brand name and type of business.
 
-- Type a short idea or pick pre-made style templates.
+4. Type a short idea or pick pre-made style templates.
 
-- Choose your color theme and font preference.
+5. Choose your color theme and font preference.
 
-- Let the AI generate a few logo options.
+6. Let the AI generate a few logo options.
 
-- Pick your favorite logo preview and fine-tune details.
+7. Pick your favorite logo preview and fine-tune details.
 
-- Test backgrounds or add icons if needed.
+8. Test backgrounds or add icons if needed.
 
-- Save your final logo in transparent PNG or SVG format.
+9. Save your final logo in transparent PNG or SVG format.
 
-- Share or use it straight from the app for branding projects.
+10. Share or use it straight from the app for branding projects.
 
 ## Tips to make your logo stand out more
 

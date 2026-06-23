@@ -24,15 +24,15 @@ Now, let’s get into the step-by-step process of restoring your Signal backup o
 
 Before you can restore anything, you need to make sure you have a backup file. Signal stores backups locally on your device, not in the cloud. To create a backup:
 
-- Open Signal and tap the three-dot menu in the top-right corner.
+1. Open Signal and tap the three-dot menu in the top-right corner.
 
-- Go to Settings > Chats and media > Chat backups.
+2. Go to Settings > Chats and media > Chat backups.
 
-- Tap **Turn on** to enable backups.
+3. Tap **Turn on** to enable backups.
 
-- Choose a folder to store your backups.
+4. Choose a folder to store your backups.
 
-- **Write down the 30-digit passphrase** – you’ll need this to restore your backup later.
+5. **Write down the 30-digit passphrase** – you’ll need this to restore your backup later.
 
 **Important**: Signal backups are encrypted and can only be restored using the passphrase. Keep this passphrase safe and secure!
 
@@ -46,45 +46,45 @@ Signal backup files are typically stored in the folder you selected during the b
 
 If you’re restoring a backup on a new device or after reinstalling Signal:
 
-- Install Signal from the Google Play Store.
+1. Install Signal from the Google Play Store.
 
-- **Do not open the app yet**.
+2. **Do not open the app yet**.
 
-- Ensure the backup file is on your device (transfer it if necessary).
+3. Ensure the backup file is on your device (transfer it if necessary).
 
 If you’re restoring on the same device where the backup was created, you’ll need to clear Signal’s data:
 
-- Go to Settings > Apps > Signal.
+1. Go to Settings > Apps > Signal.
 
-- Tap **Storage** and then **Clear data**.
+2. Tap **Storage** and then **Clear data**.
 
 ## Step 4: Begin the Restoration Process
 
 Now you’re ready to restore your backup:
 
-- Open Signal.
+1. Open Signal.
 
-- On the welcome screen, tap **Transfer or restore account**.
+2. On the welcome screen, tap **Transfer or restore account**.
 
-- Select** Restore from backup**.
+3. Select** Restore from backup**.
 
-- Grant Signal permission to access files on your device.
+4. Grant Signal permission to access files on your device.
 
 ## Step 5: Select Your Backup File
 
-- Navigate to the folder where your backup file is stored.
+1. Navigate to the folder where your backup file is stored.
 
-- Select the backup file you want to restore.
+2. Select the backup file you want to restore.
 
-- Tap **Select** or **OK** to confirm your choice.
+3. Tap **Select** or **OK** to confirm your choice.
 
 ## Step 6: Enter Your Passphrase
 
-- You’ll be prompted to enter the 30-digit passphrase you created when setting up backups.
+1. You’ll be prompted to enter the 30-digit passphrase you created when setting up backups.
 
-- **Enter the passphrase carefully** – there are no second chances if you get it wrong.
+2. **Enter the passphrase carefully** – there are no second chances if you get it wrong.
 
-- Tap **Restore** after entering the passphrase.
+3. Tap **Restore** after entering the passphrase.
 
 ## Step 7: Wait for the Restoration to Complete
 
@@ -94,21 +94,21 @@ The restoration process may take several minutes, depending on the size of your 
 
 Once the restoration is complete:
 
-- You’ll be prompted to enter your phone number.
+1. You’ll be prompted to enter your phone number.
 
-- Verify your number using the code sent via SMS.
+2. Verify your number using the code sent via SMS.
 
-- Set up a PIN for your Signal account if prompted.
+3. Set up a PIN for your Signal account if prompted.
 
 ## Step 9: Verify Your Restored Data
 
 After the setup is complete:
 
-- Check your conversations to ensure they’ve been restored correctly.
+1. Check your conversations to ensure they’ve been restored correctly.
 
-- Verify that your media attachments are accessible.
+2. Verify that your media attachments are accessible.
 
-- Check your settings to make sure they match your preferences.
+3. Check your settings to make sure they match your preferences.
 
 ## Troubleshooting Common Issues
 

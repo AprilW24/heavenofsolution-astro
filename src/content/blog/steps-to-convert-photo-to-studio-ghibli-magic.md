@@ -24,25 +24,25 @@ Another reason I love using Gemini is the iterative refinement process. If your 
 
 Here’s exactly how I transform my photos into Studio Ghibli artwork, broken down into simple steps that anyone can follow.
 
-- Open Gemini by going to gemini.google.com and sign in with your Google account.
+1. Open Gemini by going to gemini.google.com and sign in with your Google account.
 
-- Look for the attachment icon (usually a paperclip or plus symbol) and click it to upload your photo.
+2. Look for the attachment icon (usually a paperclip or plus symbol) and click it to upload your photo.
 
-- Choose a clear, high-quality image since better source photos give more detailed results.
+3. Choose a clear, high-quality image since better source photos give more detailed results.
 
-- In the chat box, type your transformation prompt like “Transform this photo into Studio Ghibli anime style with soft pastel colors, dreamy backgrounds, and whimsical details.”
+4. In the chat box, type your transformation prompt like “Transform this photo into Studio Ghibli anime style with soft pastel colors, dreamy backgrounds, and whimsical details.”
 
-- Add specific elements you want like “golden hour lighting” or “cherry blossom petals floating in the air” to personalize the result.
+5. Add specific elements you want like “golden hour lighting” or “cherry blossom petals floating in the air” to personalize the result.
 
-- Hit enter and wait a few seconds while Gemini processes your image using its AI model.
+6. Hit enter and wait a few seconds while Gemini processes your image using its AI model.
 
-- Review the generated Ghibli-style image and see if it matches your vision.
+7. Review the generated Ghibli-style image and see if it matches your vision.
 
-- If you want changes, type refinement prompts like “make the colors warmer” or “add a magical glow around the subject” and Gemini will update it.
+8. If you want changes, type refinement prompts like “make the colors warmer” or “add a magical glow around the subject” and Gemini will update it.
 
-- Keep adjusting with short, specific instructions until you’re happy with the final result.
+9. Keep adjusting with short, specific instructions until you’re happy with the final result.
 
-- Download your finished Ghibli masterpiece by clicking on the image and saving it to your device.
+10. Download your finished Ghibli masterpiece by clicking on the image and saving it to your device.
 
 The whole process usually takes less than five minutes, and you can create multiple versions with different prompts to see which style you like best. I always save several variations because each one captures a slightly different mood! 💫
 

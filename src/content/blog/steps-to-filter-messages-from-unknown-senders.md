@@ -14,11 +14,11 @@ In this article, we’ll walk you through the simple steps to enable the **Filte
 
 To move messages from people not in your contacts to a separate Unknown Senders list:
 
-- Open the Settings app on your iPhone
+1. Open the Settings app on your iPhone
 
-- Scroll down and tap on Messages
+2. Scroll down and tap on Messages
 
-- Under Message Filtering, toggle on the option for Filter Unknown Senders
+3. Under Message Filtering, toggle on the option for Filter Unknown Senders
 
 That’s it! From now on, incoming iMessages from phone numbers or email addresses not saved in your contacts will appear in a separate **Unknown Senders** list instead of your main messages inbox. You won’t get notifications for these unknown sender messages.
 
@@ -26,11 +26,11 @@ That’s it! From now on, incoming iMessages from phone numbers or email address
 
 To check your unknown sender messages at any time:
 
-- Open the Messages app
+1. Open the Messages app
 
-- Tap the Filters button in the top left corner
+2. Tap the Filters button in the top left corner
 
-- Select Unknown Senders to view the list of filtered messages
+3. Select Unknown Senders to view the list of filtered messages
 
 Here you can browse through any messages from senders not in your contacts. If any seem important, you can add that sender to your contacts (more on that in the next step).
 
@@ -44,15 +44,15 @@ Your normal messages view will reload, with unknown sender messages hidden again
 
 If you start getting messages from someone you know but haven’t added to your contacts yet, you can quickly mark them as known:
 
-- In the Unknown Senders list, tap on the conversation with the sender you want to mark as known
+1. In the Unknown Senders list, tap on the conversation with the sender you want to mark as known
 
-- Tap their phone number or email address at the top of the message screen
+2. Tap their phone number or email address at the top of the message screen
 
-- Select **Info** from the pop-up menu
+3. Select **Info** from the pop-up menu
 
-- Tap **Add to Existing Contact** or **Create New Contact** to add the sender to your contacts
+4. Tap **Add to Existing Contact** or **Create New Contact** to add the sender to your contacts
 
-- Fill in their contact details and tap **Done** to save
+5. Fill in their contact details and tap **Done** to save
 
 The conversation will instantly move from Unknown Senders to your main messages inbox. You’ll start receiving notifications for new messages from them, since they are now a known sender.
 
@@ -60,15 +60,15 @@ The conversation will instantly move from Unknown Senders to your main messages 
 
 In some cases, you may want to mark a contact as unknown to stop their messages from cluttering your inbox:
 
-- Open the conversation with the sender in your main messages inbox
+1. Open the conversation with the sender in your main messages inbox
 
-- Tap the sender’s name at the top
+2. Tap the sender’s name at the top
 
-- Select **Info** from the pop-up menu
+3. Select **Info** from the pop-up menu
 
-- Scroll down and tap **Remove from Contacts**
+4. Scroll down and tap **Remove from Contacts**
 
-- Tap **Remove** on the confirmation alert
+5. Tap **Remove** on the confirmation alert
 
 That sender will now be treated as unknown. Their existing and new messages will move to the Unknown Senders list and you won’t get notifications about them.
 

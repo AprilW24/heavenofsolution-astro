@@ -18,65 +18,65 @@ Transferring contacts between Android devices doesn’t have to be a complicated
 
 Before you begin the transfer process, it’s crucial to make sure that your contacts on the source Android device are synced with your Gmail account. Here’s how to do it:
 
-- Open the **Settings** app on your source Android device.
+1. Open the **Settings** app on your source Android device.
 
-- Scroll down and tap on **Accounts** or **Accounts & Sync**, depending on your device.
+2. Scroll down and tap on **Accounts** or **Accounts & Sync**, depending on your device.
 
-- Tap on **Google** and select your Gmail account.
+3. Tap on **Google** and select your Gmail account.
 
-- Make sure the toggle switch next to **Contacts** is turned on.
+4. Make sure the toggle switch next to **Contacts** is turned on.
 
-- Tap on **Sync Now** to ensure all your contacts are up to date with your Gmail account.
+5. Tap on **Sync Now** to ensure all your contacts are up to date with your Gmail account.
 
 If you haven’t added your Gmail account to your Android device yet, you’ll need to do so first. To add a Gmail account:
 
-- Go to **Settings** > **Accounts** > **Add Account**.
+1. Go to **Settings** > **Accounts** > **Add Account**.
 
-- Select **Google** and follow the prompts to sign in to your Gmail account.
+2. Select **Google** and follow the prompts to sign in to your Gmail account.
 
 ### Step 2: Set Up Your New Android Device
 
 Now that your contacts are synced with your Gmail account on the source device, it’s time to set up your new Android phone:
 
-- Turn on your new Android device and follow the initial setup process.
+1. Turn on your new Android device and follow the initial setup process.
 
-- When prompted to add an account, select **Google** and sign in with the same Gmail account you used on your source device.
+2. When prompted to add an account, select **Google** and sign in with the same Gmail account you used on your source device.
 
-- During the setup, you’ll be asked which data you want to sync. Make sure **Contacts** is selected.
+3. During the setup, you’ll be asked which data you want to sync. Make sure **Contacts** is selected.
 
 If you’ve already set up your new device without adding your Gmail account, you can add it later by following these steps:
 
-- Open the **Settings** app on your new Android device.
+1. Open the **Settings** app on your new Android device.
 
-- Tap on **Accounts** or **Accounts & Sync**.
+2. Tap on **Accounts** or **Accounts & Sync**.
 
-- Select **Add Account** and choose **Google**.
+3. Select **Add Account** and choose **Google**.
 
-- Sign in with your Gmail credentials and ensure **Contacts** is selected for syncing.
+4. Sign in with your Gmail credentials and ensure **Contacts** is selected for syncing.
 
 ### Step 3: Sync Contacts on the New Device
 
 After adding your Gmail account to the new Android device, your contacts should start syncing automatically. However, if you want to manually trigger the sync process:
 
-- Go to **Settings** > **Accounts** > **Google**.
+1. Go to **Settings** > **Accounts** > **Google**.
 
-- Tap on your Gmail account.
+2. Tap on your Gmail account.
 
-- Tap on **Account Sync** or **Sync Account**.
+3. Tap on **Account Sync** or **Sync Account**.
 
-- Make sure the toggle next to **Contacts** is turned on.
+4. Make sure the toggle next to **Contacts** is turned on.
 
-- Tap on **Sync Now** to initiate an immediate sync.
+5. Tap on **Sync Now** to initiate an immediate sync.
 
 ### Step 4: Verify the Transfer
 
 Once the sync process is complete, it’s important to verify that all your contacts have been successfully transferred to your new Android device:
 
-- Open the **Contacts** app on your new device.
+1. Open the **Contacts** app on your new device.
 
-- Scroll through your contacts to ensure they are all present.
+2. Scroll through your contacts to ensure they are all present.
 
-- If you have a large number of contacts, try searching for specific names to confirm they’ve been transferred.
+3. If you have a large number of contacts, try searching for specific names to confirm they’ve been transferred.
 
 If you notice any missing contacts, you can try the following troubleshooting steps:
 
@@ -96,11 +96,11 @@ While transferring contacts using Gmail is generally straightforward, here are s
 
 - **Merging Duplicate Contacts**: After transferring contacts, you might notice some duplicates. Gmail has a built-in feature to merge duplicate contacts. To use this:
 
-- Go to **contacts.google.com** on a web browser.
+1. Go to **contacts.google.com** on a web browser.
 
-- Click on **Merge & Fix** in the left sidebar.
+2. Click on **Merge & Fix** in the left sidebar.
 
-- Follow the prompts to merge any duplicate contacts.
+3. Follow the prompts to merge any duplicate contacts.
 
 - **Organizing Contacts**: Take this opportunity to organize your contacts. You can create labels (groups) in Gmail to categorize your contacts, making them easier to manage.
 

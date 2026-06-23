@@ -14,15 +14,15 @@ Luckily, it’s easy to change this default behavior so that your Android phone 
 
 The setting to change the default USB behavior is hidden in the Developer Options menu on Android. To access this menu, you first need to enable it:
 
-- Open the **Settings** app on your Android phone
+1. Open the **Settings** app on your Android phone
 
-- Scroll down and tap **About phone**
+2. Scroll down and tap **About phone**
 
-- Find the **Build number** field and tap it **7 times** in quick succession
+3. Find the **Build number** field and tap it **7 times** in quick succession
 
-- Enter your lock screen PIN or password if prompted
+4. Enter your lock screen PIN or password if prompted
 
-- You should see a message saying **You are now a developer!**
+5. You should see a message saying **You are now a developer!**
 
 The location of the Build number field varies between phone brands and Android versions. On Samsung Galaxy phones, look in **Settings > About phone > Software information**. On other brands, it’s usually at the bottom of the About phone screen.
 
@@ -30,13 +30,13 @@ The location of the Build number field varies between phone brands and Android v
 
 Now that Developer Options are enabled, you can change the default USB mode:
 
-- Go to **Settings > System > Advanced > Developer Options**
+1. Go to **Settings > System > Advanced > Developer Options**
 
-- Scroll down to the **Networking** section
+2. Scroll down to the **Networking** section
 
-- Tap **Select USB Configuration**
+3. Tap **Select USB Configuration**
 
-- Choose **File Transfer** from the list of options
+4. Choose **File Transfer** from the list of options
 
 On some phones, the Select USB Configuration option may be located in the **Default USB Configuration** section instead of Networking.
 
@@ -46,13 +46,13 @@ Your phone will now default to File Transfer mode whenever you connect it to a c
 
 With file transfer enabled by default, it’s easy to move files between your Android phone and computer:
 
-- Connect your phone to the PC with a USB cable
+1. Connect your phone to the PC with a USB cable
 
-- On Windows, open **File Explorer** and select your Android phone from the list of devices
+2. On Windows, open **File Explorer** and select your Android phone from the list of devices
 
-- On Mac, open **Finder** and look for your Android phone in the **Locations** section
+3. On Mac, open **Finder** and look for your Android phone in the **Locations** section
 
-- Browse through your phone’s storage and copy files to or from your computer
+4. Browse through your phone’s storage and copy files to or from your computer
 
 Some phone brands, like Samsung and OnePlus, offer their own software to manage files and data on your phone from your computer. You can use third-party tools like AirDroid as well. But with file transfer mode as the default, you can also use the built-in file browsers on Windows and macOS.
 

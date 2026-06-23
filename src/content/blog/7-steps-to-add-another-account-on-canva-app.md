@@ -18,19 +18,19 @@ Another reason to switch accounts is for collaboration. If you’re working with
 
 While the Canva app doesn’t directly support switching accounts like the web version, you can still manage multiple accounts by logging out and logging back in with a different account. Here’s how:
 
-- Open the Canva app on your Android device.
+1. Open the Canva app on your Android device.
 
-- Tap on the profile icon, usually located at the top right corner.
+2. Tap on the profile icon, usually located at the top right corner.
 
-- Select “Sign out” from the menu.
+3. Select “Sign out” from the menu.
 
-- Close the app completely.
+4. Close the app completely.
 
-- Reopen the Canva app.
+5. Reopen the Canva app.
 
-- Tap on “Log in” and choose your login method (e.g., Google, Facebook, or Email).
+6. Tap on “Log in” and choose your login method (e.g., Google, Facebook, or Email).
 
-- Enter the credentials for the new account you want to switch to.
+7. Enter the credentials for the new account you want to switch to.
 
 However, for a more streamlined experience, using the web version of Canva on your Android device might be more efficient, as it allows you to switch accounts directly.
 
@@ -38,21 +38,21 @@ However, for a more streamlined experience, using the web version of Canva on yo
 
 If you prefer a smoother account-switching experience, you can use the web version of Canva on your Android browser:
 
-- Open a web browser on your Android device (e.g., Chrome).
+1. Open a web browser on your Android device (e.g., Chrome).
 
-- Go to the Canva website.
+2. Go to the Canva website.
 
-- Log in to your current account.
+3. Log in to your current account.
 
-- Click on the profile icon at the top right.
+4. Click on the profile icon at the top right.
 
-- Select “Sign out.”
+5. Select “Sign out.”
 
-- Click on “Log in through browser.”
+6. Click on “Log in through browser.”
 
-- Choose “Log in with a different account.”
+7. Choose “Log in with a different account.”
 
-- Continue with the new account.
+8. Continue with the new account.
 
 This method allows you to switch between accounts more easily.
 

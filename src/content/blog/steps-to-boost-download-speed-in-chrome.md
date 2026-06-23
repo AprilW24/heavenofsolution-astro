@@ -18,13 +18,13 @@ To enable parallel downloading:
 
 ![](/wp-content/uploads/2024/08/HoS_BoostDownloadSpeed-2.jpg)
 
-- Open Chrome and type **chrome://flags** in the address bar.
+1. Open Chrome and type **chrome://flags** in the address bar.
 
-- In the search box, type **parallel downloading**.
+2. In the search box, type **parallel downloading**.
 
-- Tap on the dropdown menu next to **Parallel downloading** and select **Enabled**.
+3. Tap on the dropdown menu next to **Parallel downloading** and select **Enabled**.
 
-- Tap the **Relaunch** button to restart the browser and apply the changes.
+4. Tap the **Relaunch** button to restart the browser and apply the changes.
 
 This simple tweak can significantly improve your download speeds, especially for larger files.
 
@@ -32,11 +32,11 @@ This simple tweak can significantly improve your download speeds, especially for
 
 Having too many tabs open in Chrome can negatively impact the browser’s performance and slow down your downloads. To optimize your browsing experience:
 
-- Tap the square icon at the top of Chrome to view your open tabs.
+1. Tap the square icon at the top of Chrome to view your open tabs.
 
-- Close unnecessary tabs by tapping the X icon in the top right corner of each tab.
+2. Close unnecessary tabs by tapping the X icon in the top right corner of each tab.
 
-- Alternatively, to close all tabs at once, tap the three-dot menu and select **Close all tabs**.
+3. Alternatively, to close all tabs at once, tap the three-dot menu and select **Close all tabs**.
 
 By keeping your browser clutter-free, you can allocate more resources to your downloads and improve overall performance.
 
@@ -44,15 +44,15 @@ By keeping your browser clutter-free, you can allocate more resources to your do
 
 Over time, Chrome accumulates cache data and cookies that can slow down your browsing and download speeds. Clearing this data regularly can help improve performance:
 
-- In Chrome, tap the three-dot menu and select **Settings**.
+1. In Chrome, tap the three-dot menu and select **Settings**.
 
-- Go to **Privacy and security** and tap **Clear browsing data**.
+2. Go to **Privacy and security** and tap **Clear browsing data**.
 
-- Choose **All time** from the time range dropdown.
+3. Choose **All time** from the time range dropdown.
 
-- Select **Cookies and site data** and **Cached images and files**.
+4. Select **Cookies and site data** and **Cached images and files**.
 
-- Tap **Clear data**.
+5. Tap **Clear data**.
 
 ![](/wp-content/uploads/2024/08/HoS_BoostDownloadSpeed-1.jpg)
 
@@ -62,11 +62,11 @@ This process will remove stored data that might be slowing down your browser, po
 
 Keeping your browser up to date is crucial for optimal performance and security. Google regularly releases updates that include bug fixes and performance improvements:
 
-- Open the Google Play Store on your Android device.
+1. Open the Google Play Store on your Android device.
 
-- Search for **Google Chrome**.
+2. Search for **Google Chrome**.
 
-- If an update is available, tap the **Update** button.
+3. If an update is available, tap the **Update** button.
 
 ![](/wp-content/uploads/2024/08/HoS_BoostDownloadSpeed.jpg)
 
@@ -76,15 +76,15 @@ By using the latest version of Chrome, you ensure that you have access to the mo
 
 If you’ve imposed battery restrictions on Chrome, it may lead to slower download speeds or even download failures. To allow unrestricted battery usage:
 
-- Go to your Android device’s Settings.
+1. Go to your Android device’s Settings.
 
-- Navigate to **Apps** or **Application Manager**.
+2. Navigate to **Apps** or **Application Manager**.
 
-- Find and tap on **Chrome**.
+3. Find and tap on **Chrome**.
 
-- Select **Battery** or **Battery optimization**.
+4. Select **Battery** or **Battery optimization**.
 
-- Choose **Don’t optimize** or **Unrestricted** for Chrome.
+5. Choose **Don’t optimize** or **Unrestricted** for Chrome.
 
 This setting allows Chrome to use more system resources, potentially improving download performance.
 
@@ -92,11 +92,11 @@ This setting allows Chrome to use more system resources, potentially improving d
 
 Chrome’s Data Saver mode can help improve download speeds, especially on slower connections:
 
-- Open Chrome and tap the three-dot menu.
+1. Open Chrome and tap the three-dot menu.
 
-- Go to **Settings** and scroll down to **Lite mode**.
+2. Go to **Settings** and scroll down to **Lite mode**.
 
-- Toggle the switch to turn on Lite mode.
+3. Toggle the switch to turn on Lite mode.
 
 This feature compresses web pages before downloading them, which can lead to faster loading times and potentially quicker downloads.
 
@@ -104,19 +104,19 @@ This feature compresses web pages before downloading them, which can lead to fas
 
 Changing your DNS settings to use Google’s DNS servers can sometimes improve your connection speed:
 
-- Go to your Android device’s Settings.
+1. Go to your Android device’s Settings.
 
-- Tap on **Wi-Fi** and long-press your connected network.
+2. Tap on **Wi-Fi** and long-press your connected network.
 
-- Select **Modify network**.
+3. Select **Modify network**.
 
-- Change the IP settings to **Static**.
+4. Change the IP settings to **Static**.
 
-- For DNS 1, enter 8.8.8.8
+5. For DNS 1, enter 8.8.8.8
 
-- For DNS 2, enter 8.8.4.4
+6. For DNS 2, enter 8.8.4.4
 
-- Save the changes.
+7. Save the changes.
 
 Google’s DNS servers are often faster and more reliable than those provided by your ISP, potentially leading to improved download speeds.
 
@@ -124,11 +124,11 @@ Google’s DNS servers are often faster and more reliable than those provided by
 
 While this step may affect some website functionality, disabling JavaScript can significantly improve page loading times and reduce strain on your browser:
 
-- Open Chrome and tap the three-dot menu.
+1. Open Chrome and tap the three-dot menu.
 
-- Go to **Settings** > **Site settings**.
+2. Go to **Settings** > **Site settings**.
 
-- Tap on **JavaScript** and toggle the switch to turn it off.
+3. Tap on **JavaScript** and toggle the switch to turn it off.
 
 ![](/wp-content/uploads/2024/08/HoS_BoostDownloadSpeed1.jpg)
 
@@ -138,13 +138,13 @@ Keep in mind that this may cause some websites to function improperly, so use th
 
 By default, Chrome is limited to 64 MB of RAM usage on Android. Increasing this limit can lead to a smoother browsing experience:
 
-- Type **chrome://flags** in the address bar.
+1. Type **chrome://flags** in the address bar.
 
-- Search for **Maximum tiles for interest area**.
+2. Search for **Maximum tiles for interest area**.
 
-- Tap the dropdown menu and select **512**.
+3. Tap the dropdown menu and select **512**.
 
-- Restart Chrome when prompted.
+4. Restart Chrome when prompted.
 
 This adjustment allows Chrome to use more of your device’s memory, potentially improving download performance.
 
@@ -152,13 +152,13 @@ This adjustment allows Chrome to use more of your device’s memory, potentially
 
 Sometimes, the issue may not be with Chrome itself but with your internet connection. Try these steps:
 
-- Run a speed test to check your current internet speed.
+1. Run a speed test to check your current internet speed.
 
-- If you’re using Wi-Fi, try moving closer to your router or switching to a different network.
+2. If you’re using Wi-Fi, try moving closer to your router or switching to a different network.
 
-- If you’re on mobile data, ensure you have a strong signal or try switching between 4G and 5G if available.
+3. If you’re on mobile data, ensure you have a strong signal or try switching between 4G and 5G if available.
 
-- Consider restarting your router or contacting your ISP if you consistently experience slow speeds.
+4. Consider restarting your router or contacting your ISP if you consistently experience slow speeds.
 
 A stable and fast internet connection is crucial for optimal download speeds in Chrome.
 

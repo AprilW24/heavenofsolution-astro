@@ -24,11 +24,11 @@ There are several reasons why you might want to save videos from WhatsApp:
 
 First, ensure that WhatsApp has permission to save media to your phone’s gallery:
 
-- Open WhatsApp and tap the three-dot menu in the top-right corner
+1. Open WhatsApp and tap the three-dot menu in the top-right corner
 
-- Go to Settings > Chats
+2. Go to Settings > Chats
 
-- Enable the **Media Visibility** option
+3. Enable the **Media Visibility** option
 
 **Step 2: Locate the Video**
 
@@ -36,17 +36,17 @@ Find the video you want to save within a WhatsApp conversation.
 
 **Step 3: Save the Video**
 
-- Tap and hold the video until a menu appears
+1. Tap and hold the video until a menu appears
 
-- Select the **Save** option
+2. Select the **Save** option
 
-- The video will be saved to your phone’s gallery, typically in a folder named **WhatsApp**
+3. The video will be saved to your phone’s gallery, typically in a folder named **WhatsApp**
 
 Alternatively, you can use a file manager app to access the WhatsApp media folder directly:
 
-- Open your file manager app and navigate to Internal Storage > WhatsApp > Media > WhatsApp Video
+1. Open your file manager app and navigate to Internal Storage > WhatsApp > Media > WhatsApp Video
 
-- Locate the video you want to save and copy or move it to another folder
+2. Locate the video you want to save and copy or move it to another folder
 
 ## Saving Videos on iPhone
 
@@ -54,9 +54,9 @@ Alternatively, you can use a file manager app to access the WhatsApp media folde
 
 Ensure that WhatsApp is set to automatically save media to your iPhone’s camera roll:
 
-- Open WhatsApp and go to Settings > Chats
+1. Open WhatsApp and go to Settings > Chats
 
-- Enable the **Save to Camera Roll** option
+2. Enable the **Save to Camera Roll** option
 
 **Step 2: Locate the Video**
 
@@ -64,13 +64,13 @@ Find the video you want to save within a WhatsApp conversation.
 
 **Step 3: Save the Video**
 
-- Tap the video to open it
+1. Tap the video to open it
 
-- Tap the share icon in the bottom-left corner
+2. Tap the share icon in the bottom-left corner
 
-- Select **Save Video**
+3. Select **Save Video**
 
-- The video will be saved to your iPhone’s camera roll
+4. The video will be saved to your iPhone’s camera roll
 
 ## Saving WhatsApp Status Videos
 
@@ -78,9 +78,9 @@ WhatsApp Status allows users to share videos that disappear after 24 hours. To s
 
 ### On Android:
 
-- Use a file manager app to navigate to Internal Storage > WhatsApp > Media > .Statuses
+1. Use a file manager app to navigate to Internal Storage > WhatsApp > Media > .Statuses
 
-- Locate the video and copy or move it to another folder
+2. Locate the video and copy or move it to another folder
 
 ### On iPhone:
 

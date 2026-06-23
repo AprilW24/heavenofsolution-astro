@@ -12,31 +12,31 @@ Instagram has become a digital diary for many of us, storing our favorite moment
 
 Instagram introduced the Archive feature in 2017, which allows users to hide posts from their profile without deleting them permanently. If you’ve used this feature in the past, there’s a chance that your deleted post might still be in your Instagram Archive. Here’s how to check:
 
-- Open the Instagram app and go to your profile.
+1. Open the Instagram app and go to your profile.
 
-- Tap on the three horizontal lines in the top-right corner.
+2. Tap on the three horizontal lines in the top-right corner.
 
-- Select **Archive** from the menu.
+3. Select **Archive** from the menu.
 
-- Look for the post you want to recover in the Archive section.
+4. Look for the post you want to recover in the Archive section.
 
-- If you find the post, tap on the three dots in the top-right corner and select **Show on Profile** to restore it.
+5. If you find the post, tap on the three dots in the top-right corner and select **Show on Profile** to restore it.
 
 ## Step 2: Request Your Instagram Data
 
 If you can’t find your deleted post in the Archive, don’t worry. Instagram allows users to request a copy of their data, which includes all the posts, comments, and messages associated with their account. Here’s how to request your data:
 
-- Open the Instagram app and go to your profile.
+1. Open the Instagram app and go to your profile.
 
-- Tap on the three horizontal lines in the top-right corner.
+2. Tap on the three horizontal lines in the top-right corner.
 
-- Select **Settings** from the menu.
+3. Select **Settings** from the menu.
 
-- Scroll down and tap on **Security**.
+4. Scroll down and tap on **Security**.
 
-- Under **Data and History**, tap on **Download Data**.
+5. Under **Data and History**, tap on **Download Data**.
 
-- Enter the email address where you want to receive the data and tap **Request Download**.
+6. Enter the email address where you want to receive the data and tap **Request Download**.
 
 Instagram will then process your request and send you a link to download your data within 48 hours. Once you receive the email, follow the link to download a ZIP file containing your Instagram data. Extract the file and look for the **posts** folder, which will contain all your Instagram posts, including the deleted ones.
 

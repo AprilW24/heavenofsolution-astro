@@ -20,25 +20,25 @@ Spam on WhatsApp goes beyond just annoying messages. Random group invites, fake 
 
 ## How to Lock Down Your WhatsApp Privacy and Security Settings
 
-- Open WhatsApp and tap the three-dot menu on Android or the **Settings** tab on iPhone.
+1. Open WhatsApp and tap the three-dot menu on Android or the **Settings** tab on iPhone.
 
-- Go to **Account**, then tap **Two-Step Verification** and hit **Enable** to create a six-digit PIN.
+2. Go to **Account**, then tap **Two-Step Verification** and hit **Enable** to create a six-digit PIN.
 
-- Add a recovery email address so you can reset your PIN if you ever forget it.
+3. Add a recovery email address so you can reset your PIN if you ever forget it.
 
-- Head back to **Account**, tap **Privacy**, and set your profile photo, last seen, and online status to **My Contacts** or **Nobody**.
+4. Head back to **Account**, tap **Privacy**, and set your profile photo, last seen, and online status to **My Contacts** or **Nobody**.
 
-- Scroll down in **Privacy**, tap **Groups**, and change the setting from **Everyone** to **My Contacts** or **My Contacts Except** to stop random group invites.
+5. Scroll down in **Privacy**, tap **Groups**, and change the setting from **Everyone** to **My Contacts** or **My Contacts Except** to stop random group invites.
 
-- Go to **Calls** under **Privacy** and switch on **Silence Unknown Callers** to automatically mute spam calls.
+6. Go to **Calls** under **Privacy** and switch on **Silence Unknown Callers** to automatically mute spam calls.
 
-- Tap **Screen Lock** inside **Privacy** and turn it on using fingerprint or Face ID so nobody can open your chats without your biometrics.
+7. Tap **Screen Lock** inside **Privacy** and turn it on using fingerprint or Face ID so nobody can open your chats without your biometrics.
 
-- Go back to **Account** and turn on **Security Notifications** to get an alert whenever your security code changes on a new device.
+8. Go back to **Account** and turn on **Security Notifications** to get an alert whenever your security code changes on a new device.
 
-- Tap **Advanced** under **Privacy** and turn on **Protect IP Address in Calls** to hide your location from unknown callers.
+9. Tap **Advanced** under **Privacy** and turn on **Protect IP Address in Calls** to hide your location from unknown callers.
 
-- Keep your WhatsApp updated through the official app store so you always have the latest security patches installed.
+10. Keep your WhatsApp updated through the official app store so you always have the latest security patches installed.
 
 ## How to Block Spam Messages and Get Rid of Unwanted Contacts
 

@@ -22,13 +22,13 @@ In this guide, we provide easy methods to transfer iPhone photos to a flash driv
 
 **Steps:**
 
-- Connect your iPhone to the flash drive using a Lightning to USB cable.
+1. Connect your iPhone to the flash drive using a Lightning to USB cable.
 
-- Open the Photos app on your iPhone and select the images you want to transfer.
+2. Open the Photos app on your iPhone and select the images you want to transfer.
 
-- Tap on the **Export** option at the bottom and select your connected flash drive as the destination.
+3. Tap on the **Export** option at the bottom and select your connected flash drive as the destination.
 
-- Your selected photos will now copy over to the flash drive.
+4. Your selected photos will now copy over to the flash drive.
 
 The transfer speed will vary depending on the number of photos selected. For large batches, it is best to leave the phone connected until the transfer finishes.
 
@@ -42,13 +42,13 @@ The transfer speed will vary depending on the number of photos selected. For lar
 
 **Steps:**
 
-- Connect the wireless flash drive to a power source and join its Wi-Fi network from your iPhone.
+1. Connect the wireless flash drive to a power source and join its Wi-Fi network from your iPhone.
 
-- Launch the flash drive’s app and select the option to import photos.
+2. Launch the flash drive’s app and select the option to import photos.
 
-- Choose the photos in your iPhone’s gallery that you wish to transfer.
+3. Choose the photos in your iPhone’s gallery that you wish to transfer.
 
-- The app will now wirelessly transfer the photos to the flash drive.
+4. The app will now wirelessly transfer the photos to the flash drive.
 
 The speed depends on your Wi-Fi signal strength. Stick close to the router for best results.
 

@@ -14,13 +14,13 @@ Fortunately, LINE provides a built-in feature to backup and restore your chat hi
 
 The first step in transferring your LINE chat history is to create a backup. Here’s how to do it:
 
-- Open the LINE app on your old phone.
+1. Open the LINE app on your old phone.
 
-- Go to **Settings** > **Chats** > **Backup and restore chat history**.
+2. Go to **Settings** > **Chats** > **Backup and restore chat history**.
 
-- Tap on **Back up to Google Drive** (for Android) or **Back up now** (for iOS).
+3. Tap on **Back up to Google Drive** (for Android) or **Back up now** (for iOS).
 
-- Wait for the backup process to complete. This may take a few minutes depending on the size of your chat history.
+4. Wait for the backup process to complete. This may take a few minutes depending on the size of your chat history.
 
 ## Step 2: Install LINE on Your New Phone
 
@@ -34,13 +34,13 @@ After installing LINE on your new phone, log in to your account using the same p
 
 Now that you are logged in to your LINE account on your new phone, it’s time to restore your chat history from the backup you created earlier. Here’s how:
 
-- Go to **Settings** > **Chats** > **Backup and restore chat history**.
+1. Go to **Settings** > **Chats** > **Backup and restore chat history**.
 
-- Tap on **Restore from Google Drive** (for Android) or **Restore chat history** (for iOS).
+2. Tap on **Restore from Google Drive** (for Android) or **Restore chat history** (for iOS).
 
-- Select the backup file you want to restore and tap **Restore**.
+3. Select the backup file you want to restore and tap **Restore**.
 
-- Wait for the restoration process to complete. This may take a few minutes depending on the size of your backup.
+4. Wait for the restoration process to complete. This may take a few minutes depending on the size of your backup.
 
 ## Step 5: Verify Your Restored Chat History
 

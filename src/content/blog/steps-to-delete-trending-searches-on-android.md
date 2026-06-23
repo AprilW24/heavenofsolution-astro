@@ -56,13 +56,13 @@ While removing trending searches is a great start, there are other steps you can
 
 Regularly clearing your search history can help maintain your privacy and prevent unwanted suggestions based on past searches. Here’s how:
 
-- Go to your Google Account settings.
+1. Go to your Google Account settings.
 
-- Find the “Data & personalization” section.
+2. Find the “Data & personalization” section.
 
-- Look for “Web & App Activity” and click on “Manage activity.”
+3. Look for “Web & App Activity” and click on “Manage activity.”
 
-- You can delete individual items or clear all history from here.
+4. You can delete individual items or clear all history from here.
 
 ### Use Incognito Mode
 

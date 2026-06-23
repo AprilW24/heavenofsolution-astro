@@ -26,9 +26,9 @@ To begin, locate and open the Google app on your Android device. This app comes 
 
 Once you’ve opened the Google app, follow these steps:
 
-- Tap on your profile picture or initial in the top-right corner of the screen.
+1. Tap on your profile picture or initial in the top-right corner of the screen.
 
-- Select **Manage your Google Account** from the menu that appears.
+2. Select **Manage your Google Account** from the menu that appears.
 
 This will take you to your Google Account settings page.
 
@@ -36,43 +36,43 @@ This will take you to your Google Account settings page.
 
 In your Google Account settings:
 
-- Scroll down and tap on the **Personal info** section.
+1. Scroll down and tap on the **Personal info** section.
 
-- Look for the **General preferences for the web** option and tap on it.
+2. Look for the **General preferences for the web** option and tap on it.
 
 ### Step 4: Locate the country settings
 
 Within the **General preferences for the web** section:
 
-- Find the **Country** option.
+1. Find the **Country** option.
 
-- Tap on it to proceed to the country selection screen.
+2. Tap on it to proceed to the country selection screen.
 
 ### Step 5: Choose your new country
 
 On the country selection screen:
 
-- Scroll through the list of countries or use the search bar to find your desired country.
+1. Scroll through the list of countries or use the search bar to find your desired country.
 
-- Tap on the country you want to set as your new location.
+2. Tap on the country you want to set as your new location.
 
 ### Step 6: Confirm your selection
 
 After selecting your new country:
 
-- A confirmation dialog will appear.
+1. A confirmation dialog will appear.
 
-- Review the information provided about how this change may affect your Google services.
+2. Review the information provided about how this change may affect your Google services.
 
-- If you’re sure about the change, tap **Change** to confirm.
+3. If you’re sure about the change, tap **Change** to confirm.
 
 ### Step 7: Wait for the changes to take effect
 
 Once you’ve confirmed the change:
 
-- You’ll see a message indicating that your country has been updated.
+1. You’ll see a message indicating that your country has been updated.
 
-- It may take some time for the changes to propagate across all Google services.
+2. It may take some time for the changes to propagate across all Google services.
 
 **Note:** Some changes may not be immediate, and you might need to sign out and sign back in to see the updates across all Google apps.
 
@@ -100,13 +100,13 @@ If you have any payment methods or subscriptions linked to your Google account, 
 
 If you encounter any issues while trying to change your country in Gmail, try these troubleshooting steps:
 
-- **Clear app cache:** Go to your device’s Settings > Apps > Google > Storage > Clear Cache.
+1. **Clear app cache:** Go to your device’s Settings > Apps > Google > Storage > Clear Cache.
 
-- **Update the Google app:** Ensure you’re using the latest version of the Google app by checking for updates in the Play Store.
+2. **Update the Google app:** Ensure you’re using the latest version of the Google app by checking for updates in the Play Store.
 
-- **Restart your device:** Sometimes, a simple restart can resolve issues with app functionality.
+3. **Restart your device:** Sometimes, a simple restart can resolve issues with app functionality.
 
-- **Check your internet connection:** Make sure you have a stable internet connection when making changes to your account.
+4. **Check your internet connection:** Make sure you have a stable internet connection when making changes to your account.
 
 If problems persist, you may need to contact Google Support for further assistance.
 

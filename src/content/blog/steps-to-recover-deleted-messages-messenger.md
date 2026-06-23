@@ -16,15 +16,15 @@ Before diving into more advanced recovery techniques, it’s essential to rule o
 
 To check if your messages are archived, follow these steps:
 
-- Open the Messenger app on your Android device.
+1. Open the Messenger app on your Android device.
 
-- Tap on your profile picture in the top-left corner.
+2. Tap on your profile picture in the top-left corner.
 
-- Select **Archived Chats** from the menu.
+3. Select **Archived Chats** from the menu.
 
-- Scroll through the list to locate the conversation you wish to recover.
+4. Scroll through the list to locate the conversation you wish to recover.
 
-- If found, long-press on the chat until the **Unarchive** option appears, then tap it to restore the conversation to your inbox.
+5. If found, long-press on the chat until the **Unarchive** option appears, then tap it to restore the conversation to your inbox.
 
 If your messages are not in the archive, proceed to the next method.
 
@@ -34,21 +34,21 @@ Facebook offers a convenient feature that allows you to download a copy of your 
 
 Here’s how to retrieve your messages using the Facebook data download:
 
-- Log in to your Facebook account on a web browser.
+1. Log in to your Facebook account on a web browser.
 
-- Click on the down arrow in the top-right corner and select **Settings & Privacy**, then **Settings**.
+2. Click on the down arrow in the top-right corner and select **Settings & Privacy**, then **Settings**.
 
-- Navigate to **Your Facebook Information** and click on **Download Your Information**.
+3. Navigate to **Your Facebook Information** and click on **Download Your Information**.
 
-- Select the date range that encompasses the time when the deleted messages were sent.
+4. Select the date range that encompasses the time when the deleted messages were sent.
 
-- Check the box next to **Messages** and deselect any other data types you don’t need.
+5. Check the box next to **Messages** and deselect any other data types you don’t need.
 
-- Click **Create File** to initiate the download process.
+6. Click **Create File** to initiate the download process.
 
-- Once the download is complete, extract the ZIP file and locate the HTML file named **messages.htm**.
+7. Once the download is complete, extract the ZIP file and locate the HTML file named **messages.htm**.
 
-- Open the file in a web browser to view your recovered Messenger conversations.
+8. Open the file in a web browser to view your recovered Messenger conversations.
 
 #### Part 3: Utilize a Third-Party Data Recovery Tool
 
@@ -56,19 +56,19 @@ If the previous methods prove unsuccessful, consider employing a third-party dat
 
 One such tool is **FoneDog Android Data Recovery**, which boasts a user-friendly interface and robust recovery capabilities. Here’s how to use it:
 
-- Download and install FoneDog Android Data Recovery on your computer.
+1. Download and install FoneDog Android Data Recovery on your computer.
 
-- Connect your Android device to your computer using a USB cable.
+2. Connect your Android device to your computer using a USB cable.
 
-- Launch the FoneDog application and select **Recover Data from Device**.
+3. Launch the FoneDog application and select **Recover Data from Device**.
 
-- Choose **Messages **and **Messenger** from the list of data types to scan.
+4. Choose **Messages **and **Messenger** from the list of data types to scan.
 
-- Click **Next** to initiate the scanning process.
+5. Click **Next** to initiate the scanning process.
 
-- Once the scan is complete, preview the recovered messages and select the ones you wish to restore.
+6. Once the scan is complete, preview the recovered messages and select the ones you wish to restore.
 
-- Click **Recover** to save the selected messages to your computer.
+7. Click **Recover** to save the selected messages to your computer.
 
 **Note:** Third-party data recovery tools may have varying success rates, and their effectiveness can depend on factors such as the time elapsed since deletion and the state of your device’s storage.
 

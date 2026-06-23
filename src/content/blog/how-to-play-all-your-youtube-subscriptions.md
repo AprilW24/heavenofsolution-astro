@@ -36,15 +36,15 @@ To start watching a video from one of your subscribed channels, simply **tap on 
 
 For an uninterrupted viewing experience, consider creating a **playlist of your subscribed channels’ videos**. To do this:
 
-- Tap on a video from your subscriptions feed
+1. Tap on a video from your subscriptions feed
 
-- Tap the **Add to** button below the video
+2. Tap the **Add to** button below the video
 
-- Select **New playlist**
+3. Select **New playlist**
 
-- Give your playlist a name and tap **Create**
+4. Give your playlist a name and tap **Create**
 
-- Add more videos to your playlist by repeating steps 1-4
+5. Add more videos to your playlist by repeating steps 1-4
 
 Once you’ve created your playlist, you can access it from the **Library** tab in the YouTube app and play all the videos in succession.
 

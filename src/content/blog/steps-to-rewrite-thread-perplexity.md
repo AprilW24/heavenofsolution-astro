@@ -20,21 +20,21 @@ Once you’re inside a thread, you can scroll through the conversation history. 
 
 Ready to see what another model has to say? Here’s how you do it on Perplexity Android:
 
-- Tap on the thread icon in the app to open your list of conversations.
+1. Tap on the thread icon in the app to open your list of conversations.
 
-- Click on the thread you want to rewrite and open it.
+2. Click on the thread you want to rewrite and open it.
 
-- Scroll down the thread or answer.
+3. Scroll down the thread or answer.
 
-- Tap on the rewrite icon next, it’s usually a circular arrow or similar symbol.
+4. Tap on the rewrite icon next, it’s usually a circular arrow or similar symbol.
 
-- Select the model you want to use for the rewrite from the list.
+5. Select the model you want to use for the rewrite from the list.
 
-- Tap the model you chose to confirm your selection.
+6. Tap the model you chose to confirm your selection.
 
-- Wait for Perplexity to generate a new answer using the model you picked.
+7. Wait for Perplexity to generate a new answer using the model you picked.
 
-- Enjoy your new answer and see how it compares to previous ones.
+8. Enjoy your new answer and see how it compares to previous ones.
 
 ## Tips for Getting the Most Out of Thread Rewrites on Android
 

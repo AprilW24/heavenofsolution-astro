@@ -28,37 +28,37 @@ Now that you know some of the culprits behind file corruption, let’s look at h
 
 Some Android devices, particularly Samsung phones, have a built-in tool to scan for and repair corrupted files. Here’s how to use it:
 
-- Open the **My Files** app on your Android device.
+1. Open the **My Files** app on your Android device.
 
-- Tap on the **three-dot menu** in the top right corner and select **Storage settings**.
+2. Tap on the **three-dot menu** in the top right corner and select **Storage settings**.
 
-- Choose **SD card** if the corrupted file is on your external storage. Otherwise, select **Internal storage**.
+3. Choose **SD card** if the corrupted file is on your external storage. Otherwise, select **Internal storage**.
 
-- Tap the **Repair now** button to scan for and fix any corrupted files.
+4. Tap the **Repair now** button to scan for and fix any corrupted files.
 
 ### Method 2: Try Opening the File in Different Apps
 
 If the built-in repair tool doesn’t work or your device doesn’t have one, try opening the corrupted file using various apps. Sometimes, a file that won’t open in one application might work in another.
 
-- Download and install a few different apps that support the file type of your corrupted file. For example, if it’s a photo, try a couple of alternative gallery apps.
+1. Download and install a few different apps that support the file type of your corrupted file. For example, if it’s a photo, try a couple of alternative gallery apps.
 
-- Open each app and attempt to access the corrupted file.
+2. Open each app and attempt to access the corrupted file.
 
-- If the file opens successfully in one of the apps, your problem is solved!
+3. If the file opens successfully in one of the apps, your problem is solved!
 
 ### Method 3: Use a File Repair App
 
 There are several third-party applications available on the Google Play Store specifically designed to repair corrupted files on Android. Some popular options include DiskDigger, Undeleter, and Repair Toolbox.
 
-- Download and install a file repair app from the Play Store.
+1. Download and install a file repair app from the Play Store.
 
-- Launch the app and grant it access to your device’s storage.
+2. Launch the app and grant it access to your device’s storage.
 
-- Select the type of file you want to repair (e.g., photo, video, document).
+3. Select the type of file you want to repair (e.g., photo, video, document).
 
-- Choose the corrupted file from your device’s storage.
+4. Choose the corrupted file from your device’s storage.
 
-- Follow the app’s instructions to attempt to repair the file.
+5. Follow the app’s instructions to attempt to repair the file.
 
 Keep in mind that while these apps can be helpful, they may not be able to fix all corrupted files, particularly if the corruption is severe.
 
@@ -66,11 +66,11 @@ Keep in mind that while these apps can be helpful, they may not be able to fix a
 
 If you regularly back up your Android device, you may be able to restore an uncorrupted version of the file from your backup.
 
-- Go to your device’s **Settings** and tap on **System** > **Backup**.
+1. Go to your device’s **Settings** and tap on **System** > **Backup**.
 
-- Look for the corrupted file in your list of backed-up data.
+2. Look for the corrupted file in your list of backed-up data.
 
-- If you find the file, you can restore it to your device and replace the corrupted version.
+3. If you find the file, you can restore it to your device and replace the corrupted version.
 
 ### Method 5: Seek Professional Help
 

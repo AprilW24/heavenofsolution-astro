@@ -102,13 +102,13 @@ With Twitter’s character limit, using an emoji instead of a word can help you 
 
 If you’re having trouble using emojis on Twitter, try these solutions:
 
-- **Update Your App**: Ensure you’re using the latest version of the Twitter app.
+1. **Update Your App**: Ensure you’re using the latest version of the Twitter app.
 
-- **Check Your Device Settings**: Make sure your phone’s software is up to date, as older versions might not support all emojis.
+2. **Check Your Device Settings**: Make sure your phone’s software is up to date, as older versions might not support all emojis.
 
-- **Clear App Cache**: If emojis aren’t displaying correctly, try clearing your Twitter app’s cache in your phone’s settings.
+3. **Clear App Cache**: If emojis aren’t displaying correctly, try clearing your Twitter app’s cache in your phone’s settings.
 
-- **Reinstall the App**: As a last resort, uninstall and reinstall the Twitter app.
+4. **Reinstall the App**: As a last resort, uninstall and reinstall the Twitter app.
 
 ## The Evolution of Emojis on Twitter
 

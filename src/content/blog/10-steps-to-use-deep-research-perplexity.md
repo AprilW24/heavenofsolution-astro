@@ -12,25 +12,25 @@ Here’s the deal: Deep Research isn’t like regular search. It combs through h
 
 ## Easy Step-by-Step for Use Deep Research Feature
 
-- Open the Perplexity app or go over to *perplexity.ai* in your browser.
+1. Open the Perplexity app or go over to *perplexity.ai* in your browser.
 
-- Go straight to the search box at the top of the page.
+2. Go straight to the search box at the top of the page.
 
-- Hit the mode selector — you’ll see options like *Auto* and *Deep Research*.
+3. Hit the mode selector — you’ll see options like *Auto* and *Deep Research*.
 
-- Flip the switch to *Deep Research* or ***Research ***mode.
+4. Flip the switch to *Deep Research* or ***Research ***mode.
 
-- Type your question or topic you want to investigate. 🎯
+5. Type your question or topic you want to investigate. 🎯
 
-- Tap submit and chill for a moment while Perplexity does its thing.
+6. Tap submit and chill for a moment while Perplexity does its thing.
 
-- Watch as it pulls info, checks sources, and builds a report.
+7. Watch as it pulls info, checks sources, and builds a report.
 
-- When the report pops up, look for export options if you want to save it.
+8. When the report pops up, look for export options if you want to save it.
 
-- You can download your report as a PDF or document.
+9. You can download your report as a PDF or document.
 
-- If you want to share, turn your research into a Perplexity Page or send it to friends.
+10. If you want to share, turn your research into a Perplexity Page or send it to friends.
 
 ## Why This Feature Is Useful for Everyday and Professional Tasks
 

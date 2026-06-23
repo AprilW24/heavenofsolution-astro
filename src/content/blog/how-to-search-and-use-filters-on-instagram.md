@@ -32,15 +32,15 @@ Now, let’s explore the various ways you can search for filters on your Android
 
 The most straightforward way to access filters is through the Instagram camera. Here’s how:
 
-- Open the Instagram app on your Android device.
+1. Open the Instagram app on your Android device.
 
-- Tap the “+” icon at the bottom center of the screen.
+2. Tap the “+” icon at the bottom center of the screen.
 
-- Select “Story” or “Reel” at the bottom.
+3. Select “Story” or “Reel” at the bottom.
 
-- In the camera view, swipe left or right at the bottom of the screen to browse through available filters.
+4. In the camera view, swipe left or right at the bottom of the screen to browse through available filters.
 
-- To see more options, tap on the “Browse Effects” button (usually represented by a smiley face with stars) at the end of the filter carousel.
+5. To see more options, tap on the “Browse Effects” button (usually represented by a smiley face with stars) at the end of the filter carousel.
 
 This method gives you quick access to Instagram’s native filters and some popular user-created ones. However, it’s just the tip of the iceberg when it comes to the vast world of Instagram filters.
 
@@ -48,15 +48,15 @@ This method gives you quick access to Instagram’s native filters and some popu
 
 For a more comprehensive search experience:
 
-- Follow the steps above to open the Instagram camera.
+1. Follow the steps above to open the Instagram camera.
 
-- Tap on “Browse Effects.”
+2. Tap on “Browse Effects.”
 
-- Here, you’ll find a search bar at the top. Tap on it and enter keywords related to the type of filter you’re looking for (e.g., “vintage,” “glitter,” “black and white”).
+3. Here, you’ll find a search bar at the top. Tap on it and enter keywords related to the type of filter you’re looking for (e.g., “vintage,” “glitter,” “black and white”).
 
-- Scroll through the results and tap on any filter to preview it.
+4. Scroll through the results and tap on any filter to preview it.
 
-- If you like a filter, tap the “Try It” button to use it immediately, or tap the save icon (downward arrow) to add it to your saved filters for future use.
+5. If you like a filter, tap the “Try It” button to use it immediately, or tap the save icon (downward arrow) to add it to your saved filters for future use.
 
 The Effect Gallery is constantly updated with new filters created by both Instagram and independent creators, offering an ever-expanding palette of creative options.
 
@@ -64,15 +64,15 @@ The Effect Gallery is constantly updated with new filters created by both Instag
 
 Another effective way to discover new filters is by following filter creators:
 
-- When you find a filter you like, tap on its name at the top of the screen when using it.
+1. When you find a filter you like, tap on its name at the top of the screen when using it.
 
-- This will open the filter’s page, where you can see the creator’s profile.
+2. This will open the filter’s page, where you can see the creator’s profile.
 
-- Tap on the creator’s name to visit their profile.
+3. Tap on the creator’s name to visit their profile.
 
-- Look for a tab with a sparkle icon – this is where creators showcase their filters.
+4. Look for a tab with a sparkle icon – this is where creators showcase their filters.
 
-- Follow the creator to stay updated on their new filter releases.
+5. Follow the creator to stay updated on their new filter releases.
 
 By following talented filter creators, you’ll have a constant stream of new and exciting filters to experiment with.
 
@@ -80,11 +80,11 @@ By following talented filter creators, you’ll have a constant stream of new an
 
 Once you’ve found filters you love, it’s important to save them for easy access. Here’s how:
 
-- When you’re using a filter you want to save, tap on its name at the top of the screen.
+1. When you’re using a filter you want to save, tap on its name at the top of the screen.
 
-- On the filter’s page, tap the save icon (bookmark symbol) in the bottom right corner.
+2. On the filter’s page, tap the save icon (bookmark symbol) in the bottom right corner.
 
-- The filter will now appear in your saved filters when you open the Instagram camera.
+3. The filter will now appear in your saved filters when you open the Instagram camera.
 
 To keep your saved filters organized:
 
@@ -112,15 +112,15 @@ Now that you know how to find and save filters, let’s discuss how to use them 
 
 For those who want to take their Instagram game to the next level, creating custom filters is an exciting option. While this requires more technical skill, it can set your content apart. Here’s a brief overview of the process:
 
-- Download and install Spark AR Studio on your computer.
+1. Download and install Spark AR Studio on your computer.
 
-- Learn the basics of the software through tutorials and documentation.
+2. Learn the basics of the software through tutorials and documentation.
 
-- Design your filter using various effects, textures, and animations.
+3. Design your filter using various effects, textures, and animations.
 
-- Test your filter thoroughly.
+4. Test your filter thoroughly.
 
-- Submit your filter to Instagram for review and approval.
+5. Submit your filter to Instagram for review and approval.
 
 Creating custom filters not only allows you to have unique effects for your content but also opens up the possibility of others using your filters, potentially increasing your visibility on the platform.
 

@@ -38,13 +38,13 @@ Sometimes, simply restarting the YouTube app can resolve temporary glitches:
 
 Accumulated cache and data can sometimes cause conflicts. Clearing them may help:
 
-- Go to **Settings > Apps > YouTube**
+1. Go to **Settings > Apps > YouTube**
 
-- Tap on **Storage**
+2. Tap on **Storage**
 
-- Select **Clear Cache**
+3. Select **Clear Cache**
 
-- If the issue persists, tap **Clear Data** (note: this will log you out of the app)
+4. If the issue persists, tap **Clear Data** (note: this will log you out of the app)
 
 ![](/wp-content/uploads/2024/06/HoS_ErrorYotube-1.jpg)
 
@@ -54,11 +54,11 @@ After clearing cache and data, restart your device and try using YouTube again.
 
 An outdated app version can lead to compatibility issues and errors. To update YouTube:
 
-- Open the **Google Play Store**
+1. Open the **Google Play Store**
 
-- Search for **YouTube**
+2. Search for **YouTube**
 
-- If an update is available, tap **Update**
+3. If an update is available, tap **Update**
 
 ![](/wp-content/uploads/2024/06/HoS_ErrorYotube.jpg)
 
@@ -70,11 +70,11 @@ Keeping your app up-to-date ensures you have the latest bug fixes and improvemen
 
 Ensure your Android operating system is up-to-date:
 
-- Go to **Settings > System > System update**
+1. Go to **Settings > System > System update**
 
-- Tap **Check for update**
+2. Tap **Check for update**
 
-- If available, download and install any system updates
+3. If available, download and install any system updates
 
 System updates can resolve compatibility issues between apps and the operating system.
 
@@ -82,11 +82,11 @@ System updates can resolve compatibility issues between apps and the operating s
 
 If you’re using a VPN or proxy service, try disabling it temporarily:
 
-- Go to **Settings > Network & Internet > Advanced > VPN**
+1. Go to **Settings > Network & Internet > Advanced > VPN**
 
-- Toggle off any active VPN connections
+2. Toggle off any active VPN connections
 
-- Try accessing YouTube again without the VPN
+3. Try accessing YouTube again without the VPN
 
 Some VPNs or proxies can interfere with YouTube’s functionality.
 
@@ -94,9 +94,9 @@ Some VPNs or proxies can interfere with YouTube’s functionality.
 
 Incorrect date and time settings can cause authentication issues with YouTube servers:
 
-- Go to **Settings > System > Date & time**
+1. Go to **Settings > System > Date & time**
 
-- Enable **Automatic date & time** and **Automatic time zone**
+2. Enable **Automatic date & time** and **Automatic time zone**
 
 Ensure your device’s clock is synced correctly with network-provided time.
 
@@ -104,13 +104,13 @@ Ensure your device’s clock is synced correctly with network-provided time.
 
 If previous steps don’t work, try uninstalling and reinstalling the YouTube app:
 
-- Go to **Settings > Apps > YouTube**
+1. Go to **Settings > Apps > YouTube**
 
-- Tap **Uninstall**
+2. Tap **Uninstall**
 
-- Restart your device
+3. Restart your device
 
-- Open the **Google Play Store** and reinstall YouTube
+4. Open the **Google Play Store** and reinstall YouTube
 
 A fresh installation can often resolve persistent app issues.
 
@@ -126,11 +126,11 @@ Sometimes, the problem might be on YouTube’s end:
 
 As a workaround, you can try accessing YouTube through your mobile web browser:
 
-- Open your preferred browser (e.g., Chrome, Firefox)
+1. Open your preferred browser (e.g., Chrome, Firefox)
 
-- Go to **youtube.com**
+2. Go to **youtube.com**
 
-- Sign in to your account
+3. Sign in to your account
 
 If YouTube works in the browser but not in the app, it indicates an app-specific issue.
 
@@ -138,13 +138,13 @@ If YouTube works in the browser but not in the app, it indicates an app-specific
 
 If none of the above steps work, a factory reset might be necessary. However, this should be your last resort as it erases all data on your device:
 
-- Back up all important data
+1. Back up all important data
 
-- Go to **Settings > System > Reset options**
+2. Go to **Settings > System > Reset options**
 
-- Select **Erase all data (factory reset)**
+3. Select **Erase all data (factory reset)**
 
-- Follow the prompts to complete the reset
+4. Follow the prompts to complete the reset
 
 After the reset, set up your device and reinstall YouTube to see if the error is resolved.
 

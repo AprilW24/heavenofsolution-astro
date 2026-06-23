@@ -26,13 +26,13 @@ Now that you know some of the perks of YouTube’s dark theme, let’s get it en
 
 The dark mode option was introduced in version 13.35.51 of the YouTube Android app. To access it, you first need to make sure you have the latest version installed:
 
-- Open the **Google Play Store** app on your Android phone
+1. Open the **Google Play Store** app on your Android phone
 
-- Tap the **search bar** and type **YouTube**
+2. Tap the **search bar** and type **YouTube**
 
-- Select the **YouTube app** from the search results
+3. Select the **YouTube app** from the search results
 
-- If you see an **Update** button, tap it to install the latest version. If it says **Open**, you already have the most recent update.
+4. If you see an **Update** button, tap it to install the latest version. If it says **Open**, you already have the most recent update.
 
 Keeping your apps updated will ensure you can access the latest features and bug fixes. Once you’ve updated YouTube, you’re ready to enable dark mode.
 
@@ -40,15 +40,15 @@ Keeping your apps updated will ensure you can access the latest features and bug
 
 Now that you have the right YouTube version, turning on dark mode is a breeze:
 
-- **Open the YouTube app** on your Android device
+1. **Open the YouTube app** on your Android device
 
-- Tap your **profile icon** in the top-right corner of the screen
+2. Tap your **profile icon** in the top-right corner of the screen
 
-- Select **Settings** from the menu
+3. Select **Settings** from the menu
 
-- Under the **General** section, tap **Appearance**
+4. Under the **General** section, tap **Appearance**
 
-- Choose **Dark theme** to immediately switch YouTube to dark mode
+5. Choose **Dark theme** to immediately switch YouTube to dark mode
 
 That’s it! You’ve successfully enabled YouTube’s dark mode on your Android phone. The app background should now be a sleek black color rather than the standard bright white.
 
@@ -56,15 +56,15 @@ That’s it! You’ve successfully enabled YouTube’s dark mode on your Android
 
 Many newer Android devices have a system-wide dark mode option that you can enable in the settings. You can set the YouTube app to automatically switch between light and dark themes based on your device’s system settings:
 
-- Go to your Android **device’s settings**
+1. Go to your Android **device’s settings**
 
-- Select **Display**
+2. Select **Display**
 
-- Tap **Dark theme** or **Night mode** to enable the system-wide dark mode option
+3. Tap **Dark theme** or **Night mode** to enable the system-wide dark mode option
 
-- Open the **YouTube app** and go to **Settings > General > Appearance**
+4. Open the **YouTube app** and go to **Settings > General > Appearance**
 
-- Select **Use device theme**
+5. Select **Use device theme**
 
 Now YouTube will automatically use the dark theme when your Android device is set to dark mode, and switch back to light theme when dark mode is disabled.
 

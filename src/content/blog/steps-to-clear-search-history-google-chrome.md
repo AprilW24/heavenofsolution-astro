@@ -92,9 +92,9 @@ Clearing your search history is just one aspect of managing your browsing data. 
 
 If you want to browse without leaving a history trail, consider using Chrome’s Incognito mode. To access this:
 
-- Tap the three-dot menu icon.
+1. Tap the three-dot menu icon.
 
-- Select “New Incognito tab.”
+2. Select “New Incognito tab.”
 
 In this mode, Chrome won’t save your browsing history, cookies, site data, or information entered in forms.
 
@@ -102,11 +102,11 @@ In this mode, Chrome won’t save your browsing history, cookies, site data, or 
 
 If you use Chrome across multiple devices, you can customize what data gets synced:
 
-- Go to Chrome Settings.
+1. Go to Chrome Settings.
 
-- Tap on your Google account at the top.
+2. Tap on your Google account at the top.
 
-- Select “Sync” and choose what data you want to sync across devices.
+3. Select “Sync” and choose what data you want to sync across devices.
 
 This allows you to keep certain browsing data local to your Android device.
 
@@ -114,13 +114,13 @@ This allows you to keep certain browsing data local to your Android device.
 
 To save time and ensure regular privacy maintenance:
 
-- Go to your Google Account settings.
+1. Go to your Google Account settings.
 
-- Navigate to “Data & privacy.”
+2. Navigate to “Data & privacy.”
 
-- Under “History settings,” choose “Web & App Activity.”
+3. Under “History settings,” choose “Web & App Activity.”
 
-- Select “Auto-delete” and choose how long you want to keep your data before it’s automatically deleted.
+4. Select “Auto-delete” and choose how long you want to keep your data before it’s automatically deleted.
 
 ### Use Third-Party Privacy Apps
 

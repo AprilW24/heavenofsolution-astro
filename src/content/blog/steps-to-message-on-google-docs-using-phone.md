@@ -20,13 +20,13 @@ Next, open the document you want to collaborate on. If you haven’t created it 
 
 To use the chat feature, you need to share the document with at least one other person:
 
-- Tap the three dots in the upper right corner and select **Share & export**
+1. Tap the three dots in the upper right corner and select **Share & export**
 
-- Enter the email address(es) of the people you want to share with
+2. Enter the email address(es) of the people you want to share with
 
-- Choose their permission level (e.g. can edit, can comment, can view)
+3. Choose their permission level (e.g. can edit, can comment, can view)
 
-- Tap the send icon in the top right
+4. Tap the send icon in the top right
 
 The people you shared with will receive an email invitation to open the document.
 
@@ -44,11 +44,11 @@ Tap the chat icon to open the chat panel on the right side of your screen. If th
 
 To send a message:
 
-- Tap the text entry field at the bottom of the chat panel
+1. Tap the text entry field at the bottom of the chat panel
 
-- Type your message
+2. Type your message
 
-- Tap the send arrow or press enter on your keyboard
+3. Tap the send arrow or press enter on your keyboard
 
 Your message will appear in the chat stream in chronological order, along with your name and timestamp. Other collaborators will instantly see it appear.
 

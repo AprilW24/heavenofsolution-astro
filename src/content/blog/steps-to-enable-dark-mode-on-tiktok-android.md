@@ -24,15 +24,15 @@ Now, let’s explore the different ways to enable dark mode on TikTok for Androi
 
 Good news for Android users! TikTok has finally rolled out an official dark mode option for Android devices in a recent update. If you have the latest version of the app, follow these steps:
 
-- Open the TikTok app on your Android device.
+1. Open the TikTok app on your Android device.
 
-- Tap on the **“Me”** icon in the bottom right corner of the screen.
+2. Tap on the **“Me”** icon in the bottom right corner of the screen.
 
-- Tap the **three-dot menu** (⋯) in the top right corner to access settings.
+3. Tap the **three-dot menu** (⋯) in the top right corner to access settings.
 
-- Navigate to **“Content preferences”** and then **“App appearance”**.
+4. Navigate to **“Content preferences”** and then **“App appearance”**.
 
-- Choose **“Dark mode”** from the available options.
+5. Choose **“Dark mode”** from the available options.
 
 If you don’t see this option, make sure your TikTok app is updated to the latest version. If it’s still not available, don’t worry – we have alternative methods for you.
 
@@ -40,13 +40,13 @@ If you don’t see this option, make sure your TikTok app is updated to the late
 
 Many Android devices now offer a system-wide dark mode that can force apps to adopt a dark theme, even if they don’t have a built-in dark mode option. Here’s how to enable it:
 
-- Open your Android device’s **Settings** app.
+1. Open your Android device’s **Settings** app.
 
-- Scroll down and tap on **Display**.
+2. Scroll down and tap on **Display**.
 
-- Look for **“Dark theme”** or **“Night mode”** and toggle it on.
+3. Look for **“Dark theme”** or **“Night mode”** and toggle it on.
 
-- If prompted, choose to apply dark mode to all apps.
+4. If prompted, choose to apply dark mode to all apps.
 
 Now, when you open TikTok, it should adopt a dark appearance. Keep in mind that this method may not work perfectly for all apps, and some elements in TikTok might still appear light.
 
@@ -54,15 +54,15 @@ Now, when you open TikTok, it should adopt a dark appearance. Keep in mind that 
 
 If the above methods don’t work, you can try forcing dark mode through Android’s developer options. This method requires a bit more technical know-how but can be effective:
 
-- Open your device’s **Settings** app.
+1. Open your device’s **Settings** app.
 
-- Scroll down to **“About phone”** or **“About device”**.
+2. Scroll down to **“About phone”** or **“About device”**.
 
-- Find the **“Build number”** and tap it seven times rapidly. You’ll see a message saying you’re now a developer.
+3. Find the **“Build number”** and tap it seven times rapidly. You’ll see a message saying you’re now a developer.
 
-- Go back to the main Settings menu and look for **“Developer options”** (it might be under “System” or “Additional settings”).
+4. Go back to the main Settings menu and look for **“Developer options”** (it might be under “System” or “Additional settings”).
 
-- In Developer options, scroll down to find **“Force Dark mode”** or **“Override force-dark”** and toggle it on.
+5. In Developer options, scroll down to find **“Force Dark mode”** or **“Override force-dark”** and toggle it on.
 
 This should force TikTok and other apps to use a dark theme. However, be aware that this method might cause some visual inconsistencies in certain apps.
 
@@ -70,15 +70,15 @@ This should force TikTok and other apps to use a dark theme. However, be aware t
 
 If you have a rooted Android device, you have more options at your disposal. One method involves using a third-party app called Preferences Manager:
 
-- Download and install **Preferences Manager** from the Google Play Store.
+1. Download and install **Preferences Manager** from the Google Play Store.
 
-- Open the app and grant it root access.
+2. Open the app and grant it root access.
 
-- Find and select TikTok in the list of apps.
+3. Find and select TikTok in the list of apps.
 
-- Look for a file named **“APP_START_EXPERIMENT_PREFS.xml”**.
+4. Look for a file named **“APP_START_EXPERIMENT_PREFS.xml”**.
 
-- In this file, find the **“DARK_MODE”** flag and set it to **“ENABLED”**.
+5. In this file, find the **“DARK_MODE”** flag and set it to **“ENABLED”**.
 
 Remember that rooting your device can void your warranty and potentially cause security issues, so proceed with caution if you choose this method.
 

@@ -24,19 +24,19 @@ Google Search is a powerful tool that helps us find information on virtually any
 
 The most common way to change your Google Search language is by modifying the settings in the Google app. Here’s how you can do it:
 
-- Open the Google app on your Android device. You can usually find this by looking for the colorful “G” icon in your app drawer or on your home screen.
+1. Open the Google app on your Android device. You can usually find this by looking for the colorful “G” icon in your app drawer or on your home screen.
 
-- Tap on your profile picture or initial in the top-right corner of the screen. This will open a menu with various options.
+2. Tap on your profile picture or initial in the top-right corner of the screen. This will open a menu with various options.
 
-- Select “Settings” from the menu. This will take you to the Google app settings page.
+3. Select “Settings” from the menu. This will take you to the Google app settings page.
 
-- Scroll down and tap on “Languages & Input” or “Languages & Region” (the exact wording may vary depending on your device and app version).
+4. Scroll down and tap on “Languages & Input” or “Languages & Region” (the exact wording may vary depending on your device and app version).
 
-- Tap on “Search language” or “Language.” You’ll see a list of available languages.
+5. Tap on “Search language” or “Language.” You’ll see a list of available languages.
 
-- Choose your desired language from the list. You can scroll through the options or use the search bar at the top to find a specific language quickly.
+6. Choose your desired language from the list. You can scroll through the options or use the search bar at the top to find a specific language quickly.
 
-- Once you’ve selected a language, it will be set as your new default search language. The change should take effect immediately.
+7. Once you’ve selected a language, it will be set as your new default search language. The change should take effect immediately.
 
 It’s worth noting that changing your search language will affect not only your text-based searches but also voice searches and other Google services connected to your account. This change applies specifically to Google Search and doesn’t alter the system language of your Android device.
 
@@ -44,13 +44,13 @@ It’s worth noting that changing your search language will affect not only your
 
 Google allows you to add multiple languages to your search preferences, which can be particularly useful for multilingual users or those learning a new language. Here’s how to add additional languages:
 
-- Follow steps 1-4 from the previous section to reach the language settings.
+1. Follow steps 1-4 from the previous section to reach the language settings.
 
-- Instead of selecting a single language, look for an option that says “Add language” or “+” icon.
+2. Instead of selecting a single language, look for an option that says “Add language” or “+” icon.
 
-- Choose the languages you want to add from the list.
+3. Choose the languages you want to add from the list.
 
-- You can rearrange the order of languages by dragging them up or down in the list. The language at the top will be your primary search language.
+4. You can rearrange the order of languages by dragging them up or down in the list. The language at the top will be your primary search language.
 
 By adding multiple languages, you’re telling Google to show you results in these languages when relevant. This can be especially helpful if you’re comfortable reading content in various languages or if you’re searching for information that might be more readily available in a specific language.
 
@@ -58,13 +58,13 @@ By adding multiple languages, you’re telling Google to show you results in the
 
 Sometimes you might want to search in a different language without changing your default settings. Google provides a way to do this directly in the search bar:
 
-- Open the Google app or go to Google.com in your mobile browser.
+1. Open the Google app or go to Google.com in your mobile browser.
 
-- Before entering your search query, type “language:” followed by the language code you want to use. For example, “language:es” for Spanish or “language:fr” for French.
+2. Before entering your search query, type “language:” followed by the language code you want to use. For example, “language:es” for Spanish or “language:fr” for French.
 
-- Add a space after the language code and type your search query.
+3. Add a space after the language code and type your search query.
 
-- Press enter or tap the search button.
+4. Press enter or tap the search button.
 
 This method allows you to perform one-off searches in different languages without altering your overall settings. It’s particularly useful when you need to find information in a specific language temporarily.
 
@@ -72,13 +72,13 @@ This method allows you to perform one-off searches in different languages withou
 
 If you frequently need to search in multiple languages or translate search results, consider using the Google Translate app in conjunction with Google Search:
 
-- Install the Google Translate app from the Play Store if you haven’t already.
+1. Install the Google Translate app from the Play Store if you haven’t already.
 
-- Open Google Translate and set your desired languages.
+2. Open Google Translate and set your desired languages.
 
-- Use the “Tap to Translate” feature, which allows you to translate text from any app by copying it.
+3. Use the “Tap to Translate” feature, which allows you to translate text from any app by copying it.
 
-- When searching in Google, you can quickly translate queries or results using this feature.
+4. When searching in Google, you can quickly translate queries or results using this feature.
 
 This approach gives you more flexibility in managing multilingual searches and understanding results in various languages.
 
@@ -86,15 +86,15 @@ This approach gives you more flexibility in managing multilingual searches and u
 
 Changing your search language also affects voice search, but you might want to ensure your voice recognition is optimized for your preferred language:
 
-- Open the Google app settings as described earlier.
+1. Open the Google app settings as described earlier.
 
-- Look for “Voice” or “Voice Search” settings.
+2. Look for “Voice” or “Voice Search” settings.
 
-- Tap on “Languages” or “Speech Languages.”
+3. Tap on “Languages” or “Speech Languages.”
 
-- Select the languages you want to use for voice search.
+4. Select the languages you want to use for voice search.
 
-- Make sure the language you speak most often is at the top of the list.
+5. Make sure the language you speak most often is at the top of the list.
 
 Properly configuring voice search languages can significantly improve the accuracy of voice recognition, especially if you have an accent or use multiple languages.
 

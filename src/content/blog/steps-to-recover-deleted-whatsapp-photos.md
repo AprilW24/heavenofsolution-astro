@@ -26,15 +26,15 @@ The simplest way to retrieve a deleted WhatsApp photo is to ask the sender to re
 
 On Android devices, WhatsApp creates a hidden folder named **.Statuses** where it stores all received photos. Even if you’ve deleted the image from your chat, there’s a chance it might still be in this hidden folder. Here’s how to access it:
 
-- Open your device’s **File Manager** app.
+1. Open your device’s **File Manager** app.
 
-- Navigate to your WhatsApp media folder (e.g., *Internal Storage/WhatsApp/Media*).
+2. Navigate to your WhatsApp media folder (e.g., *Internal Storage/WhatsApp/Media*).
 
-- Look for a folder named **.Statuses**. If you can’t see it, enable the option to view hidden files in your File Manager settings.
+3. Look for a folder named **.Statuses**. If you can’t see it, enable the option to view hidden files in your File Manager settings.
 
-- Open the **.Statuses** folder and search for your deleted photo.
+4. Open the **.Statuses** folder and search for your deleted photo.
 
-- If found, copy the image to a different location to save it.
+5. If found, copy the image to a different location to save it.
 
 ## Method 3: Use Data Recovery Software
 
@@ -42,31 +42,31 @@ If the above methods don’t work, your last resort is to use data recovery soft
 
 ### For Android:
 
-- Install a reliable Android data recovery tool like **DroidKit** or **EaseUS MobiSaver** on your computer.
+1. Install a reliable Android data recovery tool like **DroidKit** or **EaseUS MobiSaver** on your computer.
 
-- Connect your Android device to the computer and launch the recovery software.
+2. Connect your Android device to the computer and launch the recovery software.
 
-- Select **WhatsApp** from the list of supported apps and click **Start**.
+3. Select **WhatsApp** from the list of supported apps and click **Start**.
 
-- Follow the on-screen instructions to allow the software to access your device’s storage.
+4. Follow the on-screen instructions to allow the software to access your device’s storage.
 
-- Once the scan is complete, preview the recoverable photos and select the ones you want to restore.
+5. Once the scan is complete, preview the recoverable photos and select the ones you want to restore.
 
-- Click **Recover** to save the selected photos to your computer.
+6. Click **Recover** to save the selected photos to your computer.
 
 ### For iOS:
 
-- Install an iOS data recovery tool like **PhoneRescue** or **iMobie PhoneRescue** on your computer.
+1. Install an iOS data recovery tool like **PhoneRescue** or **iMobie PhoneRescue** on your computer.
 
-- Connect your iPhone or iPad to the computer and open the recovery software.
+2. Connect your iPhone or iPad to the computer and open the recovery software.
 
-- Select **Recover from iOS Device** and click **Start**.
+3. Select **Recover from iOS Device** and click **Start**.
 
-- Choose **WhatsApp** from the list of apps to scan and click **Next**.
+4. Choose **WhatsApp** from the list of apps to scan and click **Next**.
 
-- Wait for the software to scan your device’s storage for deleted WhatsApp photos.
+5. Wait for the software to scan your device’s storage for deleted WhatsApp photos.
 
-- Once the scan is finished, select the photos you want to recover and click **Recover to Computer**.
+6. Once the scan is finished, select the photos you want to recover and click **Recover to Computer**.
 
 ## Conclusion
 

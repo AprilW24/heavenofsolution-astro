@@ -14,27 +14,27 @@ WhatsApp is one of the most popular messaging apps in the world, allowing users 
 
 To get started, you’ll need to set up WhatsApp Web on your computer. Here’s how:
 
-- Open your web browser and go to https://web.whatsapp.com/
+1. Open your web browser and go to https://web.whatsapp.com/
 
-- On your Android phone, open WhatsApp and tap the three-dot menu icon
+2. On your Android phone, open WhatsApp and tap the three-dot menu icon
 
-- Select **Linked Devices** and then tap **Link a Device**
+3. Select **Linked Devices** and then tap **Link a Device**
 
-- Use your phone to scan the QR code displayed on the WhatsApp Web page
+4. Use your phone to scan the QR code displayed on the WhatsApp Web page
 
-- WhatsApp Web will now be connected to your phone and you’ll see your chats and contacts
+5. WhatsApp Web will now be connected to your phone and you’ll see your chats and contacts
 
 ### Step 2: Select a Contact
 
 Once you have WhatsApp Web set up, you can start making video calls. Here’s how:
 
-- In the chat list on the left side of the screen, select the contact you want to video call
+1. In the chat list on the left side of the screen, select the contact you want to video call
 
-- Click on the video camera icon in the top right corner of the chat window
+2. Click on the video camera icon in the top right corner of the chat window
 
-- WhatsApp will ask for permission to use your computer’s camera and microphone. Click **Allow**
+3. WhatsApp will ask for permission to use your computer’s camera and microphone. Click **Allow**
 
-- The video call will start ringing on your contact’s phone
+4. The video call will start ringing on your contact’s phone
 
 ### Step 3: During the Video Call
 
@@ -52,13 +52,13 @@ During the video call, you’ll see your contact’s video feed on the main part
 
 You can also make group video calls on WhatsApp Web with up to 8 participants. Here’s how:
 
-- In the chat list, select the group you want to video call
+1. In the chat list, select the group you want to video call
 
-- Click the video camera icon in the top right corner
+2. Click the video camera icon in the top right corner
 
-- Select the contacts you want to add to the call (up to 7 others)
+3. Select the contacts you want to add to the call (up to 7 others)
 
-- Click the video camera icon again to start the call
+4. Click the video camera icon again to start the call
 
 The group video call will work similarly to a one-on-one call, with everyone’s video feeds shown on the screen.
 

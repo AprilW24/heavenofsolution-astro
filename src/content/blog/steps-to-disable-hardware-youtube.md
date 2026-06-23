@@ -20,21 +20,21 @@ In most cases, hardware acceleration improves video performance, allowing for sm
 
 Hardware acceleration is enabled by default on most Android devices. You can verify this in the Developer Options menu:
 
-- Open the Settings app on your Android device
+1. Open the Settings app on your Android device
 
-- Scroll down and tap **About phone** or **About tablet**
+2. Scroll down and tap **About phone** or **About tablet**
 
-- Scroll down to **Build number**
+3. Scroll down to **Build number**
 
-- Tap **Build number** seven times to enable Developer Options
+4. Tap **Build number** seven times to enable Developer Options
 
-- Go back to the main Settings menu
+5. Go back to the main Settings menu
 
-- Tap **System** and then **Developer options**
+6. Tap **System** and then **Developer options**
 
-- Scroll down to the Drawing section
+7. Scroll down to the Drawing section
 
-- Look for **Disable HW overlays** – if this is unchecked, hardware acceleration is currently enabled
+8. Look for **Disable HW overlays** – if this is unchecked, hardware acceleration is currently enabled
 
 If you don’t see a **Disable HW overlays** option, your device manufacturer may have removed it. But you can still disable hardware acceleration through other means, as we’ll explain next.
 
@@ -46,11 +46,11 @@ There are a few different ways to turn off hardware acceleration for YouTube and
 
 If your device has the **Disable HW overlays** setting, toggling it on is the quickest way to disable hardware acceleration system-wide:
 
-- Open Settings > System > Developer options
+1. Open Settings > System > Developer options
 
-- Scroll to Drawing and check the box for **Disable HW overlays**
+2. Scroll to Drawing and check the box for **Disable HW overlays**
 
-- Restart your device for the changes to take effect
+3. Restart your device for the changes to take effect
 
 This will disable hardware acceleration for all apps, which may reduce performance in games and other graphics-intensive applications. But it’s the most straightforward solution for YouTube issues.
 
@@ -58,11 +58,11 @@ This will disable hardware acceleration for all apps, which may reduce performan
 
 Another setting in Developer Options can force GPU rendering for all apps, effectively disabling hardware-accelerated video:
 
-- In Settings > System > Developer options, scroll to Hardware accelerated rendering
+1. In Settings > System > Developer options, scroll to Hardware accelerated rendering
 
-- Uncheck the box for **Force GPU rendering**
+2. Uncheck the box for **Force GPU rendering**
 
-- Restart your device
+3. Restart your device
 
 With Force GPU rendering disabled, apps will use software rendering instead of the hardware GPU. This may resolve YouTube problems, but can also impact overall graphics performance and battery life.
 
@@ -70,15 +70,15 @@ With Force GPU rendering disabled, apps will use software rendering instead of t
 
 If you only want to disable hardware acceleration for YouTube, you can do so through the app’s settings:
 
-- Open the YouTube app
+1. Open the YouTube app
 
-- Tap your profile icon and then Settings
+2. Tap your profile icon and then Settings
 
-- Tap General
+3. Tap General
 
-- Uncheck the box for **Enable HW acceleration**
+4. Uncheck the box for **Enable HW acceleration**
 
-- Restart the YouTube app
+5. Restart the YouTube app
 
 This setting is not available in all versions of YouTube. If you don’t see it, you’ll need to use one of the system-wide options above instead.
 
@@ -86,13 +86,13 @@ This setting is not available in all versions of YouTube. If you don’t see it,
 
 For devices where YouTube videos are played through Chrome, there are some experimental flags that can disable hardware-accelerated video decoding:
 
-- Open Chrome and type chrome://flags in the address bar
+1. Open Chrome and type chrome://flags in the address bar
 
-- Search for **hardware-accelerated**
+2. Search for **hardware-accelerated**
 
-- Find **Hardware-accelerated video decode** and change it to Disabled
+3. Find **Hardware-accelerated video decode** and change it to Disabled
 
-- Tap Relaunch to restart Chrome
+4. Tap Relaunch to restart Chrome
 
 This is not guaranteed to work on all devices and can cause instability in Chrome. It’s best used as a temporary troubleshooting step.
 

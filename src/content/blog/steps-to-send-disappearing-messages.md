@@ -14,37 +14,37 @@ In this article, we’ll walk through the steps to enable and use disappearing m
 
 **To turn on disappearing messages for all new chats by default:**
 
-- Open WhatsApp and go to Settings
+1. Open WhatsApp and go to Settings
 
-- Tap Account > Privacy
+2. Tap Account > Privacy
 
-- Tap Default message timer
+3. Tap Default message timer
 
-- Select a duration – 24 hours, 7 days, or 90 days
+4. Select a duration – 24 hours, 7 days, or 90 days
 
 Now, any new individual chats you start will have disappearing messages enabled by default for the duration you selected. You can always change this setting for specific chats.
 
 **To enable disappearing messages for an individual chat:**
 
-- Open the chat
+1. Open the chat
 
-- Tap the contact’s name at the top
+2. Tap the contact’s name at the top
 
-- Tap Disappearing messages
+3. Tap Disappearing messages
 
-- Select a duration – 24 hours, 7 days, or 90 days
+4. Select a duration – 24 hours, 7 days, or 90 days
 
 Once enabled, any new messages sent in that chat will disappear after the chosen time period. Previously sent or received messages will not be affected.
 
 **To turn on disappearing messages in a group chat:**
 
-- Open the group chat
+1. Open the group chat
 
-- Tap the group name to see Group info
+2. Tap the group name to see Group info
 
-- Tap Disappearing messages
+3. Tap Disappearing messages
 
-- Select a duration – 24 hours, 7 days, or 90 days
+4. Select a duration – 24 hours, 7 days, or 90 days
 
 By default, any group participant can enable disappearing messages. However, group admins have the ability to restrict this so only admins can turn disappearing messages on or off.
 
@@ -74,13 +74,13 @@ When someone keeps a disappearing message you sent, you’ll get a notification.
 
 You can disable disappearing messages at any time for individual or group chats:
 
-- Open the chat
+1. Open the chat
 
-- Tap the contact/group name
+2. Tap the contact/group name
 
-- Tap Disappearing messages
+3. Tap Disappearing messages
 
-- Select Off
+4. Select Off
 
 This will not affect messages already sent with disappearing mode on – those will still expire based on the duration that was set at the time. Only new messages will stop disappearing.
 

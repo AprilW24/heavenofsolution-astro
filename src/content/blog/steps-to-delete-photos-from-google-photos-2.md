@@ -34,13 +34,13 @@ Now any photos you delete from Google Photos online will not be deleted from you
 
 The next step is to delete the photos you want to remove from your Google Photos backup using a web browser on your computer. You cannot do this from within the Google Photos mobile app.
 
-- Go to **photos.google.com** in your web browser and log in
+1. Go to **photos.google.com** in your web browser and log in
 
-- **Select the photos** you want to delete from backup
+2. **Select the photos** you want to delete from backup
 
-- Click the **trash can icon** to move them to the trash
+3. Click the **trash can icon** to move them to the trash
 
-- Go to the **Trash folder** and click **Empty Trash** to permanently delete them
+4. Go to the **Trash folder** and click **Empty Trash** to permanently delete them
 
 The selected photos will now be deleted from your Google Photos backup, but the originals will still remain in your phone’s gallery or camera roll.
 
@@ -50,11 +50,11 @@ If you want to also delete the original photos from your phone to free up device
 
 ![](/wp-content/uploads/2024/06/HoS_DeleteGooglePhotos4.jpg)
 
-- Open your phone’s **Gallery or Photos app** (not the Google Photos app)
+1. Open your phone’s **Gallery or Photos app** (not the Google Photos app)
 
-- Find and **select the photos** you want to delete
+2. Find and **select the photos** you want to delete
 
-- Tap the **trash can icon** to delete them from your phone
+3. Tap the **trash can icon** to delete them from your phone
 
 Since you disabled syncing in the Google Photos app, deleting the photos from your phone will not remove them from Google Photos backup this time.
 
@@ -62,11 +62,11 @@ Since you disabled syncing in the Google Photos app, deleting the photos from yo
 
 After you’ve deleted all the photos you wanted to remove from Google Photos backup, make sure to turn the Backup & Sync setting back on in the app on your phone. This ensures that any new photos you take will continue to be backed up.
 
-- Open the **Google Photos app**
+1. Open the **Google Photos app**
 
-- Go to your **profile picture** > **Photos settings** > **Back up & sync**
+2. Go to your **profile picture** > **Photos settings** > **Back up & sync**
 
-- **Turn on** the backup toggle
+3. **Turn on** the backup toggle
 
 Your phone will now resume backing up any new photos and videos to Google Photos. Just be careful not to delete them from the app directly if you want to keep the originals on your device.
 

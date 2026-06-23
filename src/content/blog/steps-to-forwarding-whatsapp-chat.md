@@ -20,19 +20,19 @@ The best part? You can forward messages to multiple chats at once, so you don’
 
 Here’s exactly how I do it—seven easy steps, no stress:
 
-- Open *WhatsApp* and go to the chat with the message you want to forward.
+1. Open *WhatsApp* and go to the chat with the message you want to forward.
 
-- Tap and hold the message (text, image, or video) until it’s selected.
+2. Tap and hold the message (text, image, or video) until it’s selected.
 
-- If you want, tap more messages to select multiple at once.
+3. If you want, tap more messages to select multiple at once.
 
-- Tap the forward icon (looks like a right-facing arrow) at the top of the screen.
+4. Tap the forward icon (looks like a right-facing arrow) at the top of the screen.
 
-- Pick the chat or group you want to send the message to.
+5. Pick the chat or group you want to send the message to.
 
-- Tap the send button (usually a blue arrow or paper plane).
+6. Tap the send button (usually a blue arrow or paper plane).
 
-- Done—the message is now in the new chat, marked as “Forwarded.” 🚀
+7. Done—the message is now in the new chat, marked as “Forwarded.” 🚀
 
 ## Tips for Forwarding Multiple Messages or Media Files
 

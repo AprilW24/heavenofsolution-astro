@@ -22,25 +22,25 @@ These tools use advanced AI speech recognition. They analyze your voice, turn it
 
 ## Step-by-step guide to generate AI subtitles on Android
 
-- Pick an AI subtitle app like SendShort, Vozo AI, or Captiono.
+1. Pick an AI subtitle app like SendShort, Vozo AI, or Captiono.
 
-- Install it from Google Play on your Android device.
+2. Install it from Google Play on your Android device.
 
-- Open the app and sign in if needed.
+3. Open the app and sign in if needed.
 
-- Upload or record your video in MP4, MOV, or similar formats.
+4. Upload or record your video in MP4, MOV, or similar formats.
 
-- Choose the original language of your video.
+5. Choose the original language of your video.
 
-- Tap the auto-generate or *AI caption* button.
+6. Tap the auto-generate or *AI caption* button.
 
-- Wait a few minutes for subtitles to be created.
+7. Wait a few minutes for subtitles to be created.
 
-- Edit any words or timing if you spot mistakes.
+8. Edit any words or timing if you spot mistakes.
 
-- Customize font, color, and position to match your video’s style.
+9. Customize font, color, and position to match your video’s style.
 
-- Export or save your video with subtitles embedded. 🎥
+10. Export or save your video with subtitles embedded. 🎥
 
 ## How to pick the right AI subtitle app for your Android
 

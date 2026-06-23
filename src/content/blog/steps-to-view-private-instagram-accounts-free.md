@@ -16,11 +16,11 @@ Before diving into the methods, it’s essential to understand what a private In
 
 The most straightforward and ethical way to view a private Instagram account is by sending a follow request. Here’s how to do it:
 
-- Open the Instagram app or website and search for the private account you want to view.
+1. Open the Instagram app or website and search for the private account you want to view.
 
-- Click on the “Follow” button next to the account name.
+2. Click on the “Follow” button next to the account name.
 
-- Wait for the account owner to approve your request.
+3. Wait for the account owner to approve your request.
 
 While this method requires patience and may not always be successful, it’s the most respectful approach to accessing private content.
 
@@ -28,11 +28,11 @@ While this method requires patience and may not always be successful, it’s the
 
 Sometimes, you can find traces of a private Instagram account through Google Search. This method works best if the account was previously public. Follow these steps:
 
-- Go to Google and enter the username of the private account you want to view.
+1. Go to Google and enter the username of the private account you want to view.
 
-- Add “Instagram” to your search query for more precise results.
+2. Add “Instagram” to your search query for more precise results.
 
-- Check the search results, including images, to see if any old posts or profile information is available.
+3. Check the search results, including images, to see if any old posts or profile information is available.
 
 Remember that this method may not provide the most up-to-date information, but it can give you a glimpse into the account’s history.
 
@@ -52,11 +52,11 @@ Several third-party applications and websites claim to offer access to private I
 
 While not the most ethical approach, some users create fake Instagram accounts to gain access to private profiles. Here’s how it works:
 
-- Create a new Instagram account with a believable username and profile picture.
+1. Create a new Instagram account with a believable username and profile picture.
 
-- Add some posts and followers to make the account appear genuine.
+2. Add some posts and followers to make the account appear genuine.
 
-- Send a follow request to the private account you want to view.
+3. Send a follow request to the private account you want to view.
 
 Keep in mind that this method may violate Instagram’s terms of service and could potentially lead to account suspension.
 

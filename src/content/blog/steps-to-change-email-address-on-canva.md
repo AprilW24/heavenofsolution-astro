@@ -14,25 +14,25 @@ Changing your email on Canva is important if you want to keep your account info 
 
 The first step is to reset your password since you can’t change your email without logging in. Here’s how:
 
-- Go to Canva’s login page and click “**Forgot Password**.”
+1. Go to Canva’s login page and click “**Forgot Password**.”
 
-- Enter your current email address linked to Canva.
+2. Enter your current email address linked to Canva.
 
-- Check your inbox for the password reset email and follow the link.
+3. Check your inbox for the password reset email and follow the link.
 
-- Create a new password and log in with it.
+4. Create a new password and log in with it.
 
-- Click your profile or settings icon in the top right corner.
+5. Click your profile or settings icon in the top right corner.
 
-- Select “**Settings**” or “**Your Profile**.”
+6. Select “**Settings**” or “**Your Profile**.”
 
-- Click “**Edit**” next to your email address.
+7. Click “**Edit**” next to your email address.
 
-- Enter the verification code sent to your current email.
+8. Enter the verification code sent to your current email.
 
-- Type your new email address and save the changes.
+9. Type your new email address and save the changes.
 
-- Confirm the new email by clicking the link Canva sends to it.
+10. Confirm the new email by clicking the link Canva sends to it.
 
 This process ensures you regain control of your account and update your email securely.
 

@@ -24,25 +24,25 @@ On your phone, AI-powered platforms let you build ads in minutes, often straight
 
 ## Step-by-Step Process Setting Up AI-Powered Digital Ads on Phone
 
-- Grab an AI ad app like *Zeely*, *AdCreative*, or your preferred option from the app store.
+1. Grab an AI ad app like *Zeely*, *AdCreative*, or your preferred option from the app store.
 
-- Sign in and link your business page or product link.
+2. Sign in and link your business page or product link.
 
-- Select an ad template or let the AI suggest one based on your industry.
+3. Select an ad template or let the AI suggest one based on your industry.
 
-- Upload images, videos, or let AI generate visuals for you.
+4. Upload images, videos, or let AI generate visuals for you.
 
-- Type out your main ad message or use the app to come up with catchy headline ideas.
+5. Type out your main ad message or use the app to come up with catchy headline ideas.
 
-- Choose your audience, let the AI pick or adjust it yourself.
+6. Choose your audience, let the AI pick or adjust it yourself.
 
-- Pick your goal, like clicks or installs, and set a daily budget.
+7. Pick your goal, like clicks or installs, and set a daily budget.
 
-- Hit preview to see how the ad will look to mobile users.
+8. Hit preview to see how the ad will look to mobile users.
 
-- Launch the campaign right from your phone.
+9. Launch the campaign right from your phone.
 
-- Check real-time results in-app and let AI adjust the ad for better performance.
+10. Check real-time results in-app and let AI adjust the ad for better performance.
 
 ## Using AI to Test, Improve, and Personalize On The Go
 

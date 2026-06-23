@@ -16,13 +16,13 @@ In this article, we’ll walk through the process of enabling most visited sites
 
 First, make sure you have the latest version of Google Chrome installed on your Android device. Here’s how:
 
-- Open the Google Play Store app
+1. Open the Google Play Store app
 
-- Tap the menu icon and select **My apps & games**
+2. Tap the menu icon and select **My apps & games**
 
-- Find Chrome in the list of apps and tap **Update** if an update is available
+3. Find Chrome in the list of apps and tap **Update** if an update is available
 
-- Once updated, open Chrome
+4. Once updated, open Chrome
 
 Having the most recent version ensures you have access to all the latest features and options for customizing your browsing experience.
 
@@ -30,15 +30,15 @@ Having the most recent version ensures you have access to all the latest feature
 
 By default, Chrome’s new tab page may show a mix of your most visited sites along with your recent searches. To make sure your most visited sites are enabled:
 
-- Open a new tab in Chrome
+1. Open a new tab in Chrome
 
-- Tap the three-dot menu icon in the top-right corner
+2. Tap the three-dot menu icon in the top-right corner
 
-- Tap **Settings**
+3. Tap **Settings**
 
-- Under **Advanced**, tap **Homepage**
+4. Under **Advanced**, tap **Homepage**
 
-- Make sure **Show most visited sites** is toggled on
+5. Make sure **Show most visited sites** is toggled on
 
 Now, your most frequently visited sites should appear on the new tab page for quick access. However, you may still see some recent searches mixed in, so the next step will help declutter those.
 
@@ -46,15 +46,15 @@ Now, your most frequently visited sites should appear on the new tab page for qu
 
 To remove recent search queries and results from your most visited sites on the new tab page, you’ll need to disable a Chrome flag:
 
-- In Chrome’s address bar, type chrome://flags and tap enter
+1. In Chrome’s address bar, type chrome://flags and tap enter
 
-- In the search bar at the top of the flags page, type **Organic repeatable queries**
+2. In the search bar at the top of the flags page, type **Organic repeatable queries**
 
-- You should see a flag titled **Organic repeatable queries in Most Visited tiles**
+3. You should see a flag titled **Organic repeatable queries in Most Visited tiles**
 
-- Tap the drop-down menu and select **Disabled**
+4. Tap the drop-down menu and select **Disabled**
 
-- Tap **Relaunch** at the bottom of the screen to restart Chrome for the change to take effect
+5. Tap **Relaunch** at the bottom of the screen to restart Chrome for the change to take effect
 
 With this flag disabled, your recent searches will no longer appear on the new tab page, leaving only your most visited sites for a cleaner look and easier access.
 
@@ -62,11 +62,11 @@ With this flag disabled, your recent searches will no longer appear on the new t
 
 If there are specific sites you don’t want to appear in your most visited section, you can easily remove them:
 
-- On the new tab page, find the site you want to remove
+1. On the new tab page, find the site you want to remove
 
-- Long-press the site’s tile
+2. Long-press the site’s tile
 
-- In the menu that appears, tap **Remove**
+3. In the menu that appears, tap **Remove**
 
 The site will be removed from your most visited list. If you change your mind later, you can always visit that site more frequently and Chrome will eventually add it back based on your browsing habits.
 
@@ -74,21 +74,21 @@ The site will be removed from your most visited list. If you change your mind la
 
 In addition to relying on Chrome’s automatic most visited sites, you can also manually bookmark your favorite sites for easy access:
 
-- Navigate to the site you want to bookmark
+1. Navigate to the site you want to bookmark
 
-- Tap the three-dot menu icon in the top-right corner
+2. Tap the three-dot menu icon in the top-right corner
 
-- Tap the star icon to add a bookmark
+3. Tap the star icon to add a bookmark
 
-- Edit the bookmark name and choose a folder if desired, then tap **Save**
+4. Edit the bookmark name and choose a folder if desired, then tap **Save**
 
 To access your bookmarks:
 
-- Tap the three-dot menu icon in Chrome
+1. Tap the three-dot menu icon in Chrome
 
-- Tap **Bookmarks**
+2. Tap **Bookmarks**
 
-- Tap the bookmark you want to open
+3. Tap the bookmark you want to open
 
 Using bookmarks in combination with most visited sites gives you the most control and quickest access to all your favorite corners of the web.
 

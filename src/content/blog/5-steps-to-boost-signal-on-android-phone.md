@@ -36,11 +36,11 @@ Believe it or not, your phone case might be the culprit behind your weak signal.
 
 Keeping your Android operating system and carrier settings up to date is crucial for optimal performance, including signal strength. Software updates often include improvements to network connectivity and bug fixes that can enhance your signal reception. To update your Android OS:
 
-- Go to Settings > System > System Update
+1. Go to Settings > System > System Update
 
-- Tap “Check for update”
+2. Tap “Check for update”
 
-- If an update is available, follow the prompts to download and install it
+3. If an update is available, follow the prompts to download and install it
 
 For carrier settings, check your carrier’s website or app for any available updates.
 
@@ -48,35 +48,35 @@ For carrier settings, check your carrier’s website or app for any available up
 
 A quick and effective way to refresh your phone’s connection to nearby cell towers is to toggle Airplane Mode on and off. This action forces your phone to re-establish connections with available networks, potentially resulting in a stronger signal. To do this:
 
-- Swipe down from the top of your screen to access the Quick Settings panel
+1. Swipe down from the top of your screen to access the Quick Settings panel
 
-- Tap the Airplane Mode icon to turn it on
+2. Tap the Airplane Mode icon to turn it on
 
-- Wait for about 30 seconds
+3. Wait for about 30 seconds
 
-- Tap the icon again to turn Airplane Mode off
+4. Tap the icon again to turn Airplane Mode off
 
 ### 4. Manually Select Your Network
 
 Sometimes, your phone might not automatically connect to the strongest available network. By manually selecting your network, you can ensure you’re connected to the best option in your area. Here’s how:
 
-- Go to Settings > Network & Internet > Mobile network
+1. Go to Settings > Network & Internet > Mobile network
 
-- Tap on “Network operators”
+2. Tap on “Network operators”
 
-- Wait for your phone to search for available networks
+3. Wait for your phone to search for available networks
 
-- Select your preferred network from the list
+4. Select your preferred network from the list
 
 ### 5. Reset Your Network Settings
 
 If you’re still experiencing signal issues, try resetting your network settings. This action will clear all saved Wi-Fi networks, Bluetooth connections, and mobile data settings, potentially resolving any configuration issues affecting your signal. To reset your network settings:
 
-- Go to Settings > System > Reset options
+1. Go to Settings > System > Reset options
 
-- Tap “Reset Wi-Fi, mobile & Bluetooth”
+2. Tap “Reset Wi-Fi, mobile & Bluetooth”
 
-- Confirm the action by tapping “Reset settings”
+3. Confirm the action by tapping “Reset settings”
 
 Remember that you’ll need to reconnect to your Wi-Fi networks and Bluetooth devices after performing this reset.
 
@@ -100,27 +100,27 @@ These apps provide detailed information about nearby cell towers, signal strengt
 
 If your phone and carrier support 4G/LTE or 5G networks, make sure these faster networks are enabled on your device. In many cases, 4G/LTE and 5G networks offer better coverage and signal strength compared to older 3G networks. To enable 4G/LTE or 5G:
 
-- Go to Settings > Network & Internet > Mobile network
+1. Go to Settings > Network & Internet > Mobile network
 
-- Tap on “Preferred network type”
+2. Tap on “Preferred network type”
 
-- Select “4G/LTE” or “5G” (if available)
+3. Select “4G/LTE” or “5G” (if available)
 
 ### 3. Disable Battery Saver Mode
 
 While Battery Saver Mode can help extend your phone’s battery life, it may also limit certain functions that affect signal strength. If you’re in an area with weak reception, try disabling Battery Saver Mode temporarily:
 
-- Go to Settings > Battery > Battery Saver
+1. Go to Settings > Battery > Battery Saver
 
-- Toggle off Battery Saver
+2. Toggle off Battery Saver
 
 ### 4. Use Wi-Fi Calling
 
 If you’re in an area with poor cellular reception but have access to a strong Wi-Fi network, enable Wi-Fi Calling on your Android phone. This feature allows you to make and receive calls and text messages over a Wi-Fi connection instead of relying on cellular networks. To enable Wi-Fi Calling:
 
-- Go to Settings > Network & Internet > Calls & SMS > Wi-Fi Calling
+1. Go to Settings > Network & Internet > Calls & SMS > Wi-Fi Calling
 
-- Toggle on Wi-Fi Calling
+2. Toggle on Wi-Fi Calling
 
 Note that not all carriers support Wi-Fi Calling, so check with your service provider if you don’t see this option.
 

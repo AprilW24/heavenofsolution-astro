@@ -12,15 +12,15 @@ Retrieving deleted or lost text messages from your Google account on an Android 
 
 The first step is to enable backup of your text messages to Google Drive. Here’s how:
 
-- Open the Settings app on your Android device.
+1. Open the Settings app on your Android device.
 
-- Scroll down and tap on Google.
+2. Scroll down and tap on Google.
 
-- Select Backup option.
+3. Select Backup option.
 
-- Ensure the option for **Back up to Google Drive** is turned on. If it is disabled, enable it.
+4. Ensure the option for **Back up to Google Drive** is turned on. If it is disabled, enable it.
 
-- Tap on **Back up now** to manually trigger a backup of your device data including text messages.
+5. Tap on **Back up now** to manually trigger a backup of your device data including text messages.
 
 By default, Android backs up your SMS/MMS every 24 hours when charging and connected to Wi-Fi. But it’s recommended to manually trigger a backup before resetting your device.
 
@@ -28,11 +28,11 @@ By default, Android backs up your SMS/MMS every 24 hours when charging and conne
 
 Before restoring any data, you need to ensure your text messages are actually backed up to Google Drive.
 
-- Open the Google Drive app on your Android device.
+1. Open the Google Drive app on your Android device.
 
-- Tap on Backups from the menu.
+2. Tap on Backups from the menu.
 
-- Check if there is a backup available and SMS/MMS messages are listed in it.
+3. Check if there is a backup available and SMS/MMS messages are listed in it.
 
 If you don’t see your messages backed up, go back and manually trigger a backup by following the steps outlined in the previous section.
 
@@ -44,11 +44,11 @@ To restore your Google backup containing text messages, you need to factory rese
 
 Here are the steps to factory reset:
 
-- Go to Settings > System > Reset options.
+1. Go to Settings > System > Reset options.
 
-- Tap Erase all data (factory reset).
+2. Tap Erase all data (factory reset).
 
-- Confirm again by tapping **Erase all data**.
+3. Confirm again by tapping **Erase all data**.
 
 Your device will reboot into recovery mode to erase all data. Be patient as this process can take up to 10 minutes.
 
@@ -56,11 +56,11 @@ Your device will reboot into recovery mode to erase all data. Be patient as this
 
 Once your Android device restarts after the reset, you need to restore text messages from your Google Drive backup:
 
-- Set up your device again and sign in using the same Google account that was used to create the backup.
+1. Set up your device again and sign in using the same Google account that was used to create the backup.
 
-- On the screen to restore backup, ensure text messages are selected.
+2. On the screen to restore backup, ensure text messages are selected.
 
-- Tap on Restore to retrieve your SMS/MMS messages from Google Drive backup.
+3. Tap on Restore to retrieve your SMS/MMS messages from Google Drive backup.
 
 That’s it! After the restore process finishes, you will see all your text messages back on the device again.
 

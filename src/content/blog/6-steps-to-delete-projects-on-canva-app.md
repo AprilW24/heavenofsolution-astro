@@ -40,15 +40,15 @@ Here are the steps to delete a project on the Canva app for Android:
 
 When you have a lot of projects to delete, doing them one by one can be time-consuming. Thankfully, Canva allows you to select and delete multiple projects at once, which is super handy for cleaning up your workspace quickly. This feature is especially useful if you’ve been experimenting with different designs or if you have a lot of old projects that you no longer need.
 
-- **Open Your Projects**: Tap on **Your Projects** in the menu bar.
+1. **Open Your Projects**: Tap on **Your Projects** in the menu bar.
 
-- **Select Designs**: Tap on the **Designs** tab.
+2. **Select Designs**: Tap on the **Designs** tab.
 
-- **Select Items**: Tap on the three dots on a design and select **Select items**.
+3. **Select Items**: Tap on the three dots on a design and select **Select items**.
 
-- **Choose Designs to Delete**: Tap the checkboxes on the designs you want to delete.
+4. **Choose Designs to Delete**: Tap the checkboxes on the designs you want to delete.
 
-- **Move to Trash**: Tap the trash icon at the bottom of the screen and confirm deletion.
+5. **Move to Trash**: Tap the trash icon at the bottom of the screen and confirm deletion.
 
 ## Conclusion
 

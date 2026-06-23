@@ -28,17 +28,17 @@ On some Android devices, you can format an SD card to act as an extension of you
 
 **Steps to set up adoptable storage:**
 
-- Insert the SD card into your phone
+1. Insert the SD card into your phone
 
-- Open the Settings app and tap **Storage**
+2. Open the Settings app and tap **Storage**
 
-- Select the SD card, then tap the menu icon and choose **Storage Settings**
+3. Select the SD card, then tap the menu icon and choose **Storage Settings**
 
-- Tap **Format as Internal** then **Erase & Format**
+4. Tap **Format as Internal** then **Erase & Format**
 
-- Tap **Move now** to transfer data to the SD card
+5. Tap **Move now** to transfer data to the SD card
 
-- Tap **Done** when the process is complete
+6. Tap **Done** when the process is complete
 
 Your SD card will now appear as part of the internal storage, and the system will automatically utilize it for new app installs.
 
@@ -50,15 +50,15 @@ If your phone doesn’t support adoptable storage, you can try moving apps to th
 
 **Steps to move apps:**
 
-- Go to Settings > Apps
+1. Go to Settings > Apps
 
-- Tap on an app you want to move
+2. Tap on an app you want to move
 
-- Select **Storage** then tap the **Change** button if it appears
+3. Select **Storage** then tap the **Change** button if it appears
 
-- Choose **SD Card** then tap **Move**
+4. Choose **SD Card** then tap **Move**
 
-- Wait for the transfer process to complete
+5. Wait for the transfer process to complete
 
 Not all apps will have the **Change** option, as it depends on the app developer to allow their app to be moved.
 
@@ -68,15 +68,15 @@ Another option is to use a third-party app manager tool from the Play Store. The
 
 **Steps to use an app manager:**
 
-- Search the Play Store for **app manager** and install one, such as App Manager or Files by Google
+1. Search the Play Store for **app manager** and install one, such as App Manager or Files by Google
 
-- Open the app and grant any required permissions
+2. Open the app and grant any required permissions
 
-- Select an app you want to move from the list
+3. Select an app you want to move from the list
 
-- Tap the **Move to SD card** option if available
+4. Tap the **Move to SD card** option if available
 
-- Confirm the action to begin the process
+5. Confirm the action to begin the process
 
 As with the built-in method, the functionality of third-party tools is still limited by whether an app developer has enabled the ability to move to external storage.
 
@@ -86,13 +86,13 @@ For advanced users, it’s possible to use Android development tools on a PC to 
 
 **High-level steps for the process:**
 
-- Enable Developer Options and USB debugging on your phone
+1. Enable Developer Options and USB debugging on your phone
 
-- Install Android Studio and SDK platform tools on PC
+2. Install Android Studio and SDK platform tools on PC
 
-- Connect phone to PC and approve file transfer access
+3. Connect phone to PC and approve file transfer access
 
-- Use the SDK tools to modify the default app install location
+4. Use the SDK tools to modify the default app install location
 
 This method is very technical and not recommended for average users. It risks damaging your phone software if not done properly.
 

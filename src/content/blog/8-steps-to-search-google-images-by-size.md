@@ -74,19 +74,19 @@ Before downloading or using an image, always check its actual dimensions and qua
 
 To make the most of Google Images’ size search feature, keep these tips in mind:
 
-- **Be specific with your search terms**: The more precise your initial search query, the more relevant your results will be.
+1. **Be specific with your search terms**: The more precise your initial search query, the more relevant your results will be.
 
-- **Use the “Exactly…” option for precise dimensions**: This is particularly useful when you need images to fit a specific layout or design.
+2. **Use the “Exactly…” option for precise dimensions**: This is particularly useful when you need images to fit a specific layout or design.
 
-- **Consider aspect ratio**: When searching for exact sizes, remember that the aspect ratio of an image can be just as important as its dimensions.
+3. **Consider aspect ratio**: When searching for exact sizes, remember that the aspect ratio of an image can be just as important as its dimensions.
 
-- **Check image quality**: Larger images don’t always mean better quality. Look for clear, high-resolution images that suit your needs.
+4. **Check image quality**: Larger images don’t always mean better quality. Look for clear, high-resolution images that suit your needs.
 
-- **Be aware of usage rights**: Pay attention to the licensing information for images, especially if you plan to use them for commercial purposes.
+5. **Be aware of usage rights**: Pay attention to the licensing information for images, especially if you plan to use them for commercial purposes.
 
-- **Try different size ranges**: If you can’t find what you need with one size filter, try adjusting your search to include slightly larger or smaller images.
+6. **Try different size ranges**: If you can’t find what you need with one size filter, try adjusting your search to include slightly larger or smaller images.
 
-- **Use advanced search techniques**: Combine size filters with other search operators like quotation marks for exact phrases or minus signs to exclude certain terms.
+7. **Use advanced search techniques**: Combine size filters with other search operators like quotation marks for exact phrases or minus signs to exclude certain terms.
 
 ## Conclusion
 

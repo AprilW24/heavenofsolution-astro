@@ -22,25 +22,25 @@ The best part is how many of these platforms are mobile-friendly. You can instal
 
 ## Step-by-Step on Using AI Tools for SEO on Android
 
-- Download or sign in to *SurferSEO*, *Writesonic*, or *SE Ranking* on your Android browser
+1. Download or sign in to *SurferSEO*, *Writesonic*, or *SE Ranking* on your Android browser
 
-- Connect your website’s domain inside the app or dashboard
+2. Connect your website’s domain inside the app or dashboard
 
-- Start by scanning your website using the AI audit tool to catch weak spots
+3. Start by scanning your website using the AI audit tool to catch weak spots
 
-- Use keyword discovery to find phrases people are actually searching for
+4. Use keyword discovery to find phrases people are actually searching for
 
-- Create or edit articles using built-in AI content generators like *Koala AI* or *Chatsonic*
+5. Create or edit articles using built-in AI content generators like *Koala AI* or *Chatsonic*
 
-- Review the SEO score and suggested edits for keyword density and structure
+6. Review the SEO score and suggested edits for keyword density and structure
 
-- Check technical SEO, meta tags, site speed, and indexing errors
+7. Check technical SEO, meta tags, site speed, and indexing errors
 
-- Use tools like *Indexly* to track if your site is visible to AI search engines and LLMs
+8. Use tools like *Indexly* to track if your site is visible to AI search engines and LLMs
 
-- Set alerts for ranking changes so you can tweak content anytime
+9. Set alerts for ranking changes so you can tweak content anytime
 
-- Repeat the process once a week to keep your site fresh and competitive
+10. Repeat the process once a week to keep your site fresh and competitive
 
 ## How AI Tools Boost Mobile SEO Performance
 

@@ -30,25 +30,25 @@ The song card that appears on your status also looks clean and minimal. Your con
 
 ## Steps to Posting Music on WhatsApp Status Without Any Photos or Videos
 
-- Open the Google Play Store or App Store and update WhatsApp to the latest version on your phone.
+1. Open the Google Play Store or App Store and update WhatsApp to the latest version on your phone.
 
-- Open WhatsApp and tap on the **Updates** tab at the bottom of your screen.
+2. Open WhatsApp and tap on the **Updates** tab at the bottom of your screen.
 
-- Tap the **Add Status** button or the plus icon next to your profile photo.
+3. Tap the **Add Status** button or the plus icon next to your profile photo.
 
-- On the status creation screen, look for the music note icon or the **Music** option (skip the camera and gallery icons completely).
+4. On the status creation screen, look for the music note icon or the **Music** option (skip the camera and gallery icons completely).
 
-- Tap the music note icon to open WhatsApp’s built-in music library.
+5. Tap the music note icon to open WhatsApp’s built-in music library.
 
-- Use the search bar to type in the song title or artist name you want.
+6. Use the search bar to type in the song title or artist name you want.
 
-- Tap on the song from the search results to select it.
+7. Tap on the song from the search results to select it.
 
-- Drag the slider to choose which part of the song you want to play in your status (usually up to 15 seconds).
+8. Drag the slider to choose which part of the song you want to play in your status (usually up to 15 seconds).
 
-- Tap **Done** to confirm your selection.
+9. Tap **Done** to confirm your selection.
 
-- Tap the green send button to post your music-only status for all your contacts to hear. 🎉
+10. Tap the green send button to post your music-only status for all your contacts to hear. 🎉
 
 ## Conclusion
 

@@ -18,13 +18,13 @@ Before we dive into the specific steps, it’s important to note that while free
 
 The first step in translating a PDF document for free is to decide which method you want to use. There are several approaches you can take, each with its own advantages and limitations. Let’s explore the most common methods:
 
-- **Online PDF translators**: These are web-based tools specifically designed to translate PDF files directly.
+1. **Online PDF translators**: These are web-based tools specifically designed to translate PDF files directly.
 
-- **Text extraction and translation**: This method involves copying the text from the PDF and using a separate translation tool.
+2. **Text extraction and translation**: This method involves copying the text from the PDF and using a separate translation tool.
 
-- **OCR (Optical Character Recognition) and translation**: For scanned PDFs or image-based documents, OCR technology can be used to extract text before translation.
+3. **OCR (Optical Character Recognition) and translation**: For scanned PDFs or image-based documents, OCR technology can be used to extract text before translation.
 
-- **Google Translate**: While not specifically designed for PDFs, Google Translate offers a way to translate PDF files.
+4. **Google Translate**: While not specifically designed for PDFs, Google Translate offers a way to translate PDF files.
 
 The method you choose will depend on factors such as the complexity of your document, the languages involved, and your personal preferences. In the following steps, we’ll explore each of these methods in detail.
 
@@ -32,17 +32,17 @@ The method you choose will depend on factors such as the complexity of your docu
 
 One of the most straightforward ways to translate a PDF document is by using an online PDF translator. These tools are designed to handle PDF files directly, often maintaining the original formatting of the document. Here’s how to use them:
 
-- Search for a reputable online PDF translator. Some popular options include PDF Translator, OnlineDocTranslator, and Translated.net.
+1. Search for a reputable online PDF translator. Some popular options include PDF Translator, OnlineDocTranslator, and Translated.net.
 
-- Visit the chosen website and look for an option to upload your PDF file.
+2. Visit the chosen website and look for an option to upload your PDF file.
 
-- Select the source language (the language your document is currently in) and the target language (the language you want to translate it to).
+3. Select the source language (the language your document is currently in) and the target language (the language you want to translate it to).
 
-- Upload your PDF file to the website.
+4. Upload your PDF file to the website.
 
-- Click the “Translate” or similar button to start the translation process.
+5. Click the “Translate” or similar button to start the translation process.
 
-- Once the translation is complete, download the translated PDF.
+6. Once the translation is complete, download the translated PDF.
 
 **Advantages of online PDF translators:**
 
@@ -64,19 +64,19 @@ One of the most straightforward ways to translate a PDF document is by using an 
 
 If you’re dealing with a PDF that allows text selection, you can extract the text and use a separate translation tool. This method can be particularly useful for shorter documents or when you only need to translate specific sections. Here’s how to do it:
 
-- Open your PDF document in a PDF reader (like Adobe Acrobat Reader, which is free).
+1. Open your PDF document in a PDF reader (like Adobe Acrobat Reader, which is free).
 
-- Select the text you want to translate.
+2. Select the text you want to translate.
 
-- Copy the selected text.
+3. Copy the selected text.
 
-- Open a free online translation service like Google Translate, DeepL, or Bing Translator.
+4. Open a free online translation service like Google Translate, DeepL, or Bing Translator.
 
-- Paste the copied text into the translation tool.
+5. Paste the copied text into the translation tool.
 
-- Select the source and target languages.
+6. Select the source and target languages.
 
-- Click “Translate” to get the translated text.
+7. Click “Translate” to get the translated text.
 
 For longer documents, you may need to repeat this process for each section you want to translate. While this method can be more time-consuming for large documents, it allows you to have more control over which parts of the document are translated.
 
@@ -100,19 +100,19 @@ For longer documents, you may need to repeat this process for each section you w
 
 If you’re dealing with a scanned PDF or an image-based document where text selection isn’t possible, you’ll need to use Optical Character Recognition (OCR) technology to extract the text before translation. Here’s how to approach this:
 
-- Use a free online OCR tool like OnlineOCR.net or NewOCR.com.
+1. Use a free online OCR tool like OnlineOCR.net or NewOCR.com.
 
-- Upload your PDF file to the OCR tool.
+2. Upload your PDF file to the OCR tool.
 
-- Select the language of the text in your PDF.
+3. Select the language of the text in your PDF.
 
-- Run the OCR process to extract the text.
+4. Run the OCR process to extract the text.
 
-- Copy the extracted text.
+5. Copy the extracted text.
 
-- Paste the text into a translation tool as described in Step 3.
+6. Paste the text into a translation tool as described in Step 3.
 
-- Translate the text to your desired language.
+7. Translate the text to your desired language.
 
 This method requires an extra step but can be incredibly useful for documents that don’t allow direct text selection. It’s worth noting that the accuracy of OCR can vary depending on the quality of the original document and the complexity of the text layout.
 
@@ -134,17 +134,17 @@ This method requires an extra step but can be incredibly useful for documents th
 
 Google Translate offers a convenient way to translate PDF documents directly. While it may not always preserve the original formatting perfectly, it’s a quick and easy option for many users. Here’s how to use it:
 
-- Go to Google Translate (translate.google.com).
+1. Go to Google Translate (translate.google.com).
 
-- Click on the “Documents” tab.
+2. Click on the “Documents” tab.
 
-- Click “Browse your computer” and select your PDF file.
+3. Click “Browse your computer” and select your PDF file.
 
-- Choose the source and target languages.
+4. Choose the source and target languages.
 
-- Click “Translate” to start the process.
+5. Click “Translate” to start the process.
 
-- Once complete, you can download the translated document.
+6. Once complete, you can download the translated document.
 
 Google Translate supports a wide range of languages and can handle relatively large files. However, like all machine translation services, it may struggle with highly technical or context-dependent content.
 

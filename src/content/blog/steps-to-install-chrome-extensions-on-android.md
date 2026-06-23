@@ -32,21 +32,21 @@ Among these, Kiwi Browser is generally considered the best option for using Chro
 
 Here’s how to install and use Chrome extensions on Android with Kiwi Browser:
 
-- **Download and install Kiwi Browser** from the Google Play Store.
+1. **Download and install Kiwi Browser** from the Google Play Store.
 
-- Open Kiwi Browser and tap the **three-dot menu** in the top right corner.
+2. Open Kiwi Browser and tap the **three-dot menu** in the top right corner.
 
-- Select **Extensions** from the menu.
+3. Select **Extensions** from the menu.
 
-- Tap the **+ (from store)** button to open the Chrome Web Store.
+4. Tap the **+ (from store)** button to open the Chrome Web Store.
 
-- **Search or browse** for the extension you want to install.
+5. **Search or browse** for the extension you want to install.
 
-- Tap **Add to Chrome** to start the installation process.
+6. Tap **Add to Chrome** to start the installation process.
 
-- **Confirm any permission prompts** to complete the installation.
+7. **Confirm any permission prompts** to complete the installation.
 
-- The extension will now be active in Kiwi Browser. You can access and manage installed extensions by tapping the three-dot menu and selecting **Extensions**.
+8. The extension will now be active in Kiwi Browser. You can access and manage installed extensions by tapping the three-dot menu and selecting **Extensions**.
 
 With these steps, you can enjoy your favorite Chrome extensions on your Android device through the Kiwi Browser.
 

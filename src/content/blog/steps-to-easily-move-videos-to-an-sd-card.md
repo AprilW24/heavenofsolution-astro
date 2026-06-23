@@ -24,19 +24,19 @@ Here are a few things to check before moving videos to your SD card:
 
 The Files by Google app makes it easy to browse files on your Android phone’s internal storage and transfer them to an SD card. If your phone doesn’t have Files by Google pre-installed, you can download it for free from the Google Play Store. Here’s how to use it to move a video:
 
-- Open the Files by Google app on your Android phone
+1. Open the Files by Google app on your Android phone
 
-- Tap **Browse** at the bottom of the screen
+2. Tap **Browse** at the bottom of the screen
 
-- Tap **Videos** to see all the video files on your phone
+3. Tap **Videos** to see all the video files on your phone
 
-- Locate the video you want to move and tap and hold to select it
+4. Locate the video you want to move and tap and hold to select it
 
-- Tap the three-dot menu icon and select **Move to…**
+5. Tap the three-dot menu icon and select **Move to…**
 
-- Under **SD card**, choose the folder where you want to move the video
+6. Under **SD card**, choose the folder where you want to move the video
 
-- Tap **Move** to transfer the selected video to the SD card
+7. Tap **Move** to transfer the selected video to the SD card
 
 That’s it! The video will be moved to the SD card location you specified. You can verify the transfer by navigating to that folder in the Files app.
 
@@ -46,19 +46,19 @@ That’s it! The video will be moved to the SD card location you specified. You 
 
 If you have a Samsung Galaxy phone, you can use the pre-installed My Files app to move videos to your SD card. The process is very similar to the steps above. Here’s how:
 
-- Open the My Files app on your Galaxy phone
+1. Open the My Files app on your Galaxy phone
 
-- Tap **Internal storage**
+2. Tap **Internal storage**
 
-- Open the folder containing the video you want to move (like DCIM)
+3. Open the folder containing the video you want to move (like DCIM)
 
-- Tap and hold the video to select it
+4. Tap and hold the video to select it
 
-- Tap the three-dot menu icon and choose **Move**
+5. Tap the three-dot menu icon and choose **Move**
 
-- Select **SD card** and choose the destination folder
+6. Select **SD card** and choose the destination folder
 
-- Tap **Move here** to start transferring the video
+7. Tap **Move here** to start transferring the video
 
 Wait for the file transfer to complete. You’ll see a confirmation message when the video has been moved to the SD card successfully.
 

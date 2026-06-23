@@ -26,9 +26,9 @@ Follow these simple steps to download all your emails from Gmail:
 
 ### Step 1: Go to Google Takeout
 
-- Open your web browser and go to [Google Takeout](https://takeout.google.com/).
+1. Open your web browser and go to [Google Takeout](https://takeout.google.com/).
 
-- Sign in to your Google account if prompted.
+2. Sign in to your Google account if prompted.
 
 ### Step 2: Select Gmail Data
 
@@ -88,11 +88,11 @@ Follow these simple steps to download all your emails from Gmail:
 
 ### Step 4: Download Your Exported Gmail Data
 
-- Once your export is created, you’ll receive an email with a download link at your Gmail address.
+1. Once your export is created, you’ll receive an email with a download link at your Gmail address.
 
-- Click the download link in the email to download your exported Gmail data.
+2. Click the download link in the email to download your exported Gmail data.
 
-- Extract the downloaded ZIP or TGZ archive to access your exported emails.
+3. Extract the downloaded ZIP or TGZ archive to access your exported emails.
 
 ## What’s Included in the Exported Gmail Data?
 
@@ -114,11 +114,11 @@ The exported data will be in the MBOX file format, which can be imported into ma
 
 In addition to using Google Takeout, there are a few other methods to export your Gmail emails:
 
-- **Gmail’s Print Function**: You can save individual emails as PDFs using Gmail’s print function. Open the email, click the printer icon, and select **Print to PDF** as the destination.
+1. **Gmail’s Print Function**: You can save individual emails as PDFs using Gmail’s print function. Open the email, click the printer icon, and select **Print to PDF** as the destination.
 
-- **Chrome Extensions**: Some Chrome extensions, like Mailmeteor, allow you to export selected emails or search results directly from your Gmail inbox to a CSV file.
+2. **Chrome Extensions**: Some Chrome extensions, like Mailmeteor, allow you to export selected emails or search results directly from your Gmail inbox to a CSV file.
 
-- **Third-Party Tools**: Various third-party tools and services offer Gmail export functionality with additional features and customization options.
+3. **Third-Party Tools**: Various third-party tools and services offer Gmail export functionality with additional features and customization options.
 
 ## Conclusion
 

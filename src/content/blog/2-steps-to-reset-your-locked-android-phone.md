@@ -26,15 +26,15 @@ To minimize data loss and ensure a smooth reset process, consider the following 
 
 One of the most common methods to reset a locked Android phone is by accessing the recovery mode. Here’s how to do it:
 
-- **Power off your phone**: Press and hold the power button until the phone turns off completely.
+1. **Power off your phone**: Press and hold the power button until the phone turns off completely.
 
-- **Enter recovery mode**: Press and hold the power button and volume up button simultaneously until the recovery mode screen appears.
+2. **Enter recovery mode**: Press and hold the power button and volume up button simultaneously until the recovery mode screen appears.
 
-- **Navigate to factory reset**: Use the volume buttons to navigate through the recovery menu and select the **Wipe data/factory reset** option.
+3. **Navigate to factory reset**: Use the volume buttons to navigate through the recovery menu and select the **Wipe data/factory reset** option.
 
-- **Confirm the reset**: Press the power button to confirm your selection and initiate the reset process.
+4. **Confirm the reset**: Press the power button to confirm your selection and initiate the reset process.
 
-- **Reboot your phone**: Once the reset is complete, select the **Reboot system now** option to restart your phone.
+5. **Reboot your phone**: Once the reset is complete, select the **Reboot system now** option to restart your phone.
 
 Keep in mind that the specific button combination to enter recovery mode may vary slightly depending on your Android device model. Consult your phone’s user manual or the manufacturer’s support website for precise instructions.
 
@@ -42,13 +42,13 @@ Keep in mind that the specific button combination to enter recovery mode may var
 
 If you’ve previously set up Android Device Manager (now called Find My Device) on your phone, you can use it to remotely reset your locked device. Here’s how:
 
-- **Access Find My Device**: Go to android.com/find and sign in with the Google account associated with your locked phone.
+1. **Access Find My Device**: Go to android.com/find and sign in with the Google account associated with your locked phone.
 
-- **Locate your device**: Once signed in, you’ll see a list of your registered devices. Select the locked phone you want to reset.
+2. **Locate your device**: Once signed in, you’ll see a list of your registered devices. Select the locked phone you want to reset.
 
-- **Initiate the reset**: Click on the **Erase Device** option to begin the remote reset process.
+3. **Initiate the reset**: Click on the **Erase Device** option to begin the remote reset process.
 
-- **Confirm the action**: You’ll be prompted to confirm the reset. Click on **Erase** to proceed.
+4. **Confirm the action**: You’ll be prompted to confirm the reset. Click on **Erase** to proceed.
 
 Android Device Manager will securely wipe your phone’s data and unlock it remotely. However, this method requires you to have previously enabled the feature on your device.
 

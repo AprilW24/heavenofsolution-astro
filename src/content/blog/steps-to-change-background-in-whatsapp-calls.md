@@ -12,19 +12,19 @@ WhatsApp is one of the most popular messaging apps in the world, allowing you to
 
 If you have a recent Samsung Galaxy phone like the S23, changing your video call background is quick and easy:
 
-- Start a WhatsApp video call as you normally would
+1. Start a WhatsApp video call as you normally would
 
-- While in the call, tap the floating video icon button on the screen
+2. While in the call, tap the floating video icon button on the screen
 
-- In the menu that appears, tap on **Background**
+3. In the menu that appears, tap on **Background**
 
-- You’ll see options to **Blur** your background or select an **Image** to use instead
+4. You’ll see options to **Blur** your background or select an **Image** to use instead
 
-- If blurring, tap the Blur option. The background behind you will become blurred.
+5. If blurring, tap the Blur option. The background behind you will become blurred.
 
-- If using an image, tap Image. Then select a photo from your phone’s gallery.
+6. If using an image, tap Image. Then select a photo from your phone’s gallery.
 
-- Once you’ve made your selection, tap Done to apply the new background
+7. Once you’ve made your selection, tap Done to apply the new background
 
 Your background will immediately change so only you are clearly visible, with the background blurred or replaced by the image you selected. This only affects your video feed – the other person on the call will not see the background changes you made.
 

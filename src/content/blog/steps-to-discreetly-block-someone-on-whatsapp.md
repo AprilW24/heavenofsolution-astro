@@ -64,23 +64,23 @@ In some cases, completely blocking a contact may not be necessary. Here are a co
 
 If someone is sending too many messages and you want to reduce notifications without fully blocking them, you can mute a chat:
 
-- Open the chat
+1. Open the chat
 
-- Tap the contact’s name at the top
+2. Tap the contact’s name at the top
 
-- Select **Mute notifications**
+3. Select **Mute notifications**
 
-- Choose how long you want to mute for (8 hours, 1 week, or 1 year)
+4. Choose how long you want to mute for (8 hours, 1 week, or 1 year)
 
 ### Archive Chat
 
 You can also archive a chat to hide it from your main Chats screen without deleting it:
 
-- Go to your Chats screen in WhatsApp
+1. Go to your Chats screen in WhatsApp
 
-- Tap and hold the chat you want to hide
+2. Tap and hold the chat you want to hide
 
-- Tap the Archive icon (downward arrow) at the top
+3. Tap the Archive icon (downward arrow) at the top
 
 The chat will be sent to your Archived Chats folder. You can unarchive it later by tapping **Archived Chats** at the bottom of the Chats screen.
 

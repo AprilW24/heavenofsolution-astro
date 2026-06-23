@@ -24,25 +24,25 @@ If you want a super clean process, prepare a short description of your brand’s
 
 Here are the steps I use when asking ChatGPT or similar AI for instant logo ideas:
 
-- Open ChatGPT (Plus) and go to image mode.
+1. Open ChatGPT (Plus) and go to image mode.
 
-- Describe the logo you want, mentioning style, colors, and vibe. You can also use the prompt below.
+2. Describe the logo you want, mentioning style, colors, and vibe. You can also use the prompt below.
 
-- Attach or mention reference images if you have any.
+3. Attach or mention reference images if you have any.
 
-- Be clear if you want just an icon, text-only, or both.
+4. Be clear if you want just an icon, text-only, or both.
 
-- Request multiple logo versions or concepts.
+5. Request multiple logo versions or concepts.
 
-- Ask for changes like font style or color adjustments.
+6. Ask for changes like font style or color adjustments.
 
-- Download the designs you like straight away.
+7. Download the designs you like straight away.
 
-- If you want scalable files, upload the logo to Canva or Figma.
+8. If you want scalable files, upload the logo to Canva or Figma.
 
-- Use AI’s vectorizer if offered, for sharper quality.
+9. Use AI’s vectorizer if offered, for sharper quality.
 
-- Test your logo on mockups or business cards before final pick.
+10. Test your logo on mockups or business cards before final pick.
 
 ## How to Refine and Personalize Logos Made by ChatGPT AI
 

@@ -32,25 +32,25 @@ The trickiest part for many businesses is the “notability” requirement. *Wha
 
 Here’s the full process from start to finish. 👇
 
-- Sign up for the *WhatsApp Business API* through a certified *BSP* such as Qontak, respond.io, AiSensy, or any official *Meta* partner in your country.
+1. Sign up for the *WhatsApp Business API* through a certified *BSP* such as Qontak, respond.io, AiSensy, or any official *Meta* partner in your country.
 
-- Head over to *Meta Business Manager* at business.facebook.com and kick off the business verification process by submitting your legal business documents like your business registration certificate or tax ID.
+2. Head over to *Meta Business Manager* at business.facebook.com and kick off the business verification process by submitting your legal business documents like your business registration certificate or tax ID.
 
-- Enable two-step verification on your WhatsApp Business number inside your *Meta Business Manager* settings before doing anything else.
+3. Enable two-step verification on your WhatsApp Business number inside your *Meta Business Manager* settings before doing anything else.
 
-- Make sure your *WhatsApp Business* profile is fully filled out, business name, category, description, address, website, and email all need to be there.
+4. Make sure your *WhatsApp Business* profile is fully filled out, business name, category, description, address, website, and email all need to be there.
 
-- Collect 3 to 5 organic media coverage links from reputable news outlets or publications that mention your brand by name (no paid promos).
+5. Collect 3 to 5 organic media coverage links from reputable news outlets or publications that mention your brand by name (no paid promos).
 
-- Open *WhatsApp Manager* inside your *Meta Business Manager* dashboard and select the phone number you want to get verified.
+6. Open *WhatsApp Manager* inside your *Meta Business Manager* dashboard and select the phone number you want to get verified.
 
-- Look for the *Official Business Account (OBA)* section and click the *Submit Request* button (it’ll be active only if you’ve met the requirements).
+7. Look for the *Official Business Account (OBA)* section and click the *Submit Request* button (it’ll be active only if you’ve met the requirements).
 
-- Fill in your business details, write a brief explanation of your company and why you’re applying, and paste those media coverage links into the form.
+8. Fill in your business details, write a brief explanation of your company and why you’re applying, and paste those media coverage links into the form.
 
-- Hit submit and sit tight, *Meta* typically reviews applications within 1 to 5 business days.
+9. Hit submit and sit tight, *Meta* typically reviews applications within 1 to 5 business days.
 
-- Watch your email or *Meta Business Manager* notifications for the result, and if you get rejected, read the rejection reason carefully, fix it, and reapply after 30 days.
+10. Watch your email or *Meta Business Manager* notifications for the result, and if you get rejected, read the rejection reason carefully, fix it, and reapply after 30 days.
 
 ## Conclusion
 

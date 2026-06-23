@@ -28,21 +28,21 @@ Now that we’ve covered the why, let’s get into the steps for how to actually
 
 Switching to a different font in Google Docs on your phone or tablet is a quick and easy process. Just follow these steps:
 
-- Open the Google Docs app on your mobile device and open the document you want to edit.
+1. Open the Google Docs app on your mobile device and open the document you want to edit.
 
-- Tap the pencil **Edit** icon in the bottom right to switch from viewing to editing the doc.
+2. Tap the pencil **Edit** icon in the bottom right to switch from viewing to editing the doc.
 
-- Select the text you want to change the font for by double tapping a word and then dragging the blue handles to highlight a phrase, paragraph, or the whole document. You can also long press and choose **Select all** from the menu that pops up.
+3. Select the text you want to change the font for by double tapping a word and then dragging the blue handles to highlight a phrase, paragraph, or the whole document. You can also long press and choose **Select all** from the menu that pops up.
 
-- With the text selected, tap the **Format** button (the A icon) in the top toolbar.
+4. With the text selected, tap the **Format** button (the A icon) in the top toolbar.
 
-- In the formatting menu that appears, tap the **Font** option. This will open the font picker.
+5. In the formatting menu that appears, tap the **Font** option. This will open the font picker.
 
-- Scroll through the list of available fonts and tap one to select it. You’ll see your highlighted text change to the new font.
+6. Scroll through the list of available fonts and tap one to select it. You’ll see your highlighted text change to the new font.
 
-- If you want, you can also adjust the font size from this same menu by tapping the **Size** option.
+7. If you want, you can also adjust the font size from this same menu by tapping the **Size** option.
 
-- When you’re happy with the font changes, tap the back arrow to close the formatting menu.
+8. When you’re happy with the font changes, tap the back arrow to close the formatting menu.
 
 That’s it! You’ve successfully changed the font for your selected text in Google Docs on your mobile device. Repeat the process anytime you want to switch fonts for other sections of your document.
 

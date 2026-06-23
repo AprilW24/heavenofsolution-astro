@@ -50,17 +50,17 @@ If you ever need to unblock a domain you previously blocked, you can manage your
 
 To unblock a domain:
 
-- Open the Gmail app and tap the three horizontal lines menu icon
+1. Open the Gmail app and tap the three horizontal lines menu icon
 
-- Scroll down and tap **Settings**
+2. Scroll down and tap **Settings**
 
-- Tap the Gmail account where you blocked the domain if you have multiple accounts
+3. Tap the Gmail account where you blocked the domain if you have multiple accounts
 
-- Tap **Blocked senders**
+4. Tap **Blocked senders**
 
-- You’ll see a list of email addresses and domains you’ve blocked
+5. You’ll see a list of email addresses and domains you’ve blocked
 
-- Tap the **Unblock** button next to the domain you want to unblock
+6. Tap the **Unblock** button next to the domain you want to unblock
 
 You can also block additional domains from this blocked senders screen by tapping **Add blocked sender** and entering the domain.
 

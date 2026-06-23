@@ -14,45 +14,45 @@ In this article, we’ll walk you through the step-by-step process of how to unl
 
 The first step is to get to the emergency call screen on your locked Android device. To do this:
 
-- Turn on your phone and let it go to the lock screen
+1. Turn on your phone and let it go to the lock screen
 
-- Look for the **Emergency Call** button at the bottom of the screen
+2. Look for the **Emergency Call** button at the bottom of the screen
 
-- Tap on **Emergency Call** to bring up the emergency dialer
+3. Tap on **Emergency Call** to bring up the emergency dialer
 
 ### Step 2: Enter a String of Special Characters
 
 Now that you’re on the emergency call screen, you’ll need to enter a long string of special characters to crash the lock screen interface:
 
-- On the dialer, enter 10 asterisks (*)
+1. On the dialer, enter 10 asterisks (*)
 
-- Double-tap to highlight the string of asterisks
+2. Double-tap to highlight the string of asterisks
 
-- Tap **Copy** to copy the asterisks
+3. Tap **Copy** to copy the asterisks
 
-- Tap the dialer field again to paste the copied string
+4. Tap the dialer field again to paste the copied string
 
-- Keep pasting the copied string until the dialer field is completely full and you can no longer paste any more characters
+5. Keep pasting the copied string until the dialer field is completely full and you can no longer paste any more characters
 
 ### Step 3: Crash the Lock Screen
 
 With the emergency dialer filled with a long string of asterisks, you’re ready to crash the lock screen and bypass it:
 
-- Press the phone’s back button to return to the lock screen
+1. Press the phone’s back button to return to the lock screen
 
-- Quickly swipe left to open the Camera shortcut before the lock screen reappears
+2. Quickly swipe left to open the Camera shortcut before the lock screen reappears
 
-- At the same time, pull down the notification shade from the top of the screen
+3. At the same time, pull down the notification shade from the top of the screen
 
-- Tap the **Settings** icon (gear symbol) to try to access your phone’s settings
+4. Tap the **Settings** icon (gear symbol) to try to access your phone’s settings
 
-- When prompted to enter a password, long-press the input field
+5. When prompted to enter a password, long-press the input field
 
-- Tap **Paste** to fill the password field with the long string of characters you copied earlier
+6. Tap **Paste** to fill the password field with the long string of characters you copied earlier
 
-- Keep pasting characters until you can no longer paste any more
+7. Keep pasting characters until you can no longer paste any more
 
-- Continue trying to paste until the lock screen interface crashes
+8. Continue trying to paste until the lock screen interface crashes
 
 If successful, the lock screen will glitch out and your phone’s interface will be accessible underneath. The camera app will expand to fill the screen and after a few seconds it should also crash, fully unlocking your device.
 
@@ -60,15 +60,15 @@ If successful, the lock screen will glitch out and your phone’s interface will
 
 Once you regain access to your phone, immediately go to your lock screen security settings and disable or change the password, PIN or pattern lock:
 
-- Go to **Settings > Lock Screen and Security**
+1. Go to **Settings > Lock Screen and Security**
 
-- Select **Screen Lock Type**
+2. Select **Screen Lock Type**
 
-- Enter your current password if prompted
+3. Enter your current password if prompted
 
-- Choose **None** or **Swipe** to remove the lock screen security
+4. Choose **None** or **Swipe** to remove the lock screen security
 
-- Set a new password, PIN or pattern that you can remember
+5. Set a new password, PIN or pattern that you can remember
 
 **Important:** This emergency call method only works on certain older versions of Android and is not guaranteed to work on every device. Use caution and only attempt this on a phone you own.
 

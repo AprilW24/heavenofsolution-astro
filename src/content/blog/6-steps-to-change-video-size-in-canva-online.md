@@ -20,41 +20,41 @@ Before we dive into resizing videos, it’s helpful to know that Canva provides 
 
 ### Step 1: Create or Open a Project
 
-- **Log in** to your Canva account and click on **Create a design**.
+1. **Log in** to your Canva account and click on **Create a design**.
 
-- Choose **Custom dimensions** and enter the desired video size. If you’re editing an existing video, select **Video** and choose the appropriate template or custom size.
+2. Choose **Custom dimensions** and enter the desired video size. If you’re editing an existing video, select **Video** and choose the appropriate template or custom size.
 
 ### Step 2: Upload Your Video
 
-- Click on **Uploads** in the sidebar and select **Upload your own images or videos**.
+1. Click on **Uploads** in the sidebar and select **Upload your own images or videos**.
 
-- Choose the video file you want to resize.
+2. Choose the video file you want to resize.
 
 ### Step 3: Add the Video to Your Design
 
-- Drag and drop the uploaded video into your design area.
+1. Drag and drop the uploaded video into your design area.
 
-- If needed, adjust the video’s position by dragging it.
+2. If needed, adjust the video’s position by dragging it.
 
 ### Step 4: Resize the Video
 
-- Click on the video to select it. You’ll see a blue border around it.
+1. Click on the video to select it. You’ll see a blue border around it.
 
-- Use the **resize handles** (small squares at the corners) to adjust the video size manually. You can also use the **width** and **height** fields in the top toolbar to enter specific dimensions.
+2. Use the **resize handles** (small squares at the corners) to adjust the video size manually. You can also use the **width** and **height** fields in the top toolbar to enter specific dimensions.
 
 ### Step 5: Adjust Video Settings
 
-- In the top toolbar, you can adjust other video settings like **duration**, **volume**, and **loop**.
+1. In the top toolbar, you can adjust other video settings like **duration**, **volume**, and **loop**.
 
-- If you need to trim the video, click on the **trim** option and adjust the start and end points.
+2. If you need to trim the video, click on the **trim** option and adjust the start and end points.
 
 ### Step 6: Download Your Resized Video
 
-- Once you’ve resized your video, click on **Share** and then **Download**.
+1. Once you’ve resized your video, click on **Share** and then **Download**.
 
-- Choose the desired file type (e.g., MP4) and quality settings.
+2. Choose the desired file type (e.g., MP4) and quality settings.
 
-- Click **Download** to save your resized video.
+3. Click **Download** to save your resized video.
 
 ## Tips for Resizing Videos in Canva
 

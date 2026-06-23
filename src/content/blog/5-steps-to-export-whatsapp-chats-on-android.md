@@ -24,13 +24,13 @@ To export a specific chat on your Android device, follow these steps:
 
 ![](/wp-content/uploads/2024/07/HoS_ExportChatWhatsapp-1.jpg)
 
-- Open WhatsApp and tap on the chat you want to export.
+1. Open WhatsApp and tap on the chat you want to export.
 
-- Tap the three-dot menu at the top and select **More**.
+2. Tap the three-dot menu at the top and select **More**.
 
-- Choose **Export chat**. You can export the chat with or without media attachments.
+3. Choose **Export chat**. You can export the chat with or without media attachments.
 
-- WhatsApp will open the Android share menu, allowing you to share the exported chat via another app, email, or save it to your device’s file manager.
+4. WhatsApp will open the Android share menu, allowing you to share the exported chat via another app, email, or save it to your device’s file manager.
 
 ## 2. Exporting Chats from Settings
 
@@ -38,17 +38,17 @@ You can also export chats from the WhatsApp settings menu:
 
 ![](/wp-content/uploads/2024/07/HoS_ExportChatWhatsapp.jpg)
 
-- Open WhatsApp and tap the three-dot menu at the top.
+1. Open WhatsApp and tap the three-dot menu at the top.
 
-- Select **Settings**, then tap **Chats**.
+2. Select **Settings**, then tap **Chats**.
 
-- Choose **Chat history**, then tap **Export chat**.
+3. Choose **Chat history**, then tap **Export chat**.
 
-- Select the relevant conversation from the list.
+4. Select the relevant conversation from the list.
 
-- Follow the on-screen instructions to save your WhatsApp messages with or without media.
+5. Follow the on-screen instructions to save your WhatsApp messages with or without media.
 
-- Navigate to the folder where you saved the exported chat and unzip the file to view your messages.
+6. Navigate to the folder where you saved the exported chat and unzip the file to view your messages.
 
 ## 3. Using Third-Party Apps
 
@@ -58,11 +58,11 @@ Third-party apps can simplify the process of exporting WhatsApp chats, offering 
 
 If you only need to export specific media files from a chat, you can do so without exporting the entire conversation:
 
-- Open the chat containing the media you want to export.
+1. Open the chat containing the media you want to export.
 
-- Tap and hold the media file until it’s selected.
+2. Tap and hold the media file until it’s selected.
 
-- Tap the share icon and choose the app or method you want to use to share or save the file.
+3. Tap the share icon and choose the app or method you want to use to share or save the file.
 
 ## 5. Securing Your Exported Chats
 

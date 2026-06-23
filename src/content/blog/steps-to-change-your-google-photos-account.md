@@ -26,33 +26,33 @@ No matter the reason, switching Google Photos accounts only takes a few taps. Le
 
 **On Android:**
 
-- Open the Google Photos app on your Android phone or tablet
+1. Open the Google Photos app on your Android phone or tablet
 
-- Tap your profile icon or picture in the top right corner
+2. Tap your profile icon or picture in the top right corner
 
-- You’ll see a list of your Google accounts. Tap the account you want to switch to.
+3. You’ll see a list of your Google accounts. Tap the account you want to switch to.
 
-- If the account you want isn’t listed, tap **Add another account**
+4. If the account you want isn’t listed, tap **Add another account**
 
-- Enter the email address and password for the Google account you want to add
+5. Enter the email address and password for the Google account you want to add
 
-- Tap **Sign in**. You should now be signed into the new Google Photos account.
+6. Tap **Sign in**. You should now be signed into the new Google Photos account.
 
 **On iPhone or iPad:**
 
-- Open the Google Photos app on your iOS device
+1. Open the Google Photos app on your iOS device
 
-- Tap your profile icon or picture in the top right corner
+2. Tap your profile icon or picture in the top right corner
 
-- Tap **Manage accounts on this device**
+3. Tap **Manage accounts on this device**
 
-- Tap **Add account**
+4. Tap **Add account**
 
-- Choose **Google** as the account type
+5. Choose **Google** as the account type
 
-- Enter the email address and password for the Google account you want to add
+6. Enter the email address and password for the Google account you want to add
 
-- Tap **Sign in**. The app will switch to the new Google Photos account.
+7. Tap **Sign in**. The app will switch to the new Google Photos account.
 
 That’s it! You’ve now changed your Google Photos account on your phone. Any photos you view, upload, or edit will be associated with the new account you selected.
 

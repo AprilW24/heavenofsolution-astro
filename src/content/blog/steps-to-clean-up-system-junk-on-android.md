@@ -16,9 +16,9 @@ To uninstall an app on most Android devices:
 
 ![](/wp-content/uploads/2024/07/HoS_CleanUp-1.jpg)
 
-- Press and hold the app icon until a menu appears.
+1. Press and hold the app icon until a menu appears.
 
-- Tap **Uninstall** and confirm your choice.
+2. Tap **Uninstall** and confirm your choice.
 
 ## Step 2: Clear App Cache and Data
 
@@ -28,13 +28,13 @@ To clear an app’s cache and data:
 
 ![](/wp-content/uploads/2024/07/HoS_CleanUp.jpg)
 
-- Go to **Settings** > **Apps & notifications**.
+1. Go to **Settings** > **Apps & notifications**.
 
-- Select the app you want to clear.
+2. Select the app you want to clear.
 
-- Tap **Storage & cache**.
+3. Tap **Storage & cache**.
 
-- Choose **Clear cache** and/or **Clear storage**.
+4. Choose **Clear cache** and/or **Clear storage**.
 
 **Note:** Clearing an app’s data will erase any saved preferences or login information.
 
@@ -44,11 +44,11 @@ Take some time to review the files and media stored on your device. Delete any o
 
 To delete files:
 
-- Open the **Files** or **My Files** app on your device.
+1. Open the **Files** or **My Files** app on your device.
 
-- Navigate to the folder containing the files you want to remove.
+2. Navigate to the folder containing the files you want to remove.
 
-- Long-press on a file to select it, then tap the trash can icon to delete.
+3. Long-press on a file to select it, then tap the trash can icon to delete.
 
 ## Step 4: Use Built-in Cleaning Tools
 
@@ -56,9 +56,9 @@ Many Android devices come with built-in cleaning tools that can help you identif
 
 To use Samsung’s Device care:
 
-- Go to **Settings** > **Device care**.
+1. Go to **Settings** > **Device care**.
 
-- Tap **Optimize now** to clean up your device.
+2. Tap **Optimize now** to clean up your device.
 
 ## Step 5: Try Third-Party Cleaning Apps
 

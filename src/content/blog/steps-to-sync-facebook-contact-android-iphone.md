@@ -16,37 +16,37 @@ In this article, we’ll explore three easy methods for syncing Facebook contact
 
 The Move to iOS app provided by Apple is the simplest way to transfer contacts and other data from Android to iPhone. Here are the steps:
 
-- Download and install the Move to iOS app on your Android phone.
+1. Download and install the Move to iOS app on your Android phone.
 
-- On your iPhone, select **Move Data from Android** during initial setup. A code will appear.
+2. On your iPhone, select **Move Data from Android** during initial setup. A code will appear.
 
-- Open the Move to iOS app on your Android device and enter the code.
+3. Open the Move to iOS app on your Android device and enter the code.
 
-- On the Transfer Data screen, select Contacts and any other data you wish to transfer.
+4. On the Transfer Data screen, select Contacts and any other data you wish to transfer.
 
-- The app will now sync and transfer your Facebook contacts from Android to iPhone automatically via a peer-to-peer Wi-Fi connection.
+5. The app will now sync and transfer your Facebook contacts from Android to iPhone automatically via a peer-to-peer Wi-Fi connection.
 
 ### 2. Using iCloud
 
 If you have already set up your iPhone, you can sync Facebook contacts by backing them up to iCloud:
 
-- On your Android phone, export your Facebook contacts to a VCF file.
+1. On your Android phone, export your Facebook contacts to a VCF file.
 
-- On your computer, visit icloud.com and sign in to your iCloud account.
+2. On your computer, visit icloud.com and sign in to your iCloud account.
 
-- Go to Contacts and import the VCF file from your Android phone.
+3. Go to Contacts and import the VCF file from your Android phone.
 
-- On your iPhone, enable Contacts syncing in iCloud settings to sync the imported contacts.
+4. On your iPhone, enable Contacts syncing in iCloud settings to sync the imported contacts.
 
 ### 3. Using Google Contacts
 
 If you have your Facebook contacts synced to your Google account, you can sync them to your iPhone using that:
 
-- On your Android device, enable contact syncing in your Google account settings.
+1. On your Android device, enable contact syncing in your Google account settings.
 
-- On your iPhone, add your Google account and enable contact syncing.
+2. On your iPhone, add your Google account and enable contact syncing.
 
-- Your Facebook contacts from Google will automatically sync to your iPhone.
+3. Your Facebook contacts from Google will automatically sync to your iPhone.
 
 ### Conclusion
 

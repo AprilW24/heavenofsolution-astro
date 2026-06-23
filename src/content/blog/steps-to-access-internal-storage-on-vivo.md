@@ -14,41 +14,41 @@ In this comprehensive guide, we’ll walk you through the step-by-step process o
 
 Most Vivo Android devices come pre-installed with a file manager app that allows you to access and manage the internal storage directly from your phone. Here’s how you can use it:
 
-- **Locate the File Manager app** on your Vivo device. It may be called **File Manager**, **My Files**, or something similar.
+1. **Locate the File Manager app** on your Vivo device. It may be called **File Manager**, **My Files**, or something similar.
 
-- **Open the app**, and you should see a list of storage locations, including your device’s internal storage.
+2. **Open the app**, and you should see a list of storage locations, including your device’s internal storage.
 
-- **Tap on “Internal Storage”** or a similar option to access the files and folders stored on your phone’s internal memory.
+3. **Tap on “Internal Storage”** or a similar option to access the files and folders stored on your phone’s internal memory.
 
-- **Navigate through the folders** to find the content you’re looking for. You can create new folders, move or copy files, and perform other file management tasks.
+4. **Navigate through the folders** to find the content you’re looking for. You can create new folders, move or copy files, and perform other file management tasks.
 
 ### Method 2: Connecting to a Computer
 
 Another way to access the internal storage on your Vivo Android device is by connecting it to a computer via a USB cable. This method is particularly useful if you need to transfer large files or manage your phone’s storage from a larger screen. Here’s how to do it:
 
-- **Connect your Vivo device** to your computer using a compatible USB cable.
+1. **Connect your Vivo device** to your computer using a compatible USB cable.
 
-- **On your phone**, you may see a notification asking you to choose the connection type. Select **Transfer files** or **File Transfer** option.
+2. **On your phone**, you may see a notification asking you to choose the connection type. Select **Transfer files** or **File Transfer** option.
 
-- **Your computer should now recognize your Vivo device** as an external storage device.
+3. **Your computer should now recognize your Vivo device** as an external storage device.
 
-- **Open the file explorer** on your computer (e.g., Windows Explorer or Finder on Mac) and locate your Vivo device under the list of connected drives.
+4. **Open the file explorer** on your computer (e.g., Windows Explorer or Finder on Mac) and locate your Vivo device under the list of connected drives.
 
-- **Double-click on your device** to access its internal storage, where you can view, copy, move, or delete files and folders.
+5. **Double-click on your device** to access its internal storage, where you can view, copy, move, or delete files and folders.
 
 ### Method 3: Using Third-Party File Explorer Apps
 
 While the built-in file manager on your Vivo Android device is often sufficient, some users prefer to use third-party file explorer apps for additional features and customization options. Here’s how you can use a third-party app to access your internal storage:
 
-- **Open the Google Play Store** on your Vivo device and search for a file explorer app. Popular options include ES File Explorer, Solid Explorer, and FX File Explorer.
+1. **Open the Google Play Store** on your Vivo device and search for a file explorer app. Popular options include ES File Explorer, Solid Explorer, and FX File Explorer.
 
-- **Install the app** of your choice by following the on-screen instructions.
+2. **Install the app** of your choice by following the on-screen instructions.
 
-- **Open the file explorer app** once it’s installed.
+3. **Open the file explorer app** once it’s installed.
 
-- **Locate and tap on the “Internal Storage”** or similarly named option to access the files and folders stored on your device’s internal memory.
+4. **Locate and tap on the “Internal Storage”** or similarly named option to access the files and folders stored on your device’s internal memory.
 
-- **Navigate through the folders**, and use the app’s features to manage your files as needed.
+5. **Navigate through the folders**, and use the app’s features to manage your files as needed.
 
 ## Conclusion
 

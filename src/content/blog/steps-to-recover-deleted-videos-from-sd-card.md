@@ -16,13 +16,13 @@ When you delete a video (or any file) from your SD card, it isn’t immediately 
 
 One of the easiest ways to recover deleted videos on Android is by using a free app called **DiskDigger**. It can scan your phone’s internal storage and SD card to find deleted files, including videos, without needing to root your device. Here’s how to use it:
 
-- **Install DiskDigger** from the Google Play Store on your Android phone or tablet.
+1. **Install DiskDigger** from the Google Play Store on your Android phone or tablet.
 
-- Open the app and tap **Start Basic Photo Scan**. Grant the app permission to access your storage when prompted.
+2. Open the app and tap **Start Basic Photo Scan**. Grant the app permission to access your storage when prompted.
 
-- Once the scan is complete, **browse through the found files** and select the videos you want to recover by tapping on them.
+3. Once the scan is complete, **browse through the found files** and select the videos you want to recover by tapping on them.
 
-- Tap the Recover button, then **choose where to save the recovered videos**, like your Google Drive or Dropbox. This ensures they are safely stored in case anything goes wrong during recovery.
+4. Tap the Recover button, then **choose where to save the recovered videos**, like your Google Drive or Dropbox. This ensures they are safely stored in case anything goes wrong during recovery.
 
 That’s it! With a bit of luck, DiskDigger will be able to find and restore your deleted videos. However, if the app can’t locate your missing files, or if your device is rooted, you may need to try some alternate methods.
 
@@ -30,15 +30,15 @@ That’s it! With a bit of luck, DiskDigger will be able to find and restore you
 
 For the best chances of recovering deleted videos from your Android SD card, it’s recommended to use PC-based data recovery software like **Disk Drill**. This allows the software to directly scan the SD card without the Android operating system getting in the way. Here’s the general process:
 
-- Download and install Disk Drill on your Windows or Mac computer.
+1. Download and install Disk Drill on your Windows or Mac computer.
 
-- **Remove the SD card from your Android device** and connect it to your computer using a card reader.
+2. **Remove the SD card from your Android device** and connect it to your computer using a card reader.
 
-- Launch Disk Drill, select your SD card from the list of available drives, and click **Search for lost data** to **start scanning the card**.
+3. Launch Disk Drill, select your SD card from the list of available drives, and click **Search for lost data** to **start scanning the card**.
 
-- Once the scan is complete, **browse the results** and select the deleted videos you want to recover. You can preview them to make sure they are the correct files.
+4. Once the scan is complete, **browse the results** and select the deleted videos you want to recover. You can preview them to make sure they are the correct files.
 
-- Click the **Recover** button and **choose a safe location to save the restored videos** on your computer.
+5. Click the **Recover** button and **choose a safe location to save the restored videos** on your computer.
 
 By connecting the SD card directly to your computer, data recovery software can scan it more thoroughly to find deleted files that Android apps may miss. This method does require an SD card reader and a computer, but it offers the highest success rate for video recovery.
 

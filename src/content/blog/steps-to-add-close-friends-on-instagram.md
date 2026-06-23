@@ -36,13 +36,13 @@ Follow these steps to create and manage your Close Friends list on Instagram for
 
 Once you’ve created your Close Friends list, sharing posts is easy:
 
-- **Create a new post** as usual. You can share a photo, video or story.
+1. **Create a new post** as usual. You can share a photo, video or story.
 
-- Before posting, **tap the audience selector** in the bottom left (it looks like a person icon).
+2. Before posting, **tap the audience selector** in the bottom left (it looks like a person icon).
 
-- **Select your Close Friends list**. Only the people on this list will be able to see your post.
+3. **Select your Close Friends list**. Only the people on this list will be able to see your post.
 
-- **Post as normal**. The post will only be visible to your Close Friends.
+4. **Post as normal**. The post will only be visible to your Close Friends.
 
 And that’s it! With just a few taps, you can easily share posts and stories with your inner circle while maintaining privacy.
 

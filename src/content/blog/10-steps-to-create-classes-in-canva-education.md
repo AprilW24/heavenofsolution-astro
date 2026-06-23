@@ -30,25 +30,25 @@ When it comes to organizing your teaching materials and activities, Canva classe
 
 To get started with creating a class in Canva Education, make sure you have an active account and are logged in. This will ensure you have access to all the necessary features for setting up your class.
 
-- **Log into Your Canva Education Account**: Access your account and navigate to the home screen.
+1. **Log into Your Canva Education Account**: Access your account and navigate to the home screen.
 
-- **Select “Create a Class”**: Find this option on the left sidebar and click on it.
+2. **Select “Create a Class”**: Find this option on the left sidebar and click on it.
 
-- **Name Your Class**: Choose a name that reflects your class or subject.
+3. **Name Your Class**: Choose a name that reflects your class or subject.
 
-- **Invite Students**: Generate an invite link or code for students to join.
+4. **Invite Students**: Generate an invite link or code for students to join.
 
-- **Manage Class Settings**: Adjust permissions and view class members.
+5. **Manage Class Settings**: Adjust permissions and view class members.
 
-- **Create a Brand Kit**: Add school logos and fonts to personalize the learning environment.
+6. **Create a Brand Kit**: Add school logos and fonts to personalize the learning environment.
 
-- **Share Class Materials**: Use the dedicated folder to share resources and assignments.
+7. **Share Class Materials**: Use the dedicated folder to share resources and assignments.
 
-- **Monitor Student Progress**: Keep track of student activities and submissions.
+8. **Monitor Student Progress**: Keep track of student activities and submissions.
 
-- **Collaborate with Colleagues**: Invite co-teachers to join and assist with class management.
+9. **Collaborate with Colleagues**: Invite co-teachers to join and assist with class management.
 
-- **Review and Update Class Settings**: Regularly check and update class settings as needed.
+10. **Review and Update Class Settings**: Regularly check and update class settings as needed.
 
 ## Conclusion
 

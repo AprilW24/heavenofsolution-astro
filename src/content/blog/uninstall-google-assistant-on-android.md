@@ -34,15 +34,15 @@ In the Google Assistant settings, look for the **General** section. Here, you’
 
 If you want to completely remove all data associated with Google Assistant, you can clear the data for the Google app. To do this:
 
-- Go to your device’s **Settings** app.
+1. Go to your device’s **Settings** app.
 
-- Select **Apps & notifications** (or **Application Manager** on some devices).
+2. Select **Apps & notifications** (or **Application Manager** on some devices).
 
-- Find and tap on the **Google app**.
+3. Find and tap on the **Google app**.
 
-- Tap on **Storage**.
+4. Tap on **Storage**.
 
-- Tap **Clear data** and confirm your action.
+5. Tap **Clear data** and confirm your action.
 
 Please note that clearing the Google app data will also remove any customizations and preferences you’ve set for other Google services, such as Google Search.
 

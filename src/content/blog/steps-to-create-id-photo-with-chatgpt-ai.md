@@ -12,25 +12,25 @@ The coolest part is having control over how your *ID Photo* turns out. You pick 
 
 ## Steps to Make a Valid ID Photo with ChatGPT
 
-- Sign in or create an account with ChatGPT Ai
+1. Sign in or create an account with ChatGPT Ai
 
-- Find and enable image generation features
+2. Find and enable image generation features
 
-- Take a clear portrait with your phone or camera
+3. Take a clear portrait with your phone or camera
 
-- Make sure you’re facing directly at the camera, wearing simple clothes
+4. Make sure you’re facing directly at the camera, wearing simple clothes
 
-- Upload your photo into ChatGPT by clicking the upload button
+5. Upload your photo into ChatGPT by clicking the upload button
 
-- In the chat, paste a prompt asking for an ID photo format (details below)
+6. In the chat, paste a prompt asking for an ID photo format (details below)
 
-- Specify the background color, size, and expression in your prompt
+7. Specify the background color, size, and expression in your prompt
 
-- Let ChatGPT generate your new *ID Photo*
+8. Let ChatGPT generate your new *ID Photo*
 
-- Download your result and double-check it matches official standards
+9. Download your result and double-check it matches official standards
 
-- Print or save your new photo for whatever you need
+10. Print or save your new photo for whatever you need
 
 ## Why ChatGPT Ai Is Great for Making ID Photos
 

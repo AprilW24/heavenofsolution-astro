@@ -10,9 +10,9 @@ If you find yourself running low on storage space on your Android phone or table
 
 In this article, we’ll walk through the steps to transfer files from your Android device’s internal storage to an SD card. We’ll cover two methods:
 
-- Using the built-in Files app on stock Android
+1. Using the built-in Files app on stock Android
 
-- Using the My Files app on Samsung devices
+2. Using the My Files app on Samsung devices
 
 Before we get started, make sure your Android device supports expandable storage and that you have a microSD card installed. The card should be mounted and accessible by your device.
 
@@ -20,39 +20,39 @@ Before we get started, make sure your Android device supports expandable storage
 
 Here are the steps to move files using the built-in Files app on devices running stock Android:
 
-- Open the **Files** app on your Android device. You can find it in the app drawer.
+1. Open the **Files** app on your Android device. You can find it in the app drawer.
 
-- In the Files app, tap on the **Browse** tab at the bottom.
+2. In the Files app, tap on the **Browse** tab at the bottom.
 
-- Navigate to the folder containing the files you want to transfer. For example, tap **Images** to find your photos.
+3. Navigate to the folder containing the files you want to transfer. For example, tap **Images** to find your photos.
 
-- Tap and hold on a file to select it. You can also tap the **Select** button at the top right to select multiple files.
+4. Tap and hold on a file to select it. You can also tap the **Select** button at the top right to select multiple files.
 
-- With the file(s) selected, tap the **More** button (three dots) and then tap **Move to…**
+5. With the file(s) selected, tap the **More** button (three dots) and then tap **Move to…**
 
-- In the menu that appears, tap **SD card**. If you have multiple SD cards installed, select the one you want to use.
+6. In the menu that appears, tap **SD card**. If you have multiple SD cards installed, select the one you want to use.
 
-- Choose the folder on the SD card where you want to move the files, or tap **New folder** to create a new one.
+7. Choose the folder on the SD card where you want to move the files, or tap **New folder** to create a new one.
 
-- Tap the **Move** button to transfer the selected files to the SD card.
+8. Tap the **Move** button to transfer the selected files to the SD card.
 
 ### Method 2: Using My Files (Samsung Devices)
 
 If you have a Samsung Galaxy phone or tablet, you can use the built-in My Files app to transfer files to your SD card:
 
-- Open the **My Files** app on your Samsung device. You can find it in the app drawer.
+1. Open the **My Files** app on your Samsung device. You can find it in the app drawer.
 
-- Tap on **Internal storage** to view files saved on your device’s internal memory.
+2. Tap on **Internal storage** to view files saved on your device’s internal memory.
 
-- Navigate to the folder containing the files you want to move, such as **DCIM** for photos taken with the camera.
+3. Navigate to the folder containing the files you want to move, such as **DCIM** for photos taken with the camera.
 
-- Tap **Edit** at the top right, then tap the files you want to select. You can also long press a file to select it.
+4. Tap **Edit** at the top right, then tap the files you want to select. You can also long press a file to select it.
 
-- With the files selected, tap **More** (the three dots) and then tap **Move**.
+5. With the files selected, tap **More** (the three dots) and then tap **Move**.
 
-- Tap **SD card** to choose your SD card as the destination.
+6. Tap **SD card** to choose your SD card as the destination.
 
-- Select the folder on the SD card where you want to move the files and tap **Move here**.
+7. Select the folder on the SD card where you want to move the files and tap **Move here**.
 
 The selected files will now be transferred from your device’s internal storage to the SD card. Depending on the number and size of the files, this process may take some time.
 

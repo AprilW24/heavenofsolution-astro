@@ -16,33 +16,33 @@ Bluetooth technology allows for wireless data transfer between devices over shor
 
 Before you begin the transfer process, there are a few important steps to take:
 
-- **Ensure Bluetooth is enabled on both devices**: Go to Settings > Bluetooth on both Android phones and toggle the Bluetooth switch to the “On” position.
+1. **Ensure Bluetooth is enabled on both devices**: Go to Settings > Bluetooth on both Android phones and toggle the Bluetooth switch to the “On” position.
 
-- **Pair the devices**: On the source device (the one with the messages you want to transfer), scan for nearby devices and select the target device (the one you want to transfer messages to) from the list. Confirm the pairing request on both devices.
+2. **Pair the devices**: On the source device (the one with the messages you want to transfer), scan for nearby devices and select the target device (the one you want to transfer messages to) from the list. Confirm the pairing request on both devices.
 
-- **Check battery levels**: Make sure both devices have sufficient battery charge to complete the transfer process without interruption.
+3. **Check battery levels**: Make sure both devices have sufficient battery charge to complete the transfer process without interruption.
 
-- **Close unnecessary apps**: To ensure a smooth transfer, close any apps running in the background on both devices.
+4. **Close unnecessary apps**: To ensure a smooth transfer, close any apps running in the background on both devices.
 
 ## Step-by-Step Guide to Transferring Text Messages via Bluetooth
 
 Now that your devices are prepared, let’s dive into the actual process of transferring text messages using Bluetooth:
 
-- **Open the Messaging app** on the source Android device.
+1. **Open the Messaging app** on the source Android device.
 
-- **Select the messages you want to transfer**: You can choose individual messages or entire conversations. Long-press on a message or conversation to enter selection mode, then tap on additional messages to select multiple items.
+2. **Select the messages you want to transfer**: You can choose individual messages or entire conversations. Long-press on a message or conversation to enter selection mode, then tap on additional messages to select multiple items.
 
-- **Access the sharing options**: Look for the share icon (usually represented by three connected dots or an arrow) in the top menu bar or within the options menu (often accessed by tapping the three-dot icon).
+3. **Access the sharing options**: Look for the share icon (usually represented by three connected dots or an arrow) in the top menu bar or within the options menu (often accessed by tapping the three-dot icon).
 
-- **Choose Bluetooth as the sharing method**: From the list of sharing options, select “Bluetooth” or “Send via Bluetooth.”
+4. **Choose Bluetooth as the sharing method**: From the list of sharing options, select “Bluetooth” or “Send via Bluetooth.”
 
-- **Select the target device**: A list of paired Bluetooth devices will appear. Choose the target Android device you want to send the messages to.
+5. **Select the target device**: A list of paired Bluetooth devices will appear. Choose the target Android device you want to send the messages to.
 
-- **Accept the incoming transfer**: On the target device, you’ll receive a notification about the incoming Bluetooth transfer. Tap “Accept” to begin receiving the messages.
+6. **Accept the incoming transfer**: On the target device, you’ll receive a notification about the incoming Bluetooth transfer. Tap “Accept” to begin receiving the messages.
 
-- **Wait for the transfer to complete**: The time required will depend on the number and size of the messages being transferred. Keep both devices within close proximity and avoid interrupting the process.
+7. **Wait for the transfer to complete**: The time required will depend on the number and size of the messages being transferred. Keep both devices within close proximity and avoid interrupting the process.
 
-- **Verify the transferred messages**: Once the transfer is complete, open the Messaging app on the target device and check that the transferred messages are visible and readable.
+8. **Verify the transferred messages**: Once the transfer is complete, open the Messaging app on the target device and check that the transferred messages are visible and readable.
 
 ## Tips for a Successful Bluetooth Transfer
 
@@ -104,10 +104,10 @@ While Bluetooth transfer is generally safe, it’s not the most secure method fo
 
 If the transfer fails or is interrupted, try the following:
 
-- Ensure both devices are still in close proximity and have Bluetooth enabled.
+1. Ensure both devices are still in close proximity and have Bluetooth enabled.
 
-- Restart the Bluetooth on both devices.
+2. Restart the Bluetooth on both devices.
 
-- Attempt the transfer again with a smaller batch of messages.
+3. Attempt the transfer again with a smaller batch of messages.
 
-- If problems persist, try an alternative transfer method.
+4. If problems persist, try an alternative transfer method.

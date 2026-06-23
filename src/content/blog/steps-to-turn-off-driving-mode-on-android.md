@@ -16,15 +16,15 @@ The easiest way to disable driving mode is directly within the Google Maps app, 
 
 **Steps:**
 
-- Open the Google Maps app on your Android phone.
+1. Open the Google Maps app on your Android phone.
 
-- Tap on your profile icon in the top right.
+2. Tap on your profile icon in the top right.
 
-- Select **Settings**.
+3. Select **Settings**.
 
-- Choose **Navigation settings**.
+4. Choose **Navigation settings**.
 
-- Under **Google Assistant settings**, toggle the switch off next to **Driving mode** to disable it.
+5. Under **Google Assistant settings**, toggle the switch off next to **Driving mode** to disable it.
 
 And that’s it! Driving mode will now stay off in Google Maps until you manually re-enable it.
 
@@ -34,11 +34,11 @@ You can also quickly turn off driving mode using your Android phone’s Quick Se
 
 **Steps:**
 
-- Swipe down from the top of your screen to open Quick Settings.
+1. Swipe down from the top of your screen to open Quick Settings.
 
-- Look for the **Driving mode** or **Do not disturb** icon.
+2. Look for the **Driving mode** or **Do not disturb** icon.
 
-- Tap on the icon to toggle driving mode off.
+3. Tap on the icon to toggle driving mode off.
 
 This method provides a fast way to disable driving mode if you don’t want to dig into the full Settings menu.
 
@@ -48,13 +48,13 @@ If you want to permanently prevent driving mode from automatically activating on
 
 **Steps:**
 
-- Open the **Settings** app.
+1. Open the **Settings** app.
 
-- Go to **Apps & notifications**.
+2. Go to **Apps & notifications**.
 
-- Choose **Advanced** > **Special app access** > **Driving mode**.
+3. Choose **Advanced** > **Special app access** > **Driving mode**.
 
-- Toggle off access for driving mode so it can no longer turn on automatically.
+4. Toggle off access for driving mode so it can no longer turn on automatically.
 
 And that’s all there is to it! With driving mode access disabled, your Android phone will no longer go into driving mode when you start navigating or connect to your car.
 

@@ -18,15 +18,15 @@ One of the main reasons for this limitation is the smaller screen size of mobile
 
 When designing on mobile, it’s essential to make the most of the tools available. Guides in Canva can help you achieve professional-looking alignments without needing rulers. Here’s how you can use them:
 
-- Open your design in the Canva app.
+1. Open your design in the Canva app.
 
-- Tap the three dots at the top right corner of your screen.
+2. Tap the three dots at the top right corner of your screen.
 
-- Select **Settings**.
+3. Select **Settings**.
 
-- Look for the option to **Add Guides**.
+4. Look for the option to **Add Guides**.
 
-- You can set up custom guides by specifying the number of columns or rows and their spacing.
+5. You can set up custom guides by specifying the number of columns or rows and their spacing.
 
 ## Alternative: Using Desktop View on Mobile
 

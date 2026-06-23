@@ -20,29 +20,29 @@ Let’s start with the most straightforward approach: deleting a single contact 
 
 **Steps for Android devices:**
 
-- Open the Contacts app on your Android phone.
+1. Open the Contacts app on your Android phone.
 
-- Scroll through your contact list or use the search bar to find the contact you want to delete.
+2. Scroll through your contact list or use the search bar to find the contact you want to delete.
 
-- Tap on the contact to open their details.
+3. Tap on the contact to open their details.
 
-- Look for the three-dot menu icon (⋮) in the top-right corner and tap it.
+4. Look for the three-dot menu icon (⋮) in the top-right corner and tap it.
 
-- Select “Delete” from the dropdown menu.
+5. Select “Delete” from the dropdown menu.
 
-- Confirm the deletion when prompted.
+6. Confirm the deletion when prompted.
 
 **Steps for iOS devices:**
 
-- Open the Google Contacts app on your iPhone. If you don’t have it installed, you can download it from the App Store.
+1. Open the Google Contacts app on your iPhone. If you don’t have it installed, you can download it from the App Store.
 
-- Find the contact you wish to delete by scrolling or using the search function.
+2. Find the contact you wish to delete by scrolling or using the search function.
 
-- Tap on the contact to view their details.
+3. Tap on the contact to view their details.
 
-- Scroll down to the bottom of the contact page and tap “Delete Contact.”
+4. Scroll down to the bottom of the contact page and tap “Delete Contact.”
 
-- Confirm the deletion in the pop-up window.
+5. Confirm the deletion in the pop-up window.
 
 It’s worth noting that deleting a contact through these methods will remove them from your Google account across all synced devices. If you only want to remove the contact from your phone but keep them in your Google account, you may need to adjust your sync settings.
 
@@ -52,29 +52,29 @@ If you’re looking to remove multiple contacts at once, the bulk delete feature
 
 **Steps for Android devices:**
 
-- Open the Contacts app on your Android phone.
+1. Open the Contacts app on your Android phone.
 
-- Tap and hold on the first contact you want to delete. This will activate the selection mode.
+2. Tap and hold on the first contact you want to delete. This will activate the selection mode.
 
-- Tap on additional contacts to select them for deletion.
+3. Tap on additional contacts to select them for deletion.
 
-- Once you’ve selected all the desired contacts, tap the trash can icon at the top of the screen.
+4. Once you’ve selected all the desired contacts, tap the trash can icon at the top of the screen.
 
-- Confirm the deletion when prompted.
+5. Confirm the deletion when prompted.
 
 **Steps for iOS devices:**
 
-- Open the Google Contacts app on your iPhone.
+1. Open the Google Contacts app on your iPhone.
 
-- Tap the three-line menu icon in the top-left corner.
+2. Tap the three-line menu icon in the top-left corner.
 
-- Select “Select” from the menu options.
+3. Select “Select” from the menu options.
 
-- Tap on each contact you want to delete, or use the “Select All” option at the top of the screen.
+4. Tap on each contact you want to delete, or use the “Select All” option at the top of the screen.
 
-- After selecting the contacts, tap the trash can icon at the bottom of the screen.
+5. After selecting the contacts, tap the trash can icon at the bottom of the screen.
 
-- Confirm the deletion in the pop-up window.
+6. Confirm the deletion in the pop-up window.
 
 Bulk deletion can be particularly useful when you’re doing a major clean-up of your contact list. It’s an efficient way to remove multiple outdated or unnecessary contacts in one go.
 
@@ -84,21 +84,21 @@ While the primary method for managing contacts is through the Contacts app, you 
 
 **Steps for both Android and iOS devices:**
 
-- Open the Gmail app on your phone.
+1. Open the Gmail app on your phone.
 
-- Tap on the three-line menu icon in the top-left corner.
+2. Tap on the three-line menu icon in the top-left corner.
 
-- Scroll down and select “Contacts” from the menu.
+3. Scroll down and select “Contacts” from the menu.
 
-- Find the contact you want to delete by scrolling or using the search function.
+4. Find the contact you want to delete by scrolling or using the search function.
 
-- Tap on the contact to open their details.
+5. Tap on the contact to open their details.
 
-- Look for the three-dot menu icon (⋮) and tap it.
+6. Look for the three-dot menu icon (⋮) and tap it.
 
-- Select “Delete” from the options.
+7. Select “Delete” from the options.
 
-- Confirm the deletion when prompted.
+8. Confirm the deletion when prompted.
 
 This method is particularly useful if you’ve just received an email from a contact you want to remove. You can quickly navigate to their contact information and delete it without leaving the Gmail app.
 
@@ -108,25 +108,25 @@ For those who prefer a larger screen or find it easier to manage contacts on a c
 
 **Steps to delete contacts using the Google Contacts website:**
 
-- On your phone’s web browser, go to contacts.google.com and sign in to your Google account if necessary.
+1. On your phone’s web browser, go to contacts.google.com and sign in to your Google account if necessary.
 
-- Find the contact you want to delete by scrolling or using the search bar.
+2. Find the contact you want to delete by scrolling or using the search bar.
 
-- Tap on the contact to select it.
+3. Tap on the contact to select it.
 
-- Tap the three-dot menu icon (⋮) at the top of the screen.
+4. Tap the three-dot menu icon (⋮) at the top of the screen.
 
-- Select “Delete” from the dropdown menu.
+5. Select “Delete” from the dropdown menu.
 
-- Confirm the deletion when prompted.
+6. Confirm the deletion when prompted.
 
 To delete multiple contacts:
 
-- Tap the checkbox next to each contact you want to delete.
+1. Tap the checkbox next to each contact you want to delete.
 
-- After selecting all desired contacts, tap the three-dot menu icon at the top.
+2. After selecting all desired contacts, tap the three-dot menu icon at the top.
 
-- Choose “Delete” and confirm your action.
+3. Choose “Delete” and confirm your action.
 
 After making these changes on the website, ensure your phone’s contacts are set to sync with your Google account to reflect the deletions on your device.
 

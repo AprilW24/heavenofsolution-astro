@@ -14,11 +14,11 @@ Modern Android devices come equipped with powerful cameras and processors that e
 
 Before diving into slow motion recording, it’s essential to understand your device’s capabilities:
 
-- Open your phone’s **Camera app**.
+1. Open your phone’s **Camera app**.
 
-- Look for a **Slow Motion** or **Slo-Mo** mode in the camera options.
+2. Look for a **Slow Motion** or **Slo-Mo** mode in the camera options.
 
-- If you don’t see this option, check your phone’s specifications online to confirm whether it supports slow motion recording.
+3. If you don’t see this option, check your phone’s specifications online to confirm whether it supports slow motion recording.
 
 Most modern mid-range to high-end Android phones support slow motion video, but the quality and frame rates can vary significantly between devices.
 
@@ -26,13 +26,13 @@ Most modern mid-range to high-end Android phones support slow motion video, but 
 
 Capturing great slow motion footage requires some preparation:
 
-- **Ensure good lighting**: Slow motion requires faster shutter speeds, which means you need more light for a well-exposed shot.
+1. **Ensure good lighting**: Slow motion requires faster shutter speeds, which means you need more light for a well-exposed shot.
 
-- **Choose your subject carefully**: Look for subjects with interesting movement or action.
+2. **Choose your subject carefully**: Look for subjects with interesting movement or action.
 
-- **Stabilize your phone**: Use a tripod or find a stable surface to minimize camera shake.
+3. **Stabilize your phone**: Use a tripod or find a stable surface to minimize camera shake.
 
-- **Frame your shot**: Compose your scene thoughtfully, leaving room for the action to unfold.
+4. **Frame your shot**: Compose your scene thoughtfully, leaving room for the action to unfold.
 
 Remember, the most compelling slow motion videos often capture fast-moving subjects or sudden actions, like splashing water or bursting balloons.
 
@@ -40,11 +40,11 @@ Remember, the most compelling slow motion videos often capture fast-moving subje
 
 To start recording in slow motion:
 
-- Open your **Camera app**.
+1. Open your **Camera app**.
 
-- Swipe through the camera modes or tap the mode selector.
+2. Swipe through the camera modes or tap the mode selector.
 
-- Select **Slow Motion** or **Slo-Mo** mode.
+3. Select **Slow Motion** or **Slo-Mo** mode.
 
 Some devices may offer multiple slow motion options with different frame rates. Higher frame rates allow for slower playback but may reduce the video resolution.
 
@@ -52,9 +52,9 @@ Some devices may offer multiple slow motion options with different frame rates. 
 
 Depending on your device, you may have additional settings to customize:
 
-- Look for a **settings icon** or **gear symbol** in the slow motion mode.
+1. Look for a **settings icon** or **gear symbol** in the slow motion mode.
 
-- Tap to access additional options, which may include:
+2. Tap to access additional options, which may include:
 
 - Frame rate selection (e.g., 120fps, 240fps)
 
@@ -68,13 +68,13 @@ Experiment with these settings to find the best balance between slow motion effe
 
 Now you’re ready to capture your slow motion masterpiece:
 
-- Frame your shot and ensure your subject is in focus.
+1. Frame your shot and ensure your subject is in focus.
 
-- Tap the **record button** to start filming.
+2. Tap the **record button** to start filming.
 
-- Capture the action you want to slow down.
+3. Capture the action you want to slow down.
 
-- Tap the **stop button** to end the recording.
+4. Tap the **stop button** to end the recording.
 
 **Pro tip**: Record for longer than you think you need. It’s easier to trim excess footage later than to wish you had captured more.
 
@@ -82,11 +82,11 @@ Now you’re ready to capture your slow motion masterpiece:
 
 After recording, it’s time to review and refine your slow motion video:
 
-- Open your phone’s **Gallery** or **Photos** app.
+1. Open your phone’s **Gallery** or **Photos** app.
 
-- Find and play your slow motion video.
+2. Find and play your slow motion video.
 
-- Look for editing options, which may include:
+3. Look for editing options, which may include:
 
 - Trimming the video length
 
@@ -100,11 +100,11 @@ Many Android devices allow you to select specific sections of your video to play
 
 To take your slow motion video to the next level, consider using additional editing apps:
 
-- **Slow Motion Video FX**: This app allows you to adjust the speed of your videos and apply various effects.
+1. **Slow Motion Video FX**: This app allows you to adjust the speed of your videos and apply various effects.
 
-- **Videoshop**: A versatile editing app that includes slow motion features along with other editing tools.
+2. **Videoshop**: A versatile editing app that includes slow motion features along with other editing tools.
 
-- **AndroVid**: Offers speed adjustment options for your videos.
+3. **AndroVid**: Offers speed adjustment options for your videos.
 
 These apps can help you fine-tune your slow motion effect and add extra polish to your footage.
 
@@ -112,13 +112,13 @@ These apps can help you fine-tune your slow motion effect and add extra polish t
 
 Once you’re satisfied with your slow motion masterpiece, it’s time to share it with the world:
 
-- From your Gallery or editing app, tap the **Share** button.
+1. From your Gallery or editing app, tap the **Share** button.
 
-- Choose your preferred platform (e.g., Instagram, YouTube, TikTok).
+2. Choose your preferred platform (e.g., Instagram, YouTube, TikTok).
 
-- Add any final touches like captions or hashtags.
+3. Add any final touches like captions or hashtags.
 
-- Post your video and watch the reactions roll in!
+4. Post your video and watch the reactions roll in!
 
 Slow motion videos often perform well on social media, capturing viewers’ attention and encouraging engagement.
 

@@ -12,13 +12,13 @@ If you’ve been frustrated by apps constantly restarting on your Android device
 
 Before we dive into the solutions, it’s important to understand why apps might be restarting on your Android device. Some common reasons include:
 
-- **Low storage space:** When your device is running low on storage, it may automatically close apps to free up memory.
+1. **Low storage space:** When your device is running low on storage, it may automatically close apps to free up memory.
 
-- **Outdated software:** If your device or the app itself is running an outdated version of software, it may be more prone to crashes and restarts.
+2. **Outdated software:** If your device or the app itself is running an outdated version of software, it may be more prone to crashes and restarts.
 
-- **Background app refresh:** Some apps may be set to refresh in the background, which can cause them to restart when you switch between apps.
+3. **Background app refresh:** Some apps may be set to refresh in the background, which can cause them to restart when you switch between apps.
 
-- **App compatibility issues:** If an app is not compatible with your device or the version of Android you’re running, it may be more likely to crash or restart.
+4. **App compatibility issues:** If an app is not compatible with your device or the version of Android you’re running, it may be more likely to crash or restart.
 
 ## Steps to Stop Apps From Restarting
 
@@ -30,19 +30,19 @@ Now that we’ve covered some of the common reasons why apps might be restarting
 
 One of the first things you should do is ensure that your Android device and all of your apps are up to date. Outdated software can be a major cause of app crashes and restarts. Here’s how to check for updates:
 
-- Go to your device’s **Settings** app.
+1. Go to your device’s **Settings** app.
 
-- Tap on **System** > **System Update**.
+2. Tap on **System** > **System Update**.
 
-- If an update is available, follow the on-screen instructions to download and install it.
+3. If an update is available, follow the on-screen instructions to download and install it.
 
-- Next, open the **Google Play Store** app.
+4. Next, open the **Google Play Store** app.
 
-- Tap on your profile icon in the top right corner.
+5. Tap on your profile icon in the top right corner.
 
-- Tap on **Manage apps & device** > **Updates available**.
+6. Tap on **Manage apps & device** > **Updates available**.
 
-- If any app updates are available, tap **Update** next to each app, or tap **Update all** to update all apps at once.
+7. If any app updates are available, tap **Update** next to each app, or tap **Update all** to update all apps at once.
 
 ### Step 2: Clear App Cache and Data
 
@@ -66,41 +66,41 @@ If updating your device and apps doesn’t solve the problem, the next step is t
 
 If your device is running low on storage space, it may automatically close apps to free up memory. Here’s how to check your device’s storage:
 
-- Go to your device’s **Settings** app.
+1. Go to your device’s **Settings** app.
 
-- Tap on **Storage**.
+2. Tap on **Storage**.
 
-- If your device’s storage is nearly full, consider deleting unused apps, photos, and files to free up space.
+3. If your device’s storage is nearly full, consider deleting unused apps, photos, and files to free up space.
 
 ### Step 4: Disable Background App Refresh
 
 Some apps may be set to refresh in the background, which can cause them to restart when you switch between apps. Here’s how to disable background app refresh:
 
-- Go to your device’s **Settings** app.
+1. Go to your device’s **Settings** app.
 
-- Tap on **Apps & notifications** > **See all apps**.
+2. Tap on **Apps & notifications** > **See all apps**.
 
-- Scroll down and tap on the app that’s restarting.
+3. Scroll down and tap on the app that’s restarting.
 
-- Tap on **Mobile data & Wi-Fi**.
+4. Tap on **Mobile data & Wi-Fi**.
 
-- Toggle off **Background data** and **Unrestricted data usage**.
+5. Toggle off **Background data** and **Unrestricted data usage**.
 
 ### Step 5: Uninstall and Reinstall the App
 
 If none of the above steps work, you may need to uninstall and reinstall the app that’s restarting. Here’s how:
 
-- Go to your device’s **Settings** app.
+1. Go to your device’s **Settings** app.
 
-- Tap on **Apps & notifications** > **See all apps**.
+2. Tap on **Apps & notifications** > **See all apps**.
 
-- Scroll down and tap on the app that’s restarting.
+3. Scroll down and tap on the app that’s restarting.
 
-- Tap on **Uninstall** > **OK**.
+4. Tap on **Uninstall** > **OK**.
 
-- Open the **Google Play Store** app and search for the app you just uninstalled.
+5. Open the **Google Play Store** app and search for the app you just uninstalled.
 
-- Tap **Install** to reinstall the app.
+6. Tap **Install** to reinstall the app.
 
 ## Conclusion
 

@@ -36,11 +36,11 @@ When it comes to recording on your mobile device, the quality of your video can 
 
 After recording, you can edit your video in Canva by adding text, filters, or other visual elements. Here’s how:
 
-- **Upload Your Video**: If you recorded your screen using another app, upload the video to Canva.
+1. **Upload Your Video**: If you recorded your screen using another app, upload the video to Canva.
 
-- **Edit Your Video**: Use Canva’s video editing tools to trim, add text, or apply filters to your video.
+2. **Edit Your Video**: Use Canva’s video editing tools to trim, add text, or apply filters to your video.
 
-- **Export Your Video**: Once edited, export your video to share on social media or other platforms.
+3. **Export Your Video**: Once edited, export your video to share on social media or other platforms.
 
 ## Conclusion
 

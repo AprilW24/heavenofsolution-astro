@@ -20,25 +20,25 @@ One of the simplest ways to capture Instagram Reels with audio is by using your 
 
 **For iPhone users:**
 
-- Open the Control Center by swiping down from the top-right corner of your screen (or up from the bottom on older iPhone models).
+1. Open the Control Center by swiping down from the top-right corner of your screen (or up from the bottom on older iPhone models).
 
-- Tap the Screen Recording button (it looks like a solid circle inside another circle).
+2. Tap the Screen Recording button (it looks like a solid circle inside another circle).
 
-- Wait for the three-second countdown, then open Instagram and play the Reel you want to record.
+3. Wait for the three-second countdown, then open Instagram and play the Reel you want to record.
 
-- When finished, stop the recording by tapping the red status bar at the top of your screen and selecting “Stop.”
+4. When finished, stop the recording by tapping the red status bar at the top of your screen and selecting “Stop.”
 
 **For Android users:**
 
-- Swipe down twice from the top of your screen to open the Quick Settings panel.
+1. Swipe down twice from the top of your screen to open the Quick Settings panel.
 
-- Look for the Screen Record option. If you don’t see it, you may need to edit your Quick Settings to add this feature.
+2. Look for the Screen Record option. If you don’t see it, you may need to edit your Quick Settings to add this feature.
 
-- Tap Screen Record, then start the recording.
+3. Tap Screen Record, then start the recording.
 
-- Open Instagram and play the Reel you want to capture.
+4. Open Instagram and play the Reel you want to capture.
 
-- When done, pull down the notification shade and tap “Stop” on the screen recording notification.
+5. When done, pull down the notification shade and tap “Stop” on the screen recording notification.
 
 The advantage of this method is that it captures everything exactly as you see it on your screen, including the audio. However, the downside is that you may need to trim the video afterward to remove any unnecessary footage at the beginning or end.
 
@@ -54,15 +54,15 @@ There are numerous third-party apps available that claim to download Instagram R
 
 To use these apps:
 
-- Open Instagram and find the Reel you want to download.
+1. Open Instagram and find the Reel you want to download.
 
-- Tap the three dots (…) in the bottom right corner of the Reel.
+2. Tap the three dots (…) in the bottom right corner of the Reel.
 
-- Select “Copy Link.”
+3. Select “Copy Link.”
 
-- Open your chosen downloader app and paste the link where prompted.
+4. Open your chosen downloader app and paste the link where prompted.
 
-- Follow the app’s instructions to download the Reel with audio.
+5. Follow the app’s instructions to download the Reel with audio.
 
 While these apps can be effective, keep in mind that they may not always work due to Instagram’s frequent updates and changes to their platform.
 
@@ -70,15 +70,15 @@ While these apps can be effective, keep in mind that they may not always work du
 
 If you prefer not to install additional apps on your device, there are several online services that allow you to download Instagram Reels with music. These web-based tools work similarly to the apps mentioned above. Here’s how to use them:
 
-- Copy the link to the Instagram Reel you want to download.
+1. Copy the link to the Instagram Reel you want to download.
 
-- Visit a reputable Instagram downloader website (e.g., DownloadGram, SaveFrom.net, or InstaDownloader.co).
+2. Visit a reputable Instagram downloader website (e.g., DownloadGram, SaveFrom.net, or InstaDownloader.co).
 
-- Paste the Reel’s URL into the provided field on the website.
+3. Paste the Reel’s URL into the provided field on the website.
 
-- Click the download button or follow the site’s specific instructions.
+4. Click the download button or follow the site’s specific instructions.
 
-- Save the downloaded file to your device.
+5. Save the downloaded file to your device.
 
 These online services are convenient because they don’t require you to install anything on your device. However, be cautious about which sites you use and avoid entering any personal information or Instagram login details.
 
@@ -86,15 +86,15 @@ These online services are convenient because they don’t require you to install
 
 If you’re looking to download Reels that you’ve created yourself, the process is much simpler:
 
-- Open Instagram and go to your profile.
+1. Open Instagram and go to your profile.
 
-- Tap on the Reels tab.
+2. Tap on the Reels tab.
 
-- Find the Reel you want to download and tap to open it.
+3. Find the Reel you want to download and tap to open it.
 
-- Tap the three dots (…) in the bottom right corner.
+4. Tap the three dots (…) in the bottom right corner.
 
-- Select “Save to Camera Roll” or “Download.”
+5. Select “Save to Camera Roll” or “Download.”
 
 This method will save your own Reel to your device with the original audio intact. It’s important to note that this only works for Reels you’ve created, not for those made by other users.
 

@@ -24,25 +24,25 @@ Connect your phone to the app, link other devices, and let everyone in your hous
 
 ## Step-by-Step Setting Up and Using Automatic Shopping List AI
 
-- Download an AI shopping list app like *Kooper* or *Listonic* on your phone.
+1. Download an AI shopping list app like *Kooper* or *Listonic* on your phone.
 
-- Create your profile with dietary needs, preferred stores, and household size.
+2. Create your profile with dietary needs, preferred stores, and household size.
 
-- Look for a setting to connect with other family members if you want to sync lists.
+3. Look for a setting to connect with other family members if you want to sync lists.
 
-- Add your regular foods and any meal plan for the week.
+4. Add your regular foods and any meal plan for the week.
 
-- Enter allergies, items to avoid, or anything you never want.
+5. Enter allergies, items to avoid, or anything you never want.
 
-- Use the app’s voice command, if available, to add items hands-free.
+6. Use the app’s voice command, if available, to add items hands-free.
 
-- Review past shopping lists for ideas and let AI give you suggestions.
+7. Review past shopping lists for ideas and let AI give you suggestions.
 
-- Edit quantities and categories so the list matches your kitchen or store sections.
+8. Edit quantities and categories so the list matches your kitchen or store sections.
 
-- Save and share the list with anyone who shops with you.
+9. Save and share the list with anyone who shops with you.
 
-- Go shopping and check items off right from your phone for instant updates.
+10. Go shopping and check items off right from your phone for instant updates.
 
 ## Complete Prompt to Create an AI Shopping List
 

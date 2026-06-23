@@ -18,17 +18,17 @@ Instagram offers multiple ways to reset your password, catering to different sce
 
 The most straightforward method to reset your Instagram password is through the app itself. Here’s how:
 
-- Open the Instagram app on your mobile device.
+1. Open the Instagram app on your mobile device.
 
-- On the login screen, tap on “Get help logging in” (Android) or “Forgot password?” (iOS).
+2. On the login screen, tap on “Get help logging in” (Android) or “Forgot password?” (iOS).
 
-- You’ll be presented with options to reset your password using your username, email, or phone number. Choose the most convenient option for you.
+3. You’ll be presented with options to reset your password using your username, email, or phone number. Choose the most convenient option for you.
 
-- If you select username, enter it and tap “Next.”
+4. If you select username, enter it and tap “Next.”
 
-- Choose whether you want to reset your password via email or SMS.
+5. Choose whether you want to reset your password via email or SMS.
 
-- Follow the instructions sent to your email or phone to reset your password.
+6. Follow the instructions sent to your email or phone to reset your password.
 
 **Pro Tip:** If you’re unsure about your username, you can ask a friend to check it for you on Instagram or try to remember any variations you might have used.
 
@@ -36,25 +36,25 @@ The most straightforward method to reset your Instagram password is through the 
 
 If you prefer using a computer or don’t have access to the Instagram app, you can reset your password through the website:
 
-- Go to Instagram.com and click on “Forgot password?” below the login fields.
+1. Go to Instagram.com and click on “Forgot password?” below the login fields.
 
-- Enter your email address, phone number, or username associated with your account.
+2. Enter your email address, phone number, or username associated with your account.
 
-- Click “Send Login Link.”
+3. Click “Send Login Link.”
 
-- Check your email or phone for instructions to reset your password.
+4. Check your email or phone for instructions to reset your password.
 
-- Follow the link provided to create a new password.
+5. Follow the link provided to create a new password.
 
 ### 3. Using Facebook (If Your Accounts Are Linked)
 
 If you’ve previously linked your Instagram account to Facebook, you can use this connection to regain access:
 
-- On the Instagram login page, tap “Log in with Facebook.”
+1. On the Instagram login page, tap “Log in with Facebook.”
 
-- Enter your Facebook credentials.
+2. Enter your Facebook credentials.
 
-- Once logged in, you’ll be prompted to reset your Instagram password.
+3. Once logged in, you’ll be prompted to reset your Instagram password.
 
 This method is particularly useful if you’ve lost access to the email or phone number associated with your Instagram account but still have access to your Facebook account.
 
@@ -72,15 +72,15 @@ Sometimes, the standard reset methods might not be sufficient. Here are some add
 
 After successfully resetting your password, it’s crucial to implement good password practices to enhance your account security:
 
-- **Create a Strong Password:** Use a combination of uppercase and lowercase letters, numbers, and symbols. Avoid using easily guessable information like birthdays or common words.
+1. **Create a Strong Password:** Use a combination of uppercase and lowercase letters, numbers, and symbols. Avoid using easily guessable information like birthdays or common words.
 
-- **Use Unique Passwords:** Don’t reuse passwords across different accounts. Each of your online accounts should have a unique password.
+2. **Use Unique Passwords:** Don’t reuse passwords across different accounts. Each of your online accounts should have a unique password.
 
-- **Enable Two-Factor Authentication:** This adds an extra layer of security by requiring a second form of verification beyond your password.
+3. **Enable Two-Factor Authentication:** This adds an extra layer of security by requiring a second form of verification beyond your password.
 
-- **Regularly Update Your Password:** Change your password periodically, especially if you suspect your account might have been compromised.
+4. **Regularly Update Your Password:** Change your password periodically, especially if you suspect your account might have been compromised.
 
-- **Be Cautious of Phishing Attempts:** Never enter your Instagram login details on websites that aren’t officially associated with Instagram. Be wary of emails or messages asking for your password.
+5. **Be Cautious of Phishing Attempts:** Never enter your Instagram login details on websites that aren’t officially associated with Instagram. Be wary of emails or messages asking for your password.
 
 ## Preventing Future Password Issues
 

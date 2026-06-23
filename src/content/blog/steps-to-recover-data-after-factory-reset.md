@@ -18,17 +18,17 @@ So if you act quickly before using the phone and adding new data, there is a goo
 
 One of the easiest ways to get your data back after a factory reset is to restore it from a Google backup, if you had enabled Google backups before resetting your phone. Here’s how:
 
-- **Set up your phone until you reach the “Copy apps & data” screen**. After resetting, go through the initial phone setup process for language, WiFi, etc. until you see the **Copy apps & data** option.
+1. **Set up your phone until you reach the “Copy apps & data” screen**. After resetting, go through the initial phone setup process for language, WiFi, etc. until you see the **Copy apps & data** option.
 
-- **Tap “Next” then select “Can’t use old phone”**. This will let you restore data from the cloud instead of a direct phone-to-phone transfer.
+2. **Tap “Next” then select “Can’t use old phone”**. This will let you restore data from the cloud instead of a direct phone-to-phone transfer.
 
-- **Sign in to your Google account**. Use the same Google account that was previously signed in on your phone before the factory reset.
+3. **Sign in to your Google account**. Use the same Google account that was previously signed in on your phone before the factory reset.
 
-- **Choose the latest backup to restore from**. If you had Google backups enabled, you should see a list of available backups by date. Pick the most recent one prior to when you factory reset the phone.
+4. **Choose the latest backup to restore from**. If you had Google backups enabled, you should see a list of available backups by date. Pick the most recent one prior to when you factory reset the phone.
 
-- **Select the data you want to restore**. You can choose to restore all of your data and settings from the backup, or select specific data types like apps, contacts, device settings, etc.
+5. **Select the data you want to restore**. You can choose to restore all of your data and settings from the backup, or select specific data types like apps, contacts, device settings, etc.
 
-- **Wait for the restore process to finish**. It may take several minutes to download and restore all the data from your Google backup. Once it’s done, you’ll have your old data back!
+6. **Wait for the restore process to finish**. It may take several minutes to download and restore all the data from your Google backup. Once it’s done, you’ll have your old data back!
 
 ### Retrieve data using Android data recovery apps
 
@@ -36,17 +36,17 @@ If you didn’t have a prior backup, you can still attempt to recover data direc
 
 ![](/wp-content/uploads/2024/06/HoS_RecoverData-1.jpg)
 
-- **Download and install a data recovery app on your phone**. Some of the popular options include DiskDigger, EaseUS MobiSaver, FonePaw Android Data Recovery, etc.
+1. **Download and install a data recovery app on your phone**. Some of the popular options include DiskDigger, EaseUS MobiSaver, FonePaw Android Data Recovery, etc.
 
-- **Grant the app permission to access your phone storage**. The recovery app needs to be able to scan your phone’s internal memory and SD card to look for deleted data.
+2. **Grant the app permission to access your phone storage**. The recovery app needs to be able to scan your phone’s internal memory and SD card to look for deleted data.
 
-- **Select the data types you want to scan for**. Most apps will let you choose specific file types like photos, videos, documents, etc.
+3. **Select the data types you want to scan for**. Most apps will let you choose specific file types like photos, videos, documents, etc.
 
-- **Run a deep scan of your phone memory**. This will do a thorough search for any traces of deleted data that can still be recovered. Be patient as the scan may take a while.
+4. **Run a deep scan of your phone memory**. This will do a thorough search for any traces of deleted data that can still be recovered. Be patient as the scan may take a while.
 
-- **Preview and select the files you want to recover**. After the scan, the app will show you a list of files it found that can be restored. You can preview each file and mark the ones you want to save.
+5. **Preview and select the files you want to recover**. After the scan, the app will show you a list of files it found that can be restored. You can preview each file and mark the ones you want to save.
 
-- **Save the recovered files to your phone**. Once you’ve selected the files to recover, tap the Recover or Save button to restore them back to your Android device.
+6. **Save the recovered files to your phone**. Once you’ve selected the files to recover, tap the Recover or Save button to restore them back to your Android device.
 
 Keep in mind that data recovery apps may not be able to restore everything, especially if the data has already been overwritten after the factory reset. But they are still worth trying, especially if you didn’t have a backup.
 

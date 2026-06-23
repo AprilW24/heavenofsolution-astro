@@ -16,21 +16,21 @@ Before we dive into the saving process, let’s take a moment to appreciate the 
 
 Now, let’s get to the heart of the matter. Here’s how you can save your Canva creations directly to your phone’s gallery or camera roll:
 
-- **Open Your Canva Design**: Launch the Canva app on your smartphone and sign in if you haven’t already. Navigate to the design you want to save. If you’re starting from scratch, create your design using Canva’s intuitive tools and templates.
+1. **Open Your Canva Design**: Launch the Canva app on your smartphone and sign in if you haven’t already. Navigate to the design you want to save. If you’re starting from scratch, create your design using Canva’s intuitive tools and templates.
 
-- **Finalize Your Design**: Make sure your design is exactly how you want it. Double-check all elements, text, and colors before proceeding to save.
+2. **Finalize Your Design**: Make sure your design is exactly how you want it. Double-check all elements, text, and colors before proceeding to save.
 
-- **Locate the Export Icon**: Once you’re satisfied with your design, look for the export icon. It’s usually located in the top right corner of the screen and often resembles a share or download symbol.
+3. **Locate the Export Icon**: Once you’re satisfied with your design, look for the export icon. It’s usually located in the top right corner of the screen and often resembles a share or download symbol.
 
-- **Choose the Download Option**: After tapping the export icon, you’ll see several options. Select “Download” from the list of choices presented.
+4. **Choose the Download Option**: After tapping the export icon, you’ll see several options. Select “Download” from the list of choices presented.
 
-- **Select File Type and Pages**: Here, you have the opportunity to choose your preferred file format. For most images, PNG or JPG will suffice. If your design has multiple pages, you can select which specific pages you want to save.
+5. **Select File Type and Pages**: Here, you have the opportunity to choose your preferred file format. For most images, PNG or JPG will suffice. If your design has multiple pages, you can select which specific pages you want to save.
 
-- **Initiate the Download**: Tap the “Download” button and wait for the app to process your request. The time this takes can vary depending on the complexity of your design and your internet connection speed.
+6. **Initiate the Download**: Tap the “Download” button and wait for the app to process your request. The time this takes can vary depending on the complexity of your design and your internet connection speed.
 
-- **Confirm the Save**: Once the download is complete, you should see a confirmation message, often saying “Saved to gallery” or something similar.
+7. **Confirm the Save**: Once the download is complete, you should see a confirmation message, often saying “Saved to gallery” or something similar.
 
-- **Locate Your Image**: Exit the Canva app and open your phone’s gallery or camera roll. Your saved design should now be visible among your other photos and images.
+8. **Locate Your Image**: Exit the Canva app and open your phone’s gallery or camera roll. Your saved design should now be visible among your other photos and images.
 
 ## Tips for Organizing Your Canva Designs on Your Phone
 

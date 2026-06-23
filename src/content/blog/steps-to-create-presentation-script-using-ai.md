@@ -22,25 +22,25 @@ I usually start in ChatGPT or Gemini and then finalize my edits in Google Slides
 
 ## Steps to create a presentation script using AI on Android
 
-- Open your favorite AI writing app like ChatGPT or Gemini.
+1. Open your favorite AI writing app like ChatGPT or Gemini.
 
-- Think of your topic and write down 3-4 key points to guide the AI.
+2. Think of your topic and write down 3-4 key points to guide the AI.
 
-- Type your full prompt clearly, explaining what kind of presentation you’re making.
+3. Type your full prompt clearly, explaining what kind of presentation you’re making.
 
-- Ask the AI to format your script like a talk, not just bullet points.
+4. Ask the AI to format your script like a talk, not just bullet points.
 
-- Review the first draft and check if it fits your tone.
+5. Review the first draft and check if it fits your tone.
 
-- If it sounds too formal or robotic, ask the AI to rewrite it casually.
+6. If it sounds too formal or robotic, ask the AI to rewrite it casually.
 
-- Copy the script into Google Slides or any notes app.
+7. Copy the script into Google Slides or any notes app.
 
-- Read the script out loud to check the flow.
+8. Read the script out loud to check the flow.
 
-- Edit small sections that don’t sound natural.
+9. Edit small sections that don’t sound natural.
 
-- Save it or share it directly before your presentation day.
+10. Save it or share it directly before your presentation day.
 
 ## ChatGPT prompt to create a presentation script automatically
 

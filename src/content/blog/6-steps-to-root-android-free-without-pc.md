@@ -40,13 +40,13 @@ As long as you understand and accept these risks, rooting can be a great way to 
 
 Before starting the rooting process, there are a few steps to prepare your Android device:
 
-- Verify your device is compatible with the rooting method you plan to use. **Different devices require different exploits and tools.**
+1. Verify your device is compatible with the rooting method you plan to use. **Different devices require different exploits and tools.**
 
-- Fully charge your phone or tablet to at least 80% battery life. **The rooting process can take some time and you don’t want your device dying in the middle of it.**
+2. Fully charge your phone or tablet to at least 80% battery life. **The rooting process can take some time and you don’t want your device dying in the middle of it.**
 
-- Enable Developer Options by going to Settings > About Phone and tapping **Build Number** 7 times. **Then enable USB Debugging and OEM Unlocking in the Developer Options.**
+3. Enable Developer Options by going to Settings > About Phone and tapping **Build Number** 7 times. **Then enable USB Debugging and OEM Unlocking in the Developer Options.**
 
-- Backup any important data, apps, and files on your device. **Rooting wipes the device so you’ll lose anything not backed up.**
+4. Backup any important data, apps, and files on your device. **Rooting wipes the device so you’ll lose anything not backed up.**
 
 Once you’ve completed these preparation steps, you’re ready to start rooting your device.
 
@@ -54,17 +54,17 @@ Once you’ve completed these preparation steps, you’re ready to start rooting
 
 While the exact steps vary depending on your specific device, Android version, and rooting method, the general process is:
 
-- **Download the rooting app or tool for your device.** Some popular ones that don’t require a PC include KingRoot, KingoRoot, One Click Root, and Root Master.
+1. **Download the rooting app or tool for your device.** Some popular ones that don’t require a PC include KingRoot, KingoRoot, One Click Root, and Root Master.
 
-- **Install the app and launch it.** You may need to enable **Install from Unknown Sources** in your security settings first.
+2. **Install the app and launch it.** You may need to enable **Install from Unknown Sources** in your security settings first.
 
-- **Tap the “Root” or “Start” button to begin the rooting process.** The app will download the necessary exploits and tools.
+3. **Tap the “Root” or “Start” button to begin the rooting process.** The app will download the necessary exploits and tools.
 
-- **Wait for the rooting process to complete.** This can take several minutes. Do not interrupt it.
+4. **Wait for the rooting process to complete.** This can take several minutes. Do not interrupt it.
 
-- **Once finished, your device will reboot.** You should now have root access and the SuperSU app installed for managing root permissions.
+5. **Once finished, your device will reboot.** You should now have root access and the SuperSU app installed for managing root permissions.
 
-- **Verify your device is rooted** by installing and running the **Root Checker** app from the Play Store.
+6. **Verify your device is rooted** by installing and running the **Root Checker** app from the Play Store.
 
 If you run into any issues or errors during the rooting process, do not proceed. Seek help on Android forums or the XDA Developers website to troubleshoot your specific issue before continuing or trying again.
 

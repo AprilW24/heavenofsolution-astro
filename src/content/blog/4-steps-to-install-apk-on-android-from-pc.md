@@ -12,13 +12,13 @@ Installing Android apps directly on your phone from the Google Play Store is eas
 
 By default, Android blocks the installation of apps from outside the Google Play Store for security reasons. To allow your device to install unofficial APK files, you need to enable a setting called **Unknown Sources**:
 
-- Open the Settings app on your Android device
+1. Open the Settings app on your Android device
 
-- Tap on Security (or Lock Screen and Security)
+2. Tap on Security (or Lock Screen and Security)
 
-- Scroll down and toggle on the option for **Unknown Sources**
+3. Scroll down and toggle on the option for **Unknown Sources**
 
-- Tap OK to confirm you want to allow installs from other sources
+4. Tap OK to confirm you want to allow installs from other sources
 
 **Be cautious about what APKs you install and only enable this setting when needed, as it could make your device vulnerable to malware.**
 
@@ -38,15 +38,15 @@ Your device may prompt you to select a USB connection type. Choose **File Transf
 
 Now you need to copy the APK file you want to install from your computer to your Android device:
 
-- Locate the APK file on your computer that you downloaded
+1. Locate the APK file on your computer that you downloaded
 
-- Select the APK file and copy it with Ctrl+C (Windows/Linux) or Cmd+C (Mac)
+2. Select the APK file and copy it with Ctrl+C (Windows/Linux) or Cmd+C (Mac)
 
-- Open your phone’s internal storage folder on your computer
+3. Open your phone’s internal storage folder on your computer
 
-- Paste the APK file anywhere, such as the Downloads folder, using Ctrl+V or Cmd+V
+4. Paste the APK file anywhere, such as the Downloads folder, using Ctrl+V or Cmd+V
 
-- Safely disconnect your Android device
+5. Safely disconnect your Android device
 
 **The APK file should now be accessible from your Android device’s file manager app.**
 
@@ -54,15 +54,15 @@ Now you need to copy the APK file you want to install from your computer to your
 
 Finally, open the APK on your Android device to install the app:
 
-- Open your Android device’s file manager app
+1. Open your Android device’s file manager app
 
-- Navigate to where you transferred the APK (e.g. Downloads folder)
+2. Navigate to where you transferred the APK (e.g. Downloads folder)
 
-- Tap on the APK file to open it
+3. Tap on the APK file to open it
 
-- Review the app permissions it requests and tap Install
+4. Review the app permissions it requests and tap Install
 
-- Wait for the app to finish installing, then tap Open to launch it
+5. Wait for the app to finish installing, then tap Open to launch it
 
 **The unofficial app should now be installed on your Android device.** If you encounter any errors, make sure the APK file is compatible with your Android version. You may need to uninstall the app first if you are updating an existing version.
 

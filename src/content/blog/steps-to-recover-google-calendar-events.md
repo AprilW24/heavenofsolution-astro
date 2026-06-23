@@ -12,15 +12,15 @@ Google Calendar is an essential tool for managing our daily lives, keeping us or
 
 The first place to look for your deleted events is in the Google Calendar Trash. Here’s how to access it:
 
-- Open the Google Calendar app on your Android device.
+1. Open the Google Calendar app on your Android device.
 
-- Tap on the three-line menu icon in the top-left corner of the screen.
+2. Tap on the three-line menu icon in the top-left corner of the screen.
 
-- Scroll down and select **Trash**.
+3. Scroll down and select **Trash**.
 
-- Look for the deleted event in the list. If you find it, tap on it to open the event details.
+4. Look for the deleted event in the list. If you find it, tap on it to open the event details.
 
-- Tap on the **Restore** button to move the event back to your calendar.
+5. Tap on the **Restore** button to move the event back to your calendar.
 
 **Note:** Events in the Trash are automatically deleted after 30 days, so be sure to restore them as soon as possible.
 
@@ -28,15 +28,15 @@ The first place to look for your deleted events is in the Google Calendar Trash.
 
 If you have your Google Calendar synced with another calendar app, such as Samsung Calendar or Outlook, you may be able to recover deleted events from there. Here’s how:
 
-- Open the synced calendar app on your Android device.
+1. Open the synced calendar app on your Android device.
 
-- Look for the deleted event in the app’s calendar view.
+2. Look for the deleted event in the app’s calendar view.
 
-- If you find the event, tap on it to open the event details.
+3. If you find the event, tap on it to open the event details.
 
-- Look for a **Restore** or **Recover** option in the event details or menu.
+4. Look for a **Restore** or **Recover** option in the event details or menu.
 
-- If the option is available, tap on it to restore the event to your Google Calendar.
+5. If the option is available, tap on it to restore the event to your Google Calendar.
 
 ## Step 3: Use a Third-Party Data Recovery App
 
@@ -54,17 +54,17 @@ If you can’t find your deleted event in the Google Calendar Trash or a synced 
 
 If you regularly back up your Google account data, you may be able to restore your deleted calendar events from a previous backup. Here’s how:
 
-- Go to the Google Account backup page: https://takeout.google.com/settings/backup
+1. Go to the Google Account backup page: https://takeout.google.com/settings/backup
 
-- Sign in to your Google account if prompted.
+2. Sign in to your Google account if prompted.
 
-- Look for the **Calendar** option in the list of backed-up data.
+3. Look for the **Calendar** option in the list of backed-up data.
 
-- If **Calendar** is listed, click on the **Manage backups** button.
+4. If **Calendar** is listed, click on the **Manage backups** button.
 
-- Select the backup date from which you want to restore your calendar data.
+5. Select the backup date from which you want to restore your calendar data.
 
-- Click on the **Restore** button to begin the restoration process.
+6. Click on the **Restore** button to begin the restoration process.
 
 **Note:** Restoring from a backup will overwrite your current calendar data with the data from the selected backup date. Be sure to choose the correct backup to avoid losing any important events.
 

@@ -40,11 +40,11 @@ For most uses, High accuracy is the best option. However, if you’re concerned 
 
 Once you’ve chosen your location mode, you may see a prompt asking for permission to use your location. If so, tap **Allow** to grant permission. You can also manage location permissions for individual apps:
 
-- Go back to the Location settings screen.
+1. Go back to the Location settings screen.
 
-- Tap **App permission**.
+2. Tap **App permission**.
 
-- Here, you’ll see a list of apps that have requested location access. You can tap on each app to choose whether to allow location access all the time, only while the app is in use, or never.
+3. Here, you’ll see a list of apps that have requested location access. You can tap on each app to choose whether to allow location access all the time, only while the app is in use, or never.
 
 ## Additional Tips
 

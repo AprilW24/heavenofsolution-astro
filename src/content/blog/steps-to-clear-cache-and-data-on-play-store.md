@@ -22,17 +22,17 @@ Before diving into the steps, it’s important to understand what cache and data
 
 Follow these steps to clear cache and data for the Google Play Store:
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap on **Apps & notifications** (or **Application Manager** on some devices)
+2. Tap on **Apps & notifications** (or **Application Manager** on some devices)
 
-- Tap **See all apps** and find the **Google Play Store** in the list
+3. Tap **See all apps** and find the **Google Play Store** in the list
 
-- Tap on **Storage & cache** (or **Storage** on older Android versions)
+4. Tap on **Storage & cache** (or **Storage** on older Android versions)
 
-- Tap the **Clear Cache** button to delete the Play Store cache
+5. Tap the **Clear Cache** button to delete the Play Store cache
 
-- If clearing cache doesn’t resolve your issue, tap **Clear Storage** (or **Clear Data** on older versions) to delete all data and reset the app
+6. If clearing cache doesn’t resolve your issue, tap **Clear Storage** (or **Clear Data** on older versions) to delete all data and reset the app
 
 After clearing cache and data, reopen the Play Store and see if your problem is fixed. You may need to re-accept the terms and re-enter your account password.
 

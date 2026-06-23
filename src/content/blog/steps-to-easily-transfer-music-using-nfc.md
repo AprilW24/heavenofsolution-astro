@@ -14,11 +14,11 @@ In this article, we’ll walk through the process of using NFC to transfer music
 
 Before attempting to transfer music via NFC, you first need to confirm that both the sending and receiving Android devices are equipped with NFC chips. NFC has become a common feature in most modern smartphones, but it’s still best to double check. Here’s how:
 
-- Open the **Settings** app on your Android phone
+1. Open the **Settings** app on your Android phone
 
-- Tap on **Connected devices** or **Connections**, depending on your device
+2. Tap on **Connected devices** or **Connections**, depending on your device
 
-- Look for **NFC** in the list of connection options. If you see it, your phone supports NFC.
+3. Look for **NFC** in the list of connection options. If you see it, your phone supports NFC.
 
 You can also quickly check by pulling down the notification shade and looking for an NFC toggle in the quick settings panel. If the NFC icon is there, your device has the needed hardware.
 
@@ -26,13 +26,13 @@ You can also quickly check by pulling down the notification shade and looking fo
 
 With NFC confirmed to be available on both phones, the next step is to make sure the feature is enabled. The process is similar on most devices:
 
-- Go to **Settings > Connected devices > Connection preferences**
+1. Go to **Settings > Connected devices > Connection preferences**
 
-- Tap on **NFC**
+2. Tap on **NFC**
 
-- Toggle on the **NFC** switch if it’s not already activated
+3. Toggle on the **NFC** switch if it’s not already activated
 
-- On some phones, you may also need to toggle on **Android Beam** on the same screen
+4. On some phones, you may also need to toggle on **Android Beam** on the same screen
 
 Repeat these steps on the second phone so that NFC is enabled on both devices and they are ready to communicate with each other.
 
@@ -40,25 +40,25 @@ Repeat these steps on the second phone so that NFC is enabled on both devices an
 
 Now that both Android phones have NFC turned on, you can begin the wireless music transfer process. Here’s how to share music from one Android to another using NFC:
 
-- On the sending phone, open the **Music** app or whichever app you use to manage your audio files
+1. On the sending phone, open the **Music** app or whichever app you use to manage your audio files
 
-- Find and open the song or album you want to transfer
+2. Find and open the song or album you want to transfer
 
-- Tap the **three-dot menu** in the upper right and select **Share** from the dropdown options
+3. Tap the **three-dot menu** in the upper right and select **Share** from the dropdown options
 
-- In the list of sharing options, tap **NFC** or **Android Beam**
+4. In the list of sharing options, tap **NFC** or **Android Beam**
 
-- A message will appear on screen telling you to **Touch back of other device**
+5. A message will appear on screen telling you to **Touch back of other device**
 
-- While this message is showing, tap the back of the sending phone to the back of the receiving phone. Hold the devices together until you feel a vibration and/or hear a sound confirming the connection.
+6. While this message is showing, tap the back of the sending phone to the back of the receiving phone. Hold the devices together until you feel a vibration and/or hear a sound confirming the connection.
 
-- On the receiving phone, tap the **Accept** button in the prompt that appears to begin downloading the music file(s)
+7. On the receiving phone, tap the **Accept** button in the prompt that appears to begin downloading the music file(s)
 
-- Wait a few moments while the song or album is beamed over NFC from one phone to the other
+8. Wait a few moments while the song or album is beamed over NFC from one phone to the other
 
-- Once the transfer is complete, you’ll get a **File received** notification on the receiving phone
+9. Once the transfer is complete, you’ll get a **File received** notification on the receiving phone
 
-- Open the **Music** app on the receiving phone and you should see the newly transferred music files
+10. Open the **Music** app on the receiving phone and you should see the newly transferred music files
 
 ### Troubleshooting Tips
 

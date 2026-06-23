@@ -32,35 +32,35 @@ One of the most common scenarios is wanting to tag someone in a photo after you�
 
 **On Desktop:**
 
-- Go to your Facebook profile and find the photo you want to edit.
+1. Go to your Facebook profile and find the photo you want to edit.
 
-- Click on the photo to open it.
+2. Click on the photo to open it.
 
-- Look for the “Tag Photo” option, usually located near the top of the image.
+3. Look for the “Tag Photo” option, usually located near the top of the image.
 
-- Click on the person’s face in the photo (or the area where you want to add a tag).
+4. Click on the person’s face in the photo (or the area where you want to add a tag).
 
-- Start typing the name of the person you want to tag. Facebook will suggest names as you type.
+5. Start typing the name of the person you want to tag. Facebook will suggest names as you type.
 
-- Select the correct person from the suggestions.
+6. Select the correct person from the suggestions.
 
-- Click “Done Tagging” when you’re finished.
+7. Click “Done Tagging” when you’re finished.
 
 **On Mobile:**
 
-- Open the Facebook app and navigate to the photo you want to edit.
+1. Open the Facebook app and navigate to the photo you want to edit.
 
-- Tap on the photo to open it.
+2. Tap on the photo to open it.
 
-- Look for the tag icon (usually shaped like a person with a plus sign) and tap it.
+3. Look for the tag icon (usually shaped like a person with a plus sign) and tap it.
 
-- Tap on the area of the photo where you want to add a tag.
+4. Tap on the area of the photo where you want to add a tag.
 
-- Start typing the name of the person you want to tag.
+5. Start typing the name of the person you want to tag.
 
-- Select the correct person from the suggestions that appear.
+6. Select the correct person from the suggestions that appear.
 
-- Tap “Done” when you’re finished tagging.
+7. Tap “Done” when you’re finished tagging.
 
 ## Tagging Someone in a Text Post After Posting
 
@@ -68,47 +68,47 @@ If you’ve shared a status update or text post and want to add a tag afterward,
 
 **On Desktop:**
 
-- Go to your Facebook profile and find the post you want to edit.
+1. Go to your Facebook profile and find the post you want to edit.
 
-- Click on the three dots (…) in the top right corner of the post.
+2. Click on the three dots (…) in the top right corner of the post.
 
-- Select “Edit Post” from the dropdown menu.
+3. Select “Edit Post” from the dropdown menu.
 
-- In the text of your post, type “@” followed by the name of the person or page you want to tag.
+4. In the text of your post, type “@” followed by the name of the person or page you want to tag.
 
-- Choose the correct person or page from the suggestions that appear.
+5. Choose the correct person or page from the suggestions that appear.
 
-- Click “Save” when you’re done editing.
+6. Click “Save” when you’re done editing.
 
 **On Mobile:**
 
-- Open the Facebook app and find the post you want to edit.
+1. Open the Facebook app and find the post you want to edit.
 
-- Tap the three dots (…) in the top right corner of the post.
+2. Tap the three dots (…) in the top right corner of the post.
 
-- Select “Edit Post” from the options.
+3. Select “Edit Post” from the options.
 
-- In your post text, type “@” followed by the name of the person or page you want to tag.
+4. In your post text, type “@” followed by the name of the person or page you want to tag.
 
-- Select the correct person or page from the suggestions.
+5. Select the correct person or page from the suggestions.
 
-- Tap “Save” when you’re finished editing.
+6. Tap “Save” when you’re finished editing.
 
 ## Tagging Someone in a Comment After Posting
 
 Sometimes you might want to tag someone in a comment you’ve already posted. Here’s how to do it:
 
-- Find the comment you want to edit.
+1. Find the comment you want to edit.
 
-- On desktop, hover over the comment and click the three dots (…) that appear. On mobile, long-press the comment.
+2. On desktop, hover over the comment and click the three dots (…) that appear. On mobile, long-press the comment.
 
-- Select “Edit” from the options.
+3. Select “Edit” from the options.
 
-- In your comment text, type “@” followed by the name of the person you want to tag.
+4. In your comment text, type “@” followed by the name of the person you want to tag.
 
-- Choose the correct person from the suggestions that appear.
+5. Choose the correct person from the suggestions that appear.
 
-- Click or tap “Done” to save your changes.
+6. Click or tap “Done” to save your changes.
 
 ## Best Practices for Tagging on Facebook
 

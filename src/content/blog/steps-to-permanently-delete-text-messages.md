@@ -18,21 +18,21 @@ The built-in Messages app on your Android phone allows you to delete specific te
 
 ![](/wp-content/uploads/2024/07/HoS_PermanentlyDeleteText-1-586x1024.jpg)
 
-- Open the conversation containing the message(s) you want to delete
+1. Open the conversation containing the message(s) you want to delete
 
-- Tap and hold on a message until the options menu appears
+2. Tap and hold on a message until the options menu appears
 
-- Tap **Delete**
+3. Tap **Delete**
 
-- Confirm by tapping **Delete** again
+4. Confirm by tapping **Delete** again
 
 **Delete Entire Conversation Threads**
 
-- In the Messages app, tap and hold on a conversation
+1. In the Messages app, tap and hold on a conversation
 
-- Tap the trash can icon to delete the thread
+2. Tap the trash can icon to delete the thread
 
-- Tap **Delete** to confirm
+3. Tap **Delete** to confirm
 
 Keep in mind that while this removes the messages from your device, they could still potentially be recovered using data recovery tools. The messages are marked as deleted but not actually overwritten until that space on your phone’s storage is used by new data.
 
@@ -44,15 +44,15 @@ Here’s how to factory reset most Android devices:
 
 ![](/wp-content/uploads/2024/07/HoS_PermanentlyDeleteText-586x1024.jpg)
 
-- Go to your phone’s Settings
+1. Go to your phone’s Settings
 
-- Tap **System** > **Reset options**
+2. Tap **System** > **Reset options**
 
-- Tap **Erase all data (factory reset)**
+3. Tap **Erase all data (factory reset)**
 
-- Enter your PIN, pattern, or password if prompted
+4. Enter your PIN, pattern, or password if prompted
 
-- Tap **Erase all data** to confirm
+5. Tap **Erase all data** to confirm
 
 The reset process may take several minutes. Once it’s finished, your phone will restart and all your data, including text messages, will be permanently erased.
 
@@ -74,15 +74,15 @@ Some well-reviewed options include:
 
 To use a data erasing app:
 
-- Download and install the app of your choice from the Google Play Store
+1. Download and install the app of your choice from the Google Play Store
 
-- Open the app and grant it any necessary permissions
+2. Open the app and grant it any necessary permissions
 
-- Select the types of data you want to erase (text messages, call logs, etc.)
+3. Select the types of data you want to erase (text messages, call logs, etc.)
 
-- Tap the button to start the shredding process (may be labeled **Erase now**, **Shred**, etc. depending on the app)
+4. Tap the button to start the shredding process (may be labeled **Erase now**, **Shred**, etc. depending on the app)
 
-- Wait for the app to finish overwriting the deleted data
+5. Wait for the app to finish overwriting the deleted data
 
 Using a dedicated data erasing app is the best way to ensure your private text messages are securely and permanently deleted from your Android phone. Just be aware that these apps will erase the selected data types across your entire device.
 

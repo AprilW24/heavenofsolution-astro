@@ -16,19 +16,19 @@ Before we dive into the steps, it’s important to understand that TikTok’s me
 
 To ensure you can send and receive messages on TikTok, you need to make sure your account settings are properly configured. Here’s what you need to do:
 
-- **Open the TikTok app** on your Android device and log in to your account.
+1. **Open the TikTok app** on your Android device and log in to your account.
 
-- **Tap on the profile icon** in the bottom right corner of the screen.
+2. **Tap on the profile icon** in the bottom right corner of the screen.
 
-- **Tap the three-line menu icon** (hamburger menu) in the top right corner.
+3. **Tap the three-line menu icon** (hamburger menu) in the top right corner.
 
-- **Select “Settings and privacy”** from the menu.
+4. **Select “Settings and privacy”** from the menu.
 
-- **Tap on “Privacy”** in the settings menu.
+5. **Tap on “Privacy”** in the settings menu.
 
-- **Scroll down to find “Direct messages”** and tap on it.
+6. **Scroll down to find “Direct messages”** and tap on it.
 
-- **Enable the toggle** next to “Who can send you direct messages” if it’s not already on.
+7. **Enable the toggle** next to “Who can send you direct messages” if it’s not already on.
 
 By following these steps, you’ve ensured that your account is set up to send and receive direct messages. Keep in mind that even with this setting enabled, you can only message users who follow you back, unless you change additional privacy settings.
 
@@ -36,19 +36,19 @@ By following these steps, you’ve ensured that your account is set up to send a
 
 Now that your account is ready for messaging, let’s go through the process of sending a DM on TikTok using your Android device:
 
-- **Open the TikTok app** and navigate to the main feed.
+1. **Open the TikTok app** and navigate to the main feed.
 
-- **Tap the “Inbox” icon** at the bottom of the screen (it looks like a speech bubble).
+2. **Tap the “Inbox” icon** at the bottom of the screen (it looks like a speech bubble).
 
-- **Tap the paper airplane icon** in the top right corner to start a new message.
+3. **Tap the paper airplane icon** in the top right corner to start a new message.
 
-- **Search for the user** you want to message by typing their username in the search bar.
+4. **Search for the user** you want to message by typing their username in the search bar.
 
-- **Select the user** from the search results.
+5. **Select the user** from the search results.
 
-- **Type your message** in the text field at the bottom of the screen.
+6. **Type your message** in the text field at the bottom of the screen.
 
-- **Tap the send button** (paper airplane icon) to send your message.
+7. **Tap the send button** (paper airplane icon) to send your message.
 
 If you can’t find the user you’re looking for or if the messaging option is grayed out, it might be because you’re not following each other or because of their privacy settings.
 
@@ -56,11 +56,11 @@ If you can’t find the user you’re looking for or if the messaging option is 
 
 Another way to initiate a direct message is through a user’s profile. Here’s how:
 
-- **Find the user’s profile** by searching for them or tapping on their username from a video.
+1. **Find the user’s profile** by searching for them or tapping on their username from a video.
 
-- **Tap the “Message” button** on their profile (if available).
+2. **Tap the “Message” button** on their profile (if available).
 
-- **Type your message** and hit send.
+3. **Type your message** and hit send.
 
 If you don’t see a “Message” button, it means either you’re not following each other or the user has restricted their messaging privacy settings.
 
@@ -80,11 +80,11 @@ To make the most of TikTok’s messaging feature, consider these tips:
 
 When someone who doesn’t follow you tries to send you a message, it will appear in your message requests. To manage these:
 
-- **Go to your Inbox** by tapping the message icon at the bottom of the screen.
+1. **Go to your Inbox** by tapping the message icon at the bottom of the screen.
 
-- **Tap “Message requests”** at the top of the screen.
+2. **Tap “Message requests”** at the top of the screen.
 
-- **Review the requests** and choose to accept or delete them.
+3. **Review the requests** and choose to accept or delete them.
 
 Be cautious when accepting message requests from users you don’t know, as this opens up direct communication with them.
 
@@ -132,13 +132,13 @@ Yes, you can unsend a message on TikTok. Simply long-press on the message you wa
 
 There are several reasons why you might not be able to message certain users:
 
-- You’re not following each other.
+1. You’re not following each other.
 
-- The user has restricted their privacy settings.
+2. The user has restricted their privacy settings.
 
-- The user is under 16 years old.
+3. The user is under 16 years old.
 
-- You’ve been blocked by the user.
+4. You’ve been blocked by the user.
 
 ### Is there a limit to how many messages I can send on TikTok?
 

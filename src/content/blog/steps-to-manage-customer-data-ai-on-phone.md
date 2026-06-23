@@ -30,25 +30,25 @@ If I notice an app asking for weird permissions or sharing info with third parti
 
 ## Step-by-Step to Managing Data with AI on Phone
 
-- Download a trusted AI-powered client management app.
+1. Download a trusted AI-powered client management app.
 
-- Import or sync my contacts and historical data.
+2. Import or sync my contacts and historical data.
 
-- Set up reminders and notifications for appointments.
+3. Set up reminders and notifications for appointments.
 
-- Configure security settings like biometric login and two-factor codes.
+4. Configure security settings like biometric login and two-factor codes.
 
-- Turn on call recording (with consent) to capture insights.
+5. Turn on call recording (with consent) to capture insights.
 
-- Tag conversations, notes, and client preferences automatically.
+6. Tag conversations, notes, and client preferences automatically.
 
-- Use built-in chatbots or AI tools to draft messages and responses.
+7. Use built-in chatbots or AI tools to draft messages and responses.
 
-- Check automated summaries after every call or meeting.
+8. Check automated summaries after every call or meeting.
 
-- Sync all updates to my cloud storage for backup.
+9. Sync all updates to my cloud storage for backup.
 
-- Review and clean up duplicate or outdated profiles.
+10. Review and clean up duplicate or outdated profiles.
 
 ## How AI Streamlines Client Engagement and Predictions
 

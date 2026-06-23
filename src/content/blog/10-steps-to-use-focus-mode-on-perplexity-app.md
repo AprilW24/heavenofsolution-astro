@@ -20,25 +20,25 @@ If you’re always hunting for reliable info or you want to save some time, this
 
 Just follow these steps and you’ll be good to go:
 
-- Open the Perplexity app on your Android phone.
+1. Open the Perplexity app on your Android phone.
 
-- Start a new thread by tapping the *plus* icon or the relevant button.
+2. Start a new thread by tapping the *plus* icon or the relevant button.
 
-- Click the *Focus* button that shows up below the chat box.
+3. Click the *Focus* button that shows up below the chat box.
 
-- Select your desired source from the drop-down menu—think *Academic* or *Social*.
+4. Select your desired source from the drop-down menu—think *Academic* or *Social*.
 
-- Type in your question or request in the chat.
+5. Type in your question or request in the chat.
 
-- Hit send, and the app grabs info from the source you picked.
+6. Hit send, and the app grabs info from the source you picked.
 
-- If you want to switch sources, tap the *Focus* button again.
+7. If you want to switch sources, tap the *Focus* button again.
 
-- Check your results and see if you got what you needed.
+8. Check your results and see if you got what you needed.
 
-- Try different sources for better or more specific answers.
+9. Try different sources for better or more specific answers.
 
-- Keep your threads organized by naming them if you need to come back later.
+10. Keep your threads organized by naming them if you need to come back later.
 
 ## Why Focus Mode Makes Your Android App Better
 

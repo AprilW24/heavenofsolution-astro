@@ -28,11 +28,11 @@ The most straightforward way is to simply send a follow request to the private a
 
 Even without access to the private profile, you can still see any mutual followers you share with that user. To do this:
 
-- Go to the private profile page
+1. Go to the private profile page
 
-- Tap **Followers** below their bio
+2. Tap **Followers** below their bio
 
-- View the list of mutual followers
+3. View the list of mutual followers
 
 This reveals some of the accounts that follow them.
 

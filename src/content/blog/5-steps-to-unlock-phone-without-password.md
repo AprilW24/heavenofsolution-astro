@@ -18,17 +18,17 @@ One of the most effective ways to unlock your Android phone without losing data 
 
 Here’s how to use Google Find My Device:
 
-- Go to the Find My Device website on another device or computer.
+1. Go to the Find My Device website on another device or computer.
 
-- Sign in with the Google account associated with your locked phone.
+2. Sign in with the Google account associated with your locked phone.
 
-- Select your locked device from the list of connected devices.
+3. Select your locked device from the list of connected devices.
 
-- Click on the “Secure Device” option.
+4. Click on the “Secure Device” option.
 
-- You’ll be prompted to enter a new password. This will be your temporary unlock code.
+5. You’ll be prompted to enter a new password. This will be your temporary unlock code.
 
-- Wait for about five minutes, then enter the new password on your locked phone.
+6. Wait for about five minutes, then enter the new password on your locked phone.
 
 This method is particularly useful because it allows you to remotely change your device’s password without losing any data. It’s a quick and easy solution that works for many Android users.
 
@@ -38,17 +38,17 @@ If you own a Samsung device, you have access to a similar feature called Find My
 
 To use Samsung Find My Mobile:
 
-- Visit the Find My Mobile website on a computer or another device.
+1. Visit the Find My Mobile website on a computer or another device.
 
-- Sign in with your Samsung account credentials.
+2. Sign in with your Samsung account credentials.
 
-- Select your locked device from the list.
+3. Select your locked device from the list.
 
-- Click on the “Unlock” option in the menu.
+4. Click on the “Unlock” option in the menu.
 
-- Confirm the action by clicking “Unlock” again and entering your Samsung account password.
+5. Confirm the action by clicking “Unlock” again and entering your Samsung account password.
 
-- Wait for the process to complete, and your device should unlock.
+6. Wait for the process to complete, and your device should unlock.
 
 Remember that for this method to work, you must have previously set up a Samsung account on your device and enabled the remote unlock feature.
 
@@ -58,15 +58,15 @@ For more tech-savvy users, the Android Debug Bridge (ADB) can be a powerful tool
 
 Here’s a general outline of the process:
 
-- Install ADB on your computer.
+1. Install ADB on your computer.
 
-- Connect your locked phone to the computer via USB.
+2. Connect your locked phone to the computer via USB.
 
-- Open a command prompt or terminal window.
+3. Open a command prompt or terminal window.
 
-- Enter the command: adb shell rm /data/system/gesture.key
+4. Enter the command: adb shell rm /data/system/gesture.key
 
-- Restart your phone.
+5. Restart your phone.
 
 This command removes the gesture lock file from your device, effectively bypassing the lock screen. However, it’s important to note that this method may not work on all devices or Android versions, and it requires some technical expertise to execute properly.
 
@@ -76,15 +76,15 @@ For older Android devices (version 4.4 or lower), there’s a built-in “Forgot
 
 Here’s how to use the “Forgot Pattern” feature:
 
-- Enter an incorrect pattern or password five times.
+1. Enter an incorrect pattern or password five times.
 
-- You should see a “Forgot Pattern” option appear. Tap on it.
+2. You should see a “Forgot Pattern” option appear. Tap on it.
 
-- Choose to enter your Google account details.
+3. Choose to enter your Google account details.
 
-- Sign in with your Google account username and password.
+4. Sign in with your Google account username and password.
 
-- Once signed in, you should be able to access your device and set a new lock screen method.
+5. Once signed in, you should be able to access your device and set a new lock screen method.
 
 This method is simple and doesn’t require any additional tools, making it an excellent first option for users with older Android phones.
 
@@ -94,13 +94,13 @@ If your lock screen was set by a third-party app rather than the built-in Androi
 
 To boot into Safe Mode:
 
-- Press and hold the power button until you see the power options.
+1. Press and hold the power button until you see the power options.
 
-- Long-press the “Power off” option.
+2. Long-press the “Power off” option.
 
-- You’ll see a prompt to reboot into Safe Mode. Tap “OK.”
+3. You’ll see a prompt to reboot into Safe Mode. Tap “OK.”
 
-- Your phone will restart in Safe Mode.
+4. Your phone will restart in Safe Mode.
 
 Once in Safe Mode, you may be able to access your device without the third-party lock screen. From there, you can uninstall the problematic app and regain full access to your phone.
 
@@ -110,11 +110,11 @@ When all else fails, you might consider using specialized unlocking software. To
 
 These tools typically work by:
 
-- Downloading and installing the software on your computer.
+1. Downloading and installing the software on your computer.
 
-- Connecting your locked phone to the computer via USB.
+2. Connecting your locked phone to the computer via USB.
 
-- Following the on-screen instructions to unlock your device.
+3. Following the on-screen instructions to unlock your device.
 
 While these tools can be effective, it’s important to choose reputable software and be aware that some may require payment for full functionality.
 

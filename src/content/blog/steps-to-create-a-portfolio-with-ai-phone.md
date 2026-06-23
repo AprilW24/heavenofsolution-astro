@@ -18,25 +18,25 @@ Templates come ready with grids for projects, photos, case studies, and even *co
 
 ## Step-by-Step to Making Your AI Portfolio on Mobile
 
-- Open your chosen portfolio app (like Canva, Wix, or Visme) on your phone.
+1. Open your chosen portfolio app (like Canva, Wix, or Visme) on your phone.
 
-- Tap “Create New” or the plus icon to begin a project.
+2. Tap “Create New” or the plus icon to begin a project.
 
-- Search for or pick a portfolio template that fits your style.
+3. Search for or pick a portfolio template that fits your style.
 
-- Use the artificial intelligence tool if your app suggests it, usually by selecting “Generate with AI” or similar.
+4. Use the artificial intelligence tool if your app suggests it, usually by selecting “Generate with AI” or similar.
 
-- At the AI prompt, describe who you are and what the portfolio is for (for example, “A digital illustrator showing *anime*-inspired art and past commissions”).
+5. At the AI prompt, describe who you are and what the portfolio is for (for example, “A digital illustrator showing *anime*-inspired art and past commissions”).
 
-- Upload your main images, project files, or links using the mobile menu.
+6. Upload your main images, project files, or links using the mobile menu.
 
-- Edit and arrange your sections, changing colors and fonts if needed.
+7. Edit and arrange your sections, changing colors and fonts if needed.
 
-- Fill in your *bio* and *contact* details with your own info.
+8. Fill in your *bio* and *contact* details with your own info.
 
-- Preview the final look to check for typos or missing uploads.
+9. Preview the final look to check for typos or missing uploads.
 
-- Publish and share your new portfolio link anywhere you like!
+10. Publish and share your new portfolio link anywhere you like!
 
 ## Breaking Down the Best Prompt to Get Great Results from AI
 

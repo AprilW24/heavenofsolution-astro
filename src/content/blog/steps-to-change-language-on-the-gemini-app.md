@@ -24,25 +24,25 @@ There’s also a secondary language option for speech, which is a newer feature.
 
 This is the fastest way to do it on Android, straight from inside the app with no extra detours. 📱
 
-- Open the Gemini app on your Android phone or tablet.
+1. Open the Gemini app on your Android phone or tablet.
 
-- Tap your profile picture or initial at the top right corner of the screen.
+2. Tap your profile picture or initial at the top right corner of the screen.
 
-- Tap “Settings” from the account menu that pops up.
+3. Tap “Settings” from the account menu that pops up.
 
-- Scroll down and tap “Languages.”
+4. Scroll down and tap “Languages.”
 
-- Tap the language currently shown to open the full list of supported options.
+5. Tap the language currently shown to open the full list of supported options.
 
-- Scroll through the list and tap your preferred language.
+6. Scroll through the list and tap your preferred language.
 
-- Confirm your selection if the app prompts you with a dialog box.
+7. Confirm your selection if the app prompts you with a dialog box.
 
-- Close the Gemini app completely by swiping it away from your recent apps.
+8. Close the Gemini app completely by swiping it away from your recent apps.
 
-- Reopen the Gemini app so the language change takes full effect.
+9. Reopen the Gemini app so the language change takes full effect.
 
-- Optionally, head back to “Languages” and tap “Second language (speech only)” to add a secondary voice language if you’re multilingual.
+10. Optionally, head back to “Languages” and tap “Second language (speech only)” to add a secondary voice language if you’re multilingual.
 
 ## How to Change Gemini Language on iPhone and the Web Browser
 

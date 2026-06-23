@@ -18,65 +18,65 @@ While Canva Free doesn’t have a dedicated rainbow text tool, we can use creati
 
 ### Step 1: Set Up Your Design
 
-- Open Canva and sign in to your free account.
+1. Open Canva and sign in to your free account.
 
-- Click on the “Create a design” button in the top right corner.
+2. Click on the “Create a design” button in the top right corner.
 
-- Choose the type of design you want to create (e.g., Instagram post, poster, or custom dimensions).
+3. Choose the type of design you want to create (e.g., Instagram post, poster, or custom dimensions).
 
 ### Step 2: Add Your Text
 
-- Once your design canvas is open, click on the “Text” option in the left sidebar.
+1. Once your design canvas is open, click on the “Text” option in the left sidebar.
 
-- Choose “Add a heading” or “Add a subheading” depending on your preference.
+2. Choose “Add a heading” or “Add a subheading” depending on your preference.
 
-- Type your desired text into the text box that appears on the canvas.
+3. Type your desired text into the text box that appears on the canvas.
 
 ### Step 3: Duplicate the Text
 
-- Select your text box by clicking on it.
+1. Select your text box by clicking on it.
 
-- Press Ctrl+C (Windows) or Cmd+C (Mac) to copy the text.
+2. Press Ctrl+C (Windows) or Cmd+C (Mac) to copy the text.
 
-- Press Ctrl+V (Windows) or Cmd+V (Mac) to paste a duplicate of the text.
+3. Press Ctrl+V (Windows) or Cmd+V (Mac) to paste a duplicate of the text.
 
-- Repeat this process until you have as many copies of the text as colors you want in your rainbow effect (typically 5-7 copies).
+4. Repeat this process until you have as many copies of the text as colors you want in your rainbow effect (typically 5-7 copies).
 
 ### Step 4: Apply Colors to Each Text Layer
 
-- Select the topmost text layer.
+1. Select the topmost text layer.
 
-- Click on the color swatch in the top toolbar.
+2. Click on the color swatch in the top toolbar.
 
-- Choose a color from the palette or enter a custom hex code for your first rainbow color.
+3. Choose a color from the palette or enter a custom hex code for your first rainbow color.
 
-- Repeat this process for each text layer, selecting a different color of the rainbow for each one.
+4. Repeat this process for each text layer, selecting a different color of the rainbow for each one.
 
 ### Step 5: Align and Offset the Text Layers
 
-- Select all text layers by holding Shift and clicking on each layer.
+1. Select all text layers by holding Shift and clicking on each layer.
 
-- Use the alignment tools in the top toolbar to center the text horizontally and vertically.
+2. Use the alignment tools in the top toolbar to center the text horizontally and vertically.
 
-- Starting with the bottom layer, slightly offset each text layer by using the arrow keys or dragging with your mouse.
+3. Starting with the bottom layer, slightly offset each text layer by using the arrow keys or dragging with your mouse.
 
-- Adjust the spacing between layers to create a subtle 3D effect.
+4. Adjust the spacing between layers to create a subtle 3D effect.
 
 ### Step 6: Fine-tune Your Rainbow Text
 
-- Experiment with different fonts to find one that works well with the rainbow effect.
+1. Experiment with different fonts to find one that works well with the rainbow effect.
 
-- Adjust the size of your text to fit your design.
+2. Adjust the size of your text to fit your design.
 
-- Consider adding a drop shadow or outline to make your text pop even more.
+3. Consider adding a drop shadow or outline to make your text pop even more.
 
 ### Step 7: Enhance Your Design (Optional)
 
-- Add complementary elements or backgrounds to your design.
+1. Add complementary elements or backgrounds to your design.
 
-- Experiment with the opacity of each text layer for a more subtle effect.
+2. Experiment with the opacity of each text layer for a more subtle effect.
 
-- Try different color combinations to create unique rainbow patterns.
+3. Try different color combinations to create unique rainbow patterns.
 
 ## Tips for Creating Stunning Rainbow Letters
 

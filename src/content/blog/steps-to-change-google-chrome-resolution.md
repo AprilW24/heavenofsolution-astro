@@ -16,15 +16,15 @@ One of the easiest ways to change how websites appear in Chrome is by adjusting 
 
 Here’s how to adjust text scaling in Chrome for Android:
 
-- Open the Chrome app on your Android device.
+1. Open the Chrome app on your Android device.
 
-- Tap the three-dot menu icon in the top-right corner.
+2. Tap the three-dot menu icon in the top-right corner.
 
-- Select **Settings** from the dropdown menu.
+3. Select **Settings** from the dropdown menu.
 
-- Scroll down and tap on **Accessibility**.
+4. Scroll down and tap on **Accessibility**.
 
-- Under the **Text scaling** section, use the slider to adjust the text size.
+5. Under the **Text scaling** section, use the slider to adjust the text size.
 
 As you move the slider, you’ll see a preview of how the text will appear. Experiment with different settings until you find a comfortable text size for your eyes.
 
@@ -36,25 +36,25 @@ Chrome for Android also offers a Page Zoom feature that allows you to zoom in or
 
 To use Page Zoom:
 
-- Open Chrome on your Android device.
+1. Open Chrome on your Android device.
 
-- Navigate to any web page.
+2. Navigate to any web page.
 
-- Tap the three-dot menu icon.
+3. Tap the three-dot menu icon.
 
-- Select **Zoom** from the menu.
+4. Select **Zoom** from the menu.
 
-- Use the slider that appears at the bottom of the screen to zoom in or out on the page.
+5. Use the slider that appears at the bottom of the screen to zoom in or out on the page.
 
 You can also set Page Zoom to apply to all webpages:
 
-- Open Chrome settings as described earlier.
+1. Open Chrome settings as described earlier.
 
-- Tap on **Accessibility**.
+2. Tap on **Accessibility**.
 
-- Turn on the **Show Zoom** option.
+3. Turn on the **Show Zoom** option.
 
-- Exit settings and use the zoom slider that now appears in the main menu.
+4. Exit settings and use the zoom slider that now appears in the main menu.
 
 This method is particularly useful when you need to adjust the entire page layout, not just the text size.
 
@@ -64,11 +64,11 @@ Sometimes, mobile versions of websites may not display properly or may lack cert
 
 To enable desktop site view:
 
-- Open Chrome and navigate to the desired website.
+1. Open Chrome and navigate to the desired website.
 
-- Tap the three-dot menu icon.
+2. Tap the three-dot menu icon.
 
-- Check the box next to **Desktop site**.
+3. Check the box next to **Desktop site**.
 
 The page will reload, displaying the desktop version of the website. Keep in mind that this may require more scrolling and zooming on your mobile device.
 
@@ -78,13 +78,13 @@ Your Android device’s display settings can also affect how Chrome renders web 
 
 To modify your device’s display settings:
 
-- Open your Android device’s Settings app.
+1. Open your Android device’s Settings app.
 
-- Tap on **Display**.
+2. Tap on **Display**.
 
-- Look for options like **Font size**, **Display size**, or **Screen zoom**.
+3. Look for options like **Font size**, **Display size**, or **Screen zoom**.
 
-- Adjust these settings to your preference.
+4. Adjust these settings to your preference.
 
 Changes made here will affect not just Chrome but all apps on your device. Experiment with different settings to find the best balance for your needs.
 
@@ -94,11 +94,11 @@ For a cleaner reading experience, especially on text-heavy websites, you can use
 
 To use Reader Mode:
 
-- Open a web page in Chrome.
+1. Open a web page in Chrome.
 
-- Look for a **Reader mode available** pop-up at the bottom of the screen.
+2. Look for a **Reader mode available** pop-up at the bottom of the screen.
 
-- Tap **Reader mode** to activate it.
+3. Tap **Reader mode** to activate it.
 
 If you don’t see the pop-up, Reader Mode may not be available for that particular page.
 
@@ -108,15 +108,15 @@ Sometimes, accumulated browser data can affect Chrome’s performance and how it
 
 To clear Chrome’s browser data:
 
-- Open Chrome settings.
+1. Open Chrome settings.
 
-- Tap on **Privacy and security**.
+2. Tap on **Privacy and security**.
 
-- Select **Clear browsing data**.
+3. Select **Clear browsing data**.
 
-- Choose the time range and types of data you want to clear.
+4. Choose the time range and types of data you want to clear.
 
-- Tap **Clear data**.
+5. Tap **Clear data**.
 
 After clearing the data, restart Chrome and check if the display issues have been resolved.
 
@@ -126,21 +126,21 @@ Keeping both Chrome and your Android operating system up to date can help ensure
 
 To update Chrome:
 
-- Open the Google Play Store.
+1. Open the Google Play Store.
 
-- Search for **Google Chrome**.
+2. Search for **Google Chrome**.
 
-- If an update is available, tap **Update**.
+3. If an update is available, tap **Update**.
 
 To update your Android OS:
 
-- Open your device’s Settings app.
+1. Open your device’s Settings app.
 
-- Scroll down and tap **System** or **About phone**.
+2. Scroll down and tap **System** or **About phone**.
 
-- Look for **System updates** or **Software update**.
+3. Look for **System updates** or **Software update**.
 
-- Follow the prompts to check for and install any available updates.
+4. Follow the prompts to check for and install any available updates.
 
 Regular updates can improve Chrome’s rendering capabilities and fix known display issues.
 
@@ -150,13 +150,13 @@ For more advanced users, Chrome offers experimental features called **flags** th
 
 To access Chrome flags:
 
-- Open Chrome and type **chrome://flags** in the address bar.
+1. Open Chrome and type **chrome://flags** in the address bar.
 
-- Use the search box to find specific flags related to display or performance.
+2. Use the search box to find specific flags related to display or performance.
 
-- Enable or disable flags as needed.
+3. Enable or disable flags as needed.
 
-- Restart Chrome for the changes to take effect.
+4. Restart Chrome for the changes to take effect.
 
 Some flags that might be relevant to display settings include:
 

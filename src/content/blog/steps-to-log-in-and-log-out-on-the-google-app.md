@@ -14,23 +14,23 @@ Figuring out the login process or getting your account off your device can seem 
 
 Signing in is quick if you’ve got your info ready. Here’s how you do it:
 
-- Open the Google app on your phone.
+1. Open the Google app on your phone.
 
-- Tap your profile icon at the top right.
+2. Tap your profile icon at the top right.
 
-- Pick “**Add another account**“.
+3. Pick “**Add another account**“.
 
-- Enter your *email* or *phone number* (you can sign in with either).
+4. Enter your *email* or *phone number* (you can sign in with either).
 
-- Tap “**Next**“.
+5. Tap “**Next**“.
 
-- Type your password.
+6. Type your password.
 
-- Confirm any security prompts that appear.
+7. Confirm any security prompts that appear.
 
-- Agree to the terms on the screen.
+8. Agree to the terms on the screen.
 
-- You’re signed in and ready to use the app.
+9. You’re signed in and ready to use the app.
 
 ## How to Log Out Using Google App Settings on Mobile
 

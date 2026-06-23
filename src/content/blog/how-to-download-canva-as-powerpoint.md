@@ -16,33 +16,33 @@ Before we dive into the step-by-step process, it’s important to understand the
 
 Let’s break down the process into manageable steps:
 
-- **Exporting Regular Slides from Canva**
+1. **Exporting Regular Slides from Canva**
 
-- **Exporting Animated Slides from Canva**
+2. **Exporting Animated Slides from Canva**
 
-- **Creating a New PowerPoint Presentation**
+3. **Creating a New PowerPoint Presentation**
 
-- **Inserting Regular Slides into PowerPoint**
+4. **Inserting Regular Slides into PowerPoint**
 
-- **Adding Animated Slides to PowerPoint**
+5. **Adding Animated Slides to PowerPoint**
 
-- **Fine-tuning Your Presentation**
+6. **Fine-tuning Your Presentation**
 
 ### 1. Exporting Regular Slides from Canva
 
 First, let’s export the non-animated slides from your Canva presentation:
 
-- Open your Canva presentation.
+1. Open your Canva presentation.
 
-- Click on the “Share” button in the top right corner of the Canva toolbar.
+2. Click on the “Share” button in the top right corner of the Canva toolbar.
 
-- In the dropdown menu, click on “More” and then select “Save.”
+3. In the dropdown menu, click on “More” and then select “Save.”
 
-- Scroll down until you find the “Microsoft PowerPoint” option and click on it.
+4. Scroll down until you find the “Microsoft PowerPoint” option and click on it.
 
-- Choose the slides you want to export, making sure to uncheck any slides with animations.
+5. Choose the slides you want to export, making sure to uncheck any slides with animations.
 
-- Click “Done” and then “Download” to save the PowerPoint file to your device.
+6. Click “Done” and then “Download” to save the PowerPoint file to your device.
 
 This process will give you a PowerPoint file containing all your non-animated slides, preserving the layout and design elements.
 
@@ -50,17 +50,17 @@ This process will give you a PowerPoint file containing all your non-animated sl
 
 Now, let’s tackle those animated slides:
 
-- In your Canva presentation, identify the slides with animations.
+1. In your Canva presentation, identify the slides with animations.
 
-- For each animated slide, click on the “Share” button.
+2. For each animated slide, click on the “Share” button.
 
-- Choose “Download” from the options.
+3. Choose “Download” from the options.
 
-- In the file type options, select “GIF.”
+4. In the file type options, select “GIF.”
 
-- Choose the specific page you want to export as a GIF.
+5. Choose the specific page you want to export as a GIF.
 
-- Click “Done” and then “Download” to save the GIF file.
+6. Click “Done” and then “Download” to save the GIF file.
 
 Repeat this process for each animated slide in your presentation. You’ll end up with a collection of GIF files, each representing an animated slide from your Canva presentation.
 
@@ -68,11 +68,11 @@ Repeat this process for each animated slide in your presentation. You’ll end u
 
 With your exported files ready, it’s time to create a new PowerPoint presentation:
 
-- Open Microsoft PowerPoint.
+1. Open Microsoft PowerPoint.
 
-- Start a new blank presentation.
+2. Start a new blank presentation.
 
-- Remove any default slides that PowerPoint automatically adds.
+3. Remove any default slides that PowerPoint automatically adds.
 
 You now have a clean slate to work with, ready for your Canva-created content.
 
@@ -80,13 +80,13 @@ You now have a clean slate to work with, ready for your Canva-created content.
 
 Let’s begin by adding your non-animated slides:
 
-- In PowerPoint, go to the “Insert” tab.
+1. In PowerPoint, go to the “Insert” tab.
 
-- Click on “New Slide” and choose “Slides from Files.”
+2. Click on “New Slide” and choose “Slides from Files.”
 
-- Navigate to and select the PowerPoint file you exported from Canva containing your regular slides.
+3. Navigate to and select the PowerPoint file you exported from Canva containing your regular slides.
 
-- Choose which slides you want to insert and click “Insert.”
+4. Choose which slides you want to insert and click “Insert.”
 
 These slides should now appear in your PowerPoint presentation, maintaining their original design and layout.
 
@@ -94,13 +94,13 @@ These slides should now appear in your PowerPoint presentation, maintaining thei
 
 Now for the exciting part – adding your animated slides:
 
-- In PowerPoint, create a new blank slide where you want to insert an animated slide.
+1. In PowerPoint, create a new blank slide where you want to insert an animated slide.
 
-- Go to the “Insert” tab and select “Pictures” > “This Device.”
+2. Go to the “Insert” tab and select “Pictures” > “This Device.”
 
-- Navigate to and select the GIF file of your animated slide.
+3. Navigate to and select the GIF file of your animated slide.
 
-- Once inserted, resize the GIF to fill the entire slide if necessary.
+4. Once inserted, resize the GIF to fill the entire slide if necessary.
 
 Repeat this process for each of your animated slides, inserting them in the appropriate order within your presentation.
 

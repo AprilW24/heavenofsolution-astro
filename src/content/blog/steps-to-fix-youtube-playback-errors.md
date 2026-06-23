@@ -14,23 +14,23 @@ One of the most common causes of YouTube playback errors is a weak or unstable i
 
 Here’s how to check your internet connection:
 
-- Open your device’s Settings app.
+1. Open your device’s Settings app.
 
-- Tap on **Wi-Fi** or **Mobile network** to verify that you’re connected to a network.
+2. Tap on **Wi-Fi** or **Mobile network** to verify that you’re connected to a network.
 
-- If you’re using Wi-Fi, try turning it off and switching to mobile data, or vice versa.
+3. If you’re using Wi-Fi, try turning it off and switching to mobile data, or vice versa.
 
-- Perform a speed test using a reliable app or website to check if your internet speed is sufficient for streaming videos.
+4. Perform a speed test using a reliable app or website to check if your internet speed is sufficient for streaming videos.
 
 ## Step 2: Restart the YouTube App
 
 Sometimes, a simple restart of the YouTube app can resolve playback errors. Here’s how to do it:
 
-- Open your device’s recent apps menu (usually by tapping the square or three vertical lines button).
+1. Open your device’s recent apps menu (usually by tapping the square or three vertical lines button).
 
-- Swipe the YouTube app card to close it completely.
+2. Swipe the YouTube app card to close it completely.
 
-- Relaunch the YouTube app from your app drawer or home screen.
+3. Relaunch the YouTube app from your app drawer or home screen.
 
 If restarting the app doesn’t help, move on to the next step.
 
@@ -40,13 +40,13 @@ Using an outdated version of the YouTube app can lead to compatibility issues an
 
 Here’s how to update the YouTube app:
 
-- Open the Google Play Store app on your Android device.
+1. Open the Google Play Store app on your Android device.
 
-- Tap on the three horizontal lines icon to open the menu.
+2. Tap on the three horizontal lines icon to open the menu.
 
-- Select **My apps & games**.
+3. Select **My apps & games**.
 
-- Look for YouTube in the list of apps and tap on **Update** if an update is available.
+4. Look for YouTube in the list of apps and tap on **Update** if an update is available.
 
 After updating the app, open YouTube and try playing a video to see if the error persists.
 
@@ -56,15 +56,15 @@ Over time, the YouTube app accumulates cache and data that can cause performance
 
 Here’s how to clear YouTube app cache and data:
 
-- Go to your device’s Settings app.
+1. Go to your device’s Settings app.
 
-- Tap on **Apps & notifications** or **Application Manager**.
+2. Tap on **Apps & notifications** or **Application Manager**.
 
-- Find and tap on the YouTube app.
+3. Find and tap on the YouTube app.
 
-- Tap on **Storage**.
+4. Tap on **Storage**.
 
-- Tap on **Clear cache** and then **Clear data** or **Clear storage**.
+5. Tap on **Clear cache** and then **Clear data** or **Clear storage**.
 
 Note that clearing data will sign you out of the YouTube app, and you’ll need to sign in again.
 
@@ -74,11 +74,11 @@ If the previous steps haven’t resolved the YouTube playback error, try restart
 
 To restart your Android device:
 
-- Press and hold the power button until the power menu appears.
+1. Press and hold the power button until the power menu appears.
 
-- Tap on **Restart** or **Reboot**.
+2. Tap on **Restart** or **Reboot**.
 
-- Wait for your device to restart completely, then launch the YouTube app and try playing a video.
+3. Wait for your device to restart completely, then launch the YouTube app and try playing a video.
 
 ## Step 6: Check YouTube Server Status
 

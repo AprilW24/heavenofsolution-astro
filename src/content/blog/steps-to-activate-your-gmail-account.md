@@ -40,11 +40,11 @@ On the next screen, you’ll be asked to select the type of account you want to 
 
 You will now be prompted to enter your Gmail account credentials:
 
-- In the **Email** field, type in your full Gmail address (e.g. [[email protected]](/cdn-cgi/l/email-protection))
+1. In the **Email** field, type in your full Gmail address (e.g. [[email protected]](/cdn-cgi/l/email-protection))
 
-- In the **Password** field, enter the password associated with your Gmail account
+2. In the **Password** field, enter the password associated with your Gmail account
 
-- Tap the **Sign in** button to proceed
+3. Tap the **Sign in** button to proceed
 
 If you have two-factor authentication enabled on your account, you may be asked to enter an additional code for verification purposes. Follow the on-screen instructions if this applies to you.
 

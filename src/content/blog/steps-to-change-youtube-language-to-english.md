@@ -18,21 +18,21 @@ Before we dive into the steps, it’s important to understand how YouTube handle
 
 For Android users, the process of changing YouTube’s language involves adjusting your device’s language settings. Here’s how you can do it:
 
-- **Open your device’s Settings app**: This is usually represented by a gear icon on your home screen or in your app drawer.
+1. **Open your device’s Settings app**: This is usually represented by a gear icon on your home screen or in your app drawer.
 
-- **Navigate to System settings**: Scroll down and tap on “System” or “General Management,” depending on your Android version and device manufacturer.
+2. **Navigate to System settings**: Scroll down and tap on “System” or “General Management,” depending on your Android version and device manufacturer.
 
-- **Find Language & Input options**: Within the System settings, look for an option labeled “Language & Input” or simply “Language.”
+3. **Find Language & Input options**: Within the System settings, look for an option labeled “Language & Input” or simply “Language.”
 
-- **Select Language**: Tap on “Language” to see a list of available languages.
+4. **Select Language**: Tap on “Language” to see a list of available languages.
 
-- **Choose English**: Scroll through the list and select “English” or “English (United States)” if you prefer American English.
+5. **Choose English**: Scroll through the list and select “English” or “English (United States)” if you prefer American English.
 
-- **Confirm your selection**: Your device may ask you to confirm the language change. Tap “Yes” or “Confirm” to proceed.
+6. **Confirm your selection**: Your device may ask you to confirm the language change. Tap “Yes” or “Confirm” to proceed.
 
-- **Restart your device**: For the changes to take effect fully, it’s recommended to restart your Android device.
+7. **Restart your device**: For the changes to take effect fully, it’s recommended to restart your Android device.
 
-- **Open YouTube**: Once your device restarts, open the YouTube app. It should now display in English.
+8. **Open YouTube**: Once your device restarts, open the YouTube app. It should now display in English.
 
 **Note**: If YouTube doesn’t immediately change to English, force stop the app and clear its cache. You can do this by going to Settings > Apps > YouTube > Force Stop, then Clear Cache.
 
@@ -40,21 +40,21 @@ For Android users, the process of changing YouTube’s language involves adjusti
 
 For iPhone and iPad users, the process is similar to Android, as it also involves changing your device’s language settings:
 
-- **Open the Settings app**: Tap the gear icon on your home screen.
+1. **Open the Settings app**: Tap the gear icon on your home screen.
 
-- **Scroll down and tap General**: This option is usually about halfway down the settings menu.
+2. **Scroll down and tap General**: This option is usually about halfway down the settings menu.
 
-- **Select Language & Region**: This option manages your device’s language settings.
+3. **Select Language & Region**: This option manages your device’s language settings.
 
-- **Tap iPhone/iPad Language**: You’ll see a list of available languages.
+4. **Tap iPhone/iPad Language**: You’ll see a list of available languages.
 
-- **Choose English**: Select “English” or “English (US)” from the list.
+5. **Choose English**: Select “English” or “English (US)” from the list.
 
-- **Confirm the change**: Tap “Change to English” in the pop-up window.
+6. **Confirm the change**: Tap “Change to English” in the pop-up window.
 
-- **Wait for the change to apply**: Your device will take a moment to switch languages.
+7. **Wait for the change to apply**: Your device will take a moment to switch languages.
 
-- **Open YouTube**: Launch the YouTube app, and it should now be in English.
+8. **Open YouTube**: Launch the YouTube app, and it should now be in English.
 
 **Important**: Changing your device language will affect all apps on your iPhone or iPad, not just YouTube.
 
@@ -62,19 +62,19 @@ For iPhone and iPad users, the process is similar to Android, as it also involve
 
 If changing your device’s language isn’t ideal, you can try changing your YouTube location instead. This method doesn’t directly change the language, but it can often result in English becoming the default:
 
-- **Open the YouTube app** on your phone.
+1. **Open the YouTube app** on your phone.
 
-- **Tap your profile picture** in the top right corner.
+2. **Tap your profile picture** in the top right corner.
 
-- **Go to Settings**: Scroll down and tap on “Settings.”
+3. **Go to Settings**: Scroll down and tap on “Settings.”
 
-- **Select General**: This option contains various general settings for the app.
+4. **Select General**: This option contains various general settings for the app.
 
-- **Tap on Location**: You’ll see a list of countries.
+5. **Tap on Location**: You’ll see a list of countries.
 
-- **Choose a primarily English-speaking country**: Select countries like the United States, United Kingdom, or Australia.
+6. **Choose a primarily English-speaking country**: Select countries like the United States, United Kingdom, or Australia.
 
-- **Restart the app**: Force close YouTube and reopen it to see if the language has changed to English.
+7. **Restart the app**: Force close YouTube and reopen it to see if the language has changed to English.
 
 ## Troubleshooting Tips
 

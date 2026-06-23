@@ -18,15 +18,15 @@ If you’re no longer using Canva or want to free up space on your device, unins
 
 Before you start uninstalling the Canva app, make sure you’re logged out of your account and have saved any important work. This ensures that your data is secure and accessible even after the app is removed. Now, let’s dive into the steps:
 
-- **Open Settings**: Go to your phone’s settings app.
+1. **Open Settings**: Go to your phone’s settings app.
 
-- **Find Apps**: Look for the “Apps” or “Applications” section and tap on it.
+2. **Find Apps**: Look for the “Apps” or “Applications” section and tap on it.
 
-- **Select Canva**: Scroll through the list of installed apps and find Canva.
+3. **Select Canva**: Scroll through the list of installed apps and find Canva.
 
-- **Uninstall**: Tap on Canva and select “Uninstall” to remove the app from your device.
+4. **Uninstall**: Tap on Canva and select “Uninstall” to remove the app from your device.
 
-- **Confirm**: You might be prompted to confirm the uninstallation; tap “Uninstall” again to proceed.
+5. **Confirm**: You might be prompted to confirm the uninstallation; tap “Uninstall” again to proceed.
 
 If Canva has administrative privileges, you’ll need to revoke them first:
 

@@ -12,11 +12,11 @@ Snapchat is known for its disappearing messages, but sometimes you may want to d
 
 The easiest way to delete a Snapchat message is to **unsend** it before the recipient opens it:
 
-- Press and hold on the message you want to delete
+1. Press and hold on the message you want to delete
 
-- Select the **Delete** option that appears
+2. Select the **Delete** option that appears
 
-- Confirm you want to delete the message
+3. Confirm you want to delete the message
 
 This will remove the message from both your device and the recipient’s device. However, there are some limitations:
 
@@ -30,13 +30,13 @@ This will remove the message from both your device and the recipient’s device.
 
 Another method is to clear the entire conversation history with that person. This removes all messages exchanged:
 
-- Swipe left on the conversation
+1. Swipe left on the conversation
 
-- Tap the gear icon that appears
+2. Tap the gear icon that appears
 
-- Select **Clear Conversation**
+3. Select **Clear Conversation**
 
-- Confirm you want to delete the conversation
+4. Confirm you want to delete the conversation
 
 Clearing the conversation deletes messages from both your device and the recipient’s. But keep in mind:
 
@@ -48,13 +48,13 @@ Clearing the conversation deletes messages from both your device and the recipie
 
 If you want to cut off contact with the person entirely, you can block them and then delete the conversation:
 
-- Go to your Friends screen and find their name
+1. Go to your Friends screen and find their name
 
-- Tap and hold on their name
+2. Tap and hold on their name
 
-- Select **More** and then **Block**
+3. Select **More** and then **Block**
 
-- Go back to the conversation and clear the history using the steps above
+4. Go back to the conversation and clear the history using the steps above
 
 Blocking someone removes them from your friends list and prevents any further interaction. Combined with deleting the chat history, the conversation will essentially disappear.
 
@@ -74,10 +74,10 @@ However, blocking someone is a drastic step and they will likely realize you blo
 
 In summary, to delete Snapchat messages without the other person knowing:
 
-- Unsend unopened messages by pressing and holding on the message
+1. Unsend unopened messages by pressing and holding on the message
 
-- Clear the entire conversation history by going into the chat settings
+2. Clear the entire conversation history by going into the chat settings
 
-- Block the person if you want to prevent further contact, then delete the chat
+3. Block the person if you want to prevent further contact, then delete the chat
 
 Remember that these methods aren’t foolproof. Snapchat data practices, screenshots, and quick-acting recipients mean your messages aren’t 100% erasable. The best practice is to think before you send. But when you need to delete messages, these techniques can help minimize the other person’s awareness.

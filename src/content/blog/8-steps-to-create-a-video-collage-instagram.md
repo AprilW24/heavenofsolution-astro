@@ -16,15 +16,15 @@ Instagram offers several ways to create video collages directly within the app. 
 
 The Layout feature is a simple yet effective tool for creating basic video collages:
 
-- Open Instagram and swipe right to access the Story camera.
+1. Open Instagram and swipe right to access the Story camera.
 
-- Look for the “Layout” option at the bottom of the screen and tap it.
+2. Look for the “Layout” option at the bottom of the screen and tap it.
 
-- Choose your preferred grid layout from the options provided.
+3. Choose your preferred grid layout from the options provided.
 
-- Fill each grid section with a video by either recording new clips or selecting from your gallery.
+4. Fill each grid section with a video by either recording new clips or selecting from your gallery.
 
-- Once all sections are filled, tap the checkmark to proceed to the editing screen.
+5. Once all sections are filled, tap the checkmark to proceed to the editing screen.
 
 This method is quick and straightforward, perfect for creating simple collages on the go. However, it does have limitations in terms of customization and the number of videos you can include.
 
@@ -32,15 +32,15 @@ This method is quick and straightforward, perfect for creating simple collages o
 
 For a more flexible approach, you can use the Photo Gallery sticker to create a custom video collage:
 
-- Start a new Story and select a background (you can use a solid color or an existing image).
+1. Start a new Story and select a background (you can use a solid color or an existing image).
 
-- Tap the sticker icon and select the “Photo Gallery” sticker.
+2. Tap the sticker icon and select the “Photo Gallery” sticker.
 
-- Choose a video from your gallery to add to the Story.
+3. Choose a video from your gallery to add to the Story.
 
-- Resize and position the video as desired.
+4. Resize and position the video as desired.
 
-- Repeat steps 2-4 to add more videos to your collage.
+5. Repeat steps 2-4 to add more videos to your collage.
 
 This method allows for more creativity in terms of video placement and sizing, but it can be more time-consuming than using the Layout feature.
 
@@ -52,21 +52,21 @@ While Instagram’s built-in features are convenient, third-party apps offer mor
 
 InShot is a powerful video editing app that allows for complex video collages:
 
-- Download and open the InShot app.
+1. Download and open the InShot app.
 
-- Tap “Video” and then “New” to start a new project.
+2. Tap “Video” and then “New” to start a new project.
 
-- Select “Blank video” and choose your preferred aspect ratio (9:16 for Instagram Stories).
+3. Select “Blank video” and choose your preferred aspect ratio (9:16 for Instagram Stories).
 
-- Tap the “+” icon to add your first video.
+4. Tap the “+” icon to add your first video.
 
-- Use the “PiP” (Picture-in-Picture) feature to add additional videos.
+5. Use the “PiP” (Picture-in-Picture) feature to add additional videos.
 
-- Arrange and resize the videos as desired.
+6. Arrange and resize the videos as desired.
 
-- Add transitions, effects, or text if needed.
+7. Add transitions, effects, or text if needed.
 
-- Export your video and save it to your device.
+8. Export your video and save it to your device.
 
 InShot’s strength lies in its ability to layer videos and control their timing, allowing for more dynamic collages.
 
@@ -74,17 +74,17 @@ InShot’s strength lies in its ability to layer videos and control their timing
 
 Canva is an excellent choice for those who want to create visually striking collages with a strong design element:
 
-- Open Canva and select “Instagram Story” as your canvas size.
+1. Open Canva and select “Instagram Story” as your canvas size.
 
-- Choose a video collage template or start from scratch.
+2. Choose a video collage template or start from scratch.
 
-- Upload your videos to Canva.
+3. Upload your videos to Canva.
 
-- Drag and drop your videos into the template or onto the canvas.
+4. Drag and drop your videos into the template or onto the canvas.
 
-- Adjust the layout, add text or graphics if desired.
+5. Adjust the layout, add text or graphics if desired.
 
-- Download your creation as a video file.
+6. Download your creation as a video file.
 
 Canva’s user-friendly interface and vast library of templates make it easy to create professional-looking video collages.
 
@@ -108,15 +108,15 @@ To make your video collages stand out on Instagram Stories, consider these tips:
 
 Once you’ve created your video collage, uploading it to your Instagram Story is straightforward:
 
-- Open Instagram and swipe right to access the Story camera.
+1. Open Instagram and swipe right to access the Story camera.
 
-- Swipe up or tap the gallery icon to access your saved videos.
+2. Swipe up or tap the gallery icon to access your saved videos.
 
-- Select your video collage.
+3. Select your video collage.
 
-- Add any final touches like stickers, text, or drawings if desired.
+4. Add any final touches like stickers, text, or drawings if desired.
 
-- Tap “Send To” and select “Your Story” to publish.
+5. Tap “Send To” and select “Your Story” to publish.
 
 Remember that Instagram Stories have a maximum duration of 15 seconds per segment. If your video collage is longer, it will be automatically split into multiple Story segments.
 

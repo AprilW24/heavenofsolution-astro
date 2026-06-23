@@ -14,13 +14,13 @@ It’s important to note that changing your app store location is not a permanen
 
 Before we dive into the steps, here are a few important points to consider:
 
-- **Payment Methods**: When you change your app store location, you’ll need to provide a valid payment method (credit/debit card or PayPal) associated with the new region. This is necessary for making purchases or subscribing to paid apps and services.
+1. **Payment Methods**: When you change your app store location, you’ll need to provide a valid payment method (credit/debit card or PayPal) associated with the new region. This is necessary for making purchases or subscribing to paid apps and services.
 
-- **Existing Purchases**: Any apps, games, or media content you’ve previously purchased or downloaded from the Google Play Store will remain accessible, even after changing your location. However, you won’t be able to access your existing Google Play balance in the new region.
+2. **Existing Purchases**: Any apps, games, or media content you’ve previously purchased or downloaded from the Google Play Store will remain accessible, even after changing your location. However, you won’t be able to access your existing Google Play balance in the new region.
 
-- **Subscriptions**: If you have any active subscriptions (e.g., streaming services, cloud storage, etc.), they may be affected by the location change. It’s recommended to cancel or pause these subscriptions before proceeding to avoid any potential issues.
+3. **Subscriptions**: If you have any active subscriptions (e.g., streaming services, cloud storage, etc.), they may be affected by the location change. It’s recommended to cancel or pause these subscriptions before proceeding to avoid any potential issues.
 
-- **App Availability**: While changing your app store location grants you access to region-specific apps, some apps or services may still be unavailable due to licensing restrictions or other factors.
+4. **App Availability**: While changing your app store location grants you access to region-specific apps, some apps or services may still be unavailable due to licensing restrictions or other factors.
 
 Now that you’re aware of the considerations, let’s dive into the steps to change your app store location on your Android phone.
 

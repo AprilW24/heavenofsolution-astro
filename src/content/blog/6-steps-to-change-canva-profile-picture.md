@@ -16,29 +16,29 @@ Canva is primarily a design platform, and it doesn’t have a built-in default p
 
 Here are the steps to change your profile picture in Canva on Android:
 
-- **Open Canva App**: Start by opening the Canva app on your Android device.
+1. **Open Canva App**: Start by opening the Canva app on your Android device.
 
-- **Access Profile Settings**: Unfortunately, Canva doesn’t have direct profile settings within the app. You might need to use the web version to manage your profile picture.
+2. **Access Profile Settings**: Unfortunately, Canva doesn’t have direct profile settings within the app. You might need to use the web version to manage your profile picture.
 
-- **Use Web Version**: Open Canva in a web browser on your Android device to access your profile settings.
+3. **Use Web Version**: Open Canva in a web browser on your Android device to access your profile settings.
 
-- **Edit Profile Picture**: Click on your profile picture, then select “Edit Profile Picture” to upload a new image or remove the current one.
+4. **Edit Profile Picture**: Click on your profile picture, then select “Edit Profile Picture” to upload a new image or remove the current one.
 
-- **Remove Current Picture**: If you want to remove your current picture, you might need to upload a blank image or a default placeholder.
+5. **Remove Current Picture**: If you want to remove your current picture, you might need to upload a blank image or a default placeholder.
 
-- **Save Changes**: Once you’ve made your changes, save them to update your profile picture.
+6. **Save Changes**: Once you’ve made your changes, save them to update your profile picture.
 
 ## Creating a Default Profile Picture
 
 If you want a default profile picture, you can create a simple design using Canva’s tools:
 
-- **Open Canva Web Version**: Access Canva through a web browser.
+1. **Open Canva Web Version**: Access Canva through a web browser.
 
-- **Create a New Design**: Choose a square template to create a profile picture.
+2. **Create a New Design**: Choose a square template to create a profile picture.
 
-- **Add a Background**: Select a plain color or a simple design for your background.
+3. **Add a Background**: Select a plain color or a simple design for your background.
 
-- **Save and Upload**: Save your design and upload it as your new profile picture.
+4. **Save and Upload**: Save your design and upload it as your new profile picture.
 
 ## Conclusion
 

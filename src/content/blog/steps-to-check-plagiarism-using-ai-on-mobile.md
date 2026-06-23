@@ -18,25 +18,25 @@ These apps have smart features. I can scan in multiple file formats, check in di
 
 ## Step-by-Step to Check Plagiarism with AI from Your Phone
 
-- Open your chosen app for *plagiat* detection.
+1. Open your chosen app for *plagiat* detection.
 
-- Create a free account or log in if needed.
+2. Create a free account or log in if needed.
 
-- Tap “**Upload**” or “**Paste**” to add your document or text.
+3. Tap “**Upload**” or “**Paste**” to add your document or text.
 
-- Select the language if using *multilingual* content.
+4. Select the language if using *multilingual* content.
 
-- Tap the “**Check Plagiarism**” button.
+5. Tap the “**Check Plagiarism**” button.
 
-- Wait a few seconds for the scan to finish.
+6. Wait a few seconds for the scan to finish.
 
-- Review the highlighted sections that match other sources.
+7. Review the highlighted sections that match other sources.
 
-- Download or save the report, if the app allows that.
+8. Download or save the report, if the app allows that.
 
-- Edit your text to fix any issues flagged as *plagiat*.
+9. Edit your text to fix any issues flagged as *plagiat*.
 
-- Scan again to see if you’re all set.
+10. Scan again to see if you’re all set.
 
 ## Use This Prompt to Check for Plagiarism with AI
 

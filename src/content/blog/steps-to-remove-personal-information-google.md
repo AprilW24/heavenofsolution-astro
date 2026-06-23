@@ -44,15 +44,15 @@ Google has introduced a tool called “Results About You” that makes it easier
 
 To use this tool:
 
-- Go to the Results About You activity page (ensure you’re logged into your Google account)
+1. Go to the Results About You activity page (ensure you’re logged into your Google account)
 
-- Follow the prompts to add your physical addresses, email addresses, and phone numbers
+2. Follow the prompts to add your physical addresses, email addresses, and phone numbers
 
-- Choose how you want to be notified (email or push notification via the Google app)
+3. Choose how you want to be notified (email or push notification via the Google app)
 
-- Wait for Google to generate a report on your personal information appearing in search results
+4. Wait for Google to generate a report on your personal information appearing in search results
 
-- Review the results and select which items you want removed
+5. Review the results and select which items you want removed
 
 This tool not only helps you remove existing information but can also alert you when new personal information appears in search results, allowing you to take quick action.
 
@@ -62,25 +62,25 @@ For a more comprehensive approach or to remove information not covered by the Re
 
 Here’s how:
 
-- Visit Google’s Remove Personal Information page
+1. Visit Google’s Remove Personal Information page
 
-- Click on the “Start removal request” button
+2. Click on the “Start removal request” button
 
-- Select the option that best describes your situation (e.g., “Content contains your personal information”)
+3. Select the option that best describes your situation (e.g., “Content contains your personal information”)
 
-- Choose your country of residence
+4. Choose your country of residence
 
-- Specify the type of personal information you want removed
+5. Specify the type of personal information you want removed
 
-- Provide the URL(s) of the search results containing your information
+6. Provide the URL(s) of the search results containing your information
 
-- Include screenshots of the pages showing your personal information
+7. Include screenshots of the pages showing your personal information
 
-- Add any relevant search terms that lead to these results
+8. Add any relevant search terms that lead to these results
 
-- Fill in your contact details
+9. Fill in your contact details
 
-- Submit the form
+10. Submit the form
 
 Google will review your request and decide whether to remove the information from search results. You’ll receive a confirmation email, and you can monitor the status of your request on the Results About You page.
 
@@ -90,15 +90,15 @@ If the personal information appears on a specific website, it’s often more eff
 
 To do this:
 
-- Look for a “Contact Us” link on the website
+1. Look for a “Contact Us” link on the website
 
-- Search for the website owner’s contact information using WHOIS lookup services
+2. Search for the website owner’s contact information using WHOIS lookup services
 
-- Draft a polite but firm email requesting the removal of your personal information
+3. Draft a polite but firm email requesting the removal of your personal information
 
-- Explain why the information should be removed (e.g., privacy concerns, outdated information)
+4. Explain why the information should be removed (e.g., privacy concerns, outdated information)
 
-- Provide specific URLs of the pages containing your information
+5. Provide specific URLs of the pages containing your information
 
 If the website owner is unresponsive or unwilling to remove the information, you can consider reaching out to the website’s hosting company as an alternative.
 
@@ -108,13 +108,13 @@ If the personal information you want removed is outdated or no longer accurate, 
 
 To use this tool:
 
-- Visit Google’s Outdated Content Removal page
+1. Visit Google’s Outdated Content Removal page
 
-- Enter the URL of the page that has been updated or removed
+2. Enter the URL of the page that has been updated or removed
 
-- Click “Request Removal”
+3. Click “Request Removal”
 
-- Follow the prompts to complete your request
+4. Follow the prompts to complete your request
 
 Google will then review your request and update its search results accordingly.
 

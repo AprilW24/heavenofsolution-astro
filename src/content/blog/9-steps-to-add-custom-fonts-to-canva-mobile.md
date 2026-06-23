@@ -40,39 +40,39 @@ It’s important to note that the ability to upload custom fonts is a feature ex
 
 Now, let’s walk through the process of adding custom fonts to Canva mobile:
 
-- **Open the Canva app**: Launch the Canva app on your mobile device and sign in to your account.
+1. **Open the Canva app**: Launch the Canva app on your mobile device and sign in to your account.
 
-- **Access the Brand Kit**: Tap on the menu icon (usually three horizontal lines) in the top left corner of the screen. From the menu, select “Brand Kit.”
+2. **Access the Brand Kit**: Tap on the menu icon (usually three horizontal lines) in the top left corner of the screen. From the menu, select “Brand Kit.”
 
-- **Select or create a Brand Kit**: If you have multiple Brand Kits, choose the one you want to add the font to. If you don’t have a Brand Kit yet, you can create a new one by tapping the “+” icon.
+3. **Select or create a Brand Kit**: If you have multiple Brand Kits, choose the one you want to add the font to. If you don’t have a Brand Kit yet, you can create a new one by tapping the “+” icon.
 
-- **Navigate to the Fonts section**: In your Brand Kit, scroll down until you find the “Fonts” section.
+4. **Navigate to the Fonts section**: In your Brand Kit, scroll down until you find the “Fonts” section.
 
-- **Upload a new font**: Tap the “+” icon next to “Fonts” or look for an “Upload a font” button. This will open your device’s file browser.
+5. **Upload a new font**: Tap the “+” icon next to “Fonts” or look for an “Upload a font” button. This will open your device’s file browser.
 
-- **Select the font file**: Navigate to the location where you’ve saved your custom font file and select it. Remember, Canva supports OTF, TTF, and WOFF file formats.
+6. **Select the font file**: Navigate to the location where you’ve saved your custom font file and select it. Remember, Canva supports OTF, TTF, and WOFF file formats.
 
-- **Confirm the upload**: Canva may ask you to confirm that you have the right to use the font. Make sure you have proper licensing before proceeding.
+7. **Confirm the upload**: Canva may ask you to confirm that you have the right to use the font. Make sure you have proper licensing before proceeding.
 
-- **Wait for the upload to complete**: The font file will now upload to your Canva account. This may take a few moments depending on the file size and your internet connection.
+8. **Wait for the upload to complete**: The font file will now upload to your Canva account. This may take a few moments depending on the file size and your internet connection.
 
-- **Verify the upload**: Once the upload is complete, you should see your new font listed in the Brand Kit’s font section.
+9. **Verify the upload**: Once the upload is complete, you should see your new font listed in the Brand Kit’s font section.
 
 ## Using Your Newly Uploaded Font
 
 After successfully uploading your custom font, you’re ready to use it in your designs. Here’s how:
 
-- **Create or open a design**: Start a new design or open an existing one in the Canva mobile app.
+1. **Create or open a design**: Start a new design or open an existing one in the Canva mobile app.
 
-- **Add or select text**: Tap the “+” icon to add a new text box, or select an existing text element in your design.
+2. **Add or select text**: Tap the “+” icon to add a new text box, or select an existing text element in your design.
 
-- **Open the font menu**: With the text selected, tap on the current font name at the top of the screen to open the font menu.
+3. **Open the font menu**: With the text selected, tap on the current font name at the top of the screen to open the font menu.
 
-- **Find your custom font**: Your uploaded fonts will appear under a section called “Brand fonts” or “Uploaded fonts.” Scroll through the list to find your newly added font.
+4. **Find your custom font**: Your uploaded fonts will appear under a section called “Brand fonts” or “Uploaded fonts.” Scroll through the list to find your newly added font.
 
-- **Apply the font**: Tap on your custom font to apply it to the selected text.
+5. **Apply the font**: Tap on your custom font to apply it to the selected text.
 
-- **Adjust as needed**: You can now adjust the size, color, and other text properties as you would with any other font in Canva.
+6. **Adjust as needed**: You can now adjust the size, color, and other text properties as you would with any other font in Canva.
 
 ## Tips for Managing Custom Fonts in Canva Mobile
 

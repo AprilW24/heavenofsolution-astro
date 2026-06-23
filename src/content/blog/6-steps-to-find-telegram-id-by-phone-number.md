@@ -46,27 +46,27 @@ To find someone’s Telegram ID using their phone number, you’ll first need to
 
 Here’s how to add a new contact:
 
-- Open your phone’s contacts app
+1. Open your phone’s contacts app
 
-- Tap the “+” or “Add Contact” button
+2. Tap the “+” or “Add Contact” button
 
-- Enter the person’s name and phone number
+3. Enter the person’s name and phone number
 
-- Save the contact
+4. Save the contact
 
 ## Step 3: Sync Contacts with Telegram
 
 Once you’ve added the contact to your phone, you need to ensure Telegram syncs this information:
 
-- Open the Telegram app
+1. Open the Telegram app
 
-- Go to Settings (usually represented by a gear icon)
+2. Go to Settings (usually represented by a gear icon)
 
-- Tap on “Privacy and Security”
+3. Tap on “Privacy and Security”
 
-- Scroll down to “Contacts” and ensure “Sync Contacts” is enabled
+4. Scroll down to “Contacts” and ensure “Sync Contacts” is enabled
 
-- If it wasn’t enabled, toggle it on and wait for Telegram to sync
+5. If it wasn’t enabled, toggle it on and wait for Telegram to sync
 
 ![](/wp-content/uploads/2024/08/HoS_FindTelegramID-1.jpg)
 
@@ -76,33 +76,33 @@ Now that you’ve added the contact and synced your address book, it’s time to
 
 ![](/wp-content/uploads/2024/08/HoS_FindTelegramID.jpg)
 
-- In the Telegram app, tap the search icon or bar (usually at the top of the screen)
+1. In the Telegram app, tap the search icon or bar (usually at the top of the screen)
 
-- Type in the name of the contact you added
+2. Type in the name of the contact you added
 
-- If the person has a Telegram account associated with that phone number, they should appear in the search results
+3. If the person has a Telegram account associated with that phone number, they should appear in the search results
 
 ## Step 5: View the Contact’s Profile
 
 Once you’ve found the contact in your search results, you can view their profile to find their Telegram ID:
 
-- Tap on the contact’s name to open their profile
+1. Tap on the contact’s name to open their profile
 
-- Look for their username, which usually appears below their display name
+2. Look for their username, which usually appears below their display name
 
-- If you can see their username, you’re one step closer to finding their Telegram ID
+3. If you can see their username, you’re one step closer to finding their Telegram ID
 
 ## Step 6: Use a Telegram Bot to Retrieve the ID
 
 While Telegram doesn’t directly display user IDs in profiles, you can use a bot to retrieve this information. One popular bot for this purpose is the “userinfobot”:
 
-- In Telegram, search for “@userinfobot”
+1. In Telegram, search for “@userinfobot”
 
-- Start a chat with the bot by tapping “Start” or sending a message
+2. Start a chat with the bot by tapping “Start” or sending a message
 
-- Forward a message from the contact whose ID you want to find to this bot
+3. Forward a message from the contact whose ID you want to find to this bot
 
-- The bot will reply with information about the user, including their Telegram ID
+4. The bot will reply with information about the user, including their Telegram ID
 
 ## Alternative Methods to Find Telegram IDs
 
@@ -110,27 +110,27 @@ If the above steps don’t work for you, or if you’re looking for other ways t
 
 ### Method 1: Use Telegram’s Web Version
 
-- Log in to Telegram Web (web.telegram.org)
+1. Log in to Telegram Web (web.telegram.org)
 
-- Open a chat with the contact
+2. Open a chat with the contact
 
-- Look at the URL in your browser’s address bar
+3. Look at the URL in your browser’s address bar
 
-- The number at the end of the URL is the user’s Telegram ID
+4. The number at the end of the URL is the user’s Telegram ID
 
 ### Method 2: Export Telegram Data
 
-- Go to Telegram Settings
+1. Go to Telegram Settings
 
-- Select “Privacy and Security”
+2. Select “Privacy and Security”
 
-- Scroll down and click on “Data Settings”
+3. Scroll down and click on “Data Settings”
 
-- Choose “Export Telegram Data”
+4. Choose “Export Telegram Data”
 
-- Select the types of data you want to export (ensure “Contacts” is selected)
+5. Select the types of data you want to export (ensure “Contacts” is selected)
 
-- After receiving the export file, open it and search for the contact’s information
+6. After receiving the export file, open it and search for the contact’s information
 
 ### Method 3: Third-Party Websites (Use with Caution)
 

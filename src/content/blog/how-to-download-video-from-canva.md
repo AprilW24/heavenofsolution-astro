@@ -30,13 +30,13 @@ The most straightforward way to remove watermarks from Canva designs is by upgra
 
 ![](/wp-content/uploads/2024/12/HoS_Canva-2.jpg)
 
-- **Upgrade to Canva Pro**: First, you need to subscribe to Canva Pro. This will give you access to all premium content without watermarks.
+1. **Upgrade to Canva Pro**: First, you need to subscribe to Canva Pro. This will give you access to all premium content without watermarks.
 
-- **Create or Edit Your Video**: Open Canva and create a new video project or edit an existing one using the video editor.
+2. **Create or Edit Your Video**: Open Canva and create a new video project or edit an existing one using the video editor.
 
-- **Use Premium Elements**: Ensure that all elements you use in your video are premium and watermark-free.
+3. **Use Premium Elements**: Ensure that all elements you use in your video are premium and watermark-free.
 
-- **Download Your Video**: Once your video is ready, go to the top right corner of the screen, click on **Share**, and then select **Download**. Choose the desired file format, such as MP4.
+4. **Download Your Video**: Once your video is ready, go to the top right corner of the screen, click on **Share**, and then select **Download**. Choose the desired file format, such as MP4.
 
 ### **Workarounds for Free Users**
 
@@ -50,13 +50,13 @@ If you’re using the free version of Canva and want to avoid watermarks without
 
 If you want to download Instagram Reels without the Instagram watermark, Canva provides a convenient solution. Here’s how you can do it:
 
-- **Open Canva**: Start by opening Canva and creating a new project or opening an existing one.
+1. **Open Canva**: Start by opening Canva and creating a new project or opening an existing one.
 
-- **Connect to Instagram**: On the left side of the screen, scroll down to the **Apps** section and search for **Instagram**. Connect your Instagram account to Canva.
+2. **Connect to Instagram**: On the left side of the screen, scroll down to the **Apps** section and search for **Instagram**. Connect your Instagram account to Canva.
 
-- **Import Your Reel**: Once connected, select the Reel you want to download. Canva will import it into your design.
+3. **Import Your Reel**: Once connected, select the Reel you want to download. Canva will import it into your design.
 
-- **Export the Video**: Finally, export the video as an MP4 file. This version will not have the Instagram watermark.
+4. **Export the Video**: Finally, export the video as an MP4 file. This version will not have the Instagram watermark.
 
 ## **Free Video Editing Without Watermarks**
 

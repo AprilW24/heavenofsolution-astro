@@ -18,13 +18,13 @@ Before we dive into the removal process, it’s essential to understand how Face
 
 There are several reasons why you might want to remove tagged posts from your Facebook profile:
 
-- **Privacy concerns**: You may want to limit the information visible on your profile.
+1. **Privacy concerns**: You may want to limit the information visible on your profile.
 
-- **Professional image**: Maintaining a clean and professional online presence can be crucial for career prospects.
+2. **Professional image**: Maintaining a clean and professional online presence can be crucial for career prospects.
 
-- **Decluttering**: Removing old or irrelevant tags can help organize your timeline.
+3. **Decluttering**: Removing old or irrelevant tags can help organize your timeline.
 
-- **Personal preference**: You simply may not want certain content associated with your profile.
+4. **Personal preference**: You simply may not want certain content associated with your profile.
 
 Now that we understand the importance of managing tagged posts, let’s explore the steps to remove them efficiently.
 
@@ -146,15 +146,15 @@ When using browser extensions, exercise caution and review the permissions they 
 
 To maintain better control over your Facebook presence, consider implementing these best practices:
 
-- **Regularly review your Activity Log**: Set aside time periodically to review and manage your tagged posts.
+1. **Regularly review your Activity Log**: Set aside time periodically to review and manage your tagged posts.
 
-- **Be selective about accepting tags**: Don’t feel obligated to accept every tag. Consider the content and its impact on your profile before approving.
+2. **Be selective about accepting tags**: Don’t feel obligated to accept every tag. Consider the content and its impact on your profile before approving.
 
-- **Communicate with friends**: Let your friends know if you prefer not to be tagged in certain types of posts.
+3. **Communicate with friends**: Let your friends know if you prefer not to be tagged in certain types of posts.
 
-- **Use Facebook’s tag review feature**: Enable tag review to approve tags before they appear on your timeline.
+4. **Use Facebook’s tag review feature**: Enable tag review to approve tags before they appear on your timeline.
 
-- **Adjust your privacy settings**: Regularly review and update your privacy settings to maintain control over your Facebook presence.
+5. **Adjust your privacy settings**: Regularly review and update your privacy settings to maintain control over your Facebook presence.
 
 ## Conclusion
 

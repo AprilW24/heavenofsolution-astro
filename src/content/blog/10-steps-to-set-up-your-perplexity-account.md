@@ -16,25 +16,25 @@ Before we dive into the setup process, let’s briefly explore why Perplexity AI
 
 Now, let’s get into the nitty-gritty of setting up your Perplexity account on your Android device. Follow these steps carefully to ensure a smooth setup process:
 
-- **Download the Perplexity AI App**:Open the Google Play Store on your Android device and search for “Perplexity AI.” Look for the official app with the Perplexity logo. Tap “Install” to download and install the app on your device. The app is free to download, so you won’t need to worry about any upfront costs.
+1. **Download the Perplexity AI App**:Open the Google Play Store on your Android device and search for “Perplexity AI.” Look for the official app with the Perplexity logo. Tap “Install” to download and install the app on your device. The app is free to download, so you won’t need to worry about any upfront costs.
 
-- **Launch the App**:Once the installation is complete, tap “Open” in the Play Store or find the Perplexity AI icon on your home screen or app drawer and tap to launch it.
+2. **Launch the App**:Once the installation is complete, tap “Open” in the Play Store or find the Perplexity AI icon on your home screen or app drawer and tap to launch it.
 
-- **Choose Your Sign-Up Method**:When you open the app for the first time, you’ll be presented with several options to create your account. You can choose to sign up using your Google account, Apple ID (if you have one set up on your Android device), or your email address. Select the method that’s most convenient for you.
+3. **Choose Your Sign-Up Method**:When you open the app for the first time, you’ll be presented with several options to create your account. You can choose to sign up using your Google account, Apple ID (if you have one set up on your Android device), or your email address. Select the method that’s most convenient for you.
 
-- **Sign Up with Google**:If you choose to sign up with Google, you’ll be prompted to select the Google account you want to use (if you have multiple accounts on your device). Once you select an account, Perplexity will ask for permission to access certain information. Review the permissions and tap “Allow” if you’re comfortable with them.
+4. **Sign Up with Google**:If you choose to sign up with Google, you’ll be prompted to select the Google account you want to use (if you have multiple accounts on your device). Once you select an account, Perplexity will ask for permission to access certain information. Review the permissions and tap “Allow” if you’re comfortable with them.
 
-- **Sign Up with Email**:If you prefer to use your email, tap the “Continue with email” option. Enter your email address in the provided field and tap “Continue.” Perplexity will send a verification link to your email. Open your email app, find the message from Perplexity, and tap the verification link to confirm your account.
+5. **Sign Up with Email**:If you prefer to use your email, tap the “Continue with email” option. Enter your email address in the provided field and tap “Continue.” Perplexity will send a verification link to your email. Open your email app, find the message from Perplexity, and tap the verification link to confirm your account.
 
-- **Create Your Profile**:After verifying your account, you’ll be asked to create a username and select an avatar. Choose a unique username that represents you and either upload a profile picture or select one of the provided avatars. This step is optional, but it can help personalize your experience.
+6. **Create Your Profile**:After verifying your account, you’ll be asked to create a username and select an avatar. Choose a unique username that represents you and either upload a profile picture or select one of the provided avatars. This step is optional, but it can help personalize your experience.
 
-- **Set Your Preferences**:Perplexity will now guide you through a brief onboarding process where you can set your preferences. This includes choosing topics you’re interested in, setting your preferred language for responses, and deciding whether you want to allow Perplexity to use your data to improve its AI models. Take your time to go through these options and select what works best for you.
+7. **Set Your Preferences**:Perplexity will now guide you through a brief onboarding process where you can set your preferences. This includes choosing topics you’re interested in, setting your preferred language for responses, and deciding whether you want to allow Perplexity to use your data to improve its AI models. Take your time to go through these options and select what works best for you.
 
-- **Explore the Interface**:Once you’ve completed the setup, you’ll be taken to the main interface of the Perplexity app. Take a moment to familiarize yourself with the layout. You’ll see a search bar at the top where you can enter your queries, a “Discover” section with trending topics, and a menu at the bottom for accessing different features of the app.
+8. **Explore the Interface**:Once you’ve completed the setup, you’ll be taken to the main interface of the Perplexity app. Take a moment to familiarize yourself with the layout. You’ll see a search bar at the top where you can enter your queries, a “Discover” section with trending topics, and a menu at the bottom for accessing different features of the app.
 
-- **Try Your First Query**:To get a feel for how Perplexity works, try entering a question in the search bar. Start with something simple like “What’s the weather like today?” or “Who won the last World Cup?” Observe how Perplexity processes your query and provides a detailed answer, often with citations to its sources.
+9. **Try Your First Query**:To get a feel for how Perplexity works, try entering a question in the search bar. Start with something simple like “What’s the weather like today?” or “Who won the last World Cup?” Observe how Perplexity processes your query and provides a detailed answer, often with citations to its sources.
 
-- **Explore Advanced Features**:As you become more comfortable with the basic functionality, start exploring some of Perplexity’s advanced features. These include the ability to upload images for visual queries, access to different AI models (if you’re a Pro subscriber), and the option to create collections of your searches for easy reference later.
+10. **Explore Advanced Features**:As you become more comfortable with the basic functionality, start exploring some of Perplexity’s advanced features. These include the ability to upload images for visual queries, access to different AI models (if you’re a Pro subscriber), and the option to create collections of your searches for easy reference later.
 
 ## Making the Most of Your Perplexity Account
 

@@ -16,17 +16,17 @@ Before we dive into the specifics of finding drafts, it’s important to underst
 
 Let’s start with the most common type of draft: posts for your Instagram feed. Here’s how to find and access your saved post drafts:
 
-- **Open the Instagram app** on your mobile device.
+1. **Open the Instagram app** on your mobile device.
 
-- Tap the **“+” icon** at the bottom center of the screen (on some devices, it might be at the top right).
+2. Tap the **“+” icon** at the bottom center of the screen (on some devices, it might be at the top right).
 
-- Select **“Post”** from the options that appear.
+3. Select **“Post”** from the options that appear.
 
-- Look for the **“Drafts”** section, which should be visible above your recent photos if you have any saved drafts.
+4. Look for the **“Drafts”** section, which should be visible above your recent photos if you have any saved drafts.
 
-- Tap on **“Drafts”** to view all your saved post drafts.
+5. Tap on **“Drafts”** to view all your saved post drafts.
 
-- Select the draft you want to work on or post.
+6. Select the draft you want to work on or post.
 
 If you don’t see the “Drafts” section, it likely means you haven’t saved any drafts yet. Remember, to create a draft, you need to start editing a post and then go back before publishing. Instagram will then prompt you to save your work as a draft.
 
@@ -34,17 +34,17 @@ If you don’t see the “Drafts” section, it likely means you haven’t saved
 
 Instagram Stories are a popular way to share quick updates, and you can save drafts for these too. Here’s how to find your Story drafts:
 
-- Open the Instagram app.
+1. Open the Instagram app.
 
-- Tap on the **“Your Story”** icon in the top left corner of the home screen.
+2. Tap on the **“Your Story”** icon in the top left corner of the home screen.
 
-- At the bottom left of the Story camera screen, you’ll see a small **square preview** of your most recent photo or video.
+3. At the bottom left of the Story camera screen, you’ll see a small **square preview** of your most recent photo or video.
 
-- Tap on this preview to open your device’s gallery within Instagram.
+4. Tap on this preview to open your device’s gallery within Instagram.
 
-- At the top of the gallery, you should see a **“Drafts”** option if you have any saved Story drafts.
+5. At the top of the gallery, you should see a **“Drafts”** option if you have any saved Story drafts.
 
-- Tap on **“Drafts”** to view and select from your saved Story drafts.
+6. Tap on **“Drafts”** to view and select from your saved Story drafts.
 
 Story drafts are particularly useful when you want to prepare content in advance or when you need more time to perfect your Story before sharing it with your followers.
 
@@ -52,15 +52,15 @@ Story drafts are particularly useful when you want to prepare content in advance
 
 Reels have become increasingly popular on Instagram, and the platform allows you to save drafts for these short-form videos as well. Here’s how to locate your Reel drafts:
 
-- Open the Instagram app.
+1. Open the Instagram app.
 
-- Tap the **“+” icon** and select **“Reel”** from the options.
+2. Tap the **“+” icon** and select **“Reel”** from the options.
 
-- At the top of the Reel creation screen, you should see a **“Drafts”** option if you have any saved Reel drafts.
+3. At the top of the Reel creation screen, you should see a **“Drafts”** option if you have any saved Reel drafts.
 
-- Tap on **“Drafts”** to view all your saved Reel drafts.
+4. Tap on **“Drafts”** to view all your saved Reel drafts.
 
-- Select the draft you want to continue working on or post.
+5. Select the draft you want to continue working on or post.
 
 Reel drafts are incredibly helpful when you’re working on more complex videos that require multiple clips or advanced editing. They allow you to take your time and perfect your Reel before sharing it with the world.
 
@@ -82,13 +82,13 @@ Once you’ve found your drafts, you might want to manage them. Here are some ti
 
 Sometimes, you might encounter issues with finding or accessing your drafts. Here are some common problems and solutions:
 
-- **Drafts not appearing**: If you can’t see your drafts, try closing the Instagram app completely and reopening it. If that doesn’t work, check for any available app updates.
+1. **Drafts not appearing**: If you can’t see your drafts, try closing the Instagram app completely and reopening it. If that doesn’t work, check for any available app updates.
 
-- **Lost drafts**: In some cases, drafts might disappear after an app update or if you’ve logged out of your account. Unfortunately, there’s often no way to recover these lost drafts, which is why it’s important to post or back up important content regularly.
+2. **Lost drafts**: In some cases, drafts might disappear after an app update or if you’ve logged out of your account. Unfortunately, there’s often no way to recover these lost drafts, which is why it’s important to post or back up important content regularly.
 
-- **Unable to save drafts**: If you’re having trouble saving drafts, make sure you’ve made edits to your post, story, or reel. Instagram only offers the option to save as a draft if you’ve made changes to the original content.
+3. **Unable to save drafts**: If you’re having trouble saving drafts, make sure you’ve made edits to your post, story, or reel. Instagram only offers the option to save as a draft if you’ve made changes to the original content.
 
-- **Too many drafts**: While it’s not common, having an excessive number of drafts might slow down the app. If you notice performance issues, try clearing out some old drafts.
+4. **Too many drafts**: While it’s not common, having an excessive number of drafts might slow down the app. If you notice performance issues, try clearing out some old drafts.
 
 ## Best Practices for Using Instagram Drafts
 

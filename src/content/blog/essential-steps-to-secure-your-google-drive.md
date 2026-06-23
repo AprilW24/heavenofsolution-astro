@@ -16,15 +16,15 @@ Two-factor authentication (2FA) adds an extra layer of security to your Google a
 
 To enable 2FA on your Android device:
 
-- Open the Google Drive app and tap on your profile picture in the top right corner
+1. Open the Google Drive app and tap on your profile picture in the top right corner
 
-- Tap **Manage your Google Account**
+2. Tap **Manage your Google Account**
 
-- Go to the **Security** tab
+3. Go to the **Security** tab
 
-- Under **Signing in to Google**, tap **2-Step Verification**
+4. Under **Signing in to Google**, tap **2-Step Verification**
 
-- Follow the prompts to set up 2FA using your preferred method (SMS, authenticator app, security key, etc.)
+5. Follow the prompts to set up 2FA using your preferred method (SMS, authenticator app, security key, etc.)
 
 ### 2. Review App Permissions
 
@@ -32,15 +32,15 @@ Many Android apps request access to your Google Drive data. While some apps may 
 
 To review app permissions:
 
-- Open the Google Drive app and tap on your profile picture
+1. Open the Google Drive app and tap on your profile picture
 
-- Tap **Manage your Google Account**
+2. Tap **Manage your Google Account**
 
-- Go to the **Security** tab
+3. Go to the **Security** tab
 
-- Under **Third-party apps with account access**, review the list of apps
+4. Under **Third-party apps with account access**, review the list of apps
 
-- Tap on any apps you want to remove and select **Remove Access**
+5. Tap on any apps you want to remove and select **Remove Access**
 
 ### 3. Use a Strong, Unique Password
 
@@ -54,11 +54,11 @@ Android releases regular security updates to fix vulnerabilities and protect aga
 
 To check for updates:
 
-- Open your device’s Settings app
+1. Open your device’s Settings app
 
-- Tap **System** > **System Update**
+2. Tap **System** > **System Update**
 
-- If an update is available, tap **Download and Install**
+3. If an update is available, tap **Download and Install**
 
 ### 5. Be Cautious of Public Wi-Fi
 
@@ -70,11 +70,11 @@ Google Drive offers built-in encryption for your files both in transit and at re
 
 To enable client-side encryption:
 
-- Open the Google Drive app and locate the file or folder you want to encrypt
+1. Open the Google Drive app and locate the file or folder you want to encrypt
 
-- Tap the three-dot menu next to the file or folder and select **Encrypt**
+2. Tap the three-dot menu next to the file or folder and select **Encrypt**
 
-- Choose an encryption method (password or key file) and follow the prompts to encrypt the file
+3. Choose an encryption method (password or key file) and follow the prompts to encrypt the file
 
 Keep in mind that if you lose your encryption password or key file, Google will not be able to recover your encrypted files.
 

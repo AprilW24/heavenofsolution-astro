@@ -34,11 +34,11 @@ Once you’re in the settings menu, scroll down and tap on **Google**.
 
 After tapping on **Google** in the settings:
 
-- Tap on **Manage your Google Account**
+1. Tap on **Manage your Google Account**
 
-- Swipe to the **Security** tab
+2. Swipe to the **Security** tab
 
-- Scroll down and tap on **Password Manager**
+3. Scroll down and tap on **Password Manager**
 
 You should now see a list of all the passwords saved to your Google account.
 
@@ -46,11 +46,11 @@ You should now see a list of all the passwords saved to your Google account.
 
 To view a specific password:
 
-- Tap on the app or website for which you want to see the password
+1. Tap on the app or website for which you want to see the password
 
-- Tap on the eye icon next to the password
+2. Tap on the eye icon next to the password
 
-- Authenticate using your fingerprint, face recognition, or screen lock password
+3. Authenticate using your fingerprint, face recognition, or screen lock password
 
 The password will now be visible. You can tap on **Copy password** to copy it to your clipboard if needed.
 
@@ -60,15 +60,15 @@ The password will now be visible. You can tap on **Copy password** to copy it to
 
 If you prefer using Google Chrome to save your passwords, here’s how you can view them:
 
-- Open the Chrome app on your Android device
+1. Open the Chrome app on your Android device
 
-- Tap on the three-dot menu in the top-right corner
+2. Tap on the three-dot menu in the top-right corner
 
-- Go to **Settings** > **Passwords**
+3. Go to **Settings** > **Passwords**
 
-- You’ll see a list of all websites for which Chrome has saved passwords
+4. You’ll see a list of all websites for which Chrome has saved passwords
 
-- Tap on the website and then the eye icon to view the password (authentication required)
+5. Tap on the website and then the eye icon to view the password (authentication required)
 
 Chrome’s password manager syncs across all devices where you’re signed in with your Google account, making it a convenient option.
 

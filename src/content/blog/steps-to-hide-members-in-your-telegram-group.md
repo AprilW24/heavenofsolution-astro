@@ -26,11 +26,11 @@ Whatever your reasons, hiding the member list is a good way to provide a safer, 
 
 Before diving into the steps, there are a couple key requirements to hide members in your Telegram group:
 
-- **You must be a group admin** – Only admins have the ability to change group settings like hiding members. If you’re not an admin, you’ll need to request the change from an admin or become one yourself.
+1. **You must be a group admin** – Only admins have the ability to change group settings like hiding members. If you’re not an admin, you’ll need to request the change from an admin or become one yourself.
 
-- **Your group must have over 100 members** – Telegram only allows groups with more than 100 members to hide the participant list. If your group is under that size, you’ll need to grow it further first.
+2. **Your group must have over 100 members** – Telegram only allows groups with more than 100 members to hide the participant list. If your group is under that size, you’ll need to grow it further first.
 
-- **You need the latest version of Telegram** – The member hiding feature was introduced in a 2022 update, so make sure you’re running the latest version of the Telegram app on Android.
+3. **You need the latest version of Telegram** – The member hiding feature was introduced in a 2022 update, so make sure you’re running the latest version of the Telegram app on Android.
 
 As long as you meet those criteria, you’re ready to change your settings and hide that member list. Let’s walk through it step-by-step.
 
@@ -78,13 +78,13 @@ By understanding these aspects of the member hiding feature, you can utilize it 
 
 To review, hiding your Telegram group members on Android is a simple process:
 
-- Meet the requirements of 100+ members and admin status
+1. Meet the requirements of 100+ members and admin status
 
-- Navigate to your group info page
+2. Navigate to your group info page
 
-- Access the member list in group settings
+3. Access the member list in group settings
 
-- Tap the three-dot menu and select **Hide Members**
+4. Tap the three-dot menu and select **Hide Members**
 
 This will make your participant list only visible to group admins, preventing regular members from viewing or searching it. Hiding members helps protect against spam, harassment, privacy invasions, and competitive disadvantages.
 

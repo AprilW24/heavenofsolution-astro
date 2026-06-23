@@ -20,15 +20,15 @@ The simplest way to watch iTunes movies and shows on Android TV is to download t
 
 Here’s how to get set up:
 
-- On your Android TV, open the Google Play Store and search for **Apple TV**
+1. On your Android TV, open the Google Play Store and search for **Apple TV**
 
-- Download and install the Apple TV app
+2. Download and install the Apple TV app
 
-- Open the app and sign in with your Apple ID
+3. Open the app and sign in with your Apple ID
 
-- Your iTunes library should now show up in the app under Library
+4. Your iTunes library should now show up in the app under Library
 
-- Select a movie or show and start streaming!
+5. Select a movie or show and start streaming!
 
 Keep in mind, you won’t be able to make new purchases directly in the Android version of the Apple TV app. But anything you’ve previously bought on iTunes using the same Apple ID will be available to stream.
 
@@ -38,13 +38,13 @@ If the Apple TV app isn’t available on your Android TV, another easy option is
 
 To mirror your screen:
 
-- Make sure your iOS device or Mac is connected to the same Wi-Fi network as your Android TV
+1. Make sure your iOS device or Mac is connected to the same Wi-Fi network as your Android TV
 
-- Find the movie or show you want to watch in the Apple TV app on your device
+2. Find the movie or show you want to watch in the Apple TV app on your device
 
-- Tap the AirPlay icon and select your Android TV
+3. Tap the AirPlay icon and select your Android TV
 
-- The video will start playing on the big screen
+4. The video will start playing on the big screen
 
 You can also use a wired HDMI adapter to connect your iPhone or iPad directly to the TV for better video quality.
 
@@ -62,17 +62,17 @@ Some popular iTunes DRM removal tools include:
 
 The basic steps are:
 
-- Download and install an iTunes DRM removal program on your PC or Mac
+1. Download and install an iTunes DRM removal program on your PC or Mac
 
-- Launch the program and import your iTunes videos
+2. Launch the program and import your iTunes videos
 
-- Select MP4 as the output format
+3. Select MP4 as the output format
 
-- Start the conversion process (this will take some time)
+4. Start the conversion process (this will take some time)
 
-- Transfer the DRM-free MP4 files to a USB drive
+5. Transfer the DRM-free MP4 files to a USB drive
 
-- Plug the USB drive into your Android TV and play the videos in any media player app
+6. Plug the USB drive into your Android TV and play the videos in any media player app
 
 Converting does take some extra time and effort compared to streaming, but it gives you the most control over your video files. You can watch them offline, transfer them between devices, and keep them forever without worrying about DRM.
 

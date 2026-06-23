@@ -14,11 +14,11 @@ The first place to look for your deleted files is in the Recycle Bin or Trash fo
 
 To restore files from the Recycle Bin in ES File Explorer:
 
-- Open ES File Explorer and go to the Recycle Bin folder
+1. Open ES File Explorer and go to the Recycle Bin folder
 
-- Long-press the files you want to restore
+2. Long-press the files you want to restore
 
-- Tap the Restore button to recover the deleted files
+3. Tap the Restore button to recover the deleted files
 
 If your file manager doesn’t have a Recycle Bin, check if your photos or videos are in the **Recently Deleted** folder of the Google Photos app. Items in this folder are kept for 60 days before being permanently deleted.
 
@@ -34,13 +34,13 @@ If the above methods don’t work, your next option is to use data recovery soft
 
 To use DroidKit to recover deleted files from your Android phone:
 
-- Download and install DroidKit on your PC
+1. Download and install DroidKit on your PC
 
-- Connect your Android phone to the PC with a USB cable
+2. Connect your Android phone to the PC with a USB cable
 
-- Select the types of files you want to recover and click Start
+3. Select the types of files you want to recover and click Start
 
-- Preview the scanned data, select the files to recover, and click To Device or To PC
+4. Preview the scanned data, select the files to recover, and click To Device or To PC
 
 Keep in mind that data recovery is not always successful, especially if the deleted files have been overwritten by new data. The sooner you attempt recovery, the higher the chances of success.
 

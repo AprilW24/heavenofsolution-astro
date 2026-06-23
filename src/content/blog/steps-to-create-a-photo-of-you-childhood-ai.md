@@ -18,25 +18,25 @@ There are a bunch of free sites and apps for this, but look for ones powered by 
 
 ## Step-by-Step Process to Merge Your Adult and Childhood Photos
 
-- Open the AI tool or app (like Gemini, ChatGPT, Perplexity, or Fotor).
+1. Open the AI tool or app (like Gemini, ChatGPT, Perplexity, or Fotor).
 
-- Log in or make a quick account if needed.
+2. Log in or make a quick account if needed.
 
-- Choose or upload your present-day photo – clear, front-facing works best.
+3. Choose or upload your present-day photo – clear, front-facing works best.
 
-- Pick your childhood pic, making sure the face is sharp and visible.
+4. Pick your childhood pic, making sure the face is sharp and visible.
 
-- Use the site or app’s “combine” or “hug my younger self” feature.
+5. Use the site or app’s “combine” or “hug my younger self” feature.
 
-- Paste your prompt (check the example below).
+6. Paste your prompt (check the example below).
 
-- Adjust settings if the app supports details (lighting, mood, pose).
+7. Adjust settings if the app supports details (lighting, mood, pose).
 
-- Click generate or process and wait for the preview.
+8. Click generate or process and wait for the preview.
 
-- Check the result, if it looks strange, tweak the prompt or switch photos.
+9. Check the result, if it looks strange, tweak the prompt or switch photos.
 
-- Download the finished photo and share it or keep it for yourself.
+10. Download the finished photo and share it or keep it for yourself.
 
 ## Pro Tips for a More Natural Final Image and Keeping the Vibe Personal
 

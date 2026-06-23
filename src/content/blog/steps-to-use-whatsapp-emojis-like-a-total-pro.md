@@ -22,25 +22,25 @@ If you’re a business owner or marketer using WhatsApp to talk to customers, em
 
 ## Step-by-Step Guide to Using WhatsApp Emoji Reactions on Any Device
 
-- Open WhatsApp and tap into any chat where you want to send a reaction. 📱
+1. Open WhatsApp and tap into any chat where you want to send a reaction. 📱
 
-- Scroll to the specific message you want to react to.
+2. Scroll to the specific message you want to react to.
 
-- Press and hold that message until a small emoji bar appears above it.
+3. Press and hold that message until a small emoji bar appears above it.
 
-- Pick one of the default emoji options that pops up in the quick-reaction row.
+4. Pick one of the default emoji options that pops up in the quick-reaction row.
 
-- Tap the plus icon on the right if you want to browse the full emoji library instead.
+5. Tap the plus icon on the right if you want to browse the full emoji library instead.
 
-- Select the emoji that fits your reaction and tap it to confirm.
+6. Select the emoji that fits your reaction and tap it to confirm.
 
-- To change a reaction you’ve already sent, press and hold the emoji reaction sitting on that message.
+7. To change a reaction you’ve already sent, press and hold the emoji reaction sitting on that message.
 
-- Tap “**Tap to remove**” to delete your current reaction.
+8. Tap “**Tap to remove**” to delete your current reaction.
 
-- Follow steps 1 through 6 again to pick a new emoji in its place.
+9. Follow steps 1 through 6 again to pick a new emoji in its place.
 
-- On WhatsApp Web, press Shift and Tab to highlight the emoji icon, then type a keyword like “heart” or “smile” to search for emojis fast. 💻
+10. On WhatsApp Web, press Shift and Tab to highlight the emoji icon, then type a keyword like “heart” or “smile” to search for emojis fast. 💻
 
 ## Popular WhatsApp Emoji Meanings That People Often Get Wrong
 

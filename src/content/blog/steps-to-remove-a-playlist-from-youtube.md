@@ -12,41 +12,41 @@ YouTube’s mobile app offers a convenient way to manage your content, including
 
 If you’ve created a playlist that you no longer need, follow these steps to delete it from your YouTube library:
 
-- **Open the YouTube app**Launch the YouTube application on your iPhone or Android device. Ensure you’re signed in to the correct account.
+1. **Open the YouTube app**Launch the YouTube application on your iPhone or Android device. Ensure you’re signed in to the correct account.
 
-- **Navigate to the Library tab**At the bottom of the screen, you’ll see a navigation bar. Tap on the **Library** icon, which is usually located in the bottom right corner.
+2. **Navigate to the Library tab**At the bottom of the screen, you’ll see a navigation bar. Tap on the **Library** icon, which is usually located in the bottom right corner.
 
-- **Access your playlists**In the Library section, scroll down until you find the **Playlists** category. Tap on **View All** to see a complete list of your playlists.
+3. **Access your playlists**In the Library section, scroll down until you find the **Playlists** category. Tap on **View All** to see a complete list of your playlists.
 
-- **Select the playlist to delete**Find the playlist you want to remove from your library. Tap on the three vertical dots (⋮) to the right of the playlist name.
+4. **Select the playlist to delete**Find the playlist you want to remove from your library. Tap on the three vertical dots (⋮) to the right of the playlist name.
 
-- **Delete the playlist**In the menu that appears, select **Delete playlist**. You may be prompted to confirm your action. Tap **Delete** again to finalize the removal of the playlist.
+5. **Delete the playlist**In the menu that appears, select **Delete playlist**. You may be prompted to confirm your action. Tap **Delete** again to finalize the removal of the playlist.
 
-- **Verify the deletion**The playlist should now be removed from your library. You can refresh the page or navigate back to your playlists to confirm that it’s no longer listed.
+6. **Verify the deletion**The playlist should now be removed from your library. You can refresh the page or navigate back to your playlists to confirm that it’s no longer listed.
 
 ## Steps to Remove Someone Else’s Playlist
 
 If you’ve saved a playlist created by another YouTube user and want to remove it from your library, the process is slightly different:
 
-- **Open the YouTube app and go to Library**Follow the same initial steps as above to open the YouTube app and navigate to the Library tab.
+1. **Open the YouTube app and go to Library**Follow the same initial steps as above to open the YouTube app and navigate to the Library tab.
 
-- **Find the saved playlist**Locate the playlist you want to remove. This could be under the **Playlists** section or directly visible in your Library.
+2. **Find the saved playlist**Locate the playlist you want to remove. This could be under the **Playlists** section or directly visible in your Library.
 
-- **Open the playlist**Tap on the playlist to open it. You should see the list of videos included in the playlist.
+3. **Open the playlist**Tap on the playlist to open it. You should see the list of videos included in the playlist.
 
-- **Remove from library**Look for a bookmark icon or a **Saved** indicator near the top of the playlist. Tap on this icon to remove the playlist from your library.
+4. **Remove from library**Look for a bookmark icon or a **Saved** indicator near the top of the playlist. Tap on this icon to remove the playlist from your library.
 
-- **Confirm removal**The playlist should immediately disappear from your saved playlists. There’s usually no need for additional confirmation.
+5. **Confirm removal**The playlist should immediately disappear from your saved playlists. There’s usually no need for additional confirmation.
 
 ## Alternative Method for Some Devices
 
 On some devices or app versions, you might find a slightly different method to remove playlists:
 
-- **Access the playlist**Open the playlist you want to remove.
+1. **Access the playlist**Open the playlist you want to remove.
 
-- **Use the play queue**Start playing a video from the playlist, then access the play queue.
+2. **Use the play queue**Start playing a video from the playlist, then access the play queue.
 
-- **Remove the playlist**In the play queue, look for three dots at the top. Tap on these dots and choose the option to remove the playlist.
+3. **Remove the playlist**In the play queue, look for three dots at the top. Tap on these dots and choose the option to remove the playlist.
 
 ## Troubleshooting
 
@@ -64,11 +64,11 @@ If you’re having trouble removing a playlist, consider these tips:
 
 While removing entire playlists, you might also want to manage individual videos within them:
 
-- **Open the playlist**Navigate to the specific playlist.
+1. **Open the playlist**Navigate to the specific playlist.
 
-- **Find the video**Locate the video you want to remove.
+2. **Find the video**Locate the video you want to remove.
 
-- **Remove the video**Tap on the three vertical dots next to the video and select **Remove from playlist**.
+3. **Remove the video**Tap on the three vertical dots next to the video and select **Remove from playlist**.
 
 This allows you to curate your playlists without deleting them entirely.
 
@@ -86,13 +86,13 @@ Regularly managing your YouTube playlists offers several benefits:
 
 To make the most of your YouTube experience, consider these playlist management tips:
 
-- **Regular clean-up**: Set aside time periodically to review and remove unnecessary playlists.
+1. **Regular clean-up**: Set aside time periodically to review and remove unnecessary playlists.
 
-- **Use descriptive names**: Name your playlists clearly to easily identify their content.
+2. **Use descriptive names**: Name your playlists clearly to easily identify their content.
 
-- **Utilize privacy settings**: For playlists you create, use privacy settings to control who can see them.
+3. **Utilize privacy settings**: For playlists you create, use privacy settings to control who can see them.
 
-- **Create playlist folders**: If available, use playlist folders to further organize your content.
+4. **Create playlist folders**: If available, use playlist folders to further organize your content.
 
 ## Conclusion
 

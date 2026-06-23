@@ -22,17 +22,17 @@ You can access the recovery mode by following a specific key combination, which 
 
 Here are the steps to exit recovery mode using ADB:
 
-- **Enable USB Debugging**: On your Android device, go to **Settings > Developer options** and enable **USB debugging**. If you can’t find the Developer options menu, go to **Settings > About phone** and tap the **Build number** seven times to unlock it.
+1. **Enable USB Debugging**: On your Android device, go to **Settings > Developer options** and enable **USB debugging**. If you can’t find the Developer options menu, go to **Settings > About phone** and tap the **Build number** seven times to unlock it.
 
-- **Install ADB on Your Computer**: Download the Android SDK Platform Tools package from the official Android website and extract the files to a directory on your computer.
+2. **Install ADB on Your Computer**: Download the Android SDK Platform Tools package from the official Android website and extract the files to a directory on your computer.
 
-- **Connect Your Device to the Computer**: Use a USB cable to connect your Android device to your computer.
+3. **Connect Your Device to the Computer**: Use a USB cable to connect your Android device to your computer.
 
-- **Open a Command Prompt/Terminal**: On Windows, press the **Windows key + R**, type cmd, and hit Enter. On macOS or Linux, open the Terminal application.
+4. **Open a Command Prompt/Terminal**: On Windows, press the **Windows key + R**, type cmd, and hit Enter. On macOS or Linux, open the Terminal application.
 
-- **Navigate to the ADB Directory**: Using the command prompt/terminal, navigate to the directory where you extracted the ADB files.
+5. **Navigate to the ADB Directory**: Using the command prompt/terminal, navigate to the directory where you extracted the ADB files.
 
-- **Reboot Your Device**: Type the command adb reboot and press Enter. This should reboot your Android device out of recovery mode and into the normal operating system.
+6. **Reboot Your Device**: Type the command adb reboot and press Enter. This should reboot your Android device out of recovery mode and into the normal operating system.
 
 ### Method 2: Using Hardware Key Combinations
 
@@ -56,13 +56,13 @@ In some cases, you may be able to exit recovery mode by navigating through the a
 
 Here are the general steps:
 
-- **Enter Recovery Mode**: Follow the standard key combination for your device to enter recovery mode.
+1. **Enter Recovery Mode**: Follow the standard key combination for your device to enter recovery mode.
 
-- **Navigate to the “Reboot System Now” Option**: Use the **Volume Down** button to scroll through the options until you reach **Reboot system now**.
+2. **Navigate to the “Reboot System Now” Option**: Use the **Volume Down** button to scroll through the options until you reach **Reboot system now**.
 
-- **Select the Option**: If your device has a home button, press it to select the **Reboot system now** option. If not, try pressing the volume up button or any other button that might serve as a confirmation key.
+3. **Select the Option**: If your device has a home button, press it to select the **Reboot system now** option. If not, try pressing the volume up button or any other button that might serve as a confirmation key.
 
-- **Wait for Your Device to Reboot**: Your device should now reboot and exit recovery mode, taking you back to the normal operating system.
+4. **Wait for Your Device to Reboot**: Your device should now reboot and exit recovery mode, taking you back to the normal operating system.
 
 ### Method 4: Removing and Reinserting the Battery (If Possible)
 
@@ -72,15 +72,15 @@ If your Android device has a removable battery, you can try removing and reinser
 
 Here are the steps:
 
-- **Power Off Your Device**: If your device is still powered on, try to power it off by holding the volume down button for an extended period.
+1. **Power Off Your Device**: If your device is still powered on, try to power it off by holding the volume down button for an extended period.
 
-- **Remove the Battery**: Locate the battery compartment on your device and carefully remove the battery.
+2. **Remove the Battery**: Locate the battery compartment on your device and carefully remove the battery.
 
-- **Wait for a Minute**: Wait for about a minute before reinserting the battery.
+3. **Wait for a Minute**: Wait for about a minute before reinserting the battery.
 
-- **Reinsert the Battery**: Carefully reinsert the battery into the battery compartment and secure it properly.
+4. **Reinsert the Battery**: Carefully reinsert the battery into the battery compartment and secure it properly.
 
-- **Power On Your Device**: Press and hold the power button (or the combination of buttons required to power on your device) to turn it on.
+5. **Power On Your Device**: Press and hold the power button (or the combination of buttons required to power on your device) to turn it on.
 
 If successful, your device should boot up normally, exiting recovery mode.
 

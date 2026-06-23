@@ -14,13 +14,13 @@ For Android users who want to free up storage space or ensure sensitive informat
 
 Before we dive into the steps, let’s briefly discuss why emptying your Gmail trash is important:
 
-- **Free up storage space**: Gmail provides 15GB of free storage shared across Gmail, Google Drive, and Google Photos. Regularly emptying your trash can help you manage this limited space more effectively.
+1. **Free up storage space**: Gmail provides 15GB of free storage shared across Gmail, Google Drive, and Google Photos. Regularly emptying your trash can help you manage this limited space more effectively.
 
-- **Protect sensitive information**: If you’ve deleted emails containing sensitive data, emptying the trash ensures that this information is permanently removed from your account.
+2. **Protect sensitive information**: If you’ve deleted emails containing sensitive data, emptying the trash ensures that this information is permanently removed from your account.
 
-- **Improve performance**: A cluttered Gmail account with thousands of emails in the trash can potentially slow down the app’s performance on your Android device.
+3. **Improve performance**: A cluttered Gmail account with thousands of emails in the trash can potentially slow down the app’s performance on your Android device.
 
-- **Maintain organization**: Keeping your trash folder clean is part of good email management practices, helping you stay organized and in control of your digital communications.
+4. **Maintain organization**: Keeping your trash folder clean is part of good email management practices, helping you stay organized and in control of your digital communications.
 
 Now that we understand the importance of emptying the Gmail trash, let’s proceed with the step-by-step guide.
 
@@ -28,17 +28,17 @@ Now that we understand the importance of emptying the Gmail trash, let’s proce
 
 Follow these simple steps to empty your Gmail trash folder on your Android device:
 
-- **Open the Gmail app**: Locate the Gmail app icon on your Android phone’s home screen or app drawer and tap to open it.
+1. **Open the Gmail app**: Locate the Gmail app icon on your Android phone’s home screen or app drawer and tap to open it.
 
-- **Access the menu**: Once the app is open, look for the three horizontal lines (hamburger menu) in the top-left corner of the screen. Tap on this icon to open the side menu.
+2. **Access the menu**: Once the app is open, look for the three horizontal lines (hamburger menu) in the top-left corner of the screen. Tap on this icon to open the side menu.
 
-- **Navigate to the Trash folder**: In the side menu, scroll down until you see the “Trash” option. It may be listed under a “More” or “All labels” section, depending on your Gmail app version. Tap on “Trash” to open the folder.
+3. **Navigate to the Trash folder**: In the side menu, scroll down until you see the “Trash” option. It may be listed under a “More” or “All labels” section, depending on your Gmail app version. Tap on “Trash” to open the folder.
 
-- **Empty the Trash**: Once you’re in the Trash folder, look for the “Empty trash now” option at the top of the screen. This button may appear as text or an icon, depending on your device and Gmail app version.
+4. **Empty the Trash**: Once you’re in the Trash folder, look for the “Empty trash now” option at the top of the screen. This button may appear as text or an icon, depending on your device and Gmail app version.
 
-- **Confirm the action**: After tapping “Empty trash now,” a confirmation dialog box will appear, asking if you’re sure you want to permanently delete all the messages in the Trash. Tap “OK” or “Empty” to confirm.
+5. **Confirm the action**: After tapping “Empty trash now,” a confirmation dialog box will appear, asking if you’re sure you want to permanently delete all the messages in the Trash. Tap “OK” or “Empty” to confirm.
 
-- **Wait for the process to complete**: Depending on the number of emails in your Trash folder, it may take a few moments for the deletion process to complete. Once finished, you’ll see a message confirming that the Trash has been emptied.
+6. **Wait for the process to complete**: Depending on the number of emails in your Trash folder, it may take a few moments for the deletion process to complete. Once finished, you’ll see a message confirming that the Trash has been emptied.
 
 And that’s it! You’ve successfully emptied your Gmail trash folder on your Android phone. All the messages that were in the Trash have now been permanently deleted and can no longer be recovered.
 
@@ -46,17 +46,17 @@ And that’s it! You’ve successfully emptied your Gmail trash folder on your A
 
 Now that you know how to empty your Gmail trash, here are some additional tips to help you manage your Gmail account more effectively on your Android device:
 
-- **Archive instead of delete**: If you’re unsure whether you might need an email in the future, consider archiving it instead of deleting it. Archived emails are removed from your inbox but remain searchable and don’t count towards your storage limit.
+1. **Archive instead of delete**: If you’re unsure whether you might need an email in the future, consider archiving it instead of deleting it. Archived emails are removed from your inbox but remain searchable and don’t count towards your storage limit.
 
-- **Use labels and filters**: Take advantage of Gmail’s labeling and filtering system to automatically organize incoming emails. This can help reduce clutter and make it easier to find important messages.
+2. **Use labels and filters**: Take advantage of Gmail’s labeling and filtering system to automatically organize incoming emails. This can help reduce clutter and make it easier to find important messages.
 
-- **Enable swipe actions**: Customize swipe actions in the Gmail app settings to quickly archive, delete, or perform other actions on emails with a simple swipe gesture.
+3. **Enable swipe actions**: Customize swipe actions in the Gmail app settings to quickly archive, delete, or perform other actions on emails with a simple swipe gesture.
 
-- **Regularly review and unsubscribe**: Periodically go through your inbox and unsubscribe from newsletters or promotional emails you no longer want to receive. This can significantly reduce the number of unwanted emails you need to manage.
+4. **Regularly review and unsubscribe**: Periodically go through your inbox and unsubscribe from newsletters or promotional emails you no longer want to receive. This can significantly reduce the number of unwanted emails you need to manage.
 
-- **Use the search function**: Gmail’s powerful search feature can help you quickly locate specific emails without having to scroll through your entire inbox.
+5. **Use the search function**: Gmail’s powerful search feature can help you quickly locate specific emails without having to scroll through your entire inbox.
 
-- **Enable offline mode**: If you frequently find yourself without an internet connection, enable offline mode in the Gmail app settings to access and compose emails even when you’re not connected.
+6. **Enable offline mode**: If you frequently find yourself without an internet connection, enable offline mode in the Gmail app settings to access and compose emails even when you’re not connected.
 
 ## Best Practices for Gmail Management
 

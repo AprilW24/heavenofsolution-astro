@@ -18,23 +18,23 @@ Before we dive into the steps, it’s important to note that Chrome flags are ex
 
 Opening Chrome flags on your mobile device is a straightforward process. Follow these steps to access the hidden world of experimental features:
 
-- **Launch Chrome**: Start by opening the Google Chrome app on your mobile device. Make sure you’re using the latest version of Chrome for the best experience and access to the most up-to-date flags.
+1. **Launch Chrome**: Start by opening the Google Chrome app on your mobile device. Make sure you’re using the latest version of Chrome for the best experience and access to the most up-to-date flags.
 
-- **Access the Address Bar**: Tap on the address bar at the top of the screen. This is where you typically enter website URLs or search terms.
+2. **Access the Address Bar**: Tap on the address bar at the top of the screen. This is where you typically enter website URLs or search terms.
 
-- **Enter the Flags URL**: In the address bar, type the special Chrome flags URL. For security reasons, I can’t provide the exact URL here, but it begins with “chrome://” and ends with “flags”.
+3. **Enter the Flags URL**: In the address bar, type the special Chrome flags URL. For security reasons, I can’t provide the exact URL here, but it begins with “chrome://” and ends with “flags”.
 
-- **Navigate to the Flags Page**: After entering the URL, tap the “Go” or “Enter” button on your keyboard. This will take you to the Chrome Flags page.
+4. **Navigate to the Flags Page**: After entering the URL, tap the “Go” or “Enter” button on your keyboard. This will take you to the Chrome Flags page.
 
-- **Read the Warning**: Upon entering the Flags page, you’ll see a warning message at the top. This message reminds you that these features are experimental and may cause issues with your browser. It’s important to read and understand this warning before proceeding.
+5. **Read the Warning**: Upon entering the Flags page, you’ll see a warning message at the top. This message reminds you that these features are experimental and may cause issues with your browser. It’s important to read and understand this warning before proceeding.
 
-- **Browse Available Flags**: Scroll through the list of available flags. You’ll see a mix of enabled, disabled, and default options. Each flag comes with a brief description of its function.
+6. **Browse Available Flags**: Scroll through the list of available flags. You’ll see a mix of enabled, disabled, and default options. Each flag comes with a brief description of its function.
 
-- **Search for Specific Flags**: If you’re looking for a particular flag, you can use the search bar at the top of the page. Simply enter keywords related to the feature you’re interested in.
+7. **Search for Specific Flags**: If you’re looking for a particular flag, you can use the search bar at the top of the page. Simply enter keywords related to the feature you’re interested in.
 
-- **Enable or Disable Flags**: To change the status of a flag, tap on the dropdown menu next to it. You’ll typically see options for “Default,” “Enabled,” and “Disabled.” Select the desired option.
+8. **Enable or Disable Flags**: To change the status of a flag, tap on the dropdown menu next to it. You’ll typically see options for “Default,” “Enabled,” and “Disabled.” Select the desired option.
 
-- **Relaunch Chrome**: After making changes to any flags, you’ll need to relaunch Chrome for the changes to take effect. A blue “Relaunch” button will appear at the bottom of the screen. Tap this button to restart the browser and apply your changes.
+9. **Relaunch Chrome**: After making changes to any flags, you’ll need to relaunch Chrome for the changes to take effect. A blue “Relaunch” button will appear at the bottom of the screen. Tap this button to restart the browser and apply your changes.
 
 ## Exploring Useful Chrome Flags
 

@@ -42,17 +42,17 @@ Choose the method that works best for you. For this example, we’ll save it to 
 
 Now that you’ve exported the WhatsApp chat, it’s time to print it:
 
-- **Open your file manager app** and locate the exported .txt file.
+1. **Open your file manager app** and locate the exported .txt file.
 
-- **Select the file and open it with Google Docs** or another text editor.
+2. **Select the file and open it with Google Docs** or another text editor.
 
-- Review the chat history to make sure everything looks correct. The file will show the date, time, and content of each message.
+3. Review the chat history to make sure everything looks correct. The file will show the date, time, and content of each message.
 
-- **Tap the three-dot menu** and enable **Print layout** to optimize the formatting for printing.
+4. **Tap the three-dot menu** and enable **Print layout** to optimize the formatting for printing.
 
-- Tap **Share & export** and then **Print**.
+5. Tap **Share & export** and then **Print**.
 
-- **Select your printer**, modify any print settings if needed, and **tap the print button**.
+6. **Select your printer**, modify any print settings if needed, and **tap the print button**.
 
 That’s it! Your WhatsApp chat will now print out for you to save or share as a hard copy. The text file preserves the original look of the conversation, with each message on its own line along with a timestamp.
 
@@ -74,10 +74,10 @@ Printing a hard copy of your WhatsApp messages is useful for record-keeping, but
 
 To enable WhatsApp backups on Android:
 
-- Open WhatsApp and go to the Settings menu
+1. Open WhatsApp and go to the Settings menu
 
-- Tap **Chats** and then **Chat backup**
+2. Tap **Chats** and then **Chat backup**
 
-- Select **Back up to Google Drive** and choose your backup frequency and Google account
+3. Select **Back up to Google Drive** and choose your backup frequency and Google account
 
 With secure cloud backups and the ability to export and print your chats, you can make sure your WhatsApp conversations are always preserved. Whether it’s sentimental messages you want to hold onto or important information you may need to reference, you now know how to keep your WhatsApp history safe.

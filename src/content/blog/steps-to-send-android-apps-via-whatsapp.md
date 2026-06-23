@@ -24,19 +24,19 @@ Once you have the *APK* file, you’re ready to roll. Just make sure your friend
 
 ## 7 Simple Steps to Share an App
 
-- Open your file manager app and find the app’s *APK* file.
+1. Open your file manager app and find the app’s *APK* file.
 
-- If you don’t have the *APK*, use an *APK extractor* app to create one from your installed apps.
+2. If you don’t have the *APK*, use an *APK extractor* app to create one from your installed apps.
 
-- Locate the *APK* file in your file manager (usually in a folder called *ExtractedApks* or *Backups*).
+3. Locate the *APK* file in your file manager (usually in a folder called *ExtractedApks* or *Backups*).
 
-- Long-press the *APK* file to select it.
+4. Long-press the *APK* file to select it.
 
-- Tap “Rename” and change the file extension from *.apk* to *.txt* (for example, change *myapp.apk* to *myapp.txt*).
+5. Tap “Rename” and change the file extension from *.apk* to *.txt* (for example, change *myapp.apk* to *myapp.txt*).
 
-- Tap “Share” and pick *WhatsApp* from the sharing options.
+6. Tap “Share” and pick *WhatsApp* from the sharing options.
 
-- Send the file to your friend, and tell them to rename it back to *.apk* after downloading.
+7. Send the file to your friend, and tell them to rename it back to *.apk* after downloading.
 
 That’s all it takes! Your friend can now install the app just like any other *APK*.
 

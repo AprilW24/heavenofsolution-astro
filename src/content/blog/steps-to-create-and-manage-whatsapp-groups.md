@@ -18,25 +18,25 @@ By following the steps below you’ll be able to make a *WhatsApp* group and sta
 
 ## Steps to Create a WhatsApp Group on Your Phone
 
-- Launch the *WhatsApp* app on your phone.
+1. Launch the *WhatsApp* app on your phone.
 
-- Go to the “**Chats**” tab at the bottom or top of your screen.
+2. Go to the “**Chats**” tab at the bottom or top of your screen.
 
-- Tap the “**New Chat**” or chat bubble icon.
+3. Tap the “**New Chat**” or chat bubble icon.
 
-- Choose “**New Group**” from the menu.
+4. Choose “**New Group**” from the menu.
 
-- Pick contacts you want in your group.
+5. Pick contacts you want in your group.
 
-- Hit “**Next**” or the arrow button to move forward.
+6. Hit “**Next**” or the arrow button to move forward.
 
-- Name your group, add an icon if you like.
+7. Name your group, add an icon if you like.
 
-- Set group permissions for members or just admins.
+8. Set group permissions for members or just admins.
 
-- Tap “**Create**” or the check mark to finish.
+9. Tap “**Create**” or the check mark to finish.
 
-- Start chatting and sharing in your new group! 🚀
+10. Start chatting and sharing in your new group! 🚀
 
 ## Stay in Control With Admin Rights and Group Settings
 

@@ -18,23 +18,23 @@ So while you can’t fully delete your profile pic, you can change it to another
 
 ### Steps to Change Your Twitter Profile Picture on Mobile
 
-- **Open the Twitter app** on your iOS or Android device and log in if needed.
+1. **Open the Twitter app** on your iOS or Android device and log in if needed.
 
-- Tap on your **profile icon** in the top left to go to your profile page.
+2. Tap on your **profile icon** in the top left to go to your profile page.
 
-- On your profile, tap the **Edit profile** button located under your header image.
+3. On your profile, tap the **Edit profile** button located under your header image.
 
-- Tap on your current **profile picture**. You’ll see a camera icon appear in the center.
+4. Tap on your current **profile picture**. You’ll see a camera icon appear in the center.
 
-- Select the **camera icon** to open your phone’s photo gallery.
+5. Select the **camera icon** to open your phone’s photo gallery.
 
-- **Choose a new photo** to use as your profile picture. You can select an existing image from your gallery or take a new photo with your camera.
+6. **Choose a new photo** to use as your profile picture. You can select an existing image from your gallery or take a new photo with your camera.
 
-- **Resize and reposition** the image to fit in the circular frame. You can zoom in or out and move the image around until you’re happy with how it looks.
+7. **Resize and reposition** the image to fit in the circular frame. You can zoom in or out and move the image around until you’re happy with how it looks.
 
-- Tap **Apply** to set the new profile picture.
+8. Tap **Apply** to set the new profile picture.
 
-- Tap **Save** in the top right to save your profile changes.
+9. Tap **Save** in the top right to save your profile changes.
 
 That’s it! Your old profile picture is now replaced with the new image across your Twitter profile and tweets. The new photo will also display in your followers’ timelines and notifications.
 
@@ -44,11 +44,11 @@ Keep in mind that Twitter’s image cropping for profile pictures is fairly aggr
 
 While you can’t actually delete your profile picture and go back to the default avatar, there is a sneaky workaround to make it appear that way:
 
-- Save the default Twitter profile image to your phone. You can search online for **default Twitter profile picture** and download the gray silhouette icon image.
+1. Save the default Twitter profile image to your phone. You can search online for **default Twitter profile picture** and download the gray silhouette icon image.
 
-- Follow the steps above to change your profile picture and select the default avatar image you downloaded.
+2. Follow the steps above to change your profile picture and select the default avatar image you downloaded.
 
-- Resize and apply the image.
+3. Resize and apply the image.
 
 Now your profile picture will display the default avatar, making it seem like you deleted your photo even though you technically just changed it to the default image. Tricky!
 
@@ -56,13 +56,13 @@ Now your profile picture will display the default avatar, making it seem like yo
 
 Profile pictures aren’t the only images you can change on your Twitter profile. You can also remove your header image if you no longer want it displayed:
 
-- Go to your Twitter profile and tap the **Edit profile** button.
+1. Go to your Twitter profile and tap the **Edit profile** button.
 
-- Tap on your **header image**.
+2. Tap on your **header image**.
 
-- Select **Remove** from the pop-up menu.
+3. Select **Remove** from the pop-up menu.
 
-- Tap **Save** to apply the changes.
+4. Tap **Save** to apply the changes.
 
 Your header image will now be removed, leaving the default blue background. You can always add a new header image later by following the same steps and choosing a new photo.
 

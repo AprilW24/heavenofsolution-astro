@@ -16,25 +16,25 @@ I’ll show you some simple ways to add contacts, including QR codes, manual ent
 
 Adding someone to WhatsApp can be done in a few ways, and I like simple steps best. Here’s exactly how you can add new contacts on Android:
 
-- Open WhatsApp and tap the chat bubble at bottom right.
+1. Open WhatsApp and tap the chat bubble at bottom right.
 
-- Tap “New contact” at the top.
+2. Tap “New contact” at the top.
 
-- Type the name and phone number, including country code if needed.
+3. Type the name and phone number, including country code if needed.
 
-- Tap “Save.”
+4. Tap “Save.”
 
-- Pull down to refresh the contacts if the new one doesn’t show up.
+5. Pull down to refresh the contacts if the new one doesn’t show up.
 
-- To add from a chat, tap the unknown number and select “Add to contacts.”
+6. To add from a chat, tap the unknown number and select “Add to contacts.”
 
-- Use QR code by tapping three dots and selecting the QR icon for easy contact sharing.
+7. Use QR code by tapping three dots and selecting the QR icon for easy contact sharing.
 
-- Check app permissions to let WhatsApp access your phone’s address book.
+8. Check app permissions to let WhatsApp access your phone’s address book.
 
-- If a contact isn’t showing up, double check if it’s saved to phone storage.
+9. If a contact isn’t showing up, double check if it’s saved to phone storage.
 
-- Invite someone who doesn’t use WhatsApp by tapping their name and choosing “Invite to WhatsApp.”
+10. Invite someone who doesn’t use WhatsApp by tapping their name and choosing “Invite to WhatsApp.”
 
 ## Keeping the Contact List Clean and Easy to Find
 

@@ -28,17 +28,17 @@ Depending on your device’s manufacturer and Android version, the default galle
 
 Let’s start with the most basic method: deleting a single photo from your gallery.
 
-- **Open your gallery app**: Locate and tap on the gallery app icon on your home screen or app drawer.
+1. **Open your gallery app**: Locate and tap on the gallery app icon on your home screen or app drawer.
 
-- **Find the photo**: Browse through your gallery to find the specific photo you want to delete.
+2. **Find the photo**: Browse through your gallery to find the specific photo you want to delete.
 
-- **Select the photo**: Tap on the photo to open it in full-screen view.
+3. **Select the photo**: Tap on the photo to open it in full-screen view.
 
-- **Access the delete option**: Look for the trash can icon or the “Delete” option. This is usually located at the bottom of the screen or in the top-right corner, depending on your device and gallery app.
+4. **Access the delete option**: Look for the trash can icon or the “Delete” option. This is usually located at the bottom of the screen or in the top-right corner, depending on your device and gallery app.
 
-- **Confirm deletion**: A confirmation dialog will appear. Tap “Delete” or “OK” to confirm.
+5. **Confirm deletion**: A confirmation dialog will appear. Tap “Delete” or “OK” to confirm.
 
-- **Check the trash**: Some gallery apps move deleted photos to a trash folder instead of permanently deleting them. If this is the case, you may need to empty the trash to free up storage space.
+6. **Check the trash**: Some gallery apps move deleted photos to a trash folder instead of permanently deleting them. If this is the case, you may need to empty the trash to free up storage space.
 
 **Pro tip**: If you can’t find the delete option while viewing a photo, try tapping once on the screen to reveal the menu options.
 
@@ -46,17 +46,17 @@ Let’s start with the most basic method: deleting a single photo from your gall
 
 When you need to remove several photos at once, deleting them individually can be time-consuming. Here’s how to delete multiple photos simultaneously:
 
-- **Open your gallery app**: Launch your device’s gallery application.
+1. **Open your gallery app**: Launch your device’s gallery application.
 
-- **Enter selection mode**: Look for an option that says “Select” or tap and hold on any photo until it becomes selected.
+2. **Enter selection mode**: Look for an option that says “Select” or tap and hold on any photo until it becomes selected.
 
-- **Select multiple photos**: Tap on each photo you want to delete. You should see a checkmark or highlight appear on selected photos.
+3. **Select multiple photos**: Tap on each photo you want to delete. You should see a checkmark or highlight appear on selected photos.
 
-- **Delete selected photos**: Once you’ve selected all the photos you want to remove, tap the trash can icon or “Delete” option.
+4. **Delete selected photos**: Once you’ve selected all the photos you want to remove, tap the trash can icon or “Delete” option.
 
-- **Confirm deletion**: A confirmation dialog will appear. Tap “Delete” or “OK” to confirm.
+5. **Confirm deletion**: A confirmation dialog will appear. Tap “Delete” or “OK” to confirm.
 
-- **Empty the trash** (if applicable): Remember to empty the trash folder if your gallery app uses one.
+6. **Empty the trash** (if applicable): Remember to empty the trash folder if your gallery app uses one.
 
 **Note**: Some gallery apps allow you to select all photos in a folder by tapping a “Select All” option, which can be useful for bulk deletions.
 
@@ -64,37 +64,37 @@ When you need to remove several photos at once, deleting them individually can b
 
 If you want to delete photos from a specific time period or event, using the date or album view can be helpful:
 
-- **Open your gallery app**: Launch your device’s gallery application.
+1. **Open your gallery app**: Launch your device’s gallery application.
 
-- **Navigate to the date or album view**: Look for options to view photos by date, month, or album.
+2. **Navigate to the date or album view**: Look for options to view photos by date, month, or album.
 
-- **Select the desired date range or album**: Tap on the specific date, month, or album containing the photos you want to delete.
+3. **Select the desired date range or album**: Tap on the specific date, month, or album containing the photos you want to delete.
 
-- **Enter selection mode**: Look for a “Select” option or tap and hold on any photo to enter selection mode.
+4. **Enter selection mode**: Look for a “Select” option or tap and hold on any photo to enter selection mode.
 
-- **Select photos for deletion**: Tap to select the photos you want to remove.
+5. **Select photos for deletion**: Tap to select the photos you want to remove.
 
-- **Delete selected photos**: Tap the trash can icon or “Delete” option.
+6. **Delete selected photos**: Tap the trash can icon or “Delete” option.
 
-- **Confirm deletion**: A confirmation dialog will appear. Tap “Delete” or “OK” to confirm.
+7. **Confirm deletion**: A confirmation dialog will appear. Tap “Delete” or “OK” to confirm.
 
-- **Empty the trash** (if applicable): Don’t forget to empty the trash folder if your gallery app uses one.
+8. **Empty the trash** (if applicable): Don’t forget to empty the trash folder if your gallery app uses one.
 
 ## Method 4: Using File Manager to Delete Photos
 
 Sometimes, using a file manager app can give you more control over deleting photos, especially if you’re experiencing issues with your gallery app:
 
-- **Open your file manager app**: If you don’t have one installed, you can download a reputable file manager from the Google Play Store.
+1. **Open your file manager app**: If you don’t have one installed, you can download a reputable file manager from the Google Play Store.
 
-- **Navigate to the DCIM folder**: This is where most Android devices store camera photos.
+2. **Navigate to the DCIM folder**: This is where most Android devices store camera photos.
 
-- **Locate the photos**: Browse through the folders to find the photos you want to delete.
+3. **Locate the photos**: Browse through the folders to find the photos you want to delete.
 
-- **Select photos**: Tap and hold to select multiple photos, or use the selection options provided by your file manager.
+4. **Select photos**: Tap and hold to select multiple photos, or use the selection options provided by your file manager.
 
-- **Delete selected photos**: Tap the delete option, usually represented by a trash can icon.
+5. **Delete selected photos**: Tap the delete option, usually represented by a trash can icon.
 
-- **Confirm deletion**: A confirmation dialog will appear. Tap “Delete” or “OK” to confirm.
+6. **Confirm deletion**: A confirmation dialog will appear. Tap “Delete” or “OK” to confirm.
 
 **Caution**: Be careful when deleting files through a file manager, as you might accidentally delete important system files or other data.
 
@@ -102,15 +102,15 @@ Sometimes, using a file manager app can give you more control over deleting phot
 
 Google Photos is a popular cloud-based photo storage and management app that comes pre-installed on many Android devices. Here’s how to use it to delete photos:
 
-- **Open Google Photos**: Launch the Google Photos app on your device.
+1. **Open Google Photos**: Launch the Google Photos app on your device.
 
-- **Select photos**: Tap and hold on a photo to enter selection mode, then tap additional photos you want to delete.
+2. **Select photos**: Tap and hold on a photo to enter selection mode, then tap additional photos you want to delete.
 
-- **Delete selected photos**: Tap the trash can icon at the top of the screen.
+3. **Delete selected photos**: Tap the trash can icon at the top of the screen.
 
-- **Confirm deletion**: Tap “Move to trash” in the confirmation dialog.
+4. **Confirm deletion**: Tap “Move to trash” in the confirmation dialog.
 
-- **Empty the trash**: Go to the “Library” tab, tap on “Trash,” and select “Empty trash” to permanently delete the photos.
+5. **Empty the trash**: Go to the “Library” tab, tap on “Trash,” and select “Empty trash” to permanently delete the photos.
 
 **Bonus tip**: Google Photos offers a “Free up space” feature that helps you delete photos from your device that have already been backed up to the cloud.
 
@@ -132,13 +132,13 @@ To keep your Android gallery organized and prevent it from becoming cluttered, c
 
 If you accidentally delete a photo you wanted to keep, don’t panic. Here are some options for recovery:
 
-- **Check the trash folder**: Many gallery apps keep deleted photos in a trash folder for a certain period before permanent deletion.
+1. **Check the trash folder**: Many gallery apps keep deleted photos in a trash folder for a certain period before permanent deletion.
 
-- **Use recovery apps**: There are several apps available on the Google Play Store designed to recover deleted photos.
+2. **Use recovery apps**: There are several apps available on the Google Play Store designed to recover deleted photos.
 
-- **Check cloud backups**: If you use cloud storage services, your deleted photo might still be available there.
+3. **Check cloud backups**: If you use cloud storage services, your deleted photo might still be available there.
 
-- **Restore from a local backup**: If you regularly back up your device, you may be able to restore the deleted photo from a previous backup.
+4. **Restore from a local backup**: If you regularly back up your device, you may be able to restore the deleted photo from a previous backup.
 
 ## Conclusion
 

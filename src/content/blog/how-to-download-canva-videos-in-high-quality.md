@@ -22,23 +22,23 @@ Before diving into the downloading process, it’s essential to understand the d
 
 Now that we understand the quality options, let’s explore the step-by-step process of downloading your Canva videos in high quality:
 
-- **Create or Open Your Video Project**: Start by either creating a new video project or opening an existing one in Canva.
+1. **Create or Open Your Video Project**: Start by either creating a new video project or opening an existing one in Canva.
 
-- **Edit and Finalize Your Video**: Make sure your video content is complete and ready for export. Double-check all elements, transitions, and timing.
+2. **Edit and Finalize Your Video**: Make sure your video content is complete and ready for export. Double-check all elements, transitions, and timing.
 
-- **Click the Share Button**: Once your video is ready, locate and click the “Share” button in the top right corner of the Canva interface.
+3. **Click the Share Button**: Once your video is ready, locate and click the “Share” button in the top right corner of the Canva interface.
 
-- **Select Download**: From the dropdown menu, choose the “Download” option.
+4. **Select Download**: From the dropdown menu, choose the “Download” option.
 
-- **Choose Video Quality**: In the download settings, you’ll see options for video quality. If you’re a Canva Pro user, you’ll have access to HD and 4K options. Select the highest quality available for your account.
+5. **Choose Video Quality**: In the download settings, you’ll see options for video quality. If you’re a Canva Pro user, you’ll have access to HD and 4K options. Select the highest quality available for your account.
 
-- **Set File Type**: Ensure that “MP4 video” is selected as the file type for the best compatibility across platforms.
+6. **Set File Type**: Ensure that “MP4 video” is selected as the file type for the best compatibility across platforms.
 
-- **Adjust Advanced Settings**: For even more control, click on “Show advanced settings.” Here, you can fine-tune aspects like frame rate and audio quality.
+7. **Adjust Advanced Settings**: For even more control, click on “Show advanced settings.” Here, you can fine-tune aspects like frame rate and audio quality.
 
-- **Initiate Download**: Click the “Download” button to start the process. The time it takes will depend on your video length and the selected quality.
+8. **Initiate Download**: Click the “Download” button to start the process. The time it takes will depend on your video length and the selected quality.
 
-- **Save the File**: Once the download is complete, save the video file to your desired location on your device.
+9. **Save the File**: Once the download is complete, save the video file to your desired location on your device.
 
 ## Tips for Optimal Video Quality
 

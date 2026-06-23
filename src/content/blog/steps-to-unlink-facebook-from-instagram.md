@@ -92,15 +92,15 @@ While the process of unlinking Facebook from Instagram is relatively simple, the
 
 If you encounter any problems while trying to unlink your accounts, here are a few troubleshooting tips:
 
-- **Log out and log back in:** Sometimes, simply logging out of both Instagram and Facebook and then logging back in can resolve connection issues.
+1. **Log out and log back in:** Sometimes, simply logging out of both Instagram and Facebook and then logging back in can resolve connection issues.
 
-- **Clear app cache:** Go to your Android device’s Settings > Apps > Instagram > Storage and tap “Clear Cache.”
+2. **Clear app cache:** Go to your Android device’s Settings > Apps > Instagram > Storage and tap “Clear Cache.”
 
-- **Update the app:** As mentioned earlier, ensure you’re using the latest version of Instagram.
+3. **Update the app:** As mentioned earlier, ensure you’re using the latest version of Instagram.
 
-- **Check your internet connection:** A stable internet connection is necessary for account management tasks.
+4. **Check your internet connection:** A stable internet connection is necessary for account management tasks.
 
-- **Try using a web browser:** If the app is giving you trouble, you can try unlinking your accounts through the Instagram website on a mobile or desktop browser.
+5. **Try using a web browser:** If the app is giving you trouble, you can try unlinking your accounts through the Instagram website on a mobile or desktop browser.
 
 ## Conclusion
 

@@ -26,15 +26,15 @@ Snapchat Memories is a personalized album where you can save your favorite Snaps
 
 First, you need to give Snapchat permission to access your camera roll. Here’s how:
 
-- Open the Snapchat app and tap your profile icon in the top left
+1. Open the Snapchat app and tap your profile icon in the top left
 
-- Tap the gear icon ⚙️ to open Settings
+2. Tap the gear icon ⚙️ to open Settings
 
-- Scroll down and tap **Memories**
+3. Scroll down and tap **Memories**
 
-- Under **SAVING**, tap **Save To…**
+4. Under **SAVING**, tap **Save To…**
 
-- Select **Memories & Camera Roll**
+5. Select **Memories & Camera Roll**
 
 Now Snapchat can communicate with your camera roll to import photos and videos.
 
@@ -42,13 +42,13 @@ Now Snapchat can communicate with your camera roll to import photos and videos.
 
 With your camera roll connected, you can easily import any existing photos or videos into Snapchat Memories:
 
-- Again go to Settings ⚙️ and tap **Memories**
+1. Again go to Settings ⚙️ and tap **Memories**
 
-- Tap **Import Snaps from Camera Roll**
+2. Tap **Import Snaps from Camera Roll**
 
-- Tap **Select Snaps** and choose the photos/videos you want to import
+3. Tap **Select Snaps** and choose the photos/videos you want to import
 
-- Tap **Import** to copy them into Memories
+4. Tap **Import** to copy them into Memories
 
 The selected snaps will now appear in the Memories section of Snapchat, ready to view, edit, or share!
 
@@ -56,13 +56,13 @@ The selected snaps will now appear in the Memories section of Snapchat, ready to
 
 To automatically save new Snaps you take in Snapchat to your camera roll:
 
-- Go to your profile and tap ⚙️ to open Settings
+1. Go to your profile and tap ⚙️ to open Settings
 
-- Tap **Memories** under ACCOUNT
+2. Tap **Memories** under ACCOUNT
 
-- Under SAVING, tap **Save To…**
+3. Under SAVING, tap **Save To…**
 
-- Select **Memories & Camera Roll**
+4. Select **Memories & Camera Roll**
 
 Now any new Snaps you capture will save both to Memories and your Android’s camera roll. You can also manually save individual Snaps by tapping the down arrow icon after taking one.
 

@@ -14,21 +14,21 @@ Luckily, sending a voice message on Android is a straightforward process, whethe
 
 The Google Messages app comes pre-installed on most Android phones. Here’s how to send a voice message using Messages:
 
-- Open the **Messages** app on your Android phone.
+1. Open the **Messages** app on your Android phone.
 
-- Tap on an existing conversation or start a new one by clicking the **+ New Conversation** button.
+2. Tap on an existing conversation or start a new one by clicking the **+ New Conversation** button.
 
-- In the conversation, tap the **+ Plus** button to the left of the text input field.
+3. In the conversation, tap the **+ Plus** button to the left of the text input field.
 
-- Tap the **Microphone** icon to start recording your voice message.
+4. Tap the **Microphone** icon to start recording your voice message.
 
-- Hold the microphone button and start speaking your message. You can talk for up to 3 minutes in a single voice message.
+5. Hold the microphone button and start speaking your message. You can talk for up to 3 minutes in a single voice message.
 
-- When you’re done recording, release the microphone button. The voice message will be automatically saved as a draft.
+6. When you’re done recording, release the microphone button. The voice message will be automatically saved as a draft.
 
-- Tap the **Play** button to listen to your recording. If you’re not happy with it, tap the **X** to delete the draft and re-record.
+7. Tap the **Play** button to listen to your recording. If you’re not happy with it, tap the **X** to delete the draft and re-record.
 
-- When you’re satisfied with your voice message, tap the **Send** button (looks like a paper airplane) to send it.
+8. When you’re satisfied with your voice message, tap the **Send** button (looks like a paper airplane) to send it.
 
 That’s it! Your voice message will be delivered to the recipient. They can tap the **Play** button on the audio file to listen to your message.
 
@@ -38,41 +38,41 @@ If you prefer to use a different messaging app like **WhatsApp, Facebook Messeng
 
 ### WhatsApp
 
-- Open a chat in WhatsApp.
+1. Open a chat in WhatsApp.
 
-- Tap and hold the **Microphone** button, then start speaking.
+2. Tap and hold the **Microphone** button, then start speaking.
 
-- Lift your finger off the mic button to end the recording.
+3. Lift your finger off the mic button to end the recording.
 
-- Tap the **Send** button to deliver your voice message.
+4. Tap the **Send** button to deliver your voice message.
 
 ### Facebook Messenger
 
-- Open a conversation in Messenger.
+1. Open a conversation in Messenger.
 
-- Tap the **Microphone** icon once to start recording.
+2. Tap the **Microphone** icon once to start recording.
 
-- Speak your message. Tap the **Pause** button to pause/resume recording.
+3. Speak your message. Tap the **Pause** button to pause/resume recording.
 
-- Tap the **Send** button to send your voice message, or the **X** to cancel.
+4. Tap the **Send** button to send your voice message, or the **X** to cancel.
 
 ### Telegram
 
-- Go to a chat in Telegram.
+1. Go to a chat in Telegram.
 
-- Tap and hold the **Microphone** icon while recording your message.
+2. Tap and hold the **Microphone** icon while recording your message.
 
-- Release the mic button and your voice message will be instantly sent.
+3. Release the mic button and your voice message will be instantly sent.
 
 As you can see, while the exact steps vary slightly between apps, the general process is the same:
 
-- **Open a chat**
+1. **Open a chat**
 
-- **Press and hold the microphone button to record**
+2. **Press and hold the microphone button to record**
 
-- **Release the mic to end recording**
+3. **Release the mic to end recording**
 
-- **Send the voice message**
+4. **Send the voice message**
 
 ## Tips for Great Voice Messages
 

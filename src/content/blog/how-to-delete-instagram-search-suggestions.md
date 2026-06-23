@@ -28,13 +28,13 @@ These suggestions are designed to make your Instagram experience more efficient,
 
 The simplest way to remove specific search suggestions is to delete them one by one as they appear. This method is ideal if you want to keep most of your search history intact but remove a few unwanted entries. Here’s how to do it:
 
-- Open the Instagram app on your mobile device.
+1. Open the Instagram app on your mobile device.
 
-- Tap the search icon (magnifying glass) at the bottom of the screen.
+2. Tap the search icon (magnifying glass) at the bottom of the screen.
 
-- Tap the search bar at the top of the screen to reveal your recent searches and suggestions.
+3. Tap the search bar at the top of the screen to reveal your recent searches and suggestions.
 
-- For each suggestion you want to remove:
+4. For each suggestion you want to remove:
 
 - On iOS: Swipe left on the suggestion and tap “Delete”
 
@@ -46,15 +46,15 @@ This method allows you to curate your search suggestions without clearing your e
 
 If you want a fresh start and remove all search suggestions at once, Instagram offers a straightforward way to do this:
 
-- Go to your Instagram profile by tapping the profile icon in the bottom right corner.
+1. Go to your Instagram profile by tapping the profile icon in the bottom right corner.
 
-- Tap the three horizontal lines (hamburger menu) in the top right corner.
+2. Tap the three horizontal lines (hamburger menu) in the top right corner.
 
-- Select “Your activity” from the menu.
+3. Select “Your activity” from the menu.
 
-- Tap “Recent searches” in the “Search history” section.
+4. Tap “Recent searches” in the “Search history” section.
 
-- At the top right, tap “Clear all” to remove all your recent searches.
+5. At the top right, tap “Clear all” to remove all your recent searches.
 
 **Note**: This action will clear all your search history and remove all associated suggestions. It’s a great option if you want to start with a clean slate or if you’re particularly concerned about privacy.
 
@@ -62,15 +62,15 @@ If you want a fresh start and remove all search suggestions at once, Instagram o
 
 If you prefer using Instagram on your computer, you can also clear search suggestions through the web browser:
 
-- Go to Instagram.com and log in to your account.
+1. Go to Instagram.com and log in to your account.
 
-- Click on the search bar at the top of the page.
+2. Click on the search bar at the top of the page.
 
-- Your recent searches will appear in a dropdown menu.
+3. Your recent searches will appear in a dropdown menu.
 
-- To remove individual searches, click the “X” next to each item.
+4. To remove individual searches, click the “X” next to each item.
 
-- To clear all searches, click “Clear all” at the bottom of the dropdown.
+5. To clear all searches, click “Clear all” at the bottom of the dropdown.
 
 This method is particularly convenient if you frequently use Instagram on your desktop or laptop.
 
@@ -78,13 +78,13 @@ This method is particularly convenient if you frequently use Instagram on your d
 
 While not directly related to deleting search suggestions, adjusting your search settings can help manage what appears in your suggestions:
 
-- Go to your Instagram profile and tap the three lines in the top right.
+1. Go to your Instagram profile and tap the three lines in the top right.
 
-- Select “Settings and privacy” from the menu.
+2. Select “Settings and privacy” from the menu.
 
-- Tap “Search” in the list of options.
+3. Tap “Search” in the list of options.
 
-- Here, you can toggle options like “Recent searches” and “Search history” on or off.
+4. Here, you can toggle options like “Recent searches” and “Search history” on or off.
 
 By turning off these options, you can prevent Instagram from saving your search history, which in turn affects the suggestions you see.
 

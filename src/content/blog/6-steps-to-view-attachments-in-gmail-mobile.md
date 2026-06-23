@@ -58,13 +58,13 @@ If you want to save the attachment to your device for offline viewing or to use 
 
 While viewing attachments in Gmail mobile is generally straightforward, you may occasionally encounter issues. Here are some common problems and their solutions:
 
-- **Attachment Won’t Open**: If an attachment refuses to open, try downloading it first and then opening it with a compatible app on your device. Sometimes, clearing the app’s cache or updating the Gmail app can also resolve this issue.
+1. **Attachment Won’t Open**: If an attachment refuses to open, try downloading it first and then opening it with a compatible app on your device. Sometimes, clearing the app’s cache or updating the Gmail app can also resolve this issue.
 
-- **Slow Loading**: Large attachments may take time to load, especially on slower internet connections. Be patient, or try connecting to a stronger Wi-Fi network if possible.
+2. **Slow Loading**: Large attachments may take time to load, especially on slower internet connections. Be patient, or try connecting to a stronger Wi-Fi network if possible.
 
-- **Unsupported File Type**: If you encounter an unsupported file type, you may need to install a specific app to view it. Check the file extension and search for compatible apps in your device’s app store.
+3. **Unsupported File Type**: If you encounter an unsupported file type, you may need to install a specific app to view it. Check the file extension and search for compatible apps in your device’s app store.
 
-- **Storage Issues**: If you’re running low on storage space, you may have trouble downloading attachments. Consider deleting unnecessary files or using cloud storage options.
+4. **Storage Issues**: If you’re running low on storage space, you may have trouble downloading attachments. Consider deleting unnecessary files or using cloud storage options.
 
 ## Recent Improvements to Gmail Mobile
 

@@ -24,45 +24,45 @@ Keep in mind that hiding your SSID does not encrypt your network traffic or prev
 
 The first step is to log into your wireless router’s admin settings page. You’ll need to be connected to your WiFi network, then follow these steps:
 
-- Open a web browser on your Android phone and enter your router’s IP address. This is typically **192.168.0.1** or **192.168.1.1**, but check your specific router’s manual to confirm.
+1. Open a web browser on your Android phone and enter your router’s IP address. This is typically **192.168.0.1** or **192.168.1.1**, but check your specific router’s manual to confirm.
 
-- Enter your router’s admin username and password when prompted. If you never changed these from the default, they are often **admin** or **password**, or printed on the router itself.
+2. Enter your router’s admin username and password when prompted. If you never changed these from the default, they are often **admin** or **password**, or printed on the router itself.
 
-- Once logged in, look for a settings menu related to **Wireless** or **WiFi**.
+3. Once logged in, look for a settings menu related to **Wireless** or **WiFi**.
 
 ### Step 2: Find the SSID Settings
 
 With access to your router’s admin tools, you now need to find the option to hide your WiFi network name or SSID:
 
-- Within the Wireless or WiFi settings menu, look for an option named **Visibility Status**, **SSID Broadcast**, or something similar.
+1. Within the Wireless or WiFi settings menu, look for an option named **Visibility Status**, **SSID Broadcast**, or something similar.
 
-- If you see an option to **Enable SSID Broadcast** or similar, your network name is currently being broadcast. Select the option to **Disable** it.
+2. If you see an option to **Enable SSID Broadcast** or similar, your network name is currently being broadcast. Select the option to **Disable** it.
 
-- Alternatively, the option may be called **Hide SSID** or **Make Network Invisible**. In this case, make sure to select **Enable** to hide your network.
+3. Alternatively, the option may be called **Hide SSID** or **Make Network Invisible**. In this case, make sure to select **Enable** to hide your network.
 
 ### Step 3: Save Your New Settings
 
 Once you’ve selected the option to hide your network name, the final step is to save the new configuration:
 
-- Look for an option to **Save** or **Apply** your changed settings. Select it to confirm your choice to hide the network name.
+1. Look for an option to **Save** or **Apply** your changed settings. Select it to confirm your choice to hide the network name.
 
-- Your router will likely reboot to apply the new settings, which may take a minute or two. Do not interrupt it during this process.
+2. Your router will likely reboot to apply the new settings, which may take a minute or two. Do not interrupt it during this process.
 
-- After the router finishes rebooting, your WiFi network name will now be hidden from public view. It may disappear from your Android phone’s list of available networks.
+3. After the router finishes rebooting, your WiFi network name will now be hidden from public view. It may disappear from your Android phone’s list of available networks.
 
 ### Step 4: Reconnect to Your Hidden Network
 
 Now that your WiFi network is hidden, you’ll need to manually connect to it on your Android phone, since it won’t show up automatically in the list of available networks. Here’s how:
 
-- Open your Android’s **Settings** app and tap on **WiFi** or **Connections > WiFi**.
+1. Open your Android’s **Settings** app and tap on **WiFi** or **Connections > WiFi**.
 
-- Tap on **Add Network** or the **+** icon in the upper right to manually add your hidden home network.
+2. Tap on **Add Network** or the **+** icon in the upper right to manually add your hidden home network.
 
-- Enter your home network name (SSID) exactly as it was before hiding it. It is case sensitive.
+3. Enter your home network name (SSID) exactly as it was before hiding it. It is case sensitive.
 
-- Choose the correct security type (likely **WPA2**) and enter your WiFi password.
+4. Choose the correct security type (likely **WPA2**) and enter your WiFi password.
 
-- Tap **Connect** to join your hidden WiFi network. You should now be connected, even though the network name isn’t visible.
+5. Tap **Connect** to join your hidden WiFi network. You should now be connected, even though the network name isn’t visible.
 
 On some Android phones, there may also be an **Advanced** option where you can simply enter the hidden SSID directly. If you plan to connect other devices like laptops or tablets to your hidden network, you’ll need to repeat a similar process on each one to manually connect.
 

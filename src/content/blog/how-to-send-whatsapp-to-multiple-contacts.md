@@ -14,15 +14,15 @@ In this article, we’ll explore a few methods to send WhatsApp messages to mult
 
 One of the easiest ways to send a message to multiple contacts without broadcast is by creating a WhatsApp group. Here’s how:
 
-- Open WhatsApp and tap the three-dot menu icon in the top-right corner.
+1. Open WhatsApp and tap the three-dot menu icon in the top-right corner.
 
-- Select **New group** from the menu.
+2. Select **New group** from the menu.
 
-- Choose the contacts you want to include in the group and tap the green arrow.
+3. Choose the contacts you want to include in the group and tap the green arrow.
 
-- Enter a group name and tap the green checkmark to create the group.
+4. Enter a group name and tap the green checkmark to create the group.
 
-- Type your message and tap the send icon.
+5. Type your message and tap the send icon.
 
 Your message will be sent to all group members individually. Each recipient will see the message as a private chat with you, without knowing who else received the same message.
 
@@ -32,15 +32,15 @@ Your message will be sent to all group members individually. Each recipient will
 
 Another way to send the same message to multiple contacts is by forwarding an existing message. Follow these steps:
 
-- Open a chat containing the message you want to forward.
+1. Open a chat containing the message you want to forward.
 
-- Tap and hold the message until the options menu appears.
+2. Tap and hold the message until the options menu appears.
 
-- Tap the forward icon (arrow pointing right).
+3. Tap the forward icon (arrow pointing right).
 
-- Select the contacts you want to send the message to.
+4. Select the contacts you want to send the message to.
 
-- Tap the send icon.
+5. Tap the send icon.
 
 The selected message will be forwarded to each contact individually, appearing as a private conversation.
 
@@ -50,19 +50,19 @@ The selected message will be forwarded to each contact individually, appearing a
 
 If you want to send a new message to multiple contacts, you can compose it once and paste it into individual chats. Here’s how:
 
-- Open any chat in WhatsApp.
+1. Open any chat in WhatsApp.
 
-- Type your message in the text field.
+2. Type your message in the text field.
 
-- Tap and hold the message text, then select **Copy** from the options menu.
+3. Tap and hold the message text, then select **Copy** from the options menu.
 
-- Go back to your chat list and open a chat with the first contact you want to message.
+4. Go back to your chat list and open a chat with the first contact you want to message.
 
-- Tap and hold the text field, then select **Paste** to insert your message.
+5. Tap and hold the text field, then select **Paste** to insert your message.
 
-- Tap the send icon.
+6. Tap the send icon.
 
-- Repeat steps 4-6 for each additional contact.
+7. Repeat steps 4-6 for each additional contact.
 
 This method allows you to efficiently send the same message to multiple people without using broadcast lists.
 

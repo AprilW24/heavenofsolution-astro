@@ -12,11 +12,11 @@ In today’s digital age, social media platforms like Instagram have become an i
 
 One of the most straightforward ways to get an idea of who’s keeping tabs on your Instagram activity is by monitoring your story viewers. Instagram Stories are a popular feature that allows users to share photos and videos that disappear after 24 hours. When you post a story, you can see who has viewed it by following these steps:
 
-- Open your Instagram app and tap on your profile picture in the top left corner to view your active story.
+1. Open your Instagram app and tap on your profile picture in the top left corner to view your active story.
 
-- Swipe up from the bottom of the screen to see the list of viewers.
+2. Swipe up from the bottom of the screen to see the list of viewers.
 
-- Pay attention to users who consistently appear at the top of your viewer list, especially if they’re not close friends or regular interactors.
+3. Pay attention to users who consistently appear at the top of your viewer list, especially if they’re not close friends or regular interactors.
 
 It’s important to note that Instagram’s algorithm tends to place users who interact with your content more frequently at the top of your viewer list. However, if you notice unfamiliar accounts or people you don’t interact with regularly appearing consistently in your top viewers, they might be paying extra attention to your profile.
 
@@ -24,11 +24,11 @@ It’s important to note that Instagram’s algorithm tends to place users who i
 
 Another effective method to identify potential stalkers is by closely examining the interactions on your posts. This includes likes, comments, and views on your photos and videos. Here’s how you can use this information:
 
-- **Pay attention to quick responders**: If certain users consistently like or comment on your posts within minutes of you sharing them, it could indicate that they’re closely monitoring your activity.
+1. **Pay attention to quick responders**: If certain users consistently like or comment on your posts within minutes of you sharing them, it could indicate that they’re closely monitoring your activity.
 
-- **Look for patterns in older post interactions**: Occasionally, scroll through your older posts and check if any particular users have been liking or commenting on multiple posts in a short period. This could suggest that they’ve been browsing through your profile extensively.
+2. **Look for patterns in older post interactions**: Occasionally, scroll through your older posts and check if any particular users have been liking or commenting on multiple posts in a short period. This could suggest that they’ve been browsing through your profile extensively.
 
-- **Monitor video view counts**: For video posts, keep an eye on the view count. If you notice that the view count is significantly higher than the number of likes or comments, it might mean that some users are viewing your content without engaging with it directly.
+3. **Monitor video view counts**: For video posts, keep an eye on the view count. If you notice that the view count is significantly higher than the number of likes or comments, it might mean that some users are viewing your content without engaging with it directly.
 
 Remember that while these interactions don’t definitively prove someone is stalking your profile, they can provide valuable insights into who’s paying close attention to your Instagram activity.
 
@@ -44,21 +44,21 @@ Regularly reviewing your followers list can help you identify potential stalkers
 
 To review your followers:
 
-- Go to your profile page and tap on your follower count.
+1. Go to your profile page and tap on your follower count.
 
-- Scroll through the list and look for any suspicious or unfamiliar accounts.
+2. Scroll through the list and look for any suspicious or unfamiliar accounts.
 
-- If you find any concerning accounts, you can choose to block or remove them from your followers list.
+3. If you find any concerning accounts, you can choose to block or remove them from your followers list.
 
 ## 4. Utilize Instagram’s Activity Status Feature
 
 Instagram’s activity status feature can provide insights into when your followers are active on the platform. While this doesn’t directly show who’s viewing your profile, it can help you identify users who are frequently online when you post or are active. To use this feature:
 
-- Go to your Instagram settings.
+1. Go to your Instagram settings.
 
-- Tap on “Privacy” and then “Activity Status.”
+2. Tap on “Privacy” and then “Activity Status.”
 
-- Toggle on the “Show Activity Status” option.
+3. Toggle on the “Show Activity Status” option.
 
 Once enabled, you’ll be able to see when your followers were last active on Instagram. If you notice certain users are consistently active right after you post or are online at the same times as you, it could indicate they’re paying close attention to your activity.
 
@@ -66,11 +66,11 @@ Once enabled, you’ll be able to see when your followers were last active on In
 
 Sometimes, potential stalkers might tag you in posts to get your attention or to appear in your notifications. Regularly checking your tagged photos can help you identify any unusual tagging activity:
 
-- Go to your profile and tap the tagged photos icon (person icon with a tag).
+1. Go to your profile and tap the tagged photos icon (person icon with a tag).
 
-- Review the photos you’ve been tagged in.
+2. Review the photos you’ve been tagged in.
 
-- Look for any unfamiliar accounts or suspicious tagging patterns.
+3. Look for any unfamiliar accounts or suspicious tagging patterns.
 
 If you notice any concerning tags, you can remove the tag or adjust your tagging settings to require approval before tagged photos appear on your profile.
 
@@ -90,11 +90,11 @@ If you suspect someone is stalking your profile but don’t want to block them o
 
 To restrict an account:
 
-- Go to the user’s profile.
+1. Go to the user’s profile.
 
-- Tap the three dots in the top right corner.
+2. Tap the three dots in the top right corner.
 
-- Select “Restrict” from the options.
+3. Select “Restrict” from the options.
 
 This feature allows you to limit a user’s interactions with your profile without them knowing, which can be helpful in managing potential stalkers.
 
@@ -118,13 +118,13 @@ It’s generally not recommended to use third-party apps that claim to show who 
 
 If you believe someone is stalking your Instagram account and it’s making you uncomfortable, you have several options:
 
-- Use the Restrict feature to limit their interactions with your content.
+1. Use the Restrict feature to limit their interactions with your content.
 
-- Block the user to prevent them from seeing your profile altogether.
+2. Block the user to prevent them from seeing your profile altogether.
 
-- Make your account private to control who can see your posts and stories.
+3. Make your account private to control who can see your posts and stories.
 
-- If the behavior is harassing or threatening, report the account to Instagram.
+4. If the behavior is harassing or threatening, report the account to Instagram.
 
 ### Can someone tell if I’ve viewed their Instagram profile multiple times?
 

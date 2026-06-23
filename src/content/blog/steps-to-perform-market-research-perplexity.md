@@ -14,25 +14,25 @@ Let’s get into how I use Perplexity for market research. I promise you’ll fe
 
 ## Steps for Using Perplexity App for Market Research
 
-- Search for specific keywords from your market or niche.
+1. Search for specific keywords from your market or niche.
 
-- Review top answers and check the sources for credibility 💡.
+2. Review top answers and check the sources for credibility 💡.
 
-- Use follow-up questions to get detailed info, like competitor pricing or user reviews.
+3. Use follow-up questions to get detailed info, like competitor pricing or user reviews.
 
-- Check out charts, snippets, or tables provided by Perplexity for fast insights 📊.
+4. Check out charts, snippets, or tables provided by Perplexity for fast insights 📊.
 
-- Save or pin useful answers to come back to later.
+5. Save or pin useful answers to come back to later.
 
-- Try different phrasing, synonyms, or industry slang to see what pops up.
+6. Try different phrasing, synonyms, or industry slang to see what pops up.
 
-- Compare info pulled from several sources in the app.
+7. Compare info pulled from several sources in the app.
 
-- Share findings directly from Perplexity with your team (easy copy-paste).
+8. Share findings directly from Perplexity with your team (easy copy-paste).
 
-- Set reminders to re-search topics weekly or monthly for fresh data.
+9. Set reminders to re-search topics weekly or monthly for fresh data.
 
-- Ask Perplexity for summaries when you’ve got too much info to sort through 📋.
+10. Ask Perplexity for summaries when you’ve got too much info to sort through 📋.
 
 ## Using Perplexity to Size Up Competitors and Trends in Your Market
 

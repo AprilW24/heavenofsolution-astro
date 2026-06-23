@@ -18,25 +18,25 @@ Most AI-powered options take you through the whole process, so you don’t need 
 
 ## Steps to Create Your Invitation Design With AI on Your Phone
 
-- Pick an AI invitation app on your phone like Canva, MolyPix.AI, or FlipHTML5.
+1. Pick an AI invitation app on your phone like Canva, MolyPix.AI, or FlipHTML5.
 
-- Sign in or start a new project; open the invitation or card section.
+2. Sign in or start a new project; open the invitation or card section.
 
-- Choose an event type, like *boda*, *cumpleaños*, or business meeting.
+3. Choose an event type, like *boda*, *cumpleaños*, or business meeting.
 
-- Fill in your event details—name, date, time, location, RSVP contact.
+4. Fill in your event details—name, date, time, location, RSVP contact.
 
-- Decide on your preferred design theme, color, or layout.
+5. Decide on your preferred design theme, color, or layout.
 
-- Type a clear AI prompt describing your invitation’s look and feel.
+6. Type a clear AI prompt describing your invitation’s look and feel.
 
-- Let the app generate an invitation design based on your input.
+7. Let the app generate an invitation design based on your input.
 
-- Review and edit the text, layout, fonts, or colors if you want tweaks.
+8. Review and edit the text, layout, fonts, or colors if you want tweaks.
 
-- Save your finished invitation to your phone.
+9. Save your finished invitation to your phone.
 
-- Share it online, send by message, or print as needed.
+10. Share it online, send by message, or print as needed.
 
 ## Using One Simple Prompt to Get Your Invitation Designed Fast
 

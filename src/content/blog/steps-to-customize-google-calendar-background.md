@@ -26,13 +26,13 @@ Got those things ready? Great, let’s get started customizing your calendar vie
 
 The first step is to install the free Custom Calendar Background extension on your Chrome or Edge browser. This handy extension makes it super simple to add background images or colors to Google Calendar. Here’s how to install it:
 
-- Open the Chrome Web Store or Microsoft Edge Add-ons page
+1. Open the Chrome Web Store or Microsoft Edge Add-ons page
 
-- Search for **Custom Calendar Background**
+2. Search for **Custom Calendar Background**
 
-- Click **Add to Chrome** or **Get** to install the extension
+3. Click **Add to Chrome** or **Get** to install the extension
 
-- Click **Add extension** on the pop-up to confirm
+4. Click **Add extension** on the pop-up to confirm
 
 Once installed, you’ll see the Custom Calendar Background icon appear in your browser toolbar. Now you’re ready to start customizing!
 
@@ -40,9 +40,9 @@ Once installed, you’ll see the Custom Calendar Background icon appear in your 
 
 Next, decide what kind of background you want for your Google Calendar. You have two options:
 
-- **Use a photo**: Select one of your own images to use as the calendar background. This could be a favorite photo, an inspiring quote graphic, a pretty wallpaper, or any image you like.
+1. **Use a photo**: Select one of your own images to use as the calendar background. This could be a favorite photo, an inspiring quote graphic, a pretty wallpaper, or any image you like.
 
-- **Use a solid color**: Pick a color to use as a full-page background fill. This is a good option if you prefer a clean, simple look.
+2. **Use a solid color**: Pick a color to use as a full-page background fill. This is a good option if you prefer a clean, simple look.
 
 If you’re using your own photo, make sure to have it saved on your computer first before proceeding to the next step.
 
@@ -54,21 +54,21 @@ To access the extension’s options, simply click the Custom Calendar Background
 
 Now it’s time to set your background! If using a photo, follow these steps:
 
-- In the extension pop-up, select the **Image** tab
+1. In the extension pop-up, select the **Image** tab
 
-- Click **Upload an image**
+2. Click **Upload an image**
 
-- Locate and select your desired background image file on your computer
+3. Locate and select your desired background image file on your computer
 
-- Click **Open** to upload the image
+4. Click **Open** to upload the image
 
 If you prefer a solid color background instead, follow these steps:
 
-- In the extension pop-up, select the **Color** tab
+1. In the extension pop-up, select the **Color** tab
 
-- Use the color picker to select your desired background color, or enter a hex color code if you have one
+2. Use the color picker to select your desired background color, or enter a hex color code if you have one
 
-- Adjust the opacity slider if you want to change the transparency of the color
+3. Adjust the opacity slider if you want to change the transparency of the color
 
 ## Step 5: Tweak Sizing and Positioning (For Photo Backgrounds)
 

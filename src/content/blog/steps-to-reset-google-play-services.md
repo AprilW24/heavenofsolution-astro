@@ -16,29 +16,29 @@ Before resetting Google Play Services, it’s a good idea to make sure your Andr
 
 To check for Android updates:
 
-- Open the **Settings** app on your device
+1. Open the **Settings** app on your device
 
-- Scroll down and tap **System** > **System Update**
+2. Scroll down and tap **System** > **System Update**
 
-- If an update is available, tap **Download and Install**
+3. If an update is available, tap **Download and Install**
 
-- Wait for the update to finish installing, then restart your device
+4. Wait for the update to finish installing, then restart your device
 
 ### Step 2: Clear Google Play Services Cache and Data
 
 Clearing the cache and data for Google Play Services can resolve many common issues without requiring a full reset. This step will not delete any of your personal data or settings. Here’s how to do it:
 
-- Open the **Settings** app
+1. Open the **Settings** app
 
-- Tap **Apps & notifications** > **See all apps**
+2. Tap **Apps & notifications** > **See all apps**
 
-- Scroll down and tap **Google Play Services**
+3. Scroll down and tap **Google Play Services**
 
-- Tap **Storage & cache**
+4. Tap **Storage & cache**
 
-- Tap **Clear cache**, then **Clear storage**
+5. Tap **Clear cache**, then **Clear storage**
 
-- Restart your device
+6. Restart your device
 
 ### Step 3: Uninstall Google Play Services Updates
 
@@ -46,19 +46,19 @@ If clearing the cache and data didn’t resolve the issue, the next step is to u
 
 To uninstall updates:
 
-- Open the **Settings** app
+1. Open the **Settings** app
 
-- Tap **Apps & notifications** > **See all apps**
+2. Tap **Apps & notifications** > **See all apps**
 
-- Scroll down and tap **Google Play Services**
+3. Scroll down and tap **Google Play Services**
 
-- Tap the three-dot menu in the upper-right corner
+4. Tap the three-dot menu in the upper-right corner
 
-- Tap **Uninstall updates**
+5. Tap **Uninstall updates**
 
-- Tap **OK** to confirm
+6. Tap **OK** to confirm
 
-- Restart your device
+7. Restart your device
 
 ### Step 4: Update Google Play Services
 
@@ -66,15 +66,15 @@ After uninstalling updates, you should check for a new version of Google Play Se
 
 To update Google Play Services:
 
-- Open the **Google Play Store** app
+1. Open the **Google Play Store** app
 
-- Tap the three-line menu icon in the upper-left corner
+2. Tap the three-line menu icon in the upper-left corner
 
-- Tap **My apps & games**
+3. Tap **My apps & games**
 
-- If an update for Google Play Services is available, tap **Update**
+4. If an update for Google Play Services is available, tap **Update**
 
-- Wait for the update to finish installing
+5. Wait for the update to finish installing
 
 ### Step 5: Re-Add Your Google Account
 
@@ -82,23 +82,23 @@ If you’re still experiencing issues with Google Play Services after updating, 
 
 To remove your Google account:
 
-- Open the **Settings** app
+1. Open the **Settings** app
 
-- Tap **Accounts**
+2. Tap **Accounts**
 
-- Tap the Google account you want to remove
+3. Tap the Google account you want to remove
 
-- Tap **Remove account** > **Remove account** to confirm
+4. Tap **Remove account** > **Remove account** to confirm
 
 To re-add your Google account:
 
-- Open the **Settings** app
+1. Open the **Settings** app
 
-- Tap **Accounts** > **Add account** > **Google**
+2. Tap **Accounts** > **Add account** > **Google**
 
-- Follow the prompts to sign in to your Google account
+3. Follow the prompts to sign in to your Google account
 
-- Wait for your account to fully sync
+4. Wait for your account to fully sync
 
 ### Step 6: Factory Reset Your Device
 
@@ -106,17 +106,17 @@ If none of the above steps have resolved your Google Play Services issues, the l
 
 To factory reset your device:
 
-- Open the **Settings** app
+1. Open the **Settings** app
 
-- Tap **System** > **Reset options**
+2. Tap **System** > **Reset options**
 
-- Tap **Erase all data (factory reset)**
+3. Tap **Erase all data (factory reset)**
 
-- Tap **Reset phone** or **Reset tablet**
+4. Tap **Reset phone** or **Reset tablet**
 
-- If prompted, enter your device PIN or password
+5. If prompted, enter your device PIN or password
 
-- Tap **Erase everything** to confirm
+6. Tap **Erase everything** to confirm
 
 After the factory reset finishes, your device will restart and you’ll need to go through the setup process again, including signing in to your Google account. Once setup is complete, check to see if your Google Play Services issues have been resolved.
 

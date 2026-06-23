@@ -14,19 +14,19 @@ Splitting videos in Canva allows you to create multiple segments from a single v
 
 ## Steps to Split a Video in Canva Mobile
 
-- **Open the Canva App**: Start by opening the Canva app on your mobile device. Tap the “+” icon at the bottom to create a new design.
+1. **Open the Canva App**: Start by opening the Canva app on your mobile device. Tap the “+” icon at the bottom to create a new design.
 
-- **Select Video Design**: Choose “Video” from the design options. You can select a blank video design or use one of Canva’s templates.
+2. **Select Video Design**: Choose “Video” from the design options. You can select a blank video design or use one of Canva’s templates.
 
-- **Add Your Video**: Upload your video from your phone’s gallery or use a video from Canva’s library. To do this, tap on “Uploads” at the bottom toolbar and select your video.
+3. **Add Your Video**: Upload your video from your phone’s gallery or use a video from Canva’s library. To do this, tap on “Uploads” at the bottom toolbar and select your video.
 
-- **Access the Timeline**: Once your video is added, tap on it to select it. Then, go to the timeline at the bottom of the screen.
+4. **Access the Timeline**: Once your video is added, tap on it to select it. Then, go to the timeline at the bottom of the screen.
 
-- **Split the Video**: Move the timeline cursor to where you want to split the video. Tap on the timeline again until a new toolbar appears at the bottom. Select the “Split” option from this toolbar. This will divide your video into two parts.
+5. **Split the Video**: Move the timeline cursor to where you want to split the video. Tap on the timeline again until a new toolbar appears at the bottom. Select the “Split” option from this toolbar. This will divide your video into two parts.
 
-- **Edit and Refine**: You can now edit each part of the video separately. Use the trim tool to remove unwanted sections or add transitions between the splits for a smoother flow.
+6. **Edit and Refine**: You can now edit each part of the video separately. Use the trim tool to remove unwanted sections or add transitions between the splits for a smoother flow.
 
-- **Export Your Video**: Once you’re satisfied with your edits, tap the “Download” or “Share” button to export your video in your preferred format.
+7. **Export Your Video**: Once you’re satisfied with your edits, tap the “Download” or “Share” button to export your video in your preferred format.
 
 By following these steps, you can easily split videos in Canva’s mobile app and enhance your video editing skills on the go! 📹📊
 

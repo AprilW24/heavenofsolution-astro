@@ -76,11 +76,11 @@ While the selection of free elements might be more limited compared to the Pro v
 
 Another hidden gem in Canva is its curated element collections. These are themed sets of elements that work well together. To find these:
 
-- Go to the Elements tab
+1. Go to the Elements tab
 
-- Scroll down to the bottom
+2. Scroll down to the bottom
 
-- Look for collections like “Simple Multicolored Layering Lines” or “Abstract Minimalist Lined Elements”
+3. Look for collections like “Simple Multicolored Layering Lines” or “Abstract Minimalist Lined Elements”
 
 These collections often contain a mix of free and premium elements, but they can be a great source of inspiration and cohesive design assets.
 

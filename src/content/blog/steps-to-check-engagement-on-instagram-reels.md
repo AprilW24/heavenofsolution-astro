@@ -22,15 +22,15 @@ Before you can access detailed insights for your Reels, you need to make sure yo
 
 **To switch to a Business or Creator account:**
 
-- Go to your profile and tap the menu icon in the top right corner
+1. Go to your profile and tap the menu icon in the top right corner
 
-- Select “Settings”
+2. Select “Settings”
 
-- Tap “Account”
+3. Tap “Account”
 
-- Scroll down and select “Switch to Professional Account”
+4. Scroll down and select “Switch to Professional Account”
 
-- Choose either “Business” or “Creator” based on your needs
+5. Choose either “Business” or “Creator” based on your needs
 
 Once you’ve made the switch, you’ll have access to Instagram Insights, including detailed metrics for your Reels.
 
@@ -40,21 +40,21 @@ Now that you have the right account type, it’s time to dive into your Reels in
 
 **Method 1: From your profile**
 
-- Go to your profile page
+1. Go to your profile page
 
-- Tap the Insights button below your bio
+2. Tap the Insights button below your bio
 
-- Scroll down to the “Content You Shared” section
+3. Scroll down to the “Content You Shared” section
 
-- Tap on “Reels”
+4. Tap on “Reels”
 
 **Method 2: From an individual Reel**
 
-- Open one of your Reels
+1. Open one of your Reels
 
-- Tap the three-dot menu in the bottom right corner
+2. Tap the three-dot menu in the bottom right corner
 
-- Select “Insights”
+3. Select “Insights”
 
 Either method will give you access to a wealth of information about your Reels performance.
 
@@ -98,9 +98,9 @@ To get a true sense of your Reels performance, it’s important to look at trend
 
 **To change the time period:**
 
-- In the Insights section, tap the dropdown menu at the top
+1. In the Insights section, tap the dropdown menu at the top
 
-- Select your desired time frame
+2. Select your desired time frame
 
 Look at how your engagement metrics have changed over time. Are you seeing improvement? Are there certain periods where your engagement spikes or dips? This information can help you understand the impact of different strategies or external factors on your Reels performance.
 

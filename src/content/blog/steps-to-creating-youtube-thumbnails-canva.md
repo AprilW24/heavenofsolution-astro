@@ -18,27 +18,27 @@ Grabbing Canva on Android made a huge difference for my channel because I finall
 
 ## Steps to Make a YouTube Thumbnail with Canva on Android
 
-- Open the Canva Android app and log in (or sign up for free if you haven’t already)
+1. Open the Canva Android app and log in (or sign up for free if you haven’t already)
 
-- Use the search bar to find and select the *YouTube Thumbnail* template
+2. Use the search bar to find and select the *YouTube Thumbnail* template
 
-- Pick a ready-made template or start with a blank design for full control
+3. Pick a ready-made template or start with a blank design for full control
 
-- Tap on the background area to change the color or add a different image from your Gallery
+4. Tap on the background area to change the color or add a different image from your Gallery
 
-- Add your own photos by tapping the *uploads* tab and selecting your shots
+5. Add your own photos by tapping the *uploads* tab and selecting your shots
 
-- Remove any unwanted background using the built-in tool for cleaner subject focus
+6. Remove any unwanted background using the built-in tool for cleaner subject focus
 
-- Tap on *Text* to insert catchy headlines using bold, high-contrast fonts
+7. Tap on *Text* to insert catchy headlines using bold, high-contrast fonts
 
-- Drag and drop stickers, icons, or other graphics to match your video theme
+8. Drag and drop stickers, icons, or other graphics to match your video theme
 
-- Reposition and resize elements with simple pinch and drag gestures
+9. Reposition and resize elements with simple pinch and drag gestures
 
-- Preview your thumbnail, tap on the *download* icon, and save as PNG for better quality
+10. Preview your thumbnail, tap on the *download* icon, and save as PNG for better quality
 
-- Use the YouTube Studio app to upload your thumbnail to your video
+11. Use the YouTube Studio app to upload your thumbnail to your video
 
 ## Level Up Your Design with Text and Elements for More Engagement
 

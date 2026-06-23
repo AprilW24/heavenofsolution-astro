@@ -24,15 +24,15 @@ Whether you need to share photos, videos, documents or other files, transferring
 
 Most modern Android devices support WiFi Direct, which allows two devices to establish a direct WiFi connection without needing a wireless access point. Here’s how to use it:
 
-- On both Android devices, go to **Settings > Network & Internet > WiFi > WiFi preferences**
+1. On both Android devices, go to **Settings > Network & Internet > WiFi > WiFi preferences**
 
-- Tap **Advanced > WiFi Direct**
+2. Tap **Advanced > WiFi Direct**
 
-- The devices will scan and display a list of available devices
+3. The devices will scan and display a list of available devices
 
-- Tap the device you want to connect to and follow the prompts to pair
+4. Tap the device you want to connect to and follow the prompts to pair
 
-- Once connected, select the files you want to send and choose WiFi Direct to transfer them
+5. Once connected, select the files you want to send and choose WiFi Direct to transfer them
 
 WiFi Direct is a quick and easy way to transfer files between two Android phones or tablets. However, both devices need to support the feature.
 
@@ -68,15 +68,15 @@ Using an FTP server provides an easy way to wirelessly access your Android phone
 
 If you need to transfer files between your Android phone and a computer, using cloud storage like Google Drive is a simple solution:
 
-- On your Android phone, install the **Google Drive** app if needed
+1. On your Android phone, install the **Google Drive** app if needed
 
-- Open the app and tap the **+** button
+2. Open the app and tap the **+** button
 
-- Select **Upload**, then choose the files you want to transfer
+3. Select **Upload**, then choose the files you want to transfer
 
-- Once uploaded, open drive.google.com on your computer
+4. Once uploaded, open drive.google.com on your computer
 
-- Sign in with the same account and download the uploaded files
+5. Sign in with the same account and download the uploaded files
 
 This method works well for transferring files in both directions. You can also access the files from any device with internet access.
 

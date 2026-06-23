@@ -30,11 +30,11 @@ Although WhatsApp doesn’t provide a built-in option to revert to the blue colo
 
 One of the most effective ways to dramatically alter WhatsApp’s appearance is by enabling Dark Mode. This feature not only changes the overall look of the app but also offers benefits such as reduced eye strain and improved battery life on devices with OLED screens. Here’s how to activate Dark Mode:
 
-- Open WhatsApp and tap on the three-dot menu in the top right corner.
+1. Open WhatsApp and tap on the three-dot menu in the top right corner.
 
-- Go to “Settings” and then “Chats.”
+2. Go to “Settings” and then “Chats.”
 
-- Look for the “Theme” option and select “Dark.”
+3. Look for the “Theme” option and select “Dark.”
 
 Once enabled, Dark Mode transforms the app’s background to a deep, dark color, which may be more visually appealing than the light green interface. The contrast between the dark background and light text can create a sleek, modern look that many users find preferable to the default light theme.
 
@@ -42,13 +42,13 @@ Once enabled, Dark Mode transforms the app’s background to a deep, dark color,
 
 Another effective way to personalize your WhatsApp experience is by changing your chat wallpaper. By selecting a blue-themed background, you can create the illusion of a blue interface, at least within individual conversations. Follow these steps to change your chat wallpaper:
 
-- Open any chat in WhatsApp.
+1. Open any chat in WhatsApp.
 
-- Tap the three-dot menu in the top right corner.
+2. Tap the three-dot menu in the top right corner.
 
-- Select “Wallpaper” from the dropdown menu.
+3. Select “Wallpaper” from the dropdown menu.
 
-- Choose from the available options or upload your own blue-themed image.
+4. Choose from the available options or upload your own blue-themed image.
 
 By selecting a blue wallpaper, you can significantly alter the visual experience of your chats, potentially satisfying your preference for a blue color scheme. Remember, you can set different wallpapers for different chats, allowing for even more personalization.
 
@@ -56,13 +56,13 @@ By selecting a blue wallpaper, you can significantly alter the visual experience
 
 Some Android devices offer the option to adjust system-wide color settings, which can indirectly affect WhatsApp’s appearance. While this method may not produce perfect results, it’s worth exploring if you’re determined to shift the app’s color towards blue:
 
-- Go to your phone’s “Settings” app.
+1. Go to your phone’s “Settings” app.
 
-- Look for “Accessibility” or “Display” settings (the exact location may vary depending on your device).
+2. Look for “Accessibility” or “Display” settings (the exact location may vary depending on your device).
 
-- Search for color adjustment options, which might be labeled as “Color correction” or “Color filters.”
+3. Search for color adjustment options, which might be labeled as “Color correction” or “Color filters.”
 
-- Experiment with different settings to see if you can shift the overall color palette towards blue.
+4. Experiment with different settings to see if you can shift the overall color palette towards blue.
 
 Keep in mind that this method will affect all apps and your device’s entire interface, not just WhatsApp. It may also not produce ideal results, as it’s not designed specifically for changing app colors.
 
@@ -84,13 +84,13 @@ While the allure of customization might be tempting, the risks associated with u
 
 If you feel strongly about the color change, one of the most constructive actions you can take is to provide feedback directly to WhatsApp. While there’s no guarantee that your input will lead to immediate changes, user feedback is valuable and can influence future updates. Here’s how you can share your thoughts:
 
-- Open WhatsApp and go to “Settings.”
+1. Open WhatsApp and go to “Settings.”
 
-- Tap on “Help,” then “Contact Us.”
+2. Tap on “Help,” then “Contact Us.”
 
-- Clearly explain your preference for the blue color scheme and why it’s important to you.
+3. Clearly explain your preference for the blue color scheme and why it’s important to you.
 
-- Submit your feedback through the provided form.
+4. Submit your feedback through the provided form.
 
 Remember to be polite and constructive in your feedback. Companies are more likely to consider well-articulated, respectful suggestions from their users.
 

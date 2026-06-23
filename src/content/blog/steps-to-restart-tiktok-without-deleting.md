@@ -26,21 +26,21 @@ Restarting TikTok can help resolve these issues by clearing out any temporary da
 
 If you’re using TikTok on an iPhone, here’s how to restart the app without deleting it:
 
-- **Close the TikTok app**: Double-click the Home button to view your recently used apps. Swipe up on the TikTok app preview to close it.
+1. **Close the TikTok app**: Double-click the Home button to view your recently used apps. Swipe up on the TikTok app preview to close it.
 
-- **Clear the app switcher**: After closing TikTok, swipe up on the other app previews to clear them from the app switcher. This will free up memory and help TikTok run more smoothly when you reopen it.
+2. **Clear the app switcher**: After closing TikTok, swipe up on the other app previews to clear them from the app switcher. This will free up memory and help TikTok run more smoothly when you reopen it.
 
-- **Relaunch TikTok**: Tap the TikTok app icon on your home screen to reopen the app. It should now be restarted without any of your data or login information being deleted.
+3. **Relaunch TikTok**: Tap the TikTok app icon on your home screen to reopen the app. It should now be restarted without any of your data or login information being deleted.
 
 ## How to Restart TikTok on Android
 
 The process for restarting TikTok on Android is similar to iOS:
 
-- **Close the TikTok app**: Tap the square navigation button to view your recently used apps. Swipe TikTok to the side to close it.
+1. **Close the TikTok app**: Tap the square navigation button to view your recently used apps. Swipe TikTok to the side to close it.
 
-- **Clear the app switcher**: After closing TikTok, clear any other recently used apps to free up memory.
+2. **Clear the app switcher**: After closing TikTok, clear any other recently used apps to free up memory.
 
-- **Relaunch TikTok**: Tap the TikTok app icon in your app drawer or home screen to reopen it. The app will restart without deleting any of your data.
+3. **Relaunch TikTok**: Tap the TikTok app icon in your app drawer or home screen to reopen it. The app will restart without deleting any of your data.
 
 ## Other Ways to Restart TikTok
 

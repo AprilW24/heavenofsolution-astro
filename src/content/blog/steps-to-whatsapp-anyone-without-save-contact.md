@@ -22,21 +22,21 @@ The whole process is based on WhatsApp’s official *wa.me* link system. When yo
 
 ## Step by Step Guide to Send Messages Without Saving Numbers
 
-- Open your web browser (Chrome, Safari, or any browser works fine) on your phone or computer.
+1. Open your web browser (Chrome, Safari, or any browser works fine) on your phone or computer.
 
-- Type in the URL bar [**https://wa.me/**](https://wa.me/) followed immediately by the country code and phone number without any spaces or special characters.
+2. Type in the URL bar [**https://wa.me/**](https://wa.me/) followed immediately by the country code and phone number without any spaces or special characters.
 
-- For example, if the number is +1 234 567 8900, you would type [**https://wa.me/12345678900**](https://wa.me/12345678900) (remove the plus sign and spaces).
+3. For example, if the number is +1 234 567 8900, you would type [**https://wa.me/12345678900**](https://wa.me/12345678900) (remove the plus sign and spaces).
 
-- Press Enter or Go to load the page, and you’ll see a WhatsApp prompt that says “Continue to Chat” or “Message” depending on your device.
+4. Press Enter or Go to load the page, and you’ll see a WhatsApp prompt that says “Continue to Chat” or “Message” depending on your device.
 
-- Click or tap the “Continue to Chat” button, and WhatsApp will open automatically (either the app on your phone or WhatsApp Web on your computer).
+5. Click or tap the “Continue to Chat” button, and WhatsApp will open automatically (either the app on your phone or WhatsApp Web on your computer).
 
-- The chat window will open with that number, and you can start typing your message right away without the contact being saved anywhere.
+6. The chat window will open with that number, and you can start typing your message right away without the contact being saved anywhere.
 
-- If you want to add a pre-filled message, add **?text=** at the end of the URL followed by your message, like [**https://wa.me/12345678900?text=Hello**](https://wa.me/12345678900?text=Hello) (the spaces in your message will be automatically encoded).
+7. If you want to add a pre-filled message, add **?text=** at the end of the URL followed by your message, like [**https://wa.me/12345678900?text=Hello**](https://wa.me/12345678900?text=Hello) (the spaces in your message will be automatically encoded).
 
-- You can bookmark this URL or save it in your notes app for future use if you need to contact the same person again later.
+8. You can bookmark this URL or save it in your notes app for future use if you need to contact the same person again later.
 
 ## Alternative Methods That Work Just as Well
 

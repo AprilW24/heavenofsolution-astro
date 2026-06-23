@@ -12,25 +12,25 @@ Google keeps updating things, which sometimes makes it tricky to figure out wher
 
 ## Step-by-Step to Get Google App on Android
 
-- Open the Play Store on your Android.
+1. Open the Play Store on your Android.
 
-- Tap on the search bar up top and type in “**Google**.”
+2. Tap on the search bar up top and type in “**Google**.”
 
-- Find the Google app in the results.
+3. Find the Google app in the results.
 
-- Tap on it to pull up the app page.
+4. Tap on it to pull up the app page.
 
-- Tap the Install button.
+5. Tap the Install button.
 
-- Wait for the app to download and finish installing.
+6. Wait for the app to download and finish installing.
 
-- Once it’s done, tap Open or find it in your apps list.
+7. Once it’s done, tap Open or find it in your apps list.
 
-- Google might ask for sign in or permission the first time, just follow the prompts.
+8. Google might ask for sign in or permission the first time, just follow the prompts.
 
-- Make sure you have solid Wi-Fi or data so things move fast.
+9. Make sure you have solid Wi-Fi or data so things move fast.
 
-- Done! The Google app should now show on your home screen.
+10. Done! The Google app should now show on your home screen.
 
 ## Download and Install Google App Easily on iPhone
 

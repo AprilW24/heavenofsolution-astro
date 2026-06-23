@@ -68,15 +68,15 @@ Make sure you have a digital copy of your ID ready before starting the applicati
 
 Now you’re ready to submit your verification request. Follow these steps:
 
-- Open the Instagram app and go to your profile
+1. Open the Instagram app and go to your profile
 
-- Tap the menu icon (three lines) in the top right corner
+2. Tap the menu icon (three lines) in the top right corner
 
-- Select **Settings and Privacy**
+3. Select **Settings and Privacy**
 
-- Tap **Account**
+4. Tap **Account**
 
-- Scroll down and select **Request Verification**
+5. Scroll down and select **Request Verification**
 
 ## Step 5: Fill Out the Verification Application
 
@@ -132,13 +132,13 @@ While there’s no guaranteed way to get verified, these additional tips can hel
 
 If Instagram denies your verification request, don’t lose hope. Here are some steps to take:
 
-- Review Instagram’s guidelines to ensure you meet all criteria
+1. Review Instagram’s guidelines to ensure you meet all criteria
 
-- Continue building your online presence and gathering press mentions
+2. Continue building your online presence and gathering press mentions
 
-- Improve your account’s authenticity and completeness
+3. Improve your account’s authenticity and completeness
 
-- Wait 30 days before reapplying with updated information
+4. Wait 30 days before reapplying with updated information
 
 Remember, many influential accounts aren’t verified, and you can still build a successful Instagram presence without the blue checkmark.
 

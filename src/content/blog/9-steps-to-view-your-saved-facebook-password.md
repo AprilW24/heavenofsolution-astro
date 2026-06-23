@@ -16,23 +16,23 @@ Android users have several methods at their disposal to retrieve their saved Fac
 
 Google’s built-in password manager is a convenient tool for Android users to store and retrieve passwords for various accounts, including Facebook. Here’s how you can access your Facebook password using this feature:
 
-- Open your Android device’s **Settings** app.
+1. Open your Android device’s **Settings** app.
 
-- Scroll down and tap on **Google**.
+2. Scroll down and tap on **Google**.
 
-- Select **Manage your Google Account**.
+3. Select **Manage your Google Account**.
 
-- Navigate to the **Security** tab.
+4. Navigate to the **Security** tab.
 
-- Scroll down to find the **Password Manager** option and tap on it.
+5. Scroll down to find the **Password Manager** option and tap on it.
 
-- In the search bar, type “Facebook” to locate your saved Facebook account.
+6. In the search bar, type “Facebook” to locate your saved Facebook account.
 
-- Tap on the Facebook entry.
+7. Tap on the Facebook entry.
 
-- You may be prompted to enter your device’s PIN, pattern, or use your fingerprint for security verification.
+8. You may be prompted to enter your device’s PIN, pattern, or use your fingerprint for security verification.
 
-- Once verified, you’ll be able to view your saved Facebook password.
+9. Once verified, you’ll be able to view your saved Facebook password.
 
 This method is particularly useful if you’ve allowed Google to save your passwords when logging into accounts on your Android device.
 
@@ -40,21 +40,21 @@ This method is particularly useful if you’ve allowed Google to save your passw
 
 If you primarily use Google Chrome to access Facebook on your Android device, you can retrieve your saved password through the browser’s settings. Follow these steps:
 
-- Launch the **Google Chrome** app on your Android phone.
+1. Launch the **Google Chrome** app on your Android phone.
 
-- Tap the **three-dot menu** icon in the top-right corner.
+2. Tap the **three-dot menu** icon in the top-right corner.
 
-- Select **Settings** from the dropdown menu.
+3. Select **Settings** from the dropdown menu.
 
-- Tap on **Passwords** in the settings menu.
+4. Tap on **Passwords** in the settings menu.
 
-- In the list of saved passwords, search for “Facebook”.
+5. In the list of saved passwords, search for “Facebook”.
 
-- Tap on the Facebook entry.
+6. Tap on the Facebook entry.
 
-- You’ll be asked to verify your identity using your device’s security method (PIN, pattern, or fingerprint).
+7. You’ll be asked to verify your identity using your device’s security method (PIN, pattern, or fingerprint).
 
-- After verification, tap the **eye icon** next to the password field to reveal your Facebook password.
+8. After verification, tap the **eye icon** next to the password field to reveal your Facebook password.
 
 This method is effective if you’ve allowed Chrome to save your passwords when logging into websites.
 
@@ -62,23 +62,23 @@ This method is effective if you’ve allowed Chrome to save your passwords when 
 
 For Android users who prefer Mozilla Firefox, the process is similar to Chrome:
 
-- Open the **Firefox** browser on your Android device.
+1. Open the **Firefox** browser on your Android device.
 
-- Tap the **three-dot menu** icon in the top-right corner.
+2. Tap the **three-dot menu** icon in the top-right corner.
 
-- Select **Settings** from the menu.
+3. Select **Settings** from the menu.
 
-- Scroll down and tap on **Logins and passwords**.
+4. Scroll down and tap on **Logins and passwords**.
 
-- Tap **Saved logins**.
+5. Tap **Saved logins**.
 
-- Search for “Facebook” in the list of saved logins.
+6. Search for “Facebook” in the list of saved logins.
 
-- Tap on the Facebook entry.
+7. Tap on the Facebook entry.
 
-- You may need to verify your identity using your device’s security method.
+8. You may need to verify your identity using your device’s security method.
 
-- Once verified, you’ll be able to view your saved Facebook password.
+9. Once verified, you’ll be able to view your saved Facebook password.
 
 ## Viewing Facebook Password on iOS Devices
 
@@ -88,17 +88,17 @@ iPhone and iPad users also have options to retrieve their saved Facebook passwor
 
 Apple’s iOS has a built-in password manager that stores passwords for various apps and websites. Here’s how to access your Facebook password through iOS settings:
 
-- Open the **Settings** app on your iOS device.
+1. Open the **Settings** app on your iOS device.
 
-- Scroll down and tap on **Passwords**.
+2. Scroll down and tap on **Passwords**.
 
-- You’ll be prompted to authenticate using Face ID, Touch ID, or your device passcode.
+3. You’ll be prompted to authenticate using Face ID, Touch ID, or your device passcode.
 
-- Once authenticated, search for “Facebook” in the list of saved passwords.
+4. Once authenticated, search for “Facebook” in the list of saved passwords.
 
-- Tap on the Facebook entry.
+5. Tap on the Facebook entry.
 
-- Your saved username and password for Facebook will be displayed.
+6. Your saved username and password for Facebook will be displayed.
 
 This method works if you’ve allowed iOS to save your passwords when logging into apps or websites.
 
@@ -106,29 +106,29 @@ This method works if you’ve allowed iOS to save your passwords when logging in
 
 If you use Safari as your primary browser on iOS, you can retrieve your Facebook password through the browser settings:
 
-- Open the **Settings** app on your iOS device.
+1. Open the **Settings** app on your iOS device.
 
-- Scroll down and tap on **Safari**.
+2. Scroll down and tap on **Safari**.
 
-- Tap on **Passwords**.
+3. Tap on **Passwords**.
 
-- Authenticate using Face ID, Touch ID, or your device passcode.
+4. Authenticate using Face ID, Touch ID, or your device passcode.
 
-- Search for “Facebook” in the list of saved passwords.
+5. Search for “Facebook” in the list of saved passwords.
 
-- Tap on the Facebook entry to view your saved username and password.
+6. Tap on the Facebook entry to view your saved username and password.
 
 ### Using Third-Party Password Managers
 
 Many iOS users opt for third-party password managers like LastPass, 1Password, or Dashlane. If you use one of these apps, the process to retrieve your Facebook password may vary slightly, but generally involves:
 
-- Opening the password manager app.
+1. Opening the password manager app.
 
-- Authenticating using your master password or biometric authentication.
+2. Authenticating using your master password or biometric authentication.
 
-- Searching for “Facebook” in your saved passwords.
+3. Searching for “Facebook” in your saved passwords.
 
-- Viewing the saved Facebook password within the app.
+4. Viewing the saved Facebook password within the app.
 
 ## What to Do If You Can’t Find Your Saved Password
 

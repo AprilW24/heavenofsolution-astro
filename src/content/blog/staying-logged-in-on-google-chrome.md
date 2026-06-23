@@ -12,15 +12,15 @@ Google Chrome is one of the most popular web browsers for Android devices, offer
 
 Before diving into the solutions, it’s essential to understand why Chrome might be logging you out:
 
-- Outdated browser version
+1. Outdated browser version
 
-- Disabled cookies
+2. Disabled cookies
 
-- Conflicting browser settings
+3. Conflicting browser settings
 
-- Security features like 2-Step Verification
+4. Security features like 2-Step Verification
 
-- Cache and data issues
+5. Cache and data issues
 
 Now, let’s explore the steps to resolve these issues and stay logged in on Google Chrome for Android.
 

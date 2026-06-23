@@ -20,13 +20,13 @@ Let’s start with some built-in methods that don’t require additional apps:
 
 Many Android devices automatically save pictures received through text messages to the Photos app. Here’s how you can check:
 
-- Open the **Photos** app on your Android device.
+1. Open the **Photos** app on your Android device.
 
-- Tap on the **Albums** tab.
+2. Tap on the **Albums** tab.
 
-- Look for a folder named **SMS**, **Messages**, or something similar.
+3. Look for a folder named **SMS**, **Messages**, or something similar.
 
-- If present, this folder should contain all the images you’ve received via text messages.
+4. If present, this folder should contain all the images you’ve received via text messages.
 
 **Note:** This method may not work on all Android devices or with all messaging apps, as it depends on how your specific phone and messaging app handle image storage.
 
@@ -34,13 +34,13 @@ Many Android devices automatically save pictures received through text messages 
 
 Another native option is to use your device’s file manager:
 
-- Open your device’s **File Manager** app.
+1. Open your device’s **File Manager** app.
 
-- Navigate to the **Internal Storage** or **SD Card** section.
+2. Navigate to the **Internal Storage** or **SD Card** section.
 
-- Look for a folder named **DCIM**, **Pictures**, or **Messages**.
+3. Look for a folder named **DCIM**, **Pictures**, or **Messages**.
 
-- Within these folders, you might find subfolders containing images from your text messages.
+4. Within these folders, you might find subfolders containing images from your text messages.
 
 ![](/wp-content/uploads/2024/09/HoS_ViewAllPictures-1.jpg)
 
@@ -62,15 +62,15 @@ This app is designed specifically to extract attachments from your text messages
 
 **How to use:**
 
-- Download and install **Message Attachment Extractor** from the Google Play Store.
+1. Download and install **Message Attachment Extractor** from the Google Play Store.
 
-- Open the app and grant necessary permissions.
+2. Open the app and grant necessary permissions.
 
-- Select the conversations you want to extract images from.
+3. Select the conversations you want to extract images from.
 
-- Choose the destination folder for the extracted images.
+4. Choose the destination folder for the extracted images.
 
-- Tap “Extract” and wait for the process to complete.
+5. Tap “Extract” and wait for the process to complete.
 
 ### 2. SMS Backup & Restore
 
@@ -86,13 +86,13 @@ While primarily a backup tool, SMS Backup & Restore can also be used to view and
 
 **How to use:**
 
-- Install **SMS Backup & Restore** from the Google Play Store.
+1. Install **SMS Backup & Restore** from the Google Play Store.
 
-- Create a backup of your messages.
+2. Create a backup of your messages.
 
-- Use the app’s built-in viewer to browse through your messages and view attached images.
+3. Use the app’s built-in viewer to browse through your messages and view attached images.
 
-- Extract images you want to save separately.
+4. Extract images you want to save separately.
 
 ### 3. Gallery Apps with Message Folders
 
@@ -100,13 +100,13 @@ Some third-party gallery apps can automatically detect and display folders conta
 
 **How to use:**
 
-- Install a comprehensive gallery app like QuickPic or F-Stop Gallery.
+1. Install a comprehensive gallery app like QuickPic or F-Stop Gallery.
 
-- Open the app and allow it to scan your device.
+2. Open the app and allow it to scan your device.
 
-- Look for folders named after your messaging apps or labeled as “Messages” or “MMS”.
+3. Look for folders named after your messaging apps or labeled as “Messages” or “MMS”.
 
-- These folders should contain all images from your text messages.
+4. These folders should contain all images from your text messages.
 
 ## Best Practices for Managing Text Message Pictures
 
@@ -122,11 +122,11 @@ While these methods can help you view all pictures from your text messages, it�
 
 While trying to view all pictures from your text messages, you might encounter some challenges:
 
-- **Privacy concerns**: Some messaging apps prioritize privacy and may not allow third-party apps to access message content. In such cases, you may need to use the app’s built-in image viewer or export function.
+1. **Privacy concerns**: Some messaging apps prioritize privacy and may not allow third-party apps to access message content. In such cases, you may need to use the app’s built-in image viewer or export function.
 
-- **Storage issues**: If you’ve been using your phone for a long time, you might have accumulated a large number of images, which can take up significant storage space. Consider using cloud storage solutions or regularly archiving old images to free up space.
+2. **Storage issues**: If you’ve been using your phone for a long time, you might have accumulated a large number of images, which can take up significant storage space. Consider using cloud storage solutions or regularly archiving old images to free up space.
 
-- **Compatibility issues**: Not all methods work on all Android devices or with all messaging apps. You may need to try multiple approaches to find the one that works best for your specific setup.
+3. **Compatibility issues**: Not all methods work on all Android devices or with all messaging apps. You may need to try multiple approaches to find the one that works best for your specific setup.
 
 ## Conclusion
 

@@ -70,15 +70,15 @@ While checking your login history, take the opportunity to enhance your account 
 
 If you prefer a larger screen or don’t have access to your Android device, you can also check your Gmail login history using a web browser:
 
-- Open a web browser on any device and go to gmail.com
+1. Open a web browser on any device and go to gmail.com
 
-- Sign in to your Gmail account
+2. Sign in to your Gmail account
 
-- Scroll to the bottom of your inbox
+3. Scroll to the bottom of your inbox
 
-- Look for **Last account activity** in the bottom-right corner
+4. Look for **Last account activity** in the bottom-right corner
 
-- Click on **Details** to view your account’s recent activity
+5. Click on **Details** to view your account’s recent activity
 
 This method provides a more detailed view of your login history, including IP addresses and access types.
 
@@ -100,17 +100,17 @@ Remember that using a VPN or accessing your account while traveling may show dif
 
 If you believe someone has gained unauthorized access to your Gmail account:
 
-- Change your password immediately
+1. Change your password immediately
 
-- Review and revoke access for any suspicious third-party apps
+2. Review and revoke access for any suspicious third-party apps
 
-- Enable 2-Step Verification if not already active
+3. Enable 2-Step Verification if not already active
 
-- Check your account recovery options to ensure they’re up to date
+4. Check your account recovery options to ensure they’re up to date
 
-- Review your sent emails and drafts for any suspicious activity
+5. Review your sent emails and drafts for any suspicious activity
 
-- Consider setting up alerts for unusual account activity
+6. Consider setting up alerts for unusual account activity
 
 ## Conclusion
 

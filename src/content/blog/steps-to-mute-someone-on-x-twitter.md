@@ -38,11 +38,11 @@ That’s it! The selected user is now muted. You can unmute them at any time by 
 
 To view and manage your list of muted accounts:
 
-- Open your Settings menu by tapping your profile icon and selecting **Settings and privacy**
+1. Open your Settings menu by tapping your profile icon and selecting **Settings and privacy**
 
-- Tap **Privacy and safety** and then **Mute and block**
+2. Tap **Privacy and safety** and then **Mute and block**
 
-- Select **Muted accounts**
+3. Select **Muted accounts**
 
 Here you’ll see a list of every user you’ve muted. Tap **Unmute** next to any user to start seeing their tweets in your timeline again. You can also mute or block accounts directly from this page.
 
@@ -52,15 +52,15 @@ In addition to muting accounts, Twitter lets you mute specific words, phrases, u
 
 To mute words:
 
-- Go to Settings > Privacy and safety > Mute and block
+1. Go to Settings > Privacy and safety > Mute and block
 
-- Tap **Muted words**
+2. Tap **Muted words**
 
-- Tap the plus icon and enter the word or phrase you want to mute
+3. Tap the plus icon and enter the word or phrase you want to mute
 
-- Choose where to mute the word (Home timeline, Notifications, or From anyone) and set a time period
+4. Choose where to mute the word (Home timeline, Notifications, or From anyone) and set a time period
 
-- Tap **Save** to confirm
+5. Tap **Save** to confirm
 
 You can also enable advanced muting options to filter out more content. However, muted words may still appear in search results.
 

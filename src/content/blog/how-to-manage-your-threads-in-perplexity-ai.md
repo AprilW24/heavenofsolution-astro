@@ -26,13 +26,13 @@ One of the most useful features for managing your threads is the ability to rena
 
 To rename a thread:
 
-- Open the thread you wish to rename
+1. Open the thread you wish to rename
 
-- Look for an “Edit” or “Rename” option, usually represented by a pencil icon near the thread title
+2. Look for an “Edit” or “Rename” option, usually represented by a pencil icon near the thread title
 
-- Tap on this option and enter a new, more descriptive name for your thread
+3. Tap on this option and enter a new, more descriptive name for your thread
 
-- Save the changes
+4. Save the changes
 
 Choosing clear, concise names for your threads can significantly improve your ability to locate specific conversations later. Consider using names that reflect the main topic or purpose of the thread, such as “Python Coding Tips” or “Travel Plans for Japan 2025”.
 
@@ -42,15 +42,15 @@ Collections in Perplexity AI are a powerful way to group related threads togethe
 
 To add a thread to a collection:
 
-- Open the thread you want to add
+1. Open the thread you want to add
 
-- Look for an “Add to Collection” option, often represented by a folder icon
+2. Look for an “Add to Collection” option, often represented by a folder icon
 
-- If you have existing collections, select the appropriate one
+3. If you have existing collections, select the appropriate one
 
-- If you need to create a new collection, look for a “New Collection” option and give it a name
+4. If you need to create a new collection, look for a “New Collection” option and give it a name
 
-- Confirm your selection
+5. Confirm your selection
 
 By utilizing collections, you can keep your threads neatly organized and easily accessible. For instance, you might have collections for “Work Projects”, “Personal Research”, or “Study Materials”.
 
@@ -60,13 +60,13 @@ While not all versions of Perplexity AI might offer this feature, using tags (if
 
 If your Android version of Perplexity AI supports tagging:
 
-- Open a thread
+1. Open a thread
 
-- Look for a “Tag” or “Add Tag” option
+2. Look for a “Tag” or “Add Tag” option
 
-- Enter relevant keywords or phrases
+3. Enter relevant keywords or phrases
 
-- Save the tags
+4. Save the tags
 
 Tags like “urgent”, “follow-up needed”, or specific topic identifiers can make searching for threads much more efficient.
 
@@ -76,11 +76,11 @@ As you accumulate more threads, you might want to keep your main view uncluttere
 
 To archive a thread:
 
-- Find the thread you want to archive in your Library
+1. Find the thread you want to archive in your Library
 
-- Look for an “Archive” option, often represented by a box or downward arrow icon
+2. Look for an “Archive” option, often represented by a box or downward arrow icon
 
-- Confirm the action if prompted
+3. Confirm the action if prompted
 
 Archived threads are typically moved to a separate section, keeping them out of your main view but still accessible when needed.
 
@@ -90,11 +90,11 @@ Sometimes, you may have threads that are no longer relevant or needed. In such c
 
 To delete a thread:
 
-- Locate the thread you wish to delete
+1. Locate the thread you wish to delete
 
-- Look for a “Delete” or trash can icon
+2. Look for a “Delete” or trash can icon
 
-- Confirm the deletion when prompted
+3. Confirm the deletion when prompted
 
 Be cautious when deleting threads, as this action is usually permanent. Make sure you won’t need the information in the thread before deleting it.
 
@@ -104,11 +104,11 @@ As your collection of threads grows, being able to search through them effective
 
 To search your threads:
 
-- Look for a search bar, usually at the top of your Library or threads list
+1. Look for a search bar, usually at the top of your Library or threads list
 
-- Enter keywords related to the thread you’re looking for
+2. Enter keywords related to the thread you’re looking for
 
-- Browse through the search results to find the specific thread you need
+3. Browse through the search results to find the specific thread you need
 
 Effective searching relies on good naming practices and, if available, the use of tags. The more descriptive and organized you are with your threads, the easier it will be to find what you need later.
 
@@ -118,11 +118,11 @@ One of the advantages of using Perplexity AI is the ability to access your threa
 
 To ensure proper syncing:
 
-- Always log in to your Perplexity AI account
+1. Always log in to your Perplexity AI account
 
-- Check that your app is up to date
+2. Check that your app is up to date
 
-- Ensure you have a stable internet connection for syncing to occur
+3. Ensure you have a stable internet connection for syncing to occur
 
 ## Conclusion
 

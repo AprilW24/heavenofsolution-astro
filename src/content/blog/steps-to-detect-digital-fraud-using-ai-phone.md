@@ -24,25 +24,25 @@ AI systems check if you’re dealing with deepfake voice, watching for spoofed n
 
 ## Steps to Detect Fraud with AI Tools on a Phone
 
-- Turn on scam detection in your phone’s security settings.
+1. Turn on scam detection in your phone’s security settings.
 
-- Update your device to ensure the latest AI features are active.
+2. Update your device to ensure the latest AI features are active.
 
-- Check privacy settings, and set scam alerts to notify you for non-contact calls or odd messages.
+3. Check privacy settings, and set scam alerts to notify you for non-contact calls or odd messages.
 
-- Watch for audio or vibration warnings during unexpected calls.
+4. Watch for audio or vibration warnings during unexpected calls.
 
-- Avoid downloading unknown *APK* files from texts or emails.
+5. Avoid downloading unknown *APK* files from texts or emails.
 
-- Report and block any sender flagged by your phone.
+6. Report and block any sender flagged by your phone.
 
-- Pay attention to messages asking for banking info, gift card payments, or links to sign in.
+7. Pay attention to messages asking for banking info, gift card payments, or links to sign in.
 
-- Verify requests with a trusted source before responding.
+8. Verify requests with a trusted source before responding.
 
-- Use biometric security like fingerprint or facial recognition when possible.
+9. Use biometric security like fingerprint or facial recognition when possible.
 
-- Review recent scam reports your phone provides to stay up to date.
+10. Review recent scam reports your phone provides to stay up to date.
 
 ## Prompt for AI Model to Detect and Warn About Digital Fraud on Phone
 

@@ -24,11 +24,11 @@ In this guide, I will outline the top techniques to recover deleted Telegram mes
 
 Telegram has a handy **Undo** feature that lets you quickly reverse a message deletion within 5 seconds. Here’s how it works:
 
-- Delete a message in Telegram as usual by long pressing on it.
+1. Delete a message in Telegram as usual by long pressing on it.
 
-- You will see an **Undo** prompt appear at the bottom – tap it.
+2. You will see an **Undo** prompt appear at the bottom – tap it.
 
-- The deleted message will be immediately restored in the chat.
+3. The deleted message will be immediately restored in the chat.
 
 While the 5 second window is very short, this is by far the fastest way to retrieve deleted Telegram messages on Android. It’s perfect for quickly fixing accidental deletions.
 
@@ -38,13 +38,13 @@ Android stores cached Telegram data in an app-specific folder that you can acces
 
 To check the Telegram cache for deleted messages:
 
-- Launch your Android file manager app.
+1. Launch your Android file manager app.
 
-- Navigate to Internal Storage/Android/data/org.telegram.messenger/cache.
+2. Navigate to Internal Storage/Android/data/org.telegram.messenger/cache.
 
-- Browse and search for deleted Telegram files.
+3. Browse and search for deleted Telegram files.
 
-- Copy any recoverable Telegram files to another folder.
+4. Copy any recoverable Telegram files to another folder.
 
 This Telegram cache check works if the messages were very recently deleted.
 
@@ -54,13 +54,13 @@ If you have Telegram messages backed up on your Google Drive or SD card from ano
 
 The steps will vary depending on your backup tool. But in most cases you can:
 
-- Open the backup tool and browse the available backups.
+1. Open the backup tool and browse the available backups.
 
-- Choose a backup that contains Telegram data.
+2. Choose a backup that contains Telegram data.
 
-- Tap restore – this will overwrite your device data with the backup.
+3. Tap restore – this will overwrite your device data with the backup.
 
-- Your deleted Telegram messages should now be recovered.
+4. Your deleted Telegram messages should now be recovered.
 
 ### 4. Using Android Data Recovery Software
 
@@ -68,15 +68,15 @@ For the best chance of recovering deleted Telegram messages, use professional An
 
 These tools dig deep into your device storage to find recoverable Telegram message remnants and reconstruct them. Follow these general steps:
 
-- Download and install the data recovery app on your computer.
+1. Download and install the data recovery app on your computer.
 
-- Connect your Android phone to the computer via USB.
+2. Connect your Android phone to the computer via USB.
 
-- Scan your device – the tool will find deleted Telegram files.
+3. Scan your device – the tool will find deleted Telegram files.
 
-- Preview and select the Telegram messages to recover.
+4. Preview and select the Telegram messages to recover.
 
-- Save the recovered messages to your computer.
+5. Save the recovered messages to your computer.
 
 ### Conclusion
 

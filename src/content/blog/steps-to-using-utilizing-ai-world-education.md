@@ -16,25 +16,25 @@ Teachers, support staff, and school leaders will find the steps clear, practical
 
 These steps will help you go from zero to having practical AI tools in everyday learning.
 
-- Start by learning the basic concepts and risks of AI.
+1. Start by learning the basic concepts and risks of AI.
 
-- Check which AI tools best fit your needs through online research.
+2. Check which AI tools best fit your needs through online research.
 
-- Train teachers and staff on using these new AI tools.
+3. Train teachers and staff on using these new AI tools.
 
-- Identify subjects or projects where AI can create value.
+4. Identify subjects or projects where AI can create value.
 
-- Set up clear rules on using AI safely and ethically.
+5. Set up clear rules on using AI safely and ethically.
 
-- Test the tools through small pilot projects.
+6. Test the tools through small pilot projects.
 
-- Measure results and gather feedback from students and staff.
+7. Measure results and gather feedback from students and staff.
 
-- Adjust your approach and add more AI to other subjects.
+8. Adjust your approach and add more AI to other subjects.
 
-- Encourage students to use AI for assignments with supervision.
+9. Encourage students to use AI for assignments with supervision.
 
-- Review and update your tools regularly to stay up-to-date. 🚀
+10. Review and update your tools regularly to stay up-to-date. 🚀
 
 ## How AI helps personalize learning and create fun classroom experiences
 

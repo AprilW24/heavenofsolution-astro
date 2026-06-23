@@ -68,17 +68,17 @@ After deleting a comment, Instagram will briefly display an “Undo” option at
 
 If you need to delete multiple comments at once, Instagram offers a bulk delete feature:
 
-- Go to the post with the comments you want to delete
+1. Go to the post with the comments you want to delete
 
-- Tap the three-dot menu icon in the top right corner of the post
+2. Tap the three-dot menu icon in the top right corner of the post
 
-- Select “Manage Comments”
+3. Select “Manage Comments”
 
-- Tap to select the comments you want to remove (you can select up to 25 at a time)
+4. Tap to select the comments you want to remove (you can select up to 25 at a time)
 
-- Tap the trash can icon at the top of the screen
+5. Tap the trash can icon at the top of the screen
 
-- Confirm the deletion
+6. Confirm the deletion
 
 This method can save time when you need to clean up several comments on a single post.
 

@@ -30,25 +30,25 @@ The key is starting simple. Try the free versions first. Test what works for you
 
 ## Step-by-Step to Set Up AI for Email Marketing Automation on Mobile
 
-- Download an AI email marketing app like *Klaviyo* or *Brevo* on your smartphone.
+1. Download an AI email marketing app like *Klaviyo* or *Brevo* on your smartphone.
 
-- Connect your contact list or CRM so the AI can start learning your audience.
+2. Connect your contact list or CRM so the AI can start learning your audience.
 
-- Set campaign goals like sales, lead nurturing, or retention.
+3. Set campaign goals like sales, lead nurturing, or retention.
 
-- Choose triggers such as signups, inactivity, or product views.
+4. Choose triggers such as signups, inactivity, or product views.
 
-- Pick a prebuilt automation workflow or create your own with AI suggestions.
+5. Pick a prebuilt automation workflow or create your own with AI suggestions.
 
-- Let the AI generate subject lines and email copy for each part of your flow.
+6. Let the AI generate subject lines and email copy for each part of your flow.
 
-- Use predictive send-time optimization to make sure emails go out when recipients usually open them.
+7. Use predictive send-time optimization to make sure emails go out when recipients usually open them.
 
-- Review and test your email previews on mobile screens.
+8. Review and test your email previews on mobile screens.
 
-- Launch your workflow and monitor real-time performance.
+9. Launch your workflow and monitor real-time performance.
 
-- Adjust based on engagement insights from your mobile dashboard.
+10. Adjust based on engagement insights from your mobile dashboard.
 
 ## Keeping Your AI Email Campaign Running Smoothly
 

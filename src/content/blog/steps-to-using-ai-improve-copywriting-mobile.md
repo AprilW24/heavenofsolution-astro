@@ -22,25 +22,25 @@ Plus, editing becomes easier with tools like *Grammarly* or *Quillbot*. You can 
 
 ## Steps to Use AI for Better Copywriting on Your Phone
 
-- Pick a mobile-friendly AI writing app like *ChatGPT*, *Rytr*, or *Jasper*.
+1. Pick a mobile-friendly AI writing app like *ChatGPT*, *Rytr*, or *Jasper*.
 
-- Open your app and start with a clear prompt such as “write a short Instagram caption about coffee.”
+2. Open your app and start with a clear prompt such as “write a short Instagram caption about coffee.”
 
-- Set the tone or style you want for example friendly, persuasive, or witty.
+3. Set the tone or style you want for example friendly, persuasive, or witty.
 
-- Let the AI generate text, then review the first draft.
+4. Let the AI generate text, then review the first draft.
 
-- Edit what you need to make it sound more you.
+5. Edit what you need to make it sound more you.
 
-- Use AI rewriting tools like *Quillbot* or *Grammarly* to clean up grammar or phrasing.
+6. Use AI rewriting tools like *Quillbot* or *Grammarly* to clean up grammar or phrasing.
 
-- Add any brand keywords or hashtags for better reach.
+7. Add any brand keywords or hashtags for better reach.
 
-- Save your copy in your notes or schedule it directly in your content app.
+8. Save your copy in your notes or schedule it directly in your content app.
 
-- Review one last time for tone and typo checks.
+9. Review one last time for tone and typo checks.
 
-- Post it straight from your phone with confidence. 🚀
+10. Post it straight from your phone with confidence. 🚀
 
 ## How To Keep The Quality High When Using AI
 

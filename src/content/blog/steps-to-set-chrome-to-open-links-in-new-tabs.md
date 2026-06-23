@@ -28,13 +28,13 @@ Unfortunately, Chrome for Android doesn’t have a built-in setting to automatic
 
 ### Method 1: Long-Press to Open Links in New Tabs
 
-- Open Chrome on your Android device
+1. Open Chrome on your Android device
 
-- Navigate to any webpage with links
+2. Navigate to any webpage with links
 
-- Long-press on a link you want to open
+3. Long-press on a link you want to open
 
-- In the pop-up menu, tap **Open in new tab**
+4. In the pop-up menu, tap **Open in new tab**
 
 This method requires manual action for each link, but it’s the most straightforward way to open links in new tabs.
 
@@ -42,15 +42,15 @@ This method requires manual action for each link, but it’s the most straightfo
 
 While this doesn’t automatically open all links in new tabs, it can be useful for search results:
 
-- Open Chrome on your Android device
+1. Open Chrome on your Android device
 
-- Tap the three-dot menu in the top-right corner
+2. Tap the three-dot menu in the top-right corner
 
-- Go to **Settings**
+3. Go to **Settings**
 
-- Scroll down and tap on **Advanced**
+4. Scroll down and tap on **Advanced**
 
-- Under **Privacy and security**, find and enable **Open web pages in overview**
+5. Under **Privacy and security**, find and enable **Open web pages in overview**
 
 This setting will open links from Google search results in a new tab.
 
@@ -66,43 +66,43 @@ Now that you know how to open links in new tabs, let’s look at some tips for m
 
 To switch between open tabs:
 
-- Tap the square icon next to the address bar (it displays the number of open tabs)
+1. Tap the square icon next to the address bar (it displays the number of open tabs)
 
-- Swipe left or right to browse through your open tabs
+2. Swipe left or right to browse through your open tabs
 
-- Tap on a tab to switch to it
+3. Tap on a tab to switch to it
 
 ### Closing Tabs
 
 To close a tab:
 
-- Open the tab overview (square icon)
+1. Open the tab overview (square icon)
 
-- Swipe the tab you want to close to the left or right
+2. Swipe the tab you want to close to the left or right
 
-- Alternatively, tap the **X** in the top-right corner of the tab preview
+3. Alternatively, tap the **X** in the top-right corner of the tab preview
 
 ### Grouping Tabs
 
 Chrome for Android allows you to group related tabs:
 
-- Open the tab overview
+1. Open the tab overview
 
-- Long-press on a tab
+2. Long-press on a tab
 
-- Drag it on top of another related tab to create a group
+3. Drag it on top of another related tab to create a group
 
-- Tap on the group to expand or collapse it
+4. Tap on the group to expand or collapse it
 
 ### Using Incognito Mode
 
 For private browsing:
 
-- Tap the three-dot menu
+1. Tap the three-dot menu
 
-- Select **New Incognito tab**
+2. Select **New Incognito tab**
 
-- Browse as usual, but note that your activity won’t be saved in your history
+3. Browse as usual, but note that your activity won’t be saved in your history
 
 ## Additional Tips for Efficient Browsing
 
@@ -124,21 +124,21 @@ If you’re using a physical keyboard with your Android device:
 
 To reduce data usage and potentially speed up browsing:
 
-- Go to Chrome Settings
+1. Go to Chrome Settings
 
-- Tap on **Data Saver**
+2. Tap on **Data Saver**
 
-- Toggle it on
+3. Toggle it on
 
 ### Customize Your New Tab Page
 
 Make your new tabs more useful:
 
-- Open a new tab
+1. Open a new tab
 
-- Tap the gear icon in the bottom-right corner
+2. Tap the gear icon in the bottom-right corner
 
-- Choose which cards and suggestions you want to see
+3. Choose which cards and suggestions you want to see
 
 ## Conclusion
 

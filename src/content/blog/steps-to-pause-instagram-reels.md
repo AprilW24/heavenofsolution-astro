@@ -24,15 +24,15 @@ Unfortunately, Instagram doesn’t provide a dedicated pause button for Reels li
 
 The most straightforward way to pause an Instagram Reel is by tapping and holding your finger on the screen. Here’s how to do it:
 
-- Open the Instagram app and navigate to the Reels section
+1. Open the Instagram app and navigate to the Reels section
 
-- Find a Reel you want to watch and tap on it to start playing
+2. Find a Reel you want to watch and tap on it to start playing
 
-- When you want to pause, simply tap and hold your finger anywhere on the screen
+3. When you want to pause, simply tap and hold your finger anywhere on the screen
 
-- The Reel will remain paused as long as you keep your finger pressed down
+4. The Reel will remain paused as long as you keep your finger pressed down
 
-- To resume playback, lift your finger off the screen
+5. To resume playback, lift your finger off the screen
 
 Keep in mind that a quick tap without holding will only mute or unmute the audio, not pause the video. You need to maintain contact with the screen to keep the Reel paused.
 
@@ -40,11 +40,11 @@ Keep in mind that a quick tap without holding will only mute or unmute the audio
 
 Another way to temporarily pause an Instagram Reel is by swiping the video to the side. Here’s how it works:
 
-- While a Reel is playing, swipe the video to the left or right
+1. While a Reel is playing, swipe the video to the left or right
 
-- This will reveal the previous or next Reel in the feed, but the original Reel will be paused in the background
+2. This will reveal the previous or next Reel in the feed, but the original Reel will be paused in the background
 
-- To resume playback, simply swipe back to the paused Reel
+3. To resume playback, simply swipe back to the paused Reel
 
 This method allows you to pause a Reel and check out other content without completely losing your place. Just remember to swipe back to the original video when you’re ready to continue watching.
 
@@ -52,17 +52,17 @@ This method allows you to pause a Reel and check out other content without compl
 
 If you prefer browsing Instagram on your computer, pausing Reels is a bit more intuitive. Here’s how to do it:
 
-- Open Instagram.com in your web browser and log in to your account
+1. Open Instagram.com in your web browser and log in to your account
 
-- Scroll through your feed until you find a Reel you want to watch
+2. Scroll through your feed until you find a Reel you want to watch
 
-- Click on the Reel to expand it and start playback
+3. Click on the Reel to expand it and start playback
 
-- To pause, simply click anywhere on the video
+4. To pause, simply click anywhere on the video
 
-- A white play icon will appear in the center, indicating the Reel is paused
+5. A white play icon will appear in the center, indicating the Reel is paused
 
-- Click the play icon to resume watching
+6. Click the play icon to resume watching
 
 Unlike the mobile app, Reels on the desktop version of Instagram are mixed in with regular feed posts. But the ability to pause with a single click makes it easier to control playback.
 
@@ -72,21 +72,21 @@ If you want to capture a specific moment from an Instagram Reel, you can use you
 
 **For screenshots:**
 
-- Navigate to the Reel and pause it using one of the methods described above
+1. Navigate to the Reel and pause it using one of the methods described above
 
-- Take a screenshot using your device’s native screenshot function
+2. Take a screenshot using your device’s native screenshot function
 
-- The screenshot will be saved to your camera roll, where you can view it anytime
+3. The screenshot will be saved to your camera roll, where you can view it anytime
 
 **For screen recordings:**
 
-- Start a screen recording on your device before navigating to the Reel
+1. Start a screen recording on your device before navigating to the Reel
 
-- Play the Reel and pause it at the moment you want to capture
+2. Play the Reel and pause it at the moment you want to capture
 
-- End the screen recording and trim the clip as needed
+3. End the screen recording and trim the clip as needed
 
-- The recorded video will be saved to your camera roll, where you can pause and rewatch it
+4. The recorded video will be saved to your camera roll, where you can pause and rewatch it
 
 While not as convenient as a native pause button, this workaround lets you capture and review specific parts of an Instagram Reel on your own terms.
 

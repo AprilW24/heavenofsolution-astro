@@ -16,15 +16,15 @@ Before trying to fix the camera issue in Meet, first check if your camera works 
 
 One of the most common reasons for the **Camera failed** error is that the Google Meet app doesn’t have permission to access your camera. Here’s how to check and enable camera access for Meet on Android:
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap **Apps & notifications**
+2. Tap **Apps & notifications**
 
-- Find and tap the **Google Meet** app in the list
+3. Find and tap the **Google Meet** app in the list
 
-- Tap **Permissions**
+4. Tap **Permissions**
 
-- Make sure the **Camera** permission is enabled. If it’s off, tap the switch to turn it on.
+5. Make sure the **Camera** permission is enabled. If it’s off, tap the switch to turn it on.
 
 After granting camera permission, go back to the Meet app and try joining the video call again. The camera should now work.
 
@@ -32,13 +32,13 @@ After granting camera permission, go back to the Meet app and try joining the vi
 
 If Google Meet has camera access but you’re still getting the error, try restarting your Android phone or tablet:
 
-- Press and hold the **Power** button until the power menu appears
+1. Press and hold the **Power** button until the power menu appears
 
-- Tap **Restart**
+2. Tap **Restart**
 
-- Wait for the device to fully turn off and back on
+3. Wait for the device to fully turn off and back on
 
-- Open the Meet app and rejoin the video meeting to see if the camera works
+4. Open the Meet app and rejoin the video meeting to see if the camera works
 
 Restarting can often fix temporary glitches with the camera or the Meet app.
 
@@ -46,15 +46,15 @@ Restarting can often fix temporary glitches with the camera or the Meet app.
 
 Corrupted data in the Google Meet app can sometimes cause the camera to fail. Clearing the app’s cache and storage can resolve this:
 
-- Go to **Settings > Apps & notifications**
+1. Go to **Settings > Apps & notifications**
 
-- Find and tap on **Google Meet**
+2. Find and tap on **Google Meet**
 
-- Tap **Storage & cache**
+3. Tap **Storage & cache**
 
-- Tap **Clear Cache**, then **Clear Storage**
+4. Tap **Clear Cache**, then **Clear Storage**
 
-- Reopen Google Meet and sign in again
+5. Reopen Google Meet and sign in again
 
 This will erase all Meet app data on your device, so you’ll need to sign in again, but it often fixes camera and other issues.
 
@@ -62,17 +62,17 @@ This will erase all Meet app data on your device, so you’ll need to sign in ag
 
 Using an outdated version of Android or the Google Meet app can lead to compatibility issues and bugs. Check for any available updates:
 
-- Open the **Settings** app
+1. Open the **Settings** app
 
-- Tap **System > System Update**
+2. Tap **System > System Update**
 
-- Tap **Check for update** and install any available Android updates
+3. Tap **Check for update** and install any available Android updates
 
-- Open the **Google Play Store** app
+4. Open the **Google Play Store** app
 
-- Tap **Menu > My apps & games**
+5. Tap **Menu > My apps & games**
 
-- Find **Google Meet** in the list and tap **Update** if an update is available
+6. Find **Google Meet** in the list and tap **Update** if an update is available
 
 Keeping your device and apps updated will help prevent camera issues and improve performance and security.
 
@@ -92,15 +92,15 @@ A poor internet connection can cause the camera to fail in Google Meet. Make sur
 
 If none of the above steps fix your camera issue in Meet, try uninstalling and reinstalling the app:
 
-- Go to **Settings > Apps & notifications > Google Meet**
+1. Go to **Settings > Apps & notifications > Google Meet**
 
-- Tap **Uninstall** to remove the app from your Android device
+2. Tap **Uninstall** to remove the app from your Android device
 
-- Open the **Google Play Store** and search for **Google Meet**
+3. Open the **Google Play Store** and search for **Google Meet**
 
-- Tap **Install** to reinstall the latest version of the app
+4. Tap **Install** to reinstall the latest version of the app
 
-- Open Meet and sign in to see if the camera now works
+5. Open Meet and sign in to see if the camera now works
 
 Reinstalling the app will erase all its data and settings, so you’ll need to sign in and set up Meet again.
 

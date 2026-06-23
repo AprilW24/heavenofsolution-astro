@@ -24,9 +24,9 @@ In the **Settings & Privacy** menu, tap on **Settings**. Scroll down until you f
 
 In the **Location** settings, you’ll see two options:
 
-- **Location Services**: This controls whether Facebook can access your device’s location at any time.
+1. **Location Services**: This controls whether Facebook can access your device’s location at any time.
 
-- **Background Location**: This determines if Facebook can access your location even when you’re not using the app.
+2. **Background Location**: This determines if Facebook can access your location even when you’re not using the app.
 
 To completely disable location tracking, tap on **Location Services** and select **Never**. This will prevent Facebook from accessing your location data altogether.
 

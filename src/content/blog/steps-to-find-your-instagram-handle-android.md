@@ -46,11 +46,11 @@ If you need to share your Instagram handle or use it somewhere else, simply tap 
 
 Did you know that you can also use a phone number to find someone’s Instagram account? Here’s how:
 
-- In the Instagram app, tap on the magnifying glass icon at the bottom to go to the Explore page.
+1. In the Instagram app, tap on the magnifying glass icon at the bottom to go to the Explore page.
 
-- Tap on the search bar at the top and enter the phone number of the person you’re trying to find.
+2. Tap on the search bar at the top and enter the phone number of the person you’re trying to find.
 
-- If their phone number is linked to an Instagram account, their profile will appear in the search results. Tap on the profile to view it.
+3. If their phone number is linked to an Instagram account, their profile will appear in the search results. Tap on the profile to view it.
 
 **Note**: This method only works if the user has chosen to make their phone number visible and searchable within Instagram’s settings.
 

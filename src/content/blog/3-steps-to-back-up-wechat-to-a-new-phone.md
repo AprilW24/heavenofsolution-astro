@@ -26,39 +26,39 @@ WeChat offers several ways to back up and transfer your data to a new device:
 
 The easiest way to back up WeChat is by using the app’s built-in backup and migrate feature. Here’s how:
 
-- On your old phone, open WeChat and go to **Me > Settings > Chats > Backup & Migrate Chats**.
+1. On your old phone, open WeChat and go to **Me > Settings > Chats > Backup & Migrate Chats**.
 
-- Tap on **Migrate Chats to Another Device** and select **Select Chat History**.
+2. Tap on **Migrate Chats to Another Device** and select **Select Chat History**.
 
-- Choose the chats you want to migrate or tap **Select All** to back up everything.
+3. Choose the chats you want to migrate or tap **Select All** to back up everything.
 
-- Log in to WeChat on your new phone and scan the QR code displayed on your old device.
+4. Log in to WeChat on your new phone and scan the QR code displayed on your old device.
 
-- Wait for the backup to transfer, and your chats will appear on your new phone.
+5. Wait for the backup to transfer, and your chats will appear on your new phone.
 
 ### 2. Backing Up WeChat on PC
 
 If you use WeChat on your computer, you can create a backup that includes your chat history. Follow these steps:
 
-- Launch WeChat for Windows or Mac and sign in by scanning the QR code.
+1. Launch WeChat for Windows or Mac and sign in by scanning the QR code.
 
-- Click on the three horizontal lines menu and select **Backup and Restore > Back up on PC**.
+2. Click on the three horizontal lines menu and select **Backup and Restore > Back up on PC**.
 
-- Choose the chats you want to back up and confirm the process on your phone.
+3. Choose the chats you want to back up and confirm the process on your phone.
 
-- The backup will be saved in the **WeChat Files** folder on your computer.
+4. The backup will be saved in the **WeChat Files** folder on your computer.
 
 ### 3. Exporting Personal Data (US/EU Users)
 
 For WeChat users in the United States or European Union, you can export your personal data, including contacts, moments, and favorites:
 
-- Open WeChat on your phone and go to **Me > Settings > Account Security > More Settings > Export Personal Data**.
+1. Open WeChat on your phone and go to **Me > Settings > Account Security > More Settings > Export Personal Data**.
 
-- Link and verify your email address.
+2. Link and verify your email address.
 
-- Select the data types you want to export and start the process.
+3. Select the data types you want to export and start the process.
 
-- You’ll receive an email with a download link to access your exported data.
+4. You’ll receive an email with a download link to access your exported data.
 
 ## Tips for a Smooth WeChat Backup
 
@@ -74,13 +74,13 @@ To ensure a successful and stress-free WeChat backup, keep these tips in mind:
 
 Once you’ve backed up your WeChat data, restoring it on your new phone is a breeze:
 
-- Install and launch WeChat on your new device.
+1. Install and launch WeChat on your new device.
 
-- Log in using your existing WeChat account details.
+2. Log in using your existing WeChat account details.
 
-- When prompted, choose to restore your chat history from the backup.
+3. When prompted, choose to restore your chat history from the backup.
 
-- Wait for the restoration process to complete, and your chats, moments, and media will appear on your new phone.
+4. Wait for the restoration process to complete, and your chats, moments, and media will appear on your new phone.
 
 ## Conclusion
 

@@ -50,19 +50,19 @@ You can delete the original HEIC photos to save storage space if needed. The JPG
 
 An alternative approach is to use a HEIC converter app on your Android device instead of emailing yourself the photos. Here are the steps:
 
-- Install a HEIC to JPG converter app on your Android device. Some good options are:
+1. Install a HEIC to JPG converter app on your Android device. Some good options are:
 
 - HEIC Converter by MobiMover
 
 - Apowersoft HEIC Converter
 
-- Launch the converter app and log into your Google Drive account when prompted.
+1. Launch the converter app and log into your Google Drive account when prompted.
 
-- Select the HEIC photos in your Drive storage that you want to convert.
+2. Select the HEIC photos in your Drive storage that you want to convert.
 
-- The app will allow converting multiple HEIC photos to JPG simultaneously.
+3. The app will allow converting multiple HEIC photos to JPG simultaneously.
 
-- After conversion completes, the JPG versions are saved back to Google Drive automatically.
+4. After conversion completes, the JPG versions are saved back to Google Drive automatically.
 
 The benefit of using a dedicated converter app is it streamlines the process of converting multiple HEIC photos to JPG. You don’t have to manually email each image and re-upload.
 

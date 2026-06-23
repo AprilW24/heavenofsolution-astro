@@ -12,25 +12,25 @@ Let’s face it, there are way too many apps and built-in features for hiding th
 
 ## Step-by-step for Hiding Secret Files on Android
 
-- Get into your File Manager app and find the files you want to keep hidden.
+1. Get into your File Manager app and find the files you want to keep hidden.
 
-- Create a new folder, but put a dot at the front of the name, like *.secret_stuff*.
+2. Create a new folder, but put a dot at the front of the name, like *.secret_stuff*.
 
-- Move the files you want to hide into this new folder.
+3. Move the files you want to hide into this new folder.
 
-- Go to your File Manager settings, and enable *Show Hidden Files* when you want to see them.
+4. Go to your File Manager settings, and enable *Show Hidden Files* when you want to see them.
 
-- Turn off *Show Hidden Files* when you’re done, so nobody else notices your secret folder.
+5. Turn off *Show Hidden Files* when you’re done, so nobody else notices your secret folder.
 
-- For Samsung or OnePlus, open *Settings* and look for *Secure Folder* or *Private Safe*.
+6. For Samsung or OnePlus, open *Settings* and look for *Secure Folder* or *Private Safe*.
 
-- Set up a PIN, password, or pattern for your *Secure Folder*.
+7. Set up a PIN, password, or pattern for your *Secure Folder*.
 
-- Add your secret files to the *Secure Folder* for extra security.
+8. Add your secret files to the *Secure Folder* for extra security.
 
-- Use built-in features like *Safe Folder* on devices such as Infinix for simple hiding.
+9. Use built-in features like *Safe Folder* on devices such as Infinix for simple hiding.
 
-- Always check that your hidden folder and files are not showing in galleries or media apps.
+10. Always check that your hidden folder and files are not showing in galleries or media apps.
 
 ## Using Hidden Folders and Apps if You’re on iPhone
 

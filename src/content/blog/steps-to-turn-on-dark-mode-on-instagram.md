@@ -18,15 +18,15 @@ Instagram rolled out *dark mode* for Android a while back, and you don’t need 
 
 ## 5 Simple Steps to Switch Instagram to Dark Mode
 
-- Open the Instagram app on your Android phone.
+1. Open the Instagram app on your Android phone.
 
-- Tap your profile picture in the bottom right to go to your profile.
+2. Tap your profile picture in the bottom right to go to your profile.
 
-- Tap the three-line menu (the *hamburger* icon) in the top right corner.
+3. Tap the three-line menu (the *hamburger* icon) in the top right corner.
 
-- Tap on *Settings and privacy*.
+4. Tap on *Settings and privacy*.
 
-- Scroll down, tap *Accessibility*, then tap *Dark mode* and select *On* or *System default*.
+5. Scroll down, tap *Accessibility*, then tap *Dark mode* and select *On* or *System default*.
 
 ## Why You Should Consider Using Dark Mode on Instagram
 

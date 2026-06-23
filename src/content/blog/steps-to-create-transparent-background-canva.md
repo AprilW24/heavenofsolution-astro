@@ -42,9 +42,9 @@ Start by creating your design in Canva as you normally would. Ensure that all th
 
 Now that you have your design with a white background, you can use free online tools to remove the background. Two popular options are:
 
-- **Remove.bg**: This website automatically removes backgrounds from images.
+1. **Remove.bg**: This website automatically removes backgrounds from images.
 
-- **LunaPic**: Offers more manual control but requires a bit more effort.
+2. **LunaPic**: Offers more manual control but requires a bit more effort.
 
 Let’s use LunaPic as an example:
 
@@ -96,15 +96,15 @@ Canva occasionally offers free usage of their Background Remover tool. While thi
 
 ## Tips for Best Results
 
-- **Use High-Quality Images**: Start with clear, high-resolution images for the best results when removing backgrounds.
+1. **Use High-Quality Images**: Start with clear, high-resolution images for the best results when removing backgrounds.
 
-- **Simple Backgrounds Work Best**: Images with solid, contrasting backgrounds are easier to make transparent.
+2. **Simple Backgrounds Work Best**: Images with solid, contrasting backgrounds are easier to make transparent.
 
-- **Be Patient with Complex Images**: Detailed images may require more manual editing to achieve a clean transparent background.
+3. **Be Patient with Complex Images**: Detailed images may require more manual editing to achieve a clean transparent background.
 
-- **Experiment with Different Tools**: Each online tool has its strengths. Try a few to see which works best for your specific image.
+4. **Experiment with Different Tools**: Each online tool has its strengths. Try a few to see which works best for your specific image.
 
-- **Save in PNG Format**: Always save your final transparent image as a PNG to preserve the transparency.
+5. **Save in PNG Format**: Always save your final transparent image as a PNG to preserve the transparency.
 
 ## Creative Uses for Transparent Background Images
 

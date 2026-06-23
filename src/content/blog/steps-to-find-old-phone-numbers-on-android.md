@@ -12,13 +12,13 @@ Phone numbers are an essential part of our daily communication, and losing them 
 
 Most Android devices have a built-in recycle bin or trash folder that temporarily stores deleted contacts. If you recently deleted a phone number, this should be your first stop. Here’s how to access the recycle bin:
 
-- Open the **Contacts** app on your Android device.
+1. Open the **Contacts** app on your Android device.
 
-- Look for the **Menu** or **More** option, usually represented by three dots or a hamburger icon.
+2. Look for the **Menu** or **More** option, usually represented by three dots or a hamburger icon.
 
-- Select **Trash** or **Recycle Bin**.
+3. Select **Trash** or **Recycle Bin**.
 
-- If you find the deleted contact, simply select it and choose the **Restore** option.
+4. If you find the deleted contact, simply select it and choose the **Restore** option.
 
 **Note:** Contacts in the recycle bin are typically deleted permanently after 30 days, so act quickly if you want to recover them.
 
@@ -26,15 +26,15 @@ Most Android devices have a built-in recycle bin or trash folder that temporaril
 
 If you’ve synced your contacts with your Google Account, you can easily restore deleted phone numbers from there. Follow these steps:
 
-- Open the **Google Contacts** website (contacts.google.com) on your computer or mobile browser.
+1. Open the **Google Contacts** website (contacts.google.com) on your computer or mobile browser.
 
-- Sign in with the same Google Account associated with your Android device.
+2. Sign in with the same Google Account associated with your Android device.
 
-- Click on the **More** option and select **Restore Contacts**.
+3. Click on the **More** option and select **Restore Contacts**.
 
-- Choose the date range from which you want to restore your contacts.
+4. Choose the date range from which you want to restore your contacts.
 
-- Click **Restore** to bring back the deleted phone numbers.
+5. Click **Restore** to bring back the deleted phone numbers.
 
 **Tip:** If you don’t see the option to restore contacts, try accessing the website from a different browser or device.
 
@@ -42,17 +42,17 @@ If you’ve synced your contacts with your Google Account, you can easily restor
 
 If the above methods don’t work, you can try using a third-party recovery tool to scan your Android device for deleted contacts. These tools can often recover data even after it has been permanently deleted from your device. One popular option is **DroidKit**, which offers a user-friendly interface and a high success rate for recovering deleted contacts.
 
-- Download and install **DroidKit** on your computer.
+1. Download and install **DroidKit** on your computer.
 
-- Connect your Android device to your computer using a USB cable.
+2. Connect your Android device to your computer using a USB cable.
 
-- Launch **DroidKit** and select the **Recover Contacts** option.
+3. Launch **DroidKit** and select the **Recover Contacts** option.
 
-- Follow the on-screen instructions to scan your device for deleted contacts.
+4. Follow the on-screen instructions to scan your device for deleted contacts.
 
-- Preview and select the contacts you want to recover.
+5. Preview and select the contacts you want to recover.
 
-- Click **Recover** to save the selected contacts to your computer or device.
+6. Click **Recover** to save the selected contacts to your computer or device.
 
 **Note:** Some recovery tools may require you to root your Android device for a more thorough scan, but this process can be risky and should be done with caution.
 

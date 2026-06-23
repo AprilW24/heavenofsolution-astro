@@ -30,11 +30,11 @@ Now, let’s dive into the step-by-step process of adding a trusted site to Chro
 
 First, you need to access Chrome’s settings on your Android device. Here’s how:
 
-- Open the Chrome app on your Android device.
+1. Open the Chrome app on your Android device.
 
-- Tap the three-dot menu icon in the top-right corner of the screen.
+2. Tap the three-dot menu icon in the top-right corner of the screen.
 
-- Scroll down and tap on “Settings” in the dropdown menu.
+3. Scroll down and tap on “Settings” in the dropdown menu.
 
 ![](/wp-content/uploads/2024/08/HoS_AddaTrusted-1.jpg)
 
@@ -44,9 +44,9 @@ First, you need to access Chrome’s settings on your Android device. Here’s h
 
 Once you’re in the Settings menu, you’ll need to find the Site Settings option:
 
-- Scroll down the Settings menu until you see “Site settings.”
+1. Scroll down the Settings menu until you see “Site settings.”
 
-- Tap on “Site settings” to open a new menu with various permissions and controls.
+2. Tap on “Site settings” to open a new menu with various permissions and controls.
 
 ![](/wp-content/uploads/2024/08/HoS_AddaTrusted.jpg)
 
@@ -56,9 +56,9 @@ This section allows you to manage how Chrome interacts with different websites, 
 
 To add a site to your trusted list, you’ll need to find the appropriate section:
 
-- In the Site settings menu, scroll down to find “Trusted sites” or “Safe Browsing sites.”
+1. In the Site settings menu, scroll down to find “Trusted sites” or “Safe Browsing sites.”
 
-- Tap on this option to view your current list of trusted sites (if any) and to add new ones.
+2. Tap on this option to view your current list of trusted sites (if any) and to add new ones.
 
 **Note:** The exact wording may vary slightly depending on your version of Chrome and Android.
 
@@ -66,11 +66,11 @@ To add a site to your trusted list, you’ll need to find the appropriate sectio
 
 Now you’re ready to add a new site to your trusted list:
 
-- Tap on the “Add site” or “+” button, usually located at the bottom of the screen.
+1. Tap on the “Add site” or “+” button, usually located at the bottom of the screen.
 
-- Enter the URL of the website you want to trust. Make sure to use the correct format (e.g., https://www.example.com).
+2. Enter the URL of the website you want to trust. Make sure to use the correct format (e.g., https://www.example.com).
 
-- Tap “Add” or “Save” to confirm.
+3. Tap “Add” or “Save” to confirm.
 
 **Important:** Only add sites that you truly trust and are certain are secure. Adding untrusted sites can pose security risks.
 
@@ -78,21 +78,21 @@ Now you’re ready to add a new site to your trusted list:
 
 After adding the site, it’s a good idea to verify that it has been successfully added to your trusted list:
 
-- Return to the trusted sites list.
+1. Return to the trusted sites list.
 
-- Check that the site you just added appears in the list.
+2. Check that the site you just added appears in the list.
 
-- Tap on the site to view or edit its settings if needed.
+3. Tap on the site to view or edit its settings if needed.
 
 ### Step 6: Test the Trusted Site
 
 To ensure everything is working as expected:
 
-- Close and reopen Chrome.
+1. Close and reopen Chrome.
 
-- Navigate to the website you just added to your trusted list.
+2. Navigate to the website you just added to your trusted list.
 
-- Check if the site loads faster or if you notice any changes in functionality.
+3. Check if the site loads faster or if you notice any changes in functionality.
 
 **Remember:** Adding a site to your trusted list doesn’t guarantee complete safety. Always remain vigilant and practice safe browsing habits.
 
@@ -122,25 +122,25 @@ Adding a site to your trusted list has several implications:
 
 If you’re hesitant about adding a site to your trusted list, consider these alternatives:
 
-- **Use site-specific settings:** Instead of fully trusting a site, you can adjust individual permissions for specific sites in Chrome’s settings.
+1. **Use site-specific settings:** Instead of fully trusting a site, you can adjust individual permissions for specific sites in Chrome’s settings.
 
-- **Enable HTTPS-only mode:** This ensures you only connect to sites using secure HTTPS connections.
+2. **Enable HTTPS-only mode:** This ensures you only connect to sites using secure HTTPS connections.
 
-- **Use a password manager:** For sites requiring frequent logins, a password manager can provide a secure and convenient alternative to trusting the site in Chrome.
+3. **Use a password manager:** For sites requiring frequent logins, a password manager can provide a secure and convenient alternative to trusting the site in Chrome.
 
 ## Best Practices for Browsing Security
 
 While adding trusted sites can enhance your browsing experience, it’s crucial to maintain good security practices:
 
-- **Keep Chrome updated:** Regular updates often include important security patches.
+1. **Keep Chrome updated:** Regular updates often include important security patches.
 
-- **Use strong, unique passwords:** Employ a password manager to generate and store complex passwords for each site.
+2. **Use strong, unique passwords:** Employ a password manager to generate and store complex passwords for each site.
 
-- **Enable two-factor authentication:** Whenever possible, use 2FA for an extra layer of security.
+3. **Enable two-factor authentication:** Whenever possible, use 2FA for an extra layer of security.
 
-- **Be cautious with downloads:** Only download files from trusted sources and scan them before opening.
+4. **Be cautious with downloads:** Only download files from trusted sources and scan them before opening.
 
-- **Use a VPN:** Consider using a Virtual Private Network for an additional layer of privacy and security.
+5. **Use a VPN:** Consider using a Virtual Private Network for an additional layer of privacy and security.
 
 ## Troubleshooting Common Issues
 

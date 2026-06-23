@@ -28,35 +28,35 @@ The first step is to open your Android keyboard’s settings. The process for th
 
 **For Google’s Gboard keyboard (the default on many Android phones):**
 
-- Open any app that brings up the keyboard, like Messages or Google Docs
+1. Open any app that brings up the keyboard, like Messages or Google Docs
 
-- Tap the gear icon at the top of the keyboard to open keyboard settings
+2. Tap the gear icon at the top of the keyboard to open keyboard settings
 
-- Select **Dictionary**
+3. Select **Dictionary**
 
-- Tap **Personal dictionary**
+4. Tap **Personal dictionary**
 
 **For Samsung Keyboard:**
 
-- Go to the main Settings app on your device
+1. Go to the main Settings app on your device
 
-- Tap **General management**
+2. Tap **General management**
 
-- Select **Samsung Keyboard settings**
+3. Select **Samsung Keyboard settings**
 
-- Choose **Manage input languages**
+4. Choose **Manage input languages**
 
-- Select your language
+5. Select your language
 
-- Tap **Personal data**
+6. Tap **Personal data**
 
 **For SwiftKey Keyboard:**
 
-- Open the SwiftKey app
+1. Open the SwiftKey app
 
-- Tap **Dictionary**
+2. Tap **Dictionary**
 
-- Select the language of the word you want to delete
+3. Select the language of the word you want to delete
 
 Other third-party keyboards may have slightly different steps, but you’re generally looking for settings related to language, dictionary, or personal data. Consult your keyboard app’s help guides if you have trouble finding the right menu.
 
@@ -88,12 +88,12 @@ Deleting unwanted words from your Android autocorrect dictionary is a quick and 
 
 Remember, the exact steps may vary slightly depending on your specific Android keyboard app, but the general process is the same:
 
-- Open your keyboard’s settings
+1. Open your keyboard’s settings
 
-- Navigate to the dictionary or personal data settings
+2. Navigate to the dictionary or personal data settings
 
-- Find the word you want to delete
+3. Find the word you want to delete
 
-- Delete it!
+4. Delete it!
 
 With a cleaned-up autocorrect dictionary, you can type more efficiently and with fewer annoying interruptions. Happy typing!

@@ -20,15 +20,15 @@ First, install the WhatsApp app on your new Android phone from the Google Play S
 
 After verifying your number, WhatsApp will prompt you to restore your chat history from a backup:
 
-- Tap **Restore** when asked if you want to restore your chats and media from a backup.
+1. Tap **Restore** when asked if you want to restore your chats and media from a backup.
 
-- WhatsApp will look for backups associated with your phone number on Google Drive.
+2. WhatsApp will look for backups associated with your phone number on Google Drive.
 
-- If a backup is found, the restoration process will begin automatically. You will see a progress bar as your chats and media are downloaded from Google Drive to your phone.
+3. If a backup is found, the restoration process will begin automatically. You will see a progress bar as your chats and media are downloaded from Google Drive to your phone.
 
-- Keep your phone connected to a stable Wi-Fi network and plugged into power during the restore process, especially if you have a large backup.
+4. Keep your phone connected to a stable Wi-Fi network and plugged into power during the restore process, especially if you have a large backup.
 
-- Once the restoration is complete, tap **Next** and your chats will display.
+5. Once the restoration is complete, tap **Next** and your chats will display.
 
 **Note:** The WhatsApp backup restoration from Google Drive to your phone must complete in one go. If the process gets interrupted, you will have to start over.
 

@@ -62,15 +62,15 @@ While Safe Search is a powerful tool, it’s important to understand its limitat
 
 If you’re having trouble enabling Safe Search or if it doesn’t seem to be working correctly, here are a few things to check:
 
-- **Ensure you’re signed in to your Google account**: Safe Search settings are tied to your Google account.
+1. **Ensure you’re signed in to your Google account**: Safe Search settings are tied to your Google account.
 
-- **Check for updates**: Make sure your Google app is up to date.
+2. **Check for updates**: Make sure your Google app is up to date.
 
-- **Restart the app**: Sometimes, simply closing and reopening the Google app can resolve issues.
+3. **Restart the app**: Sometimes, simply closing and reopening the Google app can resolve issues.
 
-- **Clear app cache**: If problems persist, try clearing the Google app’s cache in your device settings.
+4. **Clear app cache**: If problems persist, try clearing the Google app’s cache in your device settings.
 
-- **Check for restrictions**: Some network administrators or parental control software may override your Safe Search settings.
+5. **Check for restrictions**: Some network administrators or parental control software may override your Safe Search settings.
 
 ## Conclusion
 

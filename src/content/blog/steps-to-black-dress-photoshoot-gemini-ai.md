@@ -22,25 +22,25 @@ Once you’ve got your base image ready, you’re all set to edit it step-by-ste
 
 ## Step-by-Step to Edit a Black Dress Photoshoot with Gemini AI
 
-- Open Gemini app on your Android device.
+1. Open Gemini app on your Android device.
 
-- Log in with your Google account if you haven’t already.
+2. Log in with your Google account if you haven’t already.
 
-- Tap the chat area or the image icon at the bottom of the screen.
+3. Tap the chat area or the image icon at the bottom of the screen.
 
-- Choose the photo you want to edit from your device gallery.
+4. Choose the photo you want to edit from your device gallery.
 
-- Type your detailed prompt in plain English.
+5. Type your detailed prompt in plain English.
 
-- For a black dress shoot, describe the style, mood, and background you want.
+6. For a black dress shoot, describe the style, mood, and background you want.
 
-- Hit send and wait for Gemini AI to process your request.
+7. Hit send and wait for Gemini AI to process your request.
 
-- Review the edited image on the screen that appears.
+8. Review the edited image on the screen that appears.
 
-- Type new instructions if you want to adjust anything, like lighting or pose.
+9. Type new instructions if you want to adjust anything, like lighting or pose.
 
-- Save the finished image back to your gallery for sharing.
+10. Save the finished image back to your gallery for sharing.
 
 ## How to Write the Right Prompt for a Black Dress Shoot
 

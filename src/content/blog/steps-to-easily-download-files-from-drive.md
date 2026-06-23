@@ -50,15 +50,15 @@ You can now open, edit, or share the downloaded file using an appropriate app on
 
 Google Drive also allows you to download multiple files at once. Here’s how:
 
-- In the Google Drive app, navigate to the folder containing the files you want to download.
+1. In the Google Drive app, navigate to the folder containing the files you want to download.
 
-- Tap and hold on one of the files until it is selected. You will see a checkmark icon appear.
+2. Tap and hold on one of the files until it is selected. You will see a checkmark icon appear.
 
-- Tap the additional files you want to select for download. A checkmark will appear for each selected file.
+3. Tap the additional files you want to select for download. A checkmark will appear for each selected file.
 
-- Once you’ve selected all the desired files, tap the **⋮** icon at the top-right corner of the screen.
+4. Once you’ve selected all the desired files, tap the **⋮** icon at the top-right corner of the screen.
 
-- From the menu, choose **Download**. All the selected files will be downloaded to your Android device.
+5. From the menu, choose **Download**. All the selected files will be downloaded to your Android device.
 
 ### Troubleshooting Tips
 

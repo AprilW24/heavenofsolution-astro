@@ -14,19 +14,19 @@ If you’re okay with a hands-on approach, Canva lets you manually add subtitles
 
 ![](/wp-content/uploads/2025/02/Canva_HoS-2.webp)
 
-- **Upload your video**: Open Canva, click *Create a Design*, and choose the *Video* option. Upload your video file.
+1. **Upload your video**: Open Canva, click *Create a Design*, and choose the *Video* option. Upload your video file.
 
-- **Add text**: Select *Text* from the left toolbar. Choose *Add a heading*, *subheading*, or *body text* based on your preference.
+2. **Add text**: Select *Text* from the left toolbar. Choose *Add a heading*, *subheading*, or *body text* based on your preference.
 
-- **Type your subtitles**: Play your video and pause at each dialogue or key moment. Type the corresponding text into the text box.
+3. **Type your subtitles**: Play your video and pause at each dialogue or key moment. Type the corresponding text into the text box.
 
-- **Style your text**: Adjust font, size, color, and alignment using the toolbar above.
+4. **Style your text**: Adjust font, size, color, and alignment using the toolbar above.
 
-- **Positioning**: Drag and place the text box where it’s most readable—usually at the bottom of the frame.
+5. **Positioning**: Drag and place the text box where it’s most readable—usually at the bottom of the frame.
 
-- **Repeat for all scenes**: Continue adding new text boxes for each segment of the video.
+6. **Repeat for all scenes**: Continue adding new text boxes for each segment of the video.
 
-- **Export your video**: Once done, click *Share* > *Download* to save your video with embedded subtitles.
+7. **Export your video**: Once done, click *Share* > *Download* to save your video with embedded subtitles.
 
 💡 **Pro Tip**: Use contrasting colors between text and background for better readability.
 

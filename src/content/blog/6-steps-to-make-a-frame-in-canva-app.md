@@ -36,27 +36,27 @@ If you want to use pre-made frames, Canva has a wide selection available. Here�
 
 For a more personalized look, you can create custom frames using Canva’s tools or external apps like Frame Maker.
 
-- Open Canva and start a new design.
+1. Open Canva and start a new design.
 
-- Go to the “Elements” tab and choose a shape or graphic that you want to use as a frame.
+2. Go to the “Elements” tab and choose a shape or graphic that you want to use as a frame.
 
-- Edit the shape to fit your design needs.
+3. Edit the shape to fit your design needs.
 
-- Save the shape as a PDF or PNG file.
+4. Save the shape as a PDF or PNG file.
 
-- Import the file back into Canva to use it as a custom frame.
+5. Import the file back into Canva to use it as a custom frame.
 
 ## Using Frame Maker App
 
 If you prefer a more streamlined process, you can use the Frame Maker app:
 
-- Open Frame Maker and select your design.
+1. Open Frame Maker and select your design.
 
-- Click “Convert Design to Frame.”
+2. Click “Convert Design to Frame.”
 
-- Choose the file format (e.g., PNG) and export the frame.
+3. Choose the file format (e.g., PNG) and export the frame.
 
-- Import the frame into Canva and add your image.
+4. Import the frame into Canva and add your image.
 
 ## Conclusion
 

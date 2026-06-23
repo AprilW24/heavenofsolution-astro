@@ -38,15 +38,15 @@ These features provide a solid foundation for managing your Instagram comments w
 
 Instagram’s automatic comment filtering is a powerful tool for maintaining a positive environment on your posts. To enable and customize this feature:
 
-- Open the Instagram app and go to your profile.
+1. Open the Instagram app and go to your profile.
 
-- Tap the menu icon (three horizontal lines) in the top right corner.
+2. Tap the menu icon (three horizontal lines) in the top right corner.
 
-- Select “Settings” and then “Privacy.”
+3. Select “Settings” and then “Privacy.”
 
-- Tap on “Comments” to access comment control options.
+4. Tap on “Comments” to access comment control options.
 
-- Toggle on “Hide Offensive Comments” to enable automatic filtering.
+5. Toggle on “Hide Offensive Comments” to enable automatic filtering.
 
 This setting will use Instagram’s AI to identify and hide comments that may be considered offensive or inappropriate. While not perfect, it can significantly reduce the number of unwanted comments appearing on your posts.
 
@@ -54,13 +54,13 @@ This setting will use Instagram’s AI to identify and hide comments that may be
 
 Sometimes, you may want to hide specific comments that don’t violate Instagram’s guidelines but are still unwanted on your post. To manually hide a comment:
 
-- Find the comment you want to hide on your post.
+1. Find the comment you want to hide on your post.
 
-- Swipe left on the comment (for iOS) or tap and hold (for Android).
+2. Swipe left on the comment (for iOS) or tap and hold (for Android).
 
-- Tap the “!” icon that appears.
+3. Tap the “!” icon that appears.
 
-- Select “Hide Comment” from the options presented.
+4. Select “Hide Comment” from the options presented.
 
 The comment will now be hidden from public view, but the person who left the comment won’t be notified. This method is useful for managing individual cases without confrontation or affecting your overall engagement metrics.
 
@@ -68,13 +68,13 @@ The comment will now be hidden from public view, but the person who left the com
 
 For more precise control over your comment section, Instagram allows you to create custom keyword filters. This feature is particularly useful for businesses or public figures who may receive specific types of unwanted comments. To set up custom keyword filters:
 
-- Go to your profile and access “Settings” as described earlier.
+1. Go to your profile and access “Settings” as described earlier.
 
-- Navigate to “Privacy” > “Comments.”
+2. Navigate to “Privacy” > “Comments.”
 
-- Tap on “Manual Filter” to enable it.
+3. Tap on “Manual Filter” to enable it.
 
-- Enter words, phrases, or emojis you want to filter, separated by commas.
+4. Enter words, phrases, or emojis you want to filter, separated by commas.
 
 Comments containing these keywords will be automatically hidden. This feature is case-insensitive, so you don’t need to worry about capitalization. Remember to update your list periodically to address new trends or issues that may arise.
 
@@ -82,11 +82,11 @@ Comments containing these keywords will be automatically hidden. This feature is
 
 If you’re dealing with persistent issues or want to maintain a more controlled environment, you can limit who can comment on your posts. This option is particularly useful for public accounts. To adjust your comment settings:
 
-- Go to “Settings” > “Privacy” > “Comments.”
+1. Go to “Settings” > “Privacy” > “Comments.”
 
-- Tap on “Allow Comments From.”
+2. Tap on “Allow Comments From.”
 
-- Choose from options like “Everyone,” “People You Follow,” “Your Followers,” or “People You Follow and Your Followers.”
+3. Choose from options like “Everyone,” “People You Follow,” “Your Followers,” or “People You Follow and Your Followers.”
 
 By restricting who can comment, you can significantly reduce the likelihood of receiving unwanted comments while still allowing engagement from your core audience.
 

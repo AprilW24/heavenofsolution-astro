@@ -22,25 +22,25 @@ Then, it’s time to review the sources you pulled: check their credibility, dat
 
 ## How to Use Perplexity for Writing a Literature Review
 
-- Decide on your research topic and the question you want to answer.
+1. Decide on your research topic and the question you want to answer.
 
-- Use Perplexity to search for the latest research and summaries.
+2. Use Perplexity to search for the latest research and summaries.
 
-- Gather sources, looking for academic papers, books, and reliable sites.
+3. Gather sources, looking for academic papers, books, and reliable sites.
 
-- Check each source for credibility, date, and relevance.
+4. Check each source for credibility, date, and relevance.
 
-- Identify key themes, debates, and research gaps from what you find.
+5. Identify key themes, debates, and research gaps from what you find.
 
-- Organize all your notes and create a rough outline.
+6. Organize all your notes and create a rough outline.
 
-- Use Perplexity to summarize each paper so your writing is clear.
+7. Use Perplexity to summarize each paper so your writing is clear.
 
-- Compare viewpoints and synthesize, not just summarize.
+8. Compare viewpoints and synthesize, not just summarize.
 
-- Draft your literature review by section: intro, body, and wrap-up.
+9. Draft your literature review by section: intro, body, and wrap-up.
 
-- Proofread for accuracy, flow, and make sure all citations are correct.
+10. Proofread for accuracy, flow, and make sure all citations are correct.
 
 ## Making Your Review Stand Out With Perplexity’s Extra Features
 

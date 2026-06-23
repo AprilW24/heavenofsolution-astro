@@ -16,15 +16,15 @@ We’ve all been there – you’re trying to stream your favorite show or join 
 
 There are several reasons you might want to limit WiFi speed to certain devices:
 
-- Ensure fair usage among multiple users
+1. Ensure fair usage among multiple users
 
-- Prioritize important devices or activities
+2. Prioritize important devices or activities
 
-- Prevent bandwidth-hungry applications from slowing down the entire network
+3. Prevent bandwidth-hungry applications from slowing down the entire network
 
-- Implement parental controls or time-based restrictions
+4. Implement parental controls or time-based restrictions
 
-- Optimize network performance for specific tasks
+5. Optimize network performance for specific tasks
 
 Now, let’s dive into the steps you can take to achieve better control over your WiFi network.
 
@@ -34,13 +34,13 @@ The first crucial step in limiting WiFi speed is accessing your router’s admin
 
 **Here’s how to do it:**
 
-- Open a web browser on a device connected to your network.
+1. Open a web browser on a device connected to your network.
 
-- Enter your router’s IP address in the address bar. Common addresses include 192.168.0.1 or 192.168.1.1.
+2. Enter your router’s IP address in the address bar. Common addresses include 192.168.0.1 or 192.168.1.1.
 
-- If you’re unsure of your router’s IP, you can usually find it printed on the router itself or in its manual.
+3. If you’re unsure of your router’s IP, you can usually find it printed on the router itself or in its manual.
 
-- Enter your login credentials. If you haven’t changed them, check the router’s documentation for default username and password.
+4. Enter your login credentials. If you haven’t changed them, check the router’s documentation for default username and password.
 
 **Pro tip:** For security reasons, it’s always a good idea to change your router’s default login credentials if you haven’t already done so.
 
@@ -64,11 +64,11 @@ Quality of Service (QoS) is a feature found in many modern routers that allows y
 
 **To enable QoS:**
 
-- Look for a section in your router settings labeled “QoS,” “Traffic Control,” or “Bandwidth Control.”
+1. Look for a section in your router settings labeled “QoS,” “Traffic Control,” or “Bandwidth Control.”
 
-- Enable the QoS feature if it’s not already on.
+2. Enable the QoS feature if it’s not already on.
 
-- Some routers may require you to specify your internet connection’s maximum upload and download speeds. You can find this information from your internet service provider or by running a speed test.
+3. Some routers may require you to specify your internet connection’s maximum upload and download speeds. You can find this information from your internet service provider or by running a speed test.
 
 **Note:** The exact steps and options may vary depending on your router model and firmware.
 
@@ -78,13 +78,13 @@ With QoS enabled, you can now set priorities for different devices or types of t
 
 **Here’s how to prioritize devices:**
 
-- In the QoS settings, look for an option to add devices or create rules.
+1. In the QoS settings, look for an option to add devices or create rules.
 
-- Use the MAC addresses or IP addresses you noted earlier to identify the devices you want to prioritize or limit.
+2. Use the MAC addresses or IP addresses you noted earlier to identify the devices you want to prioritize or limit.
 
-- Assign priority levels to these devices. Most routers use a system of High, Medium, and Low priorities.
+3. Assign priority levels to these devices. Most routers use a system of High, Medium, and Low priorities.
 
-- For devices you want to limit, assign them a lower priority.
+4. For devices you want to limit, assign them a lower priority.
 
 **Remember:** High-priority devices will get preferential treatment when it comes to bandwidth allocation, while low-priority devices will be the first to experience slowdowns during high network usage.
 
@@ -94,13 +94,13 @@ Some routers offer more granular control, allowing you to set specific bandwidth
 
 **To set bandwidth limits:**
 
-- Look for a section called “Bandwidth Limit,” “Rate Limit,” or similar in your QoS settings.
+1. Look for a section called “Bandwidth Limit,” “Rate Limit,” or similar in your QoS settings.
 
-- Select the device you want to limit using its MAC or IP address.
+2. Select the device you want to limit using its MAC or IP address.
 
-- Set maximum upload and download speeds for that device. These are typically measured in Mbps (megabits per second).
+3. Set maximum upload and download speeds for that device. These are typically measured in Mbps (megabits per second).
 
-- Save your changes and apply the new settings.
+4. Save your changes and apply the new settings.
 
 **Pro tip:** Start with conservative limits and adjust as needed. You don’t want to accidentally make a device unusable by setting the limit too low.
 
@@ -152,13 +152,13 @@ Many routers allow you to set up schedules for when certain devices can access t
 
 **To set up time-based restrictions:**
 
-- Look for a section in your router settings called “Access Control,” “Parental Controls,” or “Scheduling.”
+1. Look for a section in your router settings called “Access Control,” “Parental Controls,” or “Scheduling.”
 
-- Create a new rule or schedule for the device you want to restrict.
+2. Create a new rule or schedule for the device you want to restrict.
 
-- Set the days and times when the restrictions should be active.
+3. Set the days and times when the restrictions should be active.
 
-- Specify whether you want to completely block access or just limit speeds during these times.
+4. Specify whether you want to completely block access or just limit speeds during these times.
 
 This feature is particularly useful for managing children’s internet usage or limiting non-essential devices during work hours.
 

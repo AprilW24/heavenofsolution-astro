@@ -46,11 +46,11 @@ When sharing the YouTube video link on messaging/social media platforms, you can
 
 Here are the steps:
 
-- After selecting the sharing option, tap on the pre-populated text message.
+1. After selecting the sharing option, tap on the pre-populated text message.
 
-- Edit the text as desired. For example, you can give a recommendation for the video or your thoughts on it.
+2. Edit the text as desired. For example, you can give a recommendation for the video or your thoughts on it.
 
-- Tap **Send** or the check mark button to share it.
+3. Tap **Send** or the check mark button to share it.
 
 Customizing the shared message allows you to give additional context to the recipient before they click the link.
 

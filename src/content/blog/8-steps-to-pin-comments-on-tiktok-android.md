@@ -12,13 +12,13 @@ TikTok has become one of the most popular social media platforms, with millions 
 
 Before we dive into the specific steps, it’s important to understand why pinning comments can be beneficial for your TikTok presence. Pinned comments serve several purposes:
 
-- **Highlighting important information**: You can use pinned comments to draw attention to key details about your content, upcoming events, or collaborations.
+1. **Highlighting important information**: You can use pinned comments to draw attention to key details about your content, upcoming events, or collaborations.
 
-- **Showcasing positive feedback**: Pinning a particularly enthusiastic or supportive comment can help create a positive atmosphere in your comment section and encourage more engagement.
+2. **Showcasing positive feedback**: Pinning a particularly enthusiastic or supportive comment can help create a positive atmosphere in your comment section and encourage more engagement.
 
-- **Addressing common questions**: If you frequently receive similar questions from your viewers, pinning a comment with the answer can save you time and provide quick information to your audience.
+3. **Addressing common questions**: If you frequently receive similar questions from your viewers, pinning a comment with the answer can save you time and provide quick information to your audience.
 
-- **Encouraging discussion**: By pinning a thought-provoking comment or question, you can spark conversations among your viewers and increase engagement on your videos.
+4. **Encouraging discussion**: By pinning a thought-provoking comment or question, you can spark conversations among your viewers and increase engagement on your videos.
 
 Now that we understand the importance of pinning comments, let’s go through the step-by-step process of how to do it on your Android device.
 
@@ -60,19 +60,19 @@ Once you’ve completed these steps, the selected comment should now appear at t
 
 Now that you know how to pin comments on TikTok using your Android device, here are some additional tips and best practices to help you make the most of this feature:
 
-- **Be selective**: While it might be tempting to pin every positive comment you receive, it’s best to be selective. Choose comments that truly add value to your content or spark meaningful discussions.
+1. **Be selective**: While it might be tempting to pin every positive comment you receive, it’s best to be selective. Choose comments that truly add value to your content or spark meaningful discussions.
 
-- **Rotate pinned comments**: Don’t let your pinned comments become stale. Regularly update them to keep your content fresh and encourage ongoing engagement.
+2. **Rotate pinned comments**: Don’t let your pinned comments become stale. Regularly update them to keep your content fresh and encourage ongoing engagement.
 
-- **Respond to pinned comments**: If you pin a question or a comment that warrants a response, make sure to reply to it. This shows that you’re actively engaging with your audience and can encourage more interactions.
+3. **Respond to pinned comments**: If you pin a question or a comment that warrants a response, make sure to reply to it. This shows that you’re actively engaging with your audience and can encourage more interactions.
 
-- **Use pinned comments strategically**: Consider using pinned comments to promote your other social media accounts, upcoming projects, or collaborations. Just be careful not to make it too promotional, as this can turn off your audience.
+4. **Use pinned comments strategically**: Consider using pinned comments to promote your other social media accounts, upcoming projects, or collaborations. Just be careful not to make it too promotional, as this can turn off your audience.
 
-- **Monitor the impact**: Pay attention to how pinned comments affect engagement on your videos. Do they lead to more likes, comments, or shares? Use this information to refine your strategy over time.
+5. **Monitor the impact**: Pay attention to how pinned comments affect engagement on your videos. Do they lead to more likes, comments, or shares? Use this information to refine your strategy over time.
 
-- **Be mindful of community guidelines**: Ensure that the comments you pin adhere to TikTok’s community guidelines. Pinning inappropriate content could lead to penalties for your account.
+6. **Be mindful of community guidelines**: Ensure that the comments you pin adhere to TikTok’s community guidelines. Pinning inappropriate content could lead to penalties for your account.
 
-- **Consider your audience**: Think about what your audience would find most valuable or interesting when choosing comments to pin. This can help strengthen your connection with your viewers.
+7. **Consider your audience**: Think about what your audience would find most valuable or interesting when choosing comments to pin. This can help strengthen your connection with your viewers.
 
 ## Troubleshooting Common Issues
 

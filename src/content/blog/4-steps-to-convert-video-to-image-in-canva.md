@@ -28,37 +28,37 @@ First, you need a tool that can extract frames from your video. There are severa
 
 If using an online tool like ClipConverter:
 
-- Go to the ClipConverter website.
+1. Go to the ClipConverter website.
 
-- Upload your video file.
+2. Upload your video file.
 
-- Choose the output format as images (e.g., JPEG).
+3. Choose the output format as images (e.g., JPEG).
 
-- Adjust settings like frame rate or interval if needed.
+4. Adjust settings like frame rate or interval if needed.
 
-- Download the extracted images.
+5. Download the extracted images.
 
 If using Adobe Premiere Pro:
 
-- Open your video in Premiere Pro.
+1. Open your video in Premiere Pro.
 
-- Go to **File** > **Export** > **Media**.
+2. Go to **File** > **Export** > **Media**.
 
-- In the export settings, choose **Image** as the output format.
+3. In the export settings, choose **Image** as the output format.
 
-- Set the frame rate or interval for exporting frames.
+4. Set the frame rate or interval for exporting frames.
 
-- Export the frames.
+5. Export the frames.
 
 ### Step 3: Import Images into Canva
 
 Once you have your images, you can import them into Canva for further editing:
 
-- Open Canva and create a new project.
+1. Open Canva and create a new project.
 
-- Click on **Uploads** and select the images you extracted.
+2. Click on **Uploads** and select the images you extracted.
 
-- Use Canva’s editing tools to adjust, resize, or enhance your images as needed.
+3. Use Canva’s editing tools to adjust, resize, or enhance your images as needed.
 
 ### Step 4: Edit and Use Your Images
 

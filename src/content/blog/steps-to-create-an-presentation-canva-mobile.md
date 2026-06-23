@@ -24,25 +24,25 @@ You can even connect your slides with buttons that say things like “Next,” �
 
 ## Step-by-Step to Create Interactive Presentation
 
-- Open the Canva app on your phone and log in.
+1. Open the Canva app on your phone and log in.
 
-- Tap the “+” button, then choose “Presentation.”
+2. Tap the “+” button, then choose “Presentation.”
 
-- Pick a mobile-first template or start from a blank slide.
+3. Pick a mobile-first template or start from a blank slide.
 
-- Add text, photos, and icons to build your layout.
+4. Add text, photos, and icons to build your layout.
 
-- Tap any object and select “Link” or “Add action.”
+5. Tap any object and select “Link” or “Add action.”
 
-- Choose “Go to page” to create navigation buttons.
+6. Choose “Go to page” to create navigation buttons.
 
-- Insert videos or upload short clips for dynamic slides.
+7. Insert videos or upload short clips for dynamic slides.
 
-- Add clickable elements like polls or stickers through the “Apps” tab.
+8. Add clickable elements like polls or stickers through the “Apps” tab.
 
-- Preview in “Present mode” to see animations and links in action.
+9. Preview in “Present mode” to see animations and links in action.
 
-- Save or share it as an interactive link or video.
+10. Save or share it as an interactive link or video.
 
 ## Tips to Make It Visually Appealing and Smooth on Phones
 

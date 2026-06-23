@@ -16,21 +16,21 @@ In this guide, I’m walking you through exactly how to delete your Gemini AI se
 
 If you want to just clear everything and start fresh, this is the fastest way to do it. I’m going to show you how to delete all your Gemini activity in one go from the mobile app. This method is perfect when you don’t want to waste time going through individual chats and just want everything gone.
 
-- Open the Gemini app on your phone and tap your profile picture in the top right corner.
+1. Open the Gemini app on your phone and tap your profile picture in the top right corner.
 
-- Tap on “Gemini Apps Activity” from the menu that appears.
+2. Tap on “Gemini Apps Activity” from the menu that appears.
 
-- Look for the “Delete” dropdown button above your activity list and tap it.
+3. Look for the “Delete” dropdown button above your activity list and tap it.
 
-- Select “All time” from the options (you’ll also see Last hour, Last day, and Custom range here).
+4. Select “All time” from the options (you’ll also see Last hour, Last day, and Custom range here).
 
-- Tap the “Delete” button to confirm your choice.
+5. Tap the “Delete” button to confirm your choice.
 
-- A confirmation prompt will pop up, so tap “Delete” again to finalize everything.
+6. A confirmation prompt will pop up, so tap “Delete” again to finalize everything.
 
-- Wait a few seconds while the app processes your request and removes all your stored conversations.
+7. Wait a few seconds while the app processes your request and removes all your stored conversations.
 
-- Refresh the page or close and reopen the app to confirm everything’s been wiped clean.
+8. Refresh the page or close and reopen the app to confirm everything’s been wiped clean.
 
 That’s it! All your Gemini search history and conversations are now gone from your account. Keep in mind though that even after deleting, Google might keep your conversations for up to 72 hours to process the service, but they won’t show up in your activity anymore. 💭
 

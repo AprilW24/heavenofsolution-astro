@@ -26,45 +26,45 @@ This is probably the part you came here for, so let’s get into it. The steps a
 
 **On Android:**
 
-- Open WhatsApp and head to the **Chats** tab.
+1. Open WhatsApp and head to the **Chats** tab.
 
-- Tap the three vertical dots at the top right corner of the screen.
+2. Tap the three vertical dots at the top right corner of the screen.
 
-- Select **New broadcast** from the menu.
+3. Select **New broadcast** from the menu.
 
-- Search for or manually select the contacts you want to add to the list.
+4. Search for or manually select the contacts you want to add to the list.
 
-- Tap the green checkmark button to create the broadcast list.
+5. Tap the green checkmark button to create the broadcast list.
 
-- Give your list a name by tapping the pencil icon or the three dots and selecting **Change broadcast list name**.
+6. Give your list a name by tapping the pencil icon or the three dots and selecting **Change broadcast list name**.
 
-- Type your message in the chat box, just like a normal chat, and hit send.
+7. Type your message in the chat box, just like a normal chat, and hit send.
 
 **On iPhone (iOS):**
 
-- Open WhatsApp and tap **Settings** at the bottom right.
+1. Open WhatsApp and tap **Settings** at the bottom right.
 
-- Tap **Broadcast Lists** near the top.
+2. Tap **Broadcast Lists** near the top.
 
-- Tap **New List** at the bottom of the screen.
+3. Tap **New List** at the bottom of the screen.
 
-- Search for or select the contacts you want to add.
+4. Search for or select the contacts you want to add.
 
-- Tap **Create** to finish setting up the list.
+5. Tap **Create** to finish setting up the list.
 
-- Start typing your message right away and send it out.
+6. Start typing your message right away and send it out.
 
 **For WhatsApp Business users:**
 
-- Tap **Chats**, then tap the three dots or the *kebab menu* icon.
+1. Tap **Chats**, then tap the three dots or the *kebab menu* icon.
 
-- Select **Business Broadcast** or **New Broadcast**.
+2. Select **Business Broadcast** or **New Broadcast**.
 
-- Search and select your contacts.
+3. Search and select your contacts.
 
-- Tap the checkmark to create the list.
+4. Tap the checkmark to create the list.
 
-- You can also create a broadcast directly from a label by going to **Labels**, picking the label, then tapping **Message customers**.
+5. You can also create a broadcast directly from a label by going to **Labels**, picking the label, then tapping **Message customers**.
 
 ## Key Limits and Tips to Know Before Sending Your First Broadcast
 

@@ -20,13 +20,13 @@ Once installed, you can find the Perplexity AI icon in your app drawer or on you
 
 While Perplexity AI can be used without an account, creating one offers several benefits, including the ability to save your search history, customize your experience, and access additional features. To create an account:
 
-- Open the Perplexity AI app on your Android device.
+1. Open the Perplexity AI app on your Android device.
 
-- Tap on the profile icon in the bottom right corner of the screen.
+2. Tap on the profile icon in the bottom right corner of the screen.
 
-- Choose your preferred sign-up method: Google, Apple, or email.
+3. Choose your preferred sign-up method: Google, Apple, or email.
 
-- Follow the on-screen prompts to complete the account creation process.
+4. Follow the on-screen prompts to complete the account creation process.
 
 Once your account is set up, take a moment to explore the settings. You can customize your profile, adjust privacy preferences, and tailor the app’s behavior to suit your needs. For example, you might want to enable or disable features like search history or personalized recommendations based on your comfort level with data sharing.
 
@@ -46,11 +46,11 @@ The Perplexity AI app for Android boasts a user-friendly interface that’s easy
 
 Now that you’re familiar with the basics, it’s time to put Perplexity AI to the test. Unlike traditional search engines that provide a list of links, Perplexity AI aims to answer your questions directly. Here’s how to conduct your first search:
 
-- Tap on the search bar at the top of the screen.
+1. Tap on the search bar at the top of the screen.
 
-- Type in your question or search query using natural language. For example, “What are the health benefits of drinking green tea?”
+2. Type in your question or search query using natural language. For example, “What are the health benefits of drinking green tea?”
 
-- Hit the search button or tap “Enter” on your keyboard.
+3. Hit the search button or tap “Enter” on your keyboard.
 
 Perplexity AI will process your query and provide a comprehensive answer, often including relevant facts, statistics, and even follow-up questions to help you dive deeper into the topic. The information is presented in a conversational format, making it easy to read and understand.
 

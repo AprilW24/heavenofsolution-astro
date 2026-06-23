@@ -14,23 +14,23 @@ I’ll walk you through the process, plus share how to make the most of your col
 
 ## How To Find Save Collections
 
-- Open the Google app on your Android device.
+1. Open the Google app on your Android device.
 
-- Make sure you’re already signed in to your Google account.
+2. Make sure you’re already signed in to your Google account.
 
-- Tap on your profile picture on the top right corner of your screen.
+3. Tap on your profile picture on the top right corner of your screen.
 
-- Next, scroll down and select **Saves & Collections**.
+4. Next, scroll down and select **Saves & Collections**.
 
-- Scroll through to check out every item you’ve saved, like websites, pics, places, and more.
+5. Scroll through to check out every item you’ve saved, like websites, pics, places, and more.
 
-- Tap any collection if you want to view groups of items you’ve organized.
+6. Tap any collection if you want to view groups of items you’ve organized.
 
-- If you want to add something to a collection, tap the three dots by the item and choose **Add to a collection**.
+7. If you want to add something to a collection, tap the three dots by the item and choose **Add to a collection**.
 
-- For editing or moving stuff, hit *More* or the three dots inside a collection.
+8. For editing or moving stuff, hit *More* or the three dots inside a collection.
 
-- Need to remove something? Just tap on the three dots beside an item and pick **Remove**.
+9. Need to remove something? Just tap on the three dots beside an item and pick **Remove**.
 
 ## Managing and Organizing Your Google Save Collections
 

@@ -32,25 +32,25 @@ These tools mostly work offline or with minimal data, and several have a free ve
 
 ## Step-By-Step to Summarize Any Text Using AI on Phone
 
-- Download or open your chosen AI summary app from Google Play or the App Store.
+1. Download or open your chosen AI summary app from Google Play or the App Store.
 
-- Launch the app and pick the option to add new text or upload a document.
+2. Launch the app and pick the option to add new text or upload a document.
 
-- Paste your text, upload a file, or use the in-app browser for web pages.
+3. Paste your text, upload a file, or use the in-app browser for web pages.
 
-- Look for the Summarize or AI Summary button and tap it.
+4. Look for the Summarize or AI Summary button and tap it.
 
-- Wait a second or two for the summary to appear.
+5. Wait a second or two for the summary to appear.
 
-- Adjust the format for bullet points or paragraph if your app allows.
+6. Adjust the format for bullet points or paragraph if your app allows.
 
-- Copy the summary, edit if needed, or share it directly from the app.
+7. Copy the summary, edit if needed, or share it directly from the app.
 
-- Repeat for other files, web articles, or even notes from calls or meetings.
+8. Repeat for other files, web articles, or even notes from calls or meetings.
 
-- Use the Translate option if you need a different language.
+9. Use the Translate option if you need a different language.
 
-- Save or export your summary for future use or sharing.
+10. Save or export your summary for future use or sharing.
 
 ## Best Prompt to Get Clean, Useful Summaries from Any AI Chat App
 

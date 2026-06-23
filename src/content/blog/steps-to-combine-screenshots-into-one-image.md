@@ -16,21 +16,21 @@ In this guide, we’ll walk through a few different methods for combining screen
 
 One of the simplest ways to combine multiple screenshots is by making a collage in Google Photos, which comes pre-installed on most Android devices. Here’s how:
 
-- Open the Google Photos app
+1. Open the Google Photos app
 
-- Go to the **Library** tab
+2. Go to the **Library** tab
 
-- Tap on **Utilities** at the top
+3. Tap on **Utilities** at the top
 
-- Select **Collage** under **Create New**
+4. Select **Collage** under **Create New**
 
-- Choose up to 6 screenshots you want to combine
+5. Choose up to 6 screenshots you want to combine
 
-- Tap **Create** to generate the collage
+6. Tap **Create** to generate the collage
 
-- Customize the layout, image placement, and zoom/crop as desired
+7. Customize the layout, image placement, and zoom/crop as desired
 
-- Hit **Save** to add the final collage to your photo library
+8. Hit **Save** to add the final collage to your photo library
 
 The collage feature in Google Photos provides a quick way to arrange your screenshots side-by-side. You can experiment with different layouts to optimize the readability of text and images.
 
@@ -42,23 +42,23 @@ For a more automated approach to combining screenshots, there are several apps o
 
 This user-friendly app makes it easy to capture scrolling screenshots:
 
-- Install and launch Stitch & Share
+1. Install and launch Stitch & Share
 
-- Grant the app permission to access your photos
+2. Grant the app permission to access your photos
 
-- Select **Automatic capturing**
+3. Select **Automatic capturing**
 
-- Open the app/page you want to capture
+4. Open the app/page you want to capture
 
-- Tap the floating Stitch & Share button to start
+5. Tap the floating Stitch & Share button to start
 
-- Scroll slowly and the app will snap screenshots
+6. Scroll slowly and the app will snap screenshots
 
-- Hit the stop button when done
+7. Hit the stop button when done
 
-- Edit, highlight, or redact parts of the image if needed
+8. Edit, highlight, or redact parts of the image if needed
 
-- Save to your device or generate a shareable link
+9. Save to your device or generate a shareable link
 
 Stitch & Share is free to use but adds a watermark. You can upgrade to remove it and ads.
 
@@ -66,17 +66,17 @@ Stitch & Share is free to use but adds a watermark. You can upgrade to remove it
 
 LongShot is another powerful app for capturing and combining screenshots. It also includes a built-in browser for grabbing full webpage snapshots. Here’s how it works:
 
-- Open LongShot and tap **Capture Screenshot**
+1. Open LongShot and tap **Capture Screenshot**
 
-- Position the floating button where you want to start
+2. Position the floating button where you want to start
 
-- Tap the green button to begin
+3. Tap the green button to begin
 
-- Scroll slowly, keeping the content below the red line
+4. Scroll slowly, keeping the content below the red line
 
-- Hit the red **Done** button when finished
+5. Hit the red **Done** button when finished
 
-- Select your preferred screenshot from the options
+6. Select your preferred screenshot from the options
 
 LongShot is free and ad-supported. It offers the most features and customization settings among screenshot stitching apps.
 
@@ -88,19 +88,19 @@ Lastly, if you want the most control over how your screenshots are combined, usi
 
 This full-featured app rivals desktop photo editors in its capabilities. You can combine images in any configuration and apply advanced edits. Follow these steps:
 
-- Install Image Combiner & Editor from the Play Store
+1. Install Image Combiner & Editor from the Play Store
 
-- Select either **Combine** or **Collage** depending on your needs
+2. Select either **Combine** or **Collage** depending on your needs
 
-- Tap **Add Picture** then **Import Image** to add your screenshots
+3. Tap **Add Picture** then **Import Image** to add your screenshots
 
-- Reorder the images if needed
+4. Reorder the images if needed
 
-- Hit **Combine Images**
+5. Hit **Combine Images**
 
-- Adjust settings like orientation, border, and cropping
+6. Adjust settings like orientation, border, and cropping
 
-- Save the final image to your device
+7. Save the final image to your device
 
 Image Combiner & Editor is free with an optional paid upgrade. It’s the best choice if you plan to combine images frequently or need the most customization options.
 

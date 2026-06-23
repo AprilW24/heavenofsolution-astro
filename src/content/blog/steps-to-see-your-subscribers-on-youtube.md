@@ -20,23 +20,23 @@ It’s important to note that the standard YouTube mobile app doesn’t provide 
 
 Follow these steps to view your YouTube subscribers on your mobile device:
 
-- **Open your mobile web browser**: Start by launching the web browser on your iPhone or Android device. You can use any browser you prefer, such as Chrome, Safari, or Firefox.
+1. **Open your mobile web browser**: Start by launching the web browser on your iPhone or Android device. You can use any browser you prefer, such as Chrome, Safari, or Firefox.
 
-- **Navigate to YouTube Studio**: In the address bar, type in “studio.youtube.com” and press enter. This will take you to the YouTube Studio website.
+2. **Navigate to YouTube Studio**: In the address bar, type in “studio.youtube.com” and press enter. This will take you to the YouTube Studio website.
 
-- **Sign in to your account**: If you’re not already signed in, you’ll be prompted to enter your Google account credentials associated with your YouTube channel.
+3. **Sign in to your account**: If you’re not already signed in, you’ll be prompted to enter your Google account credentials associated with your YouTube channel.
 
-- **Choose “Continue to Studio”**: You may see a prompt asking if you want to open the YouTube Studio app. Instead, look for a link that says “Continue to Studio” or “Use web version” and tap on it.
+4. **Choose “Continue to Studio”**: You may see a prompt asking if you want to open the YouTube Studio app. Instead, look for a link that says “Continue to Studio” or “Use web version” and tap on it.
 
-- **Access the Dashboard**: Once you’re in YouTube Studio, you’ll see the Channel Dashboard. This page provides an overview of your channel’s performance and recent activity.
+5. **Access the Dashboard**: Once you’re in YouTube Studio, you’ll see the Channel Dashboard. This page provides an overview of your channel’s performance and recent activity.
 
-- **Find the “Recent subscribers” module**: Scroll down the Dashboard until you locate the “Recent subscribers” section. This module displays your most recent subscribers.
+6. **Find the “Recent subscribers” module**: Scroll down the Dashboard until you locate the “Recent subscribers” section. This module displays your most recent subscribers.
 
-- **Tap “See all”**: To view a more comprehensive list of your subscribers, tap on the “See all” link within the Recent subscribers module.
+7. **Tap “See all”**: To view a more comprehensive list of your subscribers, tap on the “See all” link within the Recent subscribers module.
 
-- **Explore your subscriber list**: You’ll now see an expanded view of your subscribers. This list typically shows the subscriber’s username, their own subscriber count, and the date they subscribed to your channel.
+8. **Explore your subscriber list**: You’ll now see an expanded view of your subscribers. This list typically shows the subscriber’s username, their own subscriber count, and the date they subscribed to your channel.
 
-- **Use additional features**: In this view, you can also:• Sort subscribers by date subscribed or their subscriber count• Change the date range to view subscribers from different periods (e.g., last 7 days, last 90 days, or lifetime)• Navigate through multiple pages if you have a large number of subscribers
+9. **Use additional features**: In this view, you can also:• Sort subscribers by date subscribed or their subscriber count• Change the date range to view subscribers from different periods (e.g., last 7 days, last 90 days, or lifetime)• Navigate through multiple pages if you have a large number of subscribers
 
 ## Tips for Managing Your Subscriber List on Mobile
 

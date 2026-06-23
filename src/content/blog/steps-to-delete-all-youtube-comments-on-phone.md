@@ -20,23 +20,23 @@ It’s important to note that while YouTube doesn’t provide a one-click soluti
 
 The first step in deleting your YouTube comments is to locate them. Here’s how you can access your comment history on your mobile device:
 
-- Open the YouTube app on your phone and ensure you’re logged into your account.
+1. Open the YouTube app on your phone and ensure you’re logged into your account.
 
-- Tap on your profile picture in the top right corner.
+2. Tap on your profile picture in the top right corner.
 
-- Select “Your channel” from the menu.
+3. Select “Your channel” from the menu.
 
-- Tap on the “Library” tab at the bottom of the screen.
+4. Tap on the “Library” tab at the bottom of the screen.
 
-- Scroll down and tap on “History.”
+5. Scroll down and tap on “History.”
 
-- In the top right corner, tap on the three dots menu and select “History controls.”
+6. In the top right corner, tap on the three dots menu and select “History controls.”
 
-- Scroll down and tap on “Manage all activity.”
+7. Scroll down and tap on “Manage all activity.”
 
-- Under the “Filter by date & product” section, tap on “YouTube.”
+8. Under the “Filter by date & product” section, tap on “YouTube.”
 
-- Scroll down and tap on “Comments.”
+9. Scroll down and tap on “Comments.”
 
 You should now see a list of all the comments you’ve made on YouTube videos.
 
@@ -44,13 +44,13 @@ You should now see a list of all the comments you’ve made on YouTube videos.
 
 Once you’ve accessed your comment history, you can start deleting comments one by one. Here’s how:
 
-- Locate the comment you want to delete.
+1. Locate the comment you want to delete.
 
-- Tap on the three dots next to the comment.
+2. Tap on the three dots next to the comment.
 
-- Select “Delete” from the options that appear.
+3. Select “Delete” from the options that appear.
 
-- Confirm your decision by tapping “Delete” again in the pop-up window.
+4. Confirm your decision by tapping “Delete” again in the pop-up window.
 
 **Note:** While this method is effective, it can be time-consuming if you have a large number of comments to delete. For a more efficient approach, continue to the next steps.
 
@@ -58,13 +58,13 @@ Once you’ve accessed your comment history, you can start deleting comments one
 
 For a slightly quicker method, you can use YouTube’s dedicated Comment History page:
 
-- Open your mobile browser and go to https://www.youtube.com/feed/history/comment_history
+1. Open your mobile browser and go to https://www.youtube.com/feed/history/comment_history
 
-- Sign in to your YouTube account if prompted.
+2. Sign in to your YouTube account if prompted.
 
-- You’ll see a list of all your comments. To delete a comment, tap on the “X” icon next to it.
+3. You’ll see a list of all your comments. To delete a comment, tap on the “X” icon next to it.
 
-- Confirm the deletion when prompted.
+4. Confirm the deletion when prompted.
 
 This method allows for slightly faster deletion as you don’t need to open each video to delete the comment.
 
@@ -72,19 +72,19 @@ This method allows for slightly faster deletion as you don’t need to open each
 
 If you’re looking to delete all your comments in one go, you can use YouTube’s account settings. However, be aware that this method will hide your entire channel, including your videos and playlists. Here’s how to do it:
 
-- Open the YouTube app and tap on your profile picture.
+1. Open the YouTube app and tap on your profile picture.
 
-- Go to “Settings” > “Advanced settings.”
+2. Go to “Settings” > “Advanced settings.”
 
-- Scroll down and tap on “Delete channel.”
+3. Scroll down and tap on “Delete channel.”
 
-- You’ll be asked to sign in again for security purposes.
+4. You’ll be asked to sign in again for security purposes.
 
-- Select “I want to hide my content.”
+5. Select “I want to hide my content.”
 
-- Check the boxes next to “I want to hide my content” and “I understand that this action is not reversible.”
+6. Check the boxes next to “I want to hide my content” and “I understand that this action is not reversible.”
 
-- Tap on “Hide my content.”
+7. Tap on “Hide my content.”
 
 This action will hide all your YouTube content, including your comments. To restore your channel (minus the comments), simply sign back into YouTube within 14 days.
 

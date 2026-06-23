@@ -20,13 +20,13 @@ The first step in creating your collage is to open the Google Photos app on your
 
 ![](/wp-content/uploads/2024/09/HoS_Make-a-Collage.jpg)
 
-- Navigate to the “Photos” section of the app, where all your images are displayed.
+1. Navigate to the “Photos” section of the app, where all your images are displayed.
 
-- Browse through your photos and select the ones you want to include in your collage.
+2. Browse through your photos and select the ones you want to include in your collage.
 
-- You can select up to 6 photos for your collage.
+3. You can select up to 6 photos for your collage.
 
-- To select multiple photos, simply tap and hold on the first photo you want to include, then tap on the additional photos you wish to add to your selection.
+4. To select multiple photos, simply tap and hold on the first photo you want to include, then tap on the additional photos you wish to add to your selection.
 
 **Pro tip:** Choose photos that complement each other in terms of color, theme, or subject matter to create a visually cohesive collage.
 
@@ -34,11 +34,11 @@ The first step in creating your collage is to open the Google Photos app on your
 
 After selecting your photos, it’s time to access the collage creation tool. Here’s how:
 
-- With your photos selected, look for the “Add to” button at the bottom of the screen. It’s represented by a plus (+) icon.
+1. With your photos selected, look for the “Add to” button at the bottom of the screen. It’s represented by a plus (+) icon.
 
-- Tap on the “Add to” button to reveal a pop-up menu of options.
+2. Tap on the “Add to” button to reveal a pop-up menu of options.
 
-- From the menu that appears, select “Collage”.
+3. From the menu that appears, select “Collage”.
 
 ![](/wp-content/uploads/2024/09/HoS_Make-a-Collage9.jpg)
 
@@ -48,11 +48,11 @@ By choosing this option, Google Photos will automatically begin creating a colla
 
 Once you’ve initiated the collage creation process, Google Photos will present you with an initial layout. However, you have the flexibility to customize your collage to suit your preferences. Here’s how you can make adjustments:
 
-- At the bottom of the screen, you’ll see a variety of collage designs and templates.
+1. At the bottom of the screen, you’ll see a variety of collage designs and templates.
 
-- Swipe through these options to preview different layouts for your selected photos.
+2. Swipe through these options to preview different layouts for your selected photos.
 
-- Tap on a design that appeals to you to apply it to your collage.
+3. Tap on a design that appeals to you to apply it to your collage.
 
 **Customization options:**
 
@@ -68,11 +68,11 @@ Remember, the goal is to create a collage that best represents your vision and t
 
 Google Photos offers additional options to refine your collage further:
 
-- **Adjust photo sizes:** You can pinch to zoom in or out on individual photos within the collage frames.
+1. **Adjust photo sizes:** You can pinch to zoom in or out on individual photos within the collage frames.
 
-- **Rotate photos:** Touch and hold a photo, then use a rotating gesture to turn it to your desired orientation.
+2. **Rotate photos:** Touch and hold a photo, then use a rotating gesture to turn it to your desired orientation.
 
-- **Change photo order:** If you want to swap the positions of two photos, simply touch and hold one photo, then drag it over another to exchange their places.
+3. **Change photo order:** If you want to swap the positions of two photos, simply touch and hold one photo, then drag it over another to exchange their places.
 
 Take your time experimenting with these options to achieve the perfect layout for your collage.
 
@@ -80,9 +80,9 @@ Take your time experimenting with these options to achieve the perfect layout fo
 
 Once you’re satisfied with your collage design and any edits you’ve made, it’s time to save your creation:
 
-- Look for the “Save” button, typically located in the bottom right corner of the screen.
+1. Look for the “Save” button, typically located in the bottom right corner of the screen.
 
-- Tap “Save” to finalize your collage.
+2. Tap “Save” to finalize your collage.
 
 Google Photos will process your collage and save it as a new image in your gallery. The collage will be treated as a single image, making it easy to share or further edit if needed.
 
@@ -90,19 +90,19 @@ Google Photos will process your collage and save it as a new image in your galle
 
 After saving your collage, you might want to locate it quickly or share it with others. Here’s how:
 
-- To find your collage, tap on the “Search” tab at the bottom of the Google Photos app.
+1. To find your collage, tap on the “Search” tab at the bottom of the Google Photos app.
 
-- In the search bar, type “Collages” and tap on the “Collages” option that appears.
+2. In the search bar, type “Collages” and tap on the “Collages” option that appears.
 
-- Your newly created collage should appear along with any other collages you’ve made previously.
+3. Your newly created collage should appear along with any other collages you’ve made previously.
 
 To share your collage:
 
-- Open the collage in Google Photos.
+1. Open the collage in Google Photos.
 
-- Tap the “Share” button, usually located at the bottom left corner of the screen.
+2. Tap the “Share” button, usually located at the bottom left corner of the screen.
 
-- Choose your preferred sharing method from the options presented, such as messaging apps, social media platforms, or email.
+3. Choose your preferred sharing method from the options presented, such as messaging apps, social media platforms, or email.
 
 ## Conclusion
 

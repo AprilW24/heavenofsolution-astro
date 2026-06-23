@@ -12,29 +12,29 @@ In this article, we’ll walk through the process of force closing and restartin
 
 ### Steps to Restart Instagram on Android
 
-- **Open your Android device’s Settings app.** You can find the Settings icon that looks like a gear in your app drawer or on your home screen.
+1. **Open your Android device’s Settings app.** You can find the Settings icon that looks like a gear in your app drawer or on your home screen.
 
-- **Tap “Apps & notifications”.** This will open a list of all the apps installed on your Android device.
+2. **Tap “Apps & notifications”.** This will open a list of all the apps installed on your Android device.
 
-- **Find and tap on “Instagram” in the app list.** You may need to scroll down to locate Instagram. Tapping it will open the App Info page for Instagram.
+3. **Find and tap on “Instagram” in the app list.** You may need to scroll down to locate Instagram. Tapping it will open the App Info page for Instagram.
 
-- **Tap “Force Stop”.** You’ll see a warning message that force stopping can cause errors, but this is okay. Tap **OK** to confirm and force close the Instagram app.
+4. **Tap “Force Stop”.** You’ll see a warning message that force stopping can cause errors, but this is okay. Tap **OK** to confirm and force close the Instagram app.
 
-- **Re-open Instagram.** Go back to your home screen or app drawer, and tap the Instagram icon to restart the app. Instagram will relaunch, and hopefully start working properly again.
+5. **Re-open Instagram.** Go back to your home screen or app drawer, and tap the Instagram icon to restart the app. Instagram will relaunch, and hopefully start working properly again.
 
 If force closing and restarting Instagram doesn’t resolve the issue you were experiencing, the next step is to clear Instagram’s cache and data. Here’s how:
 
 ### How to Clear Instagram Cache and Data on Android
 
-- **Go back to Instagram’s App Info page.** Follow steps 1-3 above to get to Instagram in your Android Settings app.
+1. **Go back to Instagram’s App Info page.** Follow steps 1-3 above to get to Instagram in your Android Settings app.
 
-- **Tap “Storage & cache”.** This will show you how much storage space Instagram is using on your device, broken down into the app itself, its data, and its cache.
+2. **Tap “Storage & cache”.** This will show you how much storage space Instagram is using on your device, broken down into the app itself, its data, and its cache.
 
-- **Tap “Clear Cache”.** This will remove Instagram’s cached data, without deleting your account, photos, or other important information. Restart Instagram and check if your problem is resolved.
+3. **Tap “Clear Cache”.** This will remove Instagram’s cached data, without deleting your account, photos, or other important information. Restart Instagram and check if your problem is resolved.
 
-- **If needed, tap “Clear Storage” or “Clear Data”.** If clearing Instagram’s cache didn’t help, you can also delete the app’s data. Be aware this will log you out of Instagram and erase your settings, so you’ll need to log in again. Your account and posts will still be intact.
+4. **If needed, tap “Clear Storage” or “Clear Data”.** If clearing Instagram’s cache didn’t help, you can also delete the app’s data. Be aware this will log you out of Instagram and erase your settings, so you’ll need to log in again. Your account and posts will still be intact.
 
-- **Restart Instagram.** Open the app again and log in if prompted. With the cache and data cleared, any app glitches will hopefully now be fixed.
+5. **Restart Instagram.** Open the app again and log in if prompted. With the cache and data cleared, any app glitches will hopefully now be fixed.
 
 ### Conclusion
 

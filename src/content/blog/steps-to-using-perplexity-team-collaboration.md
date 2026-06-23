@@ -32,25 +32,25 @@ You can tie Spaces into group calendars, assign deadlines, and use built-in AI t
 
 Here’s how I get rolling with Spaces, skipping all the fuss:
 
-- Log in to Perplexity and click the Spaces button from the left panel.
+1. Log in to Perplexity and click the Spaces button from the left panel.
 
-- Pick Create new Space to start a workspace for your team.
+2. Pick Create new Space to start a workspace for your team.
 
-- Name the Space to match your team, project, or topic.
+3. Name the Space to match your team, project, or topic.
 
-- Upload key files, docs, or instructions so your team has what they need.
+4. Upload key files, docs, or instructions so your team has what they need.
 
-- Set privacy and sharing controls to decide who gets access.
+5. Set privacy and sharing controls to decide who gets access.
 
-- Send invites to team members with their email addresses.
+6. Send invites to team members with their email addresses.
 
-- Adjust user roles so admins manage access and contributors help upload or edit files.
+7. Adjust user roles so admins manage access and contributors help upload or edit files.
 
-- Share the link for fast entry or keep it private for just your chosen teammates.
+8. Share the link for fast entry or keep it private for just your chosen teammates.
 
-- Add notes, create Threads, and ask questions inside the Space to keep work flowing.
+9. Add notes, create Threads, and ask questions inside the Space to keep work flowing.
 
-- Use the search feature and AI to find info, ask about files, and summarize docs.
+10. Use the search feature and AI to find info, ask about files, and summarize docs.
 
 ## Conclusion
 

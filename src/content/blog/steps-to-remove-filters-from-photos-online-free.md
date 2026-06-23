@@ -20,15 +20,15 @@ The good news is that you don’t need expensive software or advanced technical 
 
 **Fotor** is a powerful online photo editing platform that offers a range of tools, including an AI-powered filter remover. Here’s how to use it:
 
-- Go to the Fotor website and click on the “Remove Filter from Photo” feature.
+1. Go to the Fotor website and click on the “Remove Filter from Photo” feature.
 
-- Upload your filtered photo to the platform.
+2. Upload your filtered photo to the platform.
 
-- The AI will automatically analyze and remove the filter from your image.
+3. The AI will automatically analyze and remove the filter from your image.
 
-- Fine-tune the results using the adjustment tools if needed.
+4. Fine-tune the results using the adjustment tools if needed.
 
-- Download your filter-free image.
+5. Download your filter-free image.
 
 Fotor’s AI technology makes the process quick and effortless, often producing impressive results with minimal input required from the user.
 
@@ -36,17 +36,17 @@ Fotor’s AI technology makes the process quick and effortless, often producing 
 
 **Pixlr** is another excellent online photo editor that can help you remove filters through manual adjustments. While it doesn’t have a one-click filter removal tool, its comprehensive editing features allow for precise control. Here’s how to use Pixlr to remove filters:
 
-- Open Pixlr in your web browser and upload your filtered photo.
+1. Open Pixlr in your web browser and upload your filtered photo.
 
-- Use the “Adjustment” tools to modify brightness, contrast, saturation, and other parameters.
+2. Use the “Adjustment” tools to modify brightness, contrast, saturation, and other parameters.
 
-- Experiment with the “Levels” and “Curves” tools to fine-tune the image’s tones.
+3. Experiment with the “Levels” and “Curves” tools to fine-tune the image’s tones.
 
-- If the filter added a color cast, use the “Color Balance” tool to neutralize it.
+4. If the filter added a color cast, use the “Color Balance” tool to neutralize it.
 
-- For more subtle filters, try the “Hue/Saturation” adjustment to restore natural colors.
+5. For more subtle filters, try the “Hue/Saturation” adjustment to restore natural colors.
 
-- Once you’re satisfied with the results, save your unfiltered image.
+6. Once you’re satisfied with the results, save your unfiltered image.
 
 Pixlr’s approach requires more manual input but offers greater control over the final result, making it ideal for those who want to fine-tune their images.
 
@@ -54,17 +54,17 @@ Pixlr’s approach requires more manual input but offers greater control over th
 
 For those familiar with Adobe Photoshop, **Photopea** offers a similar interface and toolset, all accessible for free through your web browser. Here’s how to remove filters using Photopea:
 
-- Open Photopea in your web browser and upload your filtered photo.
+1. Open Photopea in your web browser and upload your filtered photo.
 
-- Create a new adjustment layer by clicking on the half-filled circle icon at the bottom of the Layers panel.
+2. Create a new adjustment layer by clicking on the half-filled circle icon at the bottom of the Layers panel.
 
-- Choose from options like “Levels,” “Curves,” or “Hue/Saturation” to counteract the filter’s effects.
+3. Choose from options like “Levels,” “Curves,” or “Hue/Saturation” to counteract the filter’s effects.
 
-- Use multiple adjustment layers to tackle different aspects of the filter (e.g., color, contrast, brightness).
+4. Use multiple adjustment layers to tackle different aspects of the filter (e.g., color, contrast, brightness).
 
-- Experiment with layer blending modes to further refine the image.
+5. Experiment with layer blending modes to further refine the image.
 
-- Once you’re happy with the result, export your unfiltered photo.
+6. Once you’re happy with the result, export your unfiltered photo.
 
 Photopea’s advanced features allow for more complex filter removal techniques, making it suitable for both simple and intricate filter effects.
 
@@ -72,17 +72,17 @@ Photopea’s advanced features allow for more complex filter removal techniques,
 
 **BeFunky** is known for its intuitive interface and wide range of editing tools. While it doesn’t have a specific filter removal feature, you can effectively neutralize filter effects using its adjustment options:
 
-- Go to the BeFunky website and upload your filtered photo to the editor.
+1. Go to the BeFunky website and upload your filtered photo to the editor.
 
-- Navigate to the “Edit” panel on the left side of the screen.
+2. Navigate to the “Edit” panel on the left side of the screen.
 
-- Use tools like “Exposure,” “Color,” and “Sharpen” to counteract the filter’s effects.
+3. Use tools like “Exposure,” “Color,” and “Sharpen” to counteract the filter’s effects.
 
-- For more precise adjustments, explore the “Levels” and “Curves” tools.
+4. For more precise adjustments, explore the “Levels” and “Curves” tools.
 
-- If the filter added a specific color tone, use the “Color Grading” feature to neutralize it.
+5. If the filter added a specific color tone, use the “Color Grading” feature to neutralize it.
 
-- Once you’ve restored the image to your liking, save your unfiltered photo.
+6. Once you’ve restored the image to your liking, save your unfiltered photo.
 
 BeFunky’s straightforward interface makes it accessible for users of all skill levels, while still offering powerful editing capabilities.
 
@@ -90,17 +90,17 @@ BeFunky’s straightforward interface makes it accessible for users of all skill
 
 While primarily known for graphic design, **Canva** also offers photo editing features that can help remove filters:
 
-- Sign up for a free Canva account and upload your filtered photo.
+1. Sign up for a free Canva account and upload your filtered photo.
 
-- In the editor, click on the image to bring up the editing toolbar.
+2. In the editor, click on the image to bring up the editing toolbar.
 
-- Use the “Adjust” options to modify brightness, contrast, saturation, and other parameters.
+3. Use the “Adjust” options to modify brightness, contrast, saturation, and other parameters.
 
-- Experiment with the “Filters” tab, but instead of adding filters, use them to counteract the existing filter’s effects.
+4. Experiment with the “Filters” tab, but instead of adding filters, use them to counteract the existing filter’s effects.
 
-- If needed, use the “Effects” tab to add subtle adjustments that help restore the original look.
+5. If needed, use the “Effects” tab to add subtle adjustments that help restore the original look.
 
-- Once satisfied, download your unfiltered image.
+6. Once satisfied, download your unfiltered image.
 
 Canva’s strength lies in its simplicity and the ability to quickly make adjustments, making it ideal for light filter removal tasks.
 

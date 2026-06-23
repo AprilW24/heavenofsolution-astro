@@ -16,13 +16,13 @@ Before we dive into the steps, it’s important to note that converting your Wha
 
 Before making any changes, it’s crucial to back up your WhatsApp Business data to ensure you don’t lose any important information.
 
-- Open WhatsApp Business on your Android device.
+1. Open WhatsApp Business on your Android device.
 
-- Tap the three-dot menu icon in the top right corner.
+2. Tap the three-dot menu icon in the top right corner.
 
-- Go to Settings > Chats > Chat backup.
+3. Go to Settings > Chats > Chat backup.
 
-- Tap **Back up** to create a current backup of your chats and media.
+4. Tap **Back up** to create a current backup of your chats and media.
 
 Make sure the backup is complete before proceeding to the next step.
 
@@ -30,59 +30,59 @@ Make sure the backup is complete before proceeding to the next step.
 
 Once your data is safely backed up, you need to remove the WhatsApp Business app from your device.
 
-- Go to your Android device’s Settings.
+1. Go to your Android device’s Settings.
 
-- Navigate to Apps or Application Manager.
+2. Navigate to Apps or Application Manager.
 
-- Find WhatsApp Business in the list of installed apps.
+3. Find WhatsApp Business in the list of installed apps.
 
-- Tap on it and select **Uninstall**.
+4. Tap on it and select **Uninstall**.
 
 ### Step 3: Install Regular WhatsApp
 
 Now that WhatsApp Business is removed, you’ll need to install the regular WhatsApp Messenger app.
 
-- Open the Google Play Store on your Android device.
+1. Open the Google Play Store on your Android device.
 
-- Search for **WhatsApp Messenger**.
+2. Search for **WhatsApp Messenger**.
 
-- Tap **Install** to download and install the app.
+3. Tap **Install** to download and install the app.
 
 ### Step 4: Set Up WhatsApp Messenger
 
 Once installed, you’ll need to set up WhatsApp Messenger using the same phone number you used for WhatsApp Business.
 
-- Open WhatsApp Messenger.
+1. Open WhatsApp Messenger.
 
-- Agree to the terms of service.
+2. Agree to the terms of service.
 
-- Enter your phone number when prompted.
+3. Enter your phone number when prompted.
 
-- You’ll see a message indicating that this number was previously used for WhatsApp Business. Tap **Switch** to continue.
+4. You’ll see a message indicating that this number was previously used for WhatsApp Business. Tap **Switch** to continue.
 
 ### Step 5: Verify Your Phone Number
 
 WhatsApp will need to verify that you own the phone number you’re trying to use.
 
-- Choose your preferred verification method (SMS or Call).
+1. Choose your preferred verification method (SMS or Call).
 
-- Enter the verification code when you receive it.
+2. Enter the verification code when you receive it.
 
 ### Step 6: Restore Your Chat History
 
 After verification, WhatsApp will detect your previous backup.
 
-- When prompted, tap **Restore** to import your chat history and media from the WhatsApp Business backup.
+1. When prompted, tap **Restore** to import your chat history and media from the WhatsApp Business backup.
 
-- Wait for the restoration process to complete. This may take several minutes depending on the size of your backup.
+2. Wait for the restoration process to complete. This may take several minutes depending on the size of your backup.
 
 ### Step 7: Complete the Setup
 
 Once your data is restored, you’ll need to finish setting up your account.
 
-- Enter your name and add a profile picture if desired.
+1. Enter your name and add a profile picture if desired.
 
-- Grant necessary permissions for WhatsApp to access your contacts and media.
+2. Grant necessary permissions for WhatsApp to access your contacts and media.
 
 ## Important Considerations
 
@@ -102,21 +102,21 @@ While converting from WhatsApp Business to normal WhatsApp is generally smooth, 
 
 If WhatsApp doesn’t detect your backup automatically:
 
-- Make sure you’re using the same Google account that was used for the backup.
+1. Make sure you’re using the same Google account that was used for the backup.
 
-- Check if the backup file exists in your Google Drive.
+2. Check if the backup file exists in your Google Drive.
 
-- If the backup is there but not detected, try clearing WhatsApp’s cache and data, then uninstall and reinstall the app.
+3. If the backup is there but not detected, try clearing WhatsApp’s cache and data, then uninstall and reinstall the app.
 
 ### Incomplete Data Transfer
 
 If some of your chats or media are missing after the transfer:
 
-- Check if your backup was complete before uninstalling WhatsApp Business.
+1. Check if your backup was complete before uninstalling WhatsApp Business.
 
-- Ensure you have enough storage space on your device for all the data.
+2. Ensure you have enough storage space on your device for all the data.
 
-- If issues persist, you may need to restore from a local backup if available.
+3. If issues persist, you may need to restore from a local backup if available.
 
 ## Conclusion
 

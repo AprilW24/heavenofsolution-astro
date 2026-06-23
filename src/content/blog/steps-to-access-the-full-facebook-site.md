@@ -36,9 +36,9 @@ In the browser’s address bar, type in **www.facebook.com** and press Enter or 
 
 Depending on your browser, tap the menu icon (usually three dots or lines) and look for an option called **Request Desktop Site** or similar. In Chrome, for example:
 
-- Tap the three-dot menu in the upper-right corner.
+1. Tap the three-dot menu in the upper-right corner.
 
-- Check the box next to **Desktop site**.
+2. Check the box next to **Desktop site**.
 
 The page will reload, but Facebook may still display the mobile version.
 
@@ -46,11 +46,11 @@ The page will reload, but Facebook may still display the mobile version.
 
 If Facebook still appears in the mobile format after requesting the desktop site, you’ll need to modify the URL slightly:
 
-- Tap the address bar to edit the URL.
+1. Tap the address bar to edit the URL.
 
-- Change **m.facebook.com** to **www.facebook.com**.
+2. Change **m.facebook.com** to **www.facebook.com**.
 
-- Press Enter or Go to reload the page.
+3. Press Enter or Go to reload the page.
 
 You should now see the full desktop version of Facebook loaded on your mobile browser.
 

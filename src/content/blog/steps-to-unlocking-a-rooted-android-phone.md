@@ -18,17 +18,17 @@ On a standard non-rooted device, unlocking options are limited if you forget you
 
 One of the easiest methods to unlock a rooted phone is by using a file manager app. For this to work, you need to have previously enabled USB debugging on your device and authorized your computer. Here are the steps:
 
-- **Download a root-enabled file manager** like MiXplorer onto your computer.
+1. **Download a root-enabled file manager** like MiXplorer onto your computer.
 
-- **Connect your locked phone to the computer** with a USB cable.
+2. **Connect your locked phone to the computer** with a USB cable.
 
-- **Open the file manager app and grant it root access** when prompted.
+3. **Open the file manager app and grant it root access** when prompted.
 
-- Using the file manager, **navigate to the /data/system directory** on your phone.
+4. Using the file manager, **navigate to the /data/system directory** on your phone.
 
-- **Look for and delete the following files**: password.key, gesture.key, locksettings.db, and locksettings.db-shm.
+5. **Look for and delete the following files**: password.key, gesture.key, locksettings.db, and locksettings.db-shm.
 
-- **Reboot your phone**. After it restarts, your device should be unlocked!
+6. **Reboot your phone**. After it restarts, your device should be unlocked!
 
 By deleting these key password files, you’re essentially removing the lock screen security. With the lock screen gone, you can access your phone’s interface and data without needing to enter a password.
 

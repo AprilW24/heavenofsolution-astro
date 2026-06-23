@@ -34,11 +34,11 @@ Many Android issues can be fixed with a simple reboot, and dropped calls are no 
 
 To restart most Android phones:
 
-- Press and hold the power button until the power menu appears.
+1. Press and hold the power button until the power menu appears.
 
-- Tap **Restart**.
+2. Tap **Restart**.
 
-- Wait for your phone to power back on.
+3. Wait for your phone to power back on.
 
 ## Step 3: Toggle Airplane Mode
 
@@ -46,11 +46,11 @@ Toggling your phone’s airplane mode on and off is another quick fix to try. Th
 
 Here’s how:
 
-- Swipe down from the top of your screen to access the Quick Settings panel.
+1. Swipe down from the top of your screen to access the Quick Settings panel.
 
-- Tap the Airplane Mode icon to turn it on. Wait a few seconds.
+2. Tap the Airplane Mode icon to turn it on. Wait a few seconds.
 
-- Tap Airplane Mode again to turn it off.
+3. Tap Airplane Mode again to turn it off.
 
 ## Step 4: Update Your Phone’s Software
 
@@ -58,11 +58,11 @@ Using an outdated version of Android can lead to compatibility issues with your 
 
 To check for updates:
 
-- Open your phone’s Settings app.
+1. Open your phone’s Settings app.
 
-- Tap **System** and then **System Update**.
+2. Tap **System** and then **System Update**.
 
-- Tap **Check for Update**. If an update is available, tap **Download and Install**.
+3. Tap **Check for Update**. If an update is available, tap **Download and Install**.
 
 Make sure your phone is connected to Wi-Fi, as operating system updates can be quite large.
 
@@ -82,13 +82,13 @@ Resetting your network settings can resolve various connectivity problems, inclu
 
 To reset network settings:
 
-- Open Settings and tap **System**.
+1. Open Settings and tap **System**.
 
-- Tap **Reset options**.
+2. Tap **Reset options**.
 
-- Tap **Reset Wi-Fi, mobile & Bluetooth**.
+3. Tap **Reset Wi-Fi, mobile & Bluetooth**.
 
-- Tap **Reset settings** to confirm.
+4. Tap **Reset settings** to confirm.
 
 ## Step 8: Contact Your Carrier
 

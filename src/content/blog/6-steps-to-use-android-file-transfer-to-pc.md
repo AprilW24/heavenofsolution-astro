@@ -20,11 +20,11 @@ Next, unlock your Android phone and connect it to your PC using a USB cable. Mos
 
 By default, most Android phones are set to only charge when connected via USB. To allow file transfers, you need to change a quick setting:
 
-- Swipe down from the top of your Android screen to open the Notification Shade
+1. Swipe down from the top of your Android screen to open the Notification Shade
 
-- Tap the **Charging this device via USB** notification
+2. Tap the **Charging this device via USB** notification
 
-- Under **Use USB for**, select **File Transfer**
+3. Under **Use USB for**, select **File Transfer**
 
 This will change your phone’s USB mode to allow transferring files through Android File Transfer.
 
@@ -44,14 +44,14 @@ Once you’re done transferring files, it’s important to safely disconnect you
 
 That’s it! You’ve successfully used Android File Transfer to move files from your phone to your Windows computer. It’s a quick and easy process once you get the hang of it.To recap, the key steps are:
 
-- Download and install Android File Transfer on your PC
+1. Download and install Android File Transfer on your PC
 
-- Connect your Android phone via USB
+2. Connect your Android phone via USB
 
-- Set your phone to File Transfer mode
+3. Set your phone to File Transfer mode
 
-- Launch Android File Transfer and move files
+4. Launch Android File Transfer and move files
 
-- Safely disconnect your phone
+5. Safely disconnect your phone
 
 Android File Transfer is a handy, free utility that takes the hassle out of transferring files between your phone and PC. With USB transfer speeds and the ability to move multiple files at once, it’s a convenient option to have in your toolkit.While there are also wireless transfer methods like cloud storage, email, and apps like Send Anywhere, the direct wired connection using Android File Transfer is hard to beat for its simplicity, reliability and speed. Give it a try the next time you need to transfer some files!

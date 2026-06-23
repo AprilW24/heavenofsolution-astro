@@ -18,17 +18,17 @@ The first step is to make sure you have the Google app installed and updated on 
 
 Next, you’ll need to enable the **Hey Google** hotword and train Google Assistant to recognize your voice. This allows you to activate the assistant at any time by simply saying **Hey Google**. Here’s how:
 
-- Open the Google app on your Android phone
+1. Open the Google app on your Android phone
 
-- Tap your profile icon or initials in the top right
+2. Tap your profile icon or initials in the top right
 
-- Tap **Settings** > **Voice**
+3. Tap **Settings** > **Voice**
 
-- Tap **Voice Match**
+4. Tap **Voice Match**
 
-- Turn on the **Hey Google** switch
+5. Turn on the **Hey Google** switch
 
-- Tap **Add a voice model** and follow the prompts to record your voice
+6. Tap **Add a voice model** and follow the prompts to record your voice
 
 Google Assistant will have you repeat a series of phrases so it can learn to accurately identify your voice. Once complete, you’re all set to start using “Hey Google” for hands-free assistance.
 
@@ -36,13 +36,13 @@ Google Assistant will have you repeat a series of phrases so it can learn to acc
 
 By default, Google Assistant only works when your phone is unlocked. However, you can enable some basic functionality to work even when the screen is locked:
 
-- Open the Google app
+1. Open the Google app
 
-- Tap your profile icon, then **Settings** > **Voice**
+2. Tap your profile icon, then **Settings** > **Voice**
 
-- Tap **Voice Match**
+3. Tap **Voice Match**
 
-- Enable the **Allow Assistant to use Voice Match to unlock this device** option
+4. Enable the **Allow Assistant to use Voice Match to unlock this device** option
 
 This will allow you to do things like check your schedule or the weather without having to unlock your phone each time. For security, more sensitive requests will still require authentication.
 
@@ -50,13 +50,13 @@ This will allow you to do things like check your schedule or the weather without
 
 In addition to using your voice, you can also interact with Google Assistant by typing if you prefer. To set your input preference:
 
-- Open Google Assistant (say **Hey Google** or tap the mic icon)
+1. Open Google Assistant (say **Hey Google** or tap the mic icon)
 
-- Tap the compass icon in the top right to open Assistant settings
+2. Tap the compass icon in the top right to open Assistant settings
 
-- Go to **General** > **Preferred input**
+3. Go to **General** > **Preferred input**
 
-- Select **Voice** or **Keyboard** based on your preference
+4. Select **Voice** or **Keyboard** based on your preference
 
 ## Step 5: Start Using Google Assistant!
 
@@ -94,12 +94,12 @@ Google Assistant is a tremendously useful tool that’s worth taking a few minut
 
 By following the steps outlined above, you’ll be able to:
 
-- Activate Google Assistant by saying “Hey Google”
+1. Activate Google Assistant by saying “Hey Google”
 
-- Access the assistant even when your phone is locked
+2. Access the assistant even when your phone is locked
 
-- Choose between voice or keyboard input based on your situation and preference
+3. Choose between voice or keyboard input based on your situation and preference
 
-- Discover all the amazing ways Google Assistant can help you be more productive
+4. Discover all the amazing ways Google Assistant can help you be more productive
 
 Give it a try and see how Google Assistant can make your life a little bit easier every day. Before you know it, you’ll be using it for all sorts of tasks, from the mundane to the delightfully convenient. Enjoy your new AI-powered assistant!

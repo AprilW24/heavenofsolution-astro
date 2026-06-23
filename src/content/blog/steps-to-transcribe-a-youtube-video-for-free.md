@@ -30,17 +30,17 @@ YouTube offers an automatic captioning feature that can be a good starting point
 
 **Steps:**
 
-- Open the YouTube video you want to transcribe.
+1. Open the YouTube video you want to transcribe.
 
-- Click on the “…” button below the video player.
+2. Click on the “…” button below the video player.
 
-- Select “Open transcript” from the dropdown menu.
+3. Select “Open transcript” from the dropdown menu.
 
-- If available, you’ll see the auto-generated transcript on the right side of the video.
+4. If available, you’ll see the auto-generated transcript on the right side of the video.
 
-- To copy the transcript, highlight all the text, right-click, and select “Copy.”
+5. To copy the transcript, highlight all the text, right-click, and select “Copy.”
 
-- Paste the copied text into a document editor for further editing and formatting.
+6. Paste the copied text into a document editor for further editing and formatting.
 
 **Note**: Not all videos have auto-generated captions available. If this option doesn’t appear, you may need to try another method.
 
@@ -50,19 +50,19 @@ Google Docs offers a free voice typing feature that can be used to transcribe Yo
 
 **Steps:**
 
-- Open a new Google Docs document.
+1. Open a new Google Docs document.
 
-- Click on “Tools” in the top menu, then select “Voice typing.”
+2. Click on “Tools” in the top menu, then select “Voice typing.”
 
-- A microphone icon will appear. Click on it to activate voice typing.
+3. A microphone icon will appear. Click on it to activate voice typing.
 
-- Play your YouTube video and position your device’s microphone near the speaker.
+4. Play your YouTube video and position your device’s microphone near the speaker.
 
-- As the video plays, Google Docs will transcribe the audio in real-time.
+5. As the video plays, Google Docs will transcribe the audio in real-time.
 
-- Pause the video periodically to allow Google Docs to catch up if needed.
+6. Pause the video periodically to allow Google Docs to catch up if needed.
 
-- Once finished, review and edit the transcript for accuracy.
+7. Once finished, review and edit the transcript for accuracy.
 
 **Pro tip**: Use headphones connected to your computer to play the video audio, and position your microphone close to the headphone speaker for better results.
 
@@ -72,19 +72,19 @@ Notta is a free Chrome extension that can automatically transcribe YouTube video
 
 **Steps:**
 
-- Install the Notta Chrome extension from the Chrome Web Store.
+1. Install the Notta Chrome extension from the Chrome Web Store.
 
-- Open the YouTube video you want to transcribe.
+2. Open the YouTube video you want to transcribe.
 
-- Click on the Notta extension icon in your browser.
+3. Click on the Notta extension icon in your browser.
 
-- Select “Transcribe YouTube” from the options.
+4. Select “Transcribe YouTube” from the options.
 
-- Choose your preferred language and click “Start.”
+5. Choose your preferred language and click “Start.”
 
-- Wait for the transcription process to complete.
+6. Wait for the transcription process to complete.
 
-- Review and edit the transcript as needed.
+7. Review and edit the transcript as needed.
 
 **Note**: Notta offers a limited number of free transcriptions per month. For frequent use, you may need to consider their paid plans.
 
@@ -94,19 +94,19 @@ Several online speech recognition tools can be used to transcribe YouTube videos
 
 **Steps:**
 
-- Go to Speechtext.ai or a similar online speech recognition tool.
+1. Go to Speechtext.ai or a similar online speech recognition tool.
 
-- Copy the URL of the YouTube video you want to transcribe.
+2. Copy the URL of the YouTube video you want to transcribe.
 
-- Paste the URL into the tool’s input field.
+3. Paste the URL into the tool’s input field.
 
-- Select the language of the video.
+4. Select the language of the video.
 
-- Click “Transcribe” or a similar button to start the process.
+5. Click “Transcribe” or a similar button to start the process.
 
-- Wait for the transcription to complete.
+6. Wait for the transcription to complete.
 
-- Review and edit the transcript as needed.
+7. Review and edit the transcript as needed.
 
 **Tip**: Always check the terms of service and usage limits of free online tools to ensure you’re using them within their guidelines.
 
@@ -116,15 +116,15 @@ While not the quickest method, manual transcription can be the most accurate, es
 
 **Steps:**
 
-- Open the YouTube video in one window and a text editor in another.
+1. Open the YouTube video in one window and a text editor in another.
 
-- Play the video in short segments (5-10 seconds at a time).
+2. Play the video in short segments (5-10 seconds at a time).
 
-- Type out what you hear, including any relevant non-verbal cues in brackets (e.g., [laughter], [music]).
+3. Type out what you hear, including any relevant non-verbal cues in brackets (e.g., [laughter], [music]).
 
-- Use keyboard shortcuts to pause and play the video for efficiency.
+4. Use keyboard shortcuts to pause and play the video for efficiency.
 
-- Review your transcript for accuracy and formatting.
+5. Review your transcript for accuracy and formatting.
 
 **Pro tip**: Use a text expander tool to create shortcuts for frequently used phrases or speaker names to speed up the manual transcription process.
 

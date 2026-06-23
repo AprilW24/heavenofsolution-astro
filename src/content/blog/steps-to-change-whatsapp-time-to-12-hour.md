@@ -18,31 +18,31 @@ Let’s go through the process of changing your WhatsApp time to the 12-hour for
 
 ### For Android Devices:
 
-- **Open your device settings**: Start by opening the Settings app on your Android phone. You can usually find this by swiping down from the top of your screen and tapping the gear icon, or by finding the Settings app in your app drawer.
+1. **Open your device settings**: Start by opening the Settings app on your Android phone. You can usually find this by swiping down from the top of your screen and tapping the gear icon, or by finding the Settings app in your app drawer.
 
-- **Navigate to system settings**: Scroll down in the Settings menu and look for an option called “System” or “General Management.” Tap on this to access more detailed system settings.
+2. **Navigate to system settings**: Scroll down in the Settings menu and look for an option called “System” or “General Management.” Tap on this to access more detailed system settings.
 
-- **Find date and time settings**: Within the system settings, look for an option labeled “Date & Time” or something similar. This is where you’ll be able to adjust your time format.
+3. **Find date and time settings**: Within the system settings, look for an option labeled “Date & Time” or something similar. This is where you’ll be able to adjust your time format.
 
-- **Adjust time format**: In the Date & Time settings, you should see an option that says “Use 24-hour format” or “24-hour time.” This option is likely toggled on if your WhatsApp is currently displaying time in the 24-hour format. To switch to the 12-hour format, simply tap this toggle to turn it off.
+4. **Adjust time format**: In the Date & Time settings, you should see an option that says “Use 24-hour format” or “24-hour time.” This option is likely toggled on if your WhatsApp is currently displaying time in the 24-hour format. To switch to the 12-hour format, simply tap this toggle to turn it off.
 
-- **Ensure automatic settings are on**: While in the Date & Time settings, make sure that options like “Automatic date and time” and “Automatic time zone” are turned on. This ensures that your device always displays the correct time.
+5. **Ensure automatic settings are on**: While in the Date & Time settings, make sure that options like “Automatic date and time” and “Automatic time zone” are turned on. This ensures that your device always displays the correct time.
 
-- **Restart your device**: After making these changes, it’s a good idea to restart your phone. This ensures that all apps, including WhatsApp, pick up the new time format settings.
+6. **Restart your device**: After making these changes, it’s a good idea to restart your phone. This ensures that all apps, including WhatsApp, pick up the new time format settings.
 
 ### For iOS Devices:
 
 If you’re using an iPhone, the process is slightly different:
 
-- **Open Settings**: Tap on the Settings app on your iPhone’s home screen.
+1. **Open Settings**: Tap on the Settings app on your iPhone’s home screen.
 
-- **Navigate to General**: Scroll down and tap on “General” in the Settings menu.
+2. **Navigate to General**: Scroll down and tap on “General” in the Settings menu.
 
-- **Find Date & Time settings**: Within the General settings, look for and tap on “Date & Time.”
+3. **Find Date & Time settings**: Within the General settings, look for and tap on “Date & Time.”
 
-- **Adjust time format**: In the Date & Time settings, you should see an option to change the time format. Select the 12-hour format option.
+4. **Adjust time format**: In the Date & Time settings, you should see an option to change the time format. Select the 12-hour format option.
 
-- **Restart your device**: As with Android, it’s a good idea to restart your iPhone after making these changes to ensure all apps update their time display.
+5. **Restart your device**: As with Android, it’s a good idea to restart your iPhone after making these changes to ensure all apps update their time display.
 
 ## Troubleshooting Common Issues
 

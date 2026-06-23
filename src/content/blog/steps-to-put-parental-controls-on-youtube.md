@@ -16,13 +16,13 @@ One of the simplest ways to filter out mature content on YouTube is by enabling 
 
 **Steps to enable Restricted Mode:**
 
-- Go to the YouTube website (www.youtube.com).
+1. Go to the YouTube website (www.youtube.com).
 
-- Scroll down to the bottom of the page.
+2. Scroll down to the bottom of the page.
 
-- Click on the **Restricted Mode** dropdown menu.
+3. Click on the **Restricted Mode** dropdown menu.
 
-- Select **On** to activate Restricted Mode.
+4. Select **On** to activate Restricted Mode.
 
 **Important note:** Restricted Mode works on a browser level, so you’ll need to enable it on each browser and device your child uses to access YouTube.
 
@@ -80,11 +80,11 @@ For a more comprehensive solution that doesn’t require individual device confi
 
 **Options for network-level controls:**
 
-- **Router settings:** Many modern routers have built-in parental control features. Check your router’s manual or settings page for options to restrict access to YouTube or filter content.
+1. **Router settings:** Many modern routers have built-in parental control features. Check your router’s manual or settings page for options to restrict access to YouTube or filter content.
 
-- **DNS filtering:** Services like OpenDNS or CleanBrowsing allow you to filter content at the DNS level, which can block access to inappropriate YouTube videos across all devices on your network.
+2. **DNS filtering:** Services like OpenDNS or CleanBrowsing allow you to filter content at the DNS level, which can block access to inappropriate YouTube videos across all devices on your network.
 
-- **VPN with parental controls:** Some VPN services offer family-friendly options that include content filtering for YouTube and other websites.
+3. **VPN with parental controls:** Some VPN services offer family-friendly options that include content filtering for YouTube and other websites.
 
 These methods can be more technical to set up but provide a broader level of protection across all devices connected to your home network.
 

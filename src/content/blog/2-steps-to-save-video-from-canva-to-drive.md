@@ -22,23 +22,23 @@ To save a video from Canva to Google Drive, you’ll need to download the video 
 
 ![](/wp-content/uploads/2025/02/Canva.Com_HoS.webp)
 
-- **Open Canva**: Go to Canva.com and sign up into your account.
+1. **Open Canva**: Go to Canva.com and sign up into your account.
 
-- **Select Your Video**: Open the video project you want to save.
+2. **Select Your Video**: Open the video project you want to save.
 
-- **Download the Video**: Click on the **Share** button at the top right corner, then select **Download**. Choose **MP4** as the file type and select the resolution you prefer.
+3. **Download the Video**: Click on the **Share** button at the top right corner, then select **Download**. Choose **MP4** as the file type and select the resolution you prefer.
 
-- **Save the Video**: Click **Download** to save the video to your computer.
+4. **Save the Video**: Click **Download** to save the video to your computer.
 
 ### Step 2: Upload the Video to Google Drive
 
-- **Open Google Drive**: Go to drive.google.com and sign in with your Google account.
+1. **Open Google Drive**: Go to drive.google.com and sign in with your Google account.
 
-- **Create a New Folder (Optional)**: If you want to organize your files, create a new folder by clicking on **New** > **Folder**.
+2. **Create a New Folder (Optional)**: If you want to organize your files, create a new folder by clicking on **New** > **Folder**.
 
-- **Upload the Video**: Click on **New** > **File** or **Folder** > **Upload files**. Select the video file you downloaded from Canva.
+3. **Upload the Video**: Click on **New** > **File** or **Folder** > **Upload files**. Select the video file you downloaded from Canva.
 
-- **Wait for the Upload**: Depending on the size of your video, this might take a few minutes.
+4. **Wait for the Upload**: Depending on the size of your video, this might take a few minutes.
 
 ### Alternative Method: Using a Third-Party Service
 

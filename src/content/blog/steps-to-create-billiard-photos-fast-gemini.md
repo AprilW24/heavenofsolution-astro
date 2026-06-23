@@ -24,25 +24,25 @@ The other big win is speed. Once you upload your photo and drop in your prompt, 
 
 Here’s the exact process I follow every time. Stick to this order and you’ll get solid results on the first or second try. 👇
 
-- Open your browser and go to **gemini.google.com**, then sign in with your Google account.
+1. Open your browser and go to **gemini.google.com**, then sign in with your Google account.
 
-- Click the **“+”** or the attachment icon next to the text box to upload your photo.
+2. Click the **“+”** or the attachment icon next to the text box to upload your photo.
 
-- Choose a clear, well-lit selfie or portrait where your face is visible and not blurry.
+3. Choose a clear, well-lit selfie or portrait where your face is visible and not blurry.
 
-- Once the photo is uploaded, type your prompt in the text box right below the image.
+4. Once the photo is uploaded, type your prompt in the text box right below the image.
 
-- Use this starter prompt for a classic billiard look: *“Use the face from the uploaded photo. Create a cinematic billiard portrait in a dimly lit room with warm golden lighting, the person leaning on a pool table holding a cue stick confidently, realistic 4K photo, film grain texture, shallow depth of field.”*
+5. Use this starter prompt for a classic billiard look: *“Use the face from the uploaded photo. Create a cinematic billiard portrait in a dimly lit room with warm golden lighting, the person leaning on a pool table holding a cue stick confidently, realistic 4K photo, film grain texture, shallow depth of field.”*
 
-- For a *mafia or luxury* style, try this instead: *“Use the face from the uploaded photo. Elegant mafia-style billiard portrait, man in a black suit holding a cue, whiskey glass on the table, low golden light, cinematic atmosphere, photo-realistic detail.”*
+6. For a *mafia or luxury* style, try this instead: *“Use the face from the uploaded photo. Elegant mafia-style billiard portrait, man in a black suit holding a cue, whiskey glass on the table, low golden light, cinematic atmosphere, photo-realistic detail.”*
 
-- For a sporty *editorial* vibe, paste this: *“Use the face from my uploaded photo. Sporty billiard style, casual shirt, focused expression aiming at the ball, camera at eye level, background blurred to show a table full of balls, magazine editorial lighting.”*
+7. For a sporty *editorial* vibe, paste this: *“Use the face from my uploaded photo. Sporty billiard style, casual shirt, focused expression aiming at the ball, camera at eye level, background blurred to show a table full of balls, magazine editorial lighting.”*
 
-- Hit **Send** and wait about 30 to 60 seconds for Gemini to process the image.
+8. Hit **Send** and wait about 30 to 60 seconds for Gemini to process the image.
 
-- If the result looks off, tweak one thing in your prompt (like lighting or pose) and try again without changing your whole prompt.
+9. If the result looks off, tweak one thing in your prompt (like lighting or pose) and try again without changing your whole prompt.
 
-- Once you’re happy with the result, click the image and hit **Download** to save it to your device.
+10. Once you’re happy with the result, click the image and hit **Download** to save it to your device.
 
 ## Tips to Get Better Results Every Single Time
 

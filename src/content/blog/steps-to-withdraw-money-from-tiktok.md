@@ -30,25 +30,25 @@ While PayPal is a popular choice for many creators, TikTok offers several other 
 
 Once you’ve decided on a payment method, it’s time to link it to your TikTok account. Here’s how:
 
-- Access the **Settings** menu in your TikTok profile.
+1. Access the **Settings** menu in your TikTok profile.
 
-- Select **Balance** and then choose **Withdraw**.
+2. Select **Balance** and then choose **Withdraw**.
 
-- Follow the prompts to add your preferred payment method, providing the necessary information, such as your bank account or Payoneer details.
+3. Follow the prompts to add your preferred payment method, providing the necessary information, such as your bank account or Payoneer details.
 
-- Verify your account if required. Some payment methods may have additional verification steps to ensure security.
+4. Verify your account if required. Some payment methods may have additional verification steps to ensure security.
 
 ## Step 4: Initiate the Withdrawal
 
 With your payment method linked, you’re ready to withdraw your TikTok earnings:
 
-- Go to the **Balance** section and select **Withdraw**.
+1. Go to the **Balance** section and select **Withdraw**.
 
-- Enter the amount you wish to withdraw, ensuring it meets the minimum and maximum limits.
+2. Enter the amount you wish to withdraw, ensuring it meets the minimum and maximum limits.
 
-- Confirm the transaction details and submit your withdrawal request.
+3. Confirm the transaction details and submit your withdrawal request.
 
-- TikTok will process your request, which may take a few business days. You’ll receive a notification once the funds have been sent to your chosen account.
+4. TikTok will process your request, which may take a few business days. You’ll receive a notification once the funds have been sent to your chosen account.
 
 ## Tips for a Smooth Withdrawal Process
 

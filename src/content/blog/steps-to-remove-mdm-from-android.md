@@ -22,15 +22,15 @@ There are a few different methods to remove MDM from an Android device without n
 
 The most straightforward way to remove MDM is to disable the MDM app’s device administrator privileges. Here’s how:
 
-- Go to your Android device’s **Settings** app
+1. Go to your Android device’s **Settings** app
 
-- Navigate to **Security** (or **Biometrics and Security** on some devices)
+2. Navigate to **Security** (or **Biometrics and Security** on some devices)
 
-- Tap on **Device admin apps** or **Device administrators**
+3. Tap on **Device admin apps** or **Device administrators**
 
-- Find the MDM app in the list and disable it
+4. Find the MDM app in the list and disable it
 
-- You may need to tap **Deactivate** to confirm
+5. You may need to tap **Deactivate** to confirm
 
 Once the MDM app is no longer a device administrator, you can uninstall it normally from the **Apps** section in Settings.
 
@@ -40,13 +40,13 @@ If you’re unable to disable the MDM device administrator, your next option is 
 
 To factory reset most Android devices:
 
-- Open the **Settings** app
+1. Open the **Settings** app
 
-- Go to **System** > **Reset options**
+2. Go to **System** > **Reset options**
 
-- Tap **Erase all data (factory reset)**
+3. Tap **Erase all data (factory reset)**
 
-- Confirm and wait for the reset process to complete
+4. Confirm and wait for the reset process to complete
 
 After the reset, your device will no longer have the MDM software installed. Just be aware that your organization’s IT department will likely be notified of the reset and removal of MDM.
 

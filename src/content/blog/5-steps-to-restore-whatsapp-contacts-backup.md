@@ -16,11 +16,11 @@ Before you start the restoration process, it’s important to check if you have 
 
 To check if you have a backup:
 
-- Open WhatsApp on your phone
+1. Open WhatsApp on your phone
 
-- Go to Settings > Chats > Chat Backup
+2. Go to Settings > Chats > Chat Backup
 
-- Check the date and time of your last backup
+3. Check the date and time of your last backup
 
 If you have a recent backup, you can proceed to the next step.
 
@@ -30,9 +30,9 @@ To restore your WhatsApp contacts backup, you’ll need to uninstall and reinsta
 
 To uninstall WhatsApp:
 
-- Go to your phone’s Settings > Apps & notifications > WhatsApp
+1. Go to your phone’s Settings > Apps & notifications > WhatsApp
 
-- Tap on Uninstall and confirm the action
+2. Tap on Uninstall and confirm the action
 
 Once WhatsApp is uninstalled, go to the Google Play Store or Apple App Store and download the app again.
 
@@ -40,19 +40,19 @@ Once WhatsApp is uninstalled, go to the Google Play Store or Apple App Store and
 
 After reinstalling WhatsApp, you’ll need to verify your phone number to restore your backup. Make sure you use the same phone number that you used to create the backup.
 
-- Open WhatsApp and tap on Agree and Continue
+1. Open WhatsApp and tap on Agree and Continue
 
-- Enter your phone number and tap on Next
+2. Enter your phone number and tap on Next
 
-- WhatsApp will send you a verification code via SMS. Enter the code and tap on Verify
+3. WhatsApp will send you a verification code via SMS. Enter the code and tap on Verify
 
 ## Step 4: Restore Your Backup
 
 Once your phone number is verified, WhatsApp will detect your backup and prompt you to restore it.
 
-- Tap on Restore when prompted
+1. Tap on Restore when prompted
 
-- Wait for the restoration process to complete. This may take a few minutes, depending on the size of your backup.
+2. Wait for the restoration process to complete. This may take a few minutes, depending on the size of your backup.
 
 Once the restoration is complete, your WhatsApp contacts and chats will be restored to your phone.
 
@@ -60,11 +60,11 @@ Once the restoration is complete, your WhatsApp contacts and chats will be resto
 
 After restoring your backup, it’s a good idea to verify that all your contacts have been restored correctly.
 
-- Open WhatsApp and go to the Chats tab
+1. Open WhatsApp and go to the Chats tab
 
-- Scroll through your chats and check if all your contacts are there
+2. Scroll through your chats and check if all your contacts are there
 
-- If you notice any missing contacts, you can try syncing your phone’s contacts with WhatsApp by going to Settings > Account > Sync Contacts
+3. If you notice any missing contacts, you can try syncing your phone’s contacts with WhatsApp by going to Settings > Account > Sync Contacts
 
 ## Conclusion
 

@@ -12,15 +12,15 @@ Have you ever wondered exactly when you first activated your Android smartphone 
 
 One of the simplest ways to determine when your Android device was activated is by checking your Google Dashboard. Here’s how:
 
-- Open a web browser on your computer or phone and go to the **Google Account Dashboard** at myaccount.google.com/dashboard
+1. Open a web browser on your computer or phone and go to the **Google Account Dashboard** at myaccount.google.com/dashboard
 
-- Scroll down to the **Android** section under **Your Google services**
+2. Scroll down to the **Android** section under **Your Google services**
 
-- Click on the Android card to expand it
+3. Click on the Android card to expand it
 
-- You should see a list of your current and past Android devices along with details like the model name, manufacturer, and last activity date
+4. You should see a list of your current and past Android devices along with details like the model name, manufacturer, and last activity date
 
-- Look for the **Registered** date next to each device – this is the date that device was activated with your Google account
+5. Look for the **Registered** date next to each device – this is the date that device was activated with your Google account
 
 Keep in mind the **Registered** date reflects the last time you activated the device with your Google account. So if you did a factory reset and had to set it up again, this date will update to when you re-activated it.
 
@@ -28,15 +28,15 @@ Keep in mind the **Registered** date reflects the last time you activated the de
 
 Another place to check your Android device’s activation date is in the Google Play Store settings:
 
-- Open the **Play Store app** on your Android phone or tablet
+1. Open the **Play Store app** on your Android phone or tablet
 
-- Tap the **menu icon** (three horizontal lines) and select **Settings**
+2. Tap the **menu icon** (three horizontal lines) and select **Settings**
 
-- Scroll down to the **My devices** section
+3. Scroll down to the **My devices** section
 
-- You should see your current device listed, along with any other devices connected to your Google account
+4. You should see your current device listed, along with any other devices connected to your Google account
 
-- The **Registered** date shown under each device is the activation date
+5. The **Registered** date shown under each device is the activation date
 
 This method provides the same information as the Google Dashboard, just within the Play Store interface on your device.
 
@@ -44,15 +44,15 @@ This method provides the same information as the Google Dashboard, just within t
 
 Every mobile device has a unique IMEI (International Mobile Equipment Identity) number that can be used to look up details about it, including the activation date in some cases. Here’s how to check your Android phone’s activation date by IMEI:
 
-- Find your IMEI number by dialing *#06# on your phone, or looking in **Settings > About phone**
+1. Find your IMEI number by dialing *#06# on your phone, or looking in **Settings > About phone**
 
-- Go to imei.info or IMEI24.com in a web browser
+2. Go to imei.info or IMEI24.com in a web browser
 
-- Enter your IMEI number in the search box and click **Check**
+3. Enter your IMEI number in the search box and click **Check**
 
-- Look for an option to check **Warranty information** or **Warranty Status** (exact wording varies by device manufacturer)
+4. Look for an option to check **Warranty information** or **Warranty Status** (exact wording varies by device manufacturer)
 
-- Your device’s **activation date** should be listed on the warranty status page, sometimes along with the IMEI activation time
+5. Your device’s **activation date** should be listed on the warranty status page, sometimes along with the IMEI activation time
 
 Note that this method may not work for all Android devices. Some manufacturers like Realme and Oppo provide their own IMEI and warranty check tools that include the activation date.
 

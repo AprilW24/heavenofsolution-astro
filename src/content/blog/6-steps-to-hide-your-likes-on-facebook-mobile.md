@@ -24,13 +24,13 @@ In today’s social media-driven world, the number of likes on a post can someti
 
 Before we dive into the how-to, let’s briefly discuss why you might want to hide likes on Facebook. Social media platforms have been under scrutiny for their impact on mental health, with studies suggesting that the constant comparison and validation-seeking behavior encouraged by visible like counts can lead to increased anxiety and decreased self-esteem. By hiding likes, you can:
 
-- Reduce social pressure and anxiety
+1. Reduce social pressure and anxiety
 
-- Focus on content quality rather than popularity
+2. Focus on content quality rather than popularity
 
-- Maintain more privacy about your interests and interactions
+3. Maintain more privacy about your interests and interactions
 
-- Encourage more genuine interactions based on content rather than metrics
+4. Encourage more genuine interactions based on content rather than metrics
 
 With these benefits in mind, let’s explore how to implement these privacy features on your Facebook mobile app.
 

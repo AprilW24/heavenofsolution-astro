@@ -16,13 +16,13 @@ Before we dive into the process, it’s crucial to understand why your WhatsApp 
 
 Before you begin the process of changing your WhatsApp number, there are several important steps you should take to ensure a smooth transition:
 
-- **Backup Your Chat History**: This is crucial, as changing your number without proper preparation could result in the loss of your chat history. WhatsApp allows you to back up your chats to Google Drive (for Android users) or iCloud (for iOS users). Make sure you have a recent backup before proceeding.
+1. **Backup Your Chat History**: This is crucial, as changing your number without proper preparation could result in the loss of your chat history. WhatsApp allows you to back up your chats to Google Drive (for Android users) or iCloud (for iOS users). Make sure you have a recent backup before proceeding.
 
-- **Inform Your Contacts**: Let your important contacts know that you’ll be changing your number. This will help prevent confusion and ensure they can reach you after the change.
+2. **Inform Your Contacts**: Let your important contacts know that you’ll be changing your number. This will help prevent confusion and ensure they can reach you after the change.
 
-- **Verify Your New Number**: Ensure that your new phone number is active and can receive SMS messages or phone calls for verification purposes.
+3. **Verify Your New Number**: Ensure that your new phone number is active and can receive SMS messages or phone calls for verification purposes.
 
-- **Check Your Device**: Make sure your device has sufficient storage space and a stable internet connection to complete the process smoothly.
+4. **Check Your Device**: Make sure your device has sufficient storage space and a stable internet connection to complete the process smoothly.
 
 ## The Challenge: Changing Your Number Without Access to the Old One
 
@@ -36,11 +36,11 @@ Even if you no longer have access to your old number, it’s worth trying to ver
 
 ![](/wp-content/uploads/2024/08/HoS_ChangeYourWhatsApp-1.jpg)
 
-- Open WhatsApp and go to **Settings** > **Account** > **Change Number**.
+1. Open WhatsApp and go to **Settings** > **Account** > **Change Number**.
 
-- Tap **Next** and enter your old phone number in the first field and your new number in the second field.
+2. Tap **Next** and enter your old phone number in the first field and your new number in the second field.
 
-- If WhatsApp recognizes your device, you may be able to proceed without further verification of the old number.
+3. If WhatsApp recognizes your device, you may be able to proceed without further verification of the old number.
 
 ### Step 2: Contact WhatsApp Support
 
@@ -48,23 +48,23 @@ If the above method doesn’t work, your next step is to reach out to WhatsApp s
 
 ![](/wp-content/uploads/2024/08/HoS_ChangeYourWhatsApp.jpg)
 
-- Open WhatsApp and go to **Settings** > **Help** > **Contact Us**.
+1. Open WhatsApp and go to **Settings** > **Help** > **Contact Us**.
 
-- Explain your situation in detail, mentioning that you need to change your number but don’t have access to the old one.
+2. Explain your situation in detail, mentioning that you need to change your number but don’t have access to the old one.
 
-- Provide any additional information that might help verify your identity, such as your account creation date or recent contacts.
+3. Provide any additional information that might help verify your identity, such as your account creation date or recent contacts.
 
 ### Step 3: Consider Creating a New Account
 
 If WhatsApp support is unable to assist you, you may need to create a new account with your new number:
 
-- Uninstall WhatsApp from your device.
+1. Uninstall WhatsApp from your device.
 
-- Reinstall WhatsApp from your device’s app store.
+2. Reinstall WhatsApp from your device’s app store.
 
-- Open WhatsApp and register with your new phone number.
+3. Open WhatsApp and register with your new phone number.
 
-- Follow the prompts to set up your new account.
+4. Follow the prompts to set up your new account.
 
 **Note**: Creating a new account means you’ll lose access to your old chats and groups. However, if you’ve backed up your chats, you may be able to restore them later.
 
@@ -72,11 +72,11 @@ If WhatsApp support is unable to assist you, you may need to create a new accoun
 
 If you’ve successfully created a new account and had a backup of your old chats, you may be able to restore them:
 
-- During the setup process of your new account, WhatsApp will ask if you want to restore your chat history from a backup.
+1. During the setup process of your new account, WhatsApp will ask if you want to restore your chat history from a backup.
 
-- If you’re using the same Google account (for Android) or iCloud account (for iOS) that you used for your old WhatsApp account, you should see an option to restore your backup.
+2. If you’re using the same Google account (for Android) or iCloud account (for iOS) that you used for your old WhatsApp account, you should see an option to restore your backup.
 
-- Select the most recent backup and wait for the restoration process to complete.
+3. Select the most recent backup and wait for the restoration process to complete.
 
 **Important**: This method may not always work, especially if there’s a significant difference between your old and new phone numbers or if you’re switching between Android and iOS devices.
 
@@ -84,13 +84,13 @@ If you’ve successfully created a new account and had a backup of your old chat
 
 Whether you’ve managed to change your number or had to create a new account, you’ll need to take some steps to rebuild your WhatsApp identity:
 
-- **Update Your Profile**: Set a new profile picture and status to help your contacts recognize you.
+1. **Update Your Profile**: Set a new profile picture and status to help your contacts recognize you.
 
-- **Rejoin Groups**: If you’ve lost access to your groups, reach out to group admins and ask to be added back.
+2. **Rejoin Groups**: If you’ve lost access to your groups, reach out to group admins and ask to be added back.
 
-- **Inform Your Contacts**: Send messages to your important contacts letting them know about your new number.
+3. **Inform Your Contacts**: Send messages to your important contacts letting them know about your new number.
 
-- **Update Business Contacts**: If you use WhatsApp for business, make sure to update your number on your business cards, website, and other professional platforms.
+4. **Update Business Contacts**: If you use WhatsApp for business, make sure to update your number on your business cards, website, and other professional platforms.
 
 ## Potential Challenges and Solutions
 

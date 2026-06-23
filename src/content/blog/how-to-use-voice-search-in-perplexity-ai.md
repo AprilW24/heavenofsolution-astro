@@ -16,13 +16,13 @@ Before diving into the voice search feature, it’s essential to ensure you have
 
 After launching the Perplexity AI app on your Android device, you’ll notice a microphone icon near the search bar. This icon is your gateway to voice search functionality. To begin using voice search:
 
-- Tap the microphone icon to activate the voice input feature.
+1. Tap the microphone icon to activate the voice input feature.
 
-- Wait for the prompt that indicates the app is listening.
+2. Wait for the prompt that indicates the app is listening.
 
-- Speak your query clearly and at a normal pace.
+3. Speak your query clearly and at a normal pace.
 
-- The app will automatically stop listening once you’ve finished speaking or after a brief pause.
+4. The app will automatically stop listening once you’ve finished speaking or after a brief pause.
 
 It’s worth noting that the voice search feature in Perplexity AI is designed to understand natural language, so you can phrase your questions as you would in a normal conversation.
 

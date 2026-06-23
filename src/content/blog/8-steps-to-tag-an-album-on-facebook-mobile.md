@@ -50,20 +50,20 @@ While you can’t tag the entire album at once anymore, Facebook still collects 
 
 Tagging friends in your Facebook photo albums is a great way to share memories and connect with the people you care about. While the album-wide tagging feature is no longer available, tagging individual photos on Facebook mobile is still an easy process:
 
-- Open the Facebook app and go to your profile
+1. Open the Facebook app and go to your profile
 
-- Find the album you want to tag
+2. Find the album you want to tag
 
-- Select a photo
+3. Select a photo
 
-- Tap the tag icon
+4. Tap the tag icon
 
-- Tap faces or areas to tag
+5. Tap faces or areas to tag
 
-- Enter names and confirm tags
+6. Enter names and confirm tags
 
-- Repeat for more photos
+7. Repeat for more photos
 
-- Post the album to notify tagged friends
+8. Post the album to notify tagged friends
 
 By following these simple steps, you can quickly tag an album’s worth of photos to share with friends and family on Facebook. So go ahead and start tagging – your friends will love seeing those special moments and memories show up on their timelines!

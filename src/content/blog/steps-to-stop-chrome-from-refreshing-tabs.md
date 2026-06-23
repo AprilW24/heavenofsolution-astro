@@ -18,13 +18,13 @@ While this tab discarding can be useful to keep your phone running smoothly, it 
 
 The most direct way to stop Chrome from refreshing background tabs is to turn off the automatic tab discarding feature entirely. Here’s how:
 
-- Open a new tab in Chrome and type **chrome://flags** into the address bar.
+1. Open a new tab in Chrome and type **chrome://flags** into the address bar.
 
-- In the search box at the top, type in **discard**.
+2. In the search box at the top, type in **discard**.
 
-- Look for the setting called **Automatic tab discarding** and change it from Default to **Disabled**.
+3. Look for the setting called **Automatic tab discarding** and change it from Default to **Disabled**.
 
-- Tap the **Relaunch** button at the bottom to restart Chrome and apply the change.
+4. Tap the **Relaunch** button at the bottom to restart Chrome and apply the change.
 
 Now, Chrome will no longer automatically discard tabs after periods of inactivity, which should prevent most unexpected page reloads when you return to a tab. The tradeoff is Chrome may use more memory, so you may notice an impact on performance if you keep dozens of tabs open.
 
@@ -32,13 +32,13 @@ Now, Chrome will no longer automatically discard tabs after periods of inactivit
 
 If disabling tab discarding doesn’t solve the issue, there’s another experimental flag in Chrome that may help stop tabs from refreshing:
 
-- Again, open **chrome://flags** in a new tab.
+1. Again, open **chrome://flags** in a new tab.
 
-- Search for **Only Auto-Reload Visible Tabs**.
+2. Search for **Only Auto-Reload Visible Tabs**.
 
-- Change this setting to **Disabled**.
+3. Change this setting to **Disabled**.
 
-- **Relaunch** Chrome for the change to take effect.
+4. **Relaunch** Chrome for the change to take effect.
 
 This flag, when disabled, prevents Chrome from automatically reloading tabs when you switch to them. However, as with the previous method, it may cause Chrome to use more memory over time.
 
@@ -46,11 +46,11 @@ This flag, when disabled, prevents Chrome from automatically reloading tabs when
 
 In some cases, an intermittent internet connection can cause web pages to unexpectedly reload. If you notice tabs refreshing mainly when using mobile data or spotty Wi-Fi, try turning off your phone’s internet connection temporarily:
 
-- Open your phone’s **Settings** app.
+1. Open your phone’s **Settings** app.
 
-- Tap **Network & internet**.
+2. Tap **Network & internet**.
 
-- Turn off **Mobile data** and/or **Wi-Fi**.
+3. Turn off **Mobile data** and/or **Wi-Fi**.
 
 Then, switch back to Chrome. The tabs should remain static without any network connection. If this stops the refreshing, the issue may be with your internet rather than Chrome itself. Consider troubleshooting your network or using Chrome offline when on a poor connection.
 
@@ -58,11 +58,11 @@ Then, switch back to Chrome. The tabs should remain static without any network c
 
 Rarely, a buggy or malicious browser extension can wreak havoc on your tabs and cause pages to unexpectedly reload. Try temporarily disabling all your Chrome extensions to see if that resolves the problem:
 
-- Tap the three-dot menu icon in Chrome.
+1. Tap the three-dot menu icon in Chrome.
 
-- Go to **Settings > Extensions**.
+2. Go to **Settings > Extensions**.
 
-- Disable the toggle next to each extension.
+3. Disable the toggle next to each extension.
 
 If the tab refreshing stops, re-enable the extensions one by one until you find the culprit, then remove it. Be cautious about any extensions that auto-refresh web pages, as they can interfere with your browsing.
 

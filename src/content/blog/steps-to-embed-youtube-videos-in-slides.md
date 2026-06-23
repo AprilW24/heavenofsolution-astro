@@ -28,13 +28,13 @@ Now that we’ve covered the why, let’s get into the nitty gritty of how to ac
 
 Here are the step-by-step instructions for adding YouTube video embeds to Google Slides using the mobile app:
 
-- **Open your presentation in the Google Slides app**First, open the Google Slides app on your phone and navigate to the specific presentation and slide where you want to embed the video.
+1. **Open your presentation in the Google Slides app**First, open the Google Slides app on your phone and navigate to the specific presentation and slide where you want to embed the video.
 
-- **Copy the YouTube video URL**Open the YouTube app or website and find the specific video you want to embed. Tap the **Share** button and then **Copy link** to grab the video URL.
+2. **Copy the YouTube video URL**Open the YouTube app or website and find the specific video you want to embed. Tap the **Share** button and then **Copy link** to grab the video URL.
 
-- **Insert the video into your slide**Back in the Google Slides app, tap the **+** button and then select **Video**. In the dialog that appears, paste in the YouTube URL you just copied. The video thumbnail and player will be inserted into your slide.
+3. **Insert the video into your slide**Back in the Google Slides app, tap the **+** button and then select **Video**. In the dialog that appears, paste in the YouTube URL you just copied. The video thumbnail and player will be inserted into your slide.
 
-- **Resize and position the video**The embedded video can be resized and dragged to any position on your slide. Use two fingers to pinch and zoom the video to make it larger or smaller. Drag it to where you want it to appear on the slide.
+4. **Resize and position the video**The embedded video can be resized and dragged to any position on your slide. Use two fingers to pinch and zoom the video to make it larger or smaller. Drag it to where you want it to appear on the slide.
 
 That’s it! The YouTube video is now embedded in your Google Slides presentation. When you present the slide, you’ll be able to tap the video to play it with sound right within the Slides app.
 
@@ -50,13 +50,13 @@ A few things to keep in mind:
 
 The process for embedding YouTube clips into PowerPoint presentations from your phone is very similar:
 
-- **Open PowerPoint and navigate to your slide**Open the PowerPoint mobile app and get to the specific slide where you want to add the video embed.
+1. **Open PowerPoint and navigate to your slide**Open the PowerPoint mobile app and get to the specific slide where you want to add the video embed.
 
-- **Copy the YouTube video’s embed code**Open the YouTube video you want to embed. Tap **Share** and then **Embed**. Copy the embed code provided.
+2. **Copy the YouTube video’s embed code**Open the YouTube video you want to embed. Tap **Share** and then **Embed**. Copy the embed code provided.
 
-- **Insert the video embed code in PowerPoint**In PowerPoint, tap **Insert** then **Video** then **Online Video**. Paste the YouTube embed code into the provided field. The video will be inserted into your slide.
+3. **Insert the video embed code in PowerPoint**In PowerPoint, tap **Insert** then **Video** then **Online Video**. Paste the YouTube embed code into the provided field. The video will be inserted into your slide.
 
-- **Position and size the video**Like with Google Slides, you can resize the YouTube video by pinching and zooming. Drag it to position it where you want on your slide.
+4. **Position and size the video**Like with Google Slides, you can resize the YouTube video by pinching and zooming. Drag it to position it where you want on your slide.
 
 Note that with PowerPoint, you specifically need the embed code from YouTube, not just the standard video URL. But otherwise the process is nearly identical to Google Slides.
 
@@ -66,12 +66,12 @@ Embedding YouTube videos into your slide presentations from your phone is a grea
 
 The key steps are:
 
-- Open your presentation to the slide you want to add video
+1. Open your presentation to the slide you want to add video
 
-- Copy the YouTube URL or embed code
+2. Copy the YouTube URL or embed code
 
-- Insert the video into your slide via the video embed option
+3. Insert the video into your slide via the video embed option
 
-- Resize and position your video
+4. Resize and position your video
 
 Now you’re ready to present and let those YouTube clips work their magic! Your audience will thank you for going beyond boring bullet points and leveraging the power of video. So don’t hesitate to find relevant YouTube content and embed it into your next slide deck right from your phone.

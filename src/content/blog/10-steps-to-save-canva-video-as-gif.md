@@ -20,25 +20,25 @@ When preparing your video, consider the context in which you plan to use the GIF
 
 Here are the steps to convert your video into a GIF using the Canva app on Android:
 
-- **Open the Canva App**: Start by opening the Canva app on your Android device.
+1. **Open the Canva App**: Start by opening the Canva app on your Android device.
 
-- **Upload Your Video**: Tap on the “Uploads” tab and select the video you want to convert into a GIF from your gallery or social media.
+2. **Upload Your Video**: Tap on the “Uploads” tab and select the video you want to convert into a GIF from your gallery or social media.
 
-- **Trim Your Video**: Use the scissors icon at the bottom of the screen to trim your video to the desired length, ideally a few seconds.
+3. **Trim Your Video**: Use the scissors icon at the bottom of the screen to trim your video to the desired length, ideally a few seconds.
 
-- **Add Text or Effects**: You can add text, animations, or other effects to make your GIF more engaging.
+4. **Add Text or Effects**: You can add text, animations, or other effects to make your GIF more engaging.
 
-- **Create a Design**: If needed, adjust the video size or position within the design template.
+5. **Create a Design**: If needed, adjust the video size or position within the design template.
 
-- **Download as GIF**: Tap the “Download” button, then select “GIF” from the file type options.
+6. **Download as GIF**: Tap the “Download” button, then select “GIF” from the file type options.
 
-- **Adjust Settings**: You might be able to adjust the GIF size before downloading.
+7. **Adjust Settings**: You might be able to adjust the GIF size before downloading.
 
-- **Save and Share**: Once downloaded, you can save the GIF to your device and share it via social media or messaging apps.
+8. **Save and Share**: Once downloaded, you can save the GIF to your device and share it via social media or messaging apps.
 
-- **Optional: Edit Further**: If needed, use other apps to further edit or optimize your GIF.
+9. **Optional: Edit Further**: If needed, use other apps to further edit or optimize your GIF.
 
-- **Final Check**: Preview your GIF to ensure it looks as expected before sharing.
+10. **Final Check**: Preview your GIF to ensure it looks as expected before sharing.
 
 ## Tips for Creating Engaging GIFs
 

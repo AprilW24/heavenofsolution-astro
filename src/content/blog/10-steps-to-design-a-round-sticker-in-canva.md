@@ -22,25 +22,25 @@ Before you start designing, it’s a good idea to have a clear idea of what you 
 
 Once you have your design space set up, you can start creating your sticker. Here are some key steps to follow:
 
-- **Add a Circle Shape**: Click on the “Elements” tab and select a circle shape. You can resize it by dragging the corners to fit your desired size.
+1. **Add a Circle Shape**: Click on the “Elements” tab and select a circle shape. You can resize it by dragging the corners to fit your desired size.
 
-- **Customize the Circle**: You can add a border to your circle by selecting the “Border” option from the top menu. Choose a color that complements your design.
+2. **Customize the Circle**: You can add a border to your circle by selecting the “Border” option from the top menu. Choose a color that complements your design.
 
-- **Add Text or Graphics**: Use the “Text” tool to add any text you want on your sticker. You can also add graphics from the “Elements” tab to enhance your design.
+3. **Add Text or Graphics**: Use the “Text” tool to add any text you want on your sticker. You can also add graphics from the “Elements” tab to enhance your design.
 
-- **Copy and Arrange Stickers**: If you want multiple stickers, copy and paste your design, arranging them to fit your page efficiently.
+4. **Copy and Arrange Stickers**: If you want multiple stickers, copy and paste your design, arranging them to fit your page efficiently.
 
-- **Download Your Design**: When you’re ready, download your sticker design as a PNG file to preserve transparency. This is important because PNG files can have transparent backgrounds, which will help when printing and cutting out your stickers.
+5. **Download Your Design**: When you’re ready, download your sticker design as a PNG file to preserve transparency. This is important because PNG files can have transparent backgrounds, which will help when printing and cutting out your stickers.
 
-- **Prepare for Printing**: Ensure your stickers are the right size for your printer or cutting tool. If you’re using a circle punch, design your stickers slightly larger than the punch size.
+6. **Prepare for Printing**: Ensure your stickers are the right size for your printer or cutting tool. If you’re using a circle punch, design your stickers slightly larger than the punch size.
 
-- **Print and Cut**: Print your stickers on sticker paper and use a circle punch or scissors to cut them out.
+7. **Print and Cut**: Print your stickers on sticker paper and use a circle punch or scissors to cut them out.
 
-- **Apply Your Stickers**: Use a suitable adhesive to apply your stickers to envelopes, boxes, or wherever you want them.
+8. **Apply Your Stickers**: Use a suitable adhesive to apply your stickers to envelopes, boxes, or wherever you want them.
 
-- **Test Different Sizes**: Experiment with different sticker sizes to see what works best for your needs.
+9. **Test Different Sizes**: Experiment with different sticker sizes to see what works best for your needs.
 
-- **Save Your Design**: Save your design in Canva for future edits or to create variations.
+10. **Save Your Design**: Save your design in Canva for future edits or to create variations.
 
 ## Common Issues and Solutions
 

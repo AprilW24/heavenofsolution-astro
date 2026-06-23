@@ -14,37 +14,37 @@ The method to enter download mode varies slightly depending on your device model
 
 ### 1. Samsung Devices with Home Button (Galaxy S7, S7 Edge, etc.)
 
-- Power off your device completely.
+1. Power off your device completely.
 
-- Press and hold the **Volume Down**, **Home**, and **Power** buttons simultaneously.
+2. Press and hold the **Volume Down**, **Home**, and **Power** buttons simultaneously.
 
-- Release the buttons when you see the warning screen.
+3. Release the buttons when you see the warning screen.
 
-- Press the **Volume Up** button to enter download mode.
+4. Press the **Volume Up** button to enter download mode.
 
 ### 2. Samsung Devices with Side Button and Volume Keys (Galaxy S8, S9, S10, etc.)
 
-- Turn off your device.
+1. Turn off your device.
 
-- Press and hold the **Volume Down** and **Bixby** buttons together.
+2. Press and hold the **Volume Down** and **Bixby** buttons together.
 
-- While holding these buttons, press and hold the **Power** button.
+3. While holding these buttons, press and hold the **Power** button.
 
-- Release all buttons when you see the warning screen.
+4. Release all buttons when you see the warning screen.
 
-- Press the **Volume Up** button to enter download mode.
+5. Press the **Volume Up** button to enter download mode.
 
 ### 3. Samsung Devices with Only Side Buttons (Galaxy S20, S21, etc.)
 
-- Power off your device.
+1. Power off your device.
 
-- Connect your phone to your PC using a USB cable.
+2. Connect your phone to your PC using a USB cable.
 
-- Press and hold the **Volume Up** and **Volume Down** buttons together.
+3. Press and hold the **Volume Up** and **Volume Down** buttons together.
 
-- Release the buttons when you see the warning screen.
+4. Release the buttons when you see the warning screen.
 
-- Press the **Volume Up** button to enter download mode.
+5. Press the **Volume Up** button to enter download mode.
 
 **Note:** Some devices may require a slightly different button combination. If the above methods don’t work, consult your device’s user manual or search for specific instructions online.
 
@@ -64,9 +64,9 @@ If you’re having trouble entering download mode, try the following:
 
 To exit download mode and reboot your device, follow these steps:
 
-- Press and hold the **Volume Down** and **Power** buttons simultaneously for 7-10 seconds.
+1. Press and hold the **Volume Down** and **Power** buttons simultaneously for 7-10 seconds.
 
-- Your device should reboot normally.
+2. Your device should reboot normally.
 
 If your device remains stuck in download mode, consider the following:
 

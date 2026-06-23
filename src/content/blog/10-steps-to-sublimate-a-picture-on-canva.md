@@ -16,37 +16,37 @@ Canva is a user-friendly graphic design platform that offers both free and Pro v
 
 ## Designing Your Sublimation Image
 
-- **Set Dimensions**: Ensure your design dimensions match the item you’re sublimating onto, like a mug or tumbler.
+1. **Set Dimensions**: Ensure your design dimensions match the item you’re sublimating onto, like a mug or tumbler.
 
-- **Choose Elements**: Use the Elements panel to add backgrounds, graphics, or text. If you have a Pro account, you can remove backgrounds from images.
+2. **Choose Elements**: Use the Elements panel to add backgrounds, graphics, or text. If you have a Pro account, you can remove backgrounds from images.
 
-- **Add Images or Text**: Upload your own images or use Canva’s library. For text, select fonts that will look good on your final product.
+3. **Add Images or Text**: Upload your own images or use Canva’s library. For text, select fonts that will look good on your final product.
 
-- **Customize**: Adjust colors, add effects like shadows, and resize elements as needed.
+4. **Customize**: Adjust colors, add effects like shadows, and resize elements as needed.
 
 ## Steps to Sublimate Your Design
 
 Here are the steps to sublimate your design:
 
-- **Download Your Design**: Save your design as a PNG or PDF, ensuring it’s in CMYK color mode for sublimation.
+1. **Download Your Design**: Save your design as a PNG or PDF, ensuring it’s in CMYK color mode for sublimation.
 
-- **Print on Sublimation Paper**: Use a sublimation printer like the Epson SureColor F170 to print your design on sublimation paper.
+2. **Print on Sublimation Paper**: Use a sublimation printer like the Epson SureColor F170 to print your design on sublimation paper.
 
-- **Prepare the Item**: Ensure your mug or tumbler is clean and dry.
+3. **Prepare the Item**: Ensure your mug or tumbler is clean and dry.
 
-- **Apply Heat**: Use a heat press, such as the Cricut Mug Press, to transfer the design onto the item.
+4. **Apply Heat**: Use a heat press, such as the Cricut Mug Press, to transfer the design onto the item.
 
-- **Press the Design**: Follow the heat press instructions for temperature and time to ensure a successful transfer.
+5. **Press the Design**: Follow the heat press instructions for temperature and time to ensure a successful transfer.
 
-- **Let it Cool**: Allow the item to cool before handling.
+6. **Let it Cool**: Allow the item to cool before handling.
 
-- **Inspect the Result**: Check for any imperfections or areas that need improvement.
+7. **Inspect the Result**: Check for any imperfections or areas that need improvement.
 
-- **Repeat if Necessary**: If needed, adjust your design or printing settings and try again.
+8. **Repeat if Necessary**: If needed, adjust your design or printing settings and try again.
 
-- **Enjoy Your Creation**: Once satisfied, your sublimated item is ready to use.
+9. **Enjoy Your Creation**: Once satisfied, your sublimated item is ready to use.
 
-- **Share Your Work**: Show off your creation or give it as a gift!
+10. **Share Your Work**: Show off your creation or give it as a gift!
 
 ## Conclusion
 

@@ -20,17 +20,17 @@ Before we dive into the steps, it’s important to note that TikTok analytics ar
 
 If you haven’t already, you’ll need to switch your TikTok account to a Pro account to access analytics. Here’s how:
 
-- Open the TikTok app and go to your profile
+1. Open the TikTok app and go to your profile
 
-- Tap the three dots in the top right corner to access Settings and Privacy
+2. Tap the three dots in the top right corner to access Settings and Privacy
 
-- Under Account, tap “Manage account”
+3. Under Account, tap “Manage account”
 
-- Select “Switch to Pro Account”
+4. Select “Switch to Pro Account”
 
-- Choose your account type (Creator or Business)
+5. Choose your account type (Creator or Business)
 
-- Follow the prompts to complete the switch
+6. Follow the prompts to complete the switch
 
 Once you’ve switched to a Pro account, TikTok will start collecting data on your account performance. It may take up to 7 days for meaningful data to appear in your analytics.
 
@@ -40,21 +40,21 @@ Now that you have a Pro account, you can access your analytics. There are two wa
 
 **On Mobile:**
 
-- Go to your profile
+1. Go to your profile
 
-- Tap the three dots in the top right corner
+2. Tap the three dots in the top right corner
 
-- Select “Creator tools”
+3. Select “Creator tools”
 
-- Tap “Analytics”
+4. Tap “Analytics”
 
 **On Desktop:**
 
-- Go to www.tiktok.com and log in
+1. Go to www.tiktok.com and log in
 
-- Click on your profile picture in the top right corner
+2. Click on your profile picture in the top right corner
 
-- Select “View Analytics” from the dropdown menu
+3. Select “View Analytics” from the dropdown menu
 
 ### Step 3: Explore the Overview Tab
 
@@ -116,13 +116,13 @@ Use these metrics to gauge the success of your LIVE content and plan future sess
 
 While TikTok defaults to showing data for the last 7 days, you can adjust this to view performance over different time periods. To do this:
 
-- Look for the date range selector at the top of the analytics page
+1. Look for the date range selector at the top of the analytics page
 
-- Click on it to open the date range options
+2. Click on it to open the date range options
 
-- Choose from preset options (7 days, 28 days, 60 days) or set a custom range
+3. Choose from preset options (7 days, 28 days, 60 days) or set a custom range
 
-- Click “Apply” to update the data
+4. Click “Apply” to update the data
 
 Comparing performance across different time periods can help you identify long-term trends and the impact of specific campaigns or content strategies.
 
@@ -130,11 +130,11 @@ Comparing performance across different time periods can help you identify long-t
 
 For more in-depth analysis, you might want to export your TikTok analytics data. This feature is only available on desktop:
 
-- Go to the TikTok Analytics page on desktop
+1. Go to the TikTok Analytics page on desktop
 
-- Look for the “Export Data” button in the top right corner
+2. Look for the “Export Data” button in the top right corner
 
-- Click it to download a CSV file containing your analytics data
+3. Click it to download a CSV file containing your analytics data
 
 This allows you to manipulate the data in spreadsheet software or combine it with data from other platforms for a more comprehensive view of your social media performance.
 

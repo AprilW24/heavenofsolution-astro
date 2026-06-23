@@ -92,19 +92,19 @@ Managing your online presence is an important aspect of using social media platf
 
 The process is straightforward:
 
-- Open the Facebook app
+1. Open the Facebook app
 
-- Navigate to the photo
+2. Navigate to the photo
 
-- Locate your comment
+3. Locate your comment
 
-- Access the comment options
+4. Access the comment options
 
-- Select “Delete”
+5. Select “Delete”
 
-- Confirm the deletion
+6. Confirm the deletion
 
-- Verify that the comment has been removed
+7. Verify that the comment has been removed
 
 Remember to think carefully before deleting comments, as the action is irreversible. If you’re simply looking to correct a mistake, consider editing the comment instead. Always be mindful of the impact your comments may have on others, and use the delete function responsibly.
 

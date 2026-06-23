@@ -16,43 +16,43 @@ To begin, navigate to your Facebook settings by clicking the drop-down arrow in 
 
 One of the most significant sources of personal data on Facebook is your posts and activity log. To delete your posts:
 
-- Go to your profile page
+1. Go to your profile page
 
-- Click on the **Manage Posts** button
+2. Click on the **Manage Posts** button
 
-- Select the posts you want to delete or choose **Select All** to delete everything
+3. Select the posts you want to delete or choose **Select All** to delete everything
 
-- Click **Delete Selected**
+4. Click **Delete Selected**
 
 To clear your activity log:
 
-- Click on **Activity Log** in the left-hand menu of your Facebook settings
+1. Click on **Activity Log** in the left-hand menu of your Facebook settings
 
-- Use the filters to navigate through your activity history
+2. Use the filters to navigate through your activity history
 
-- Select the items you want to remove and click **Delete**
+3. Select the items you want to remove and click **Delete**
 
 ## Step 3: Manage Your Off-Facebook Activity
 
 Facebook also collects data about your online activity outside of the platform through its partnerships with other websites and apps. To manage this data:
 
-- Go to **Settings & Privacy** and click on **Settings**
+1. Go to **Settings & Privacy** and click on **Settings**
 
-- Select **Your Facebook Information** from the left-hand menu
+2. Select **Your Facebook Information** from the left-hand menu
 
-- Click on **Off-Facebook Activity**
+3. Click on **Off-Facebook Activity**
 
-- Disconnect your account from the apps and websites listed or clear your history entirely
+4. Disconnect your account from the apps and websites listed or clear your history entirely
 
 ## Step 4: Review and Adjust Your Privacy Settings
 
 To further control the data Facebook collects about you, review your privacy settings:
 
-- Go to **Settings & Privacy** and click on **Settings**
+1. Go to **Settings & Privacy** and click on **Settings**
 
-- Select **Privacy** from the left-hand menu
+2. Select **Privacy** from the left-hand menu
 
-- Adjust your settings for post visibility, profile information, and more
+3. Adjust your settings for post visibility, profile information, and more
 
 Remember, the more restrictive your privacy settings, the less data Facebook can collect about you.
 
@@ -60,13 +60,13 @@ Remember, the more restrictive your privacy settings, the less data Facebook can
 
 Facebook allows you to delete specific categories of data, such as your search history, location history, and facial recognition information. To do this:
 
-- Go to **Settings & Privacy** and click on **Settings**
+1. Go to **Settings & Privacy** and click on **Settings**
 
-- Select **Your Facebook Information** from the left-hand menu
+2. Select **Your Facebook Information** from the left-hand menu
 
-- Choose the data category you want to delete (e.g., **Location** or **Face Recognition**)
+3. Choose the data category you want to delete (e.g., **Location** or **Face Recognition**)
 
-- Follow the prompts to delete the data
+4. Follow the prompts to delete the data
 
 ## Conclusion
 

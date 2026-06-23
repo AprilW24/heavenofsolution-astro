@@ -30,35 +30,35 @@ Now, let’s dive into the steps you can take to resolve this error.
 
 **The simplest solution is often the most effective.** A quick restart can resolve temporary glitches:
 
-- Press and hold the power button
+1. Press and hold the power button
 
-- Tap **Restart** or **Reboot**
+2. Tap **Restart** or **Reboot**
 
-- Wait for your device to fully restart
+3. Wait for your device to fully restart
 
 ### 2. Clear Cache and Data for Media Storage
 
 Clearing cache and data for the Media Storage app can often resolve the issue:
 
-- Go to Settings > Apps & notifications > See all apps
+1. Go to Settings > Apps & notifications > See all apps
 
-- Find and tap on **Media Storage**
+2. Find and tap on **Media Storage**
 
-- Tap **Storage & cache**
+3. Tap **Storage & cache**
 
-- Tap **Clear cache** and then **Clear storage**
+4. Tap **Clear cache** and then **Clear storage**
 
-- Restart your device
+5. Restart your device
 
 ### 3. Reset App Preferences
 
 Resetting app preferences can fix issues caused by disabled system apps:
 
-- Go to Settings > Apps & notifications
+1. Go to Settings > Apps & notifications
 
-- Tap the three-dot menu and select **Reset app preferences**
+2. Tap the three-dot menu and select **Reset app preferences**
 
-- Confirm by tapping **Reset apps**
+3. Confirm by tapping **Reset apps**
 
 ![](/wp-content/uploads/2024/06/HoS_AndroidProccess-2.jpg)
 
@@ -66,11 +66,11 @@ Resetting app preferences can fix issues caused by disabled system apps:
 
 Keeping your system up-to-date is crucial for optimal performance:
 
-- Go to Settings > System > System update
+1. Go to Settings > System > System update
 
-- Tap **Check for update**
+2. Tap **Check for update**
 
-- If available, download and install the update
+3. If available, download and install the update
 
 ![](/wp-content/uploads/2024/06/HoS_CheckGPS.jpg)
 
@@ -78,11 +78,11 @@ Keeping your system up-to-date is crucial for optimal performance:
 
 Safe Mode helps identify if a third-party app is causing the issue:
 
-- Press and hold the power button
+1. Press and hold the power button
 
-- Touch and hold **Power off** until you see **Reboot to safe mode**
+2. Touch and hold **Power off** until you see **Reboot to safe mode**
 
-- Tap **OK**
+3. Tap **OK**
 
 If the error doesn’t occur in Safe Mode, a third-party app is likely the culprit. Uninstall recently installed apps one by one to identify the problematic app.
 
@@ -90,15 +90,15 @@ If the error doesn’t occur in Safe Mode, a third-party app is likely the culpr
 
 Google Play Services can sometimes interfere with media processes:
 
-- Go to Settings > Apps & notifications > See all apps
+1. Go to Settings > Apps & notifications > See all apps
 
-- Find and tap on **Google Play Services**
+2. Find and tap on **Google Play Services**
 
-- Tap **Storage & cache**
+3. Tap **Storage & cache**
 
-- Tap **Clear storage** and then **Clear cache**
+4. Tap **Clear storage** and then **Clear cache**
 
-- Restart your device
+5. Restart your device
 
 ![](/wp-content/uploads/2024/06/HoS_AndroidProccess-1.jpg)
 
@@ -106,51 +106,51 @@ Google Play Services can sometimes interfere with media processes:
 
 If you’re using an SD card, it may be causing the issue:
 
-- Remove the SD card
+1. Remove the SD card
 
-- Restart your device
+2. Restart your device
 
-- If the error stops, your SD card may be corrupted. Try reformatting it or replace it with a new one
+3. If the error stops, your SD card may be corrupted. Try reformatting it or replace it with a new one
 
 ### 8. Disable Media Storage
 
 Temporarily disabling Media Storage can sometimes resolve the issue:
 
-- Go to Settings > Apps & notifications > See all apps
+1. Go to Settings > Apps & notifications > See all apps
 
-- Find **Media Storage**
+2. Find **Media Storage**
 
-- Tap **Disable**
+3. Tap **Disable**
 
-- Restart your device
+4. Restart your device
 
-- Re-enable Media Storage after restart
+5. Re-enable Media Storage after restart
 
 ### 9. Wipe Cache Partition
 
 Wiping the cache partition can clear system-wide cached data:
 
-- Turn off your device
+1. Turn off your device
 
-- Press and hold Volume Down + Power buttons simultaneously
+2. Press and hold Volume Down + Power buttons simultaneously
 
-- Use volume buttons to navigate to **Recovery mode** and select it with the power button
+3. Use volume buttons to navigate to **Recovery mode** and select it with the power button
 
-- In Recovery mode, select **Wipe cache partition**
+4. In Recovery mode, select **Wipe cache partition**
 
-- Reboot your device
+5. Reboot your device
 
 ### 10. Factory Reset (Last Resort)
 
 If all else fails, a factory reset may be necessary:
 
-- Back up all your important data
+1. Back up all your important data
 
-- Go to Settings > System > Reset options
+2. Go to Settings > System > Reset options
 
-- Tap **Erase all data (factory reset)**
+3. Tap **Erase all data (factory reset)**
 
-- Follow the prompts to complete the reset
+4. Follow the prompts to complete the reset
 
 ![](/wp-content/uploads/2024/06/HoS_AndroidProccess.jpg)
 

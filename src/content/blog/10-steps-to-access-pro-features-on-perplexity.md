@@ -18,25 +18,25 @@ One of my favorite things? File uploads. With *Pro*, you can upload PDFs, images
 
 ## Steps to activate Pro features on the Perplexity app
 
-- Download or update the Perplexity app from the Google Play Store.
+1. Download or update the Perplexity app from the Google Play Store.
 
-- Open the app and sign in with your Google or preferred account.
+2. Open the app and sign in with your Google or preferred account.
 
-- Tap your profile icon or menu in the top corner.
+3. Tap your profile icon or menu in the top corner.
 
-- Find and tap on the *Pro* or *Upgrade* option.
+4. Find and tap on the *Pro* or *Upgrade* option.
 
-- Review the *Pro* subscription details and pricing.
+5. Review the *Pro* subscription details and pricing.
 
-- Follow the prompts to subscribe using Google Play billing.
+6. Follow the prompts to subscribe using Google Play billing.
 
-- Once subscribed, restart the app to refresh your features.
+7. Once subscribed, restart the app to refresh your features.
 
-- Head back to the main screen and look for new *Pro* options-like model selection or file upload.
+8. Head back to the main screen and look for new *Pro* options-like model selection or file upload.
 
-- Tap the model selector to switch between GPT-4, Claude, and others.
+9. Tap the model selector to switch between GPT-4, Claude, and others.
 
-- Use the upload button to add PDFs, images, or CSVs for analysis.
+10. Use the upload button to add PDFs, images, or CSVs for analysis.
 
 ## Using Perplexity Assistant and Getting the Most Out of Pro
 

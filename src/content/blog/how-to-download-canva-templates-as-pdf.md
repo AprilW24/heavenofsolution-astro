@@ -26,33 +26,33 @@ Now that we understand the benefits, let’s explore how to download your Canva 
 
 The process of downloading your Canva design as a PDF on a desktop computer is straightforward. Here’s a step-by-step guide:
 
-- **Open your design**: Launch Canva and open the template or design you want to download.
+1. **Open your design**: Launch Canva and open the template or design you want to download.
 
-- **Click on Share**: In the top-right corner of the Canva editor, you’ll see a “Share” button. Click on it.
+2. **Click on Share**: In the top-right corner of the Canva editor, you’ll see a “Share” button. Click on it.
 
-- **Select Download**: From the dropdown menu, choose the “Download” option.
+3. **Select Download**: From the dropdown menu, choose the “Download” option.
 
-- **Choose PDF format**: In the File type dropdown, select either “PDF Standard” or “PDF Print.” We’ll discuss the difference between these options later.
+4. **Choose PDF format**: In the File type dropdown, select either “PDF Standard” or “PDF Print.” We’ll discuss the difference between these options later.
 
-- **Select pages**: If your design has multiple pages, you can choose to download all pages or select specific ones.
+5. **Select pages**: If your design has multiple pages, you can choose to download all pages or select specific ones.
 
-- **Click Download**: Once you’ve made your selections, click the “Download” button at the bottom of the panel.
+6. **Click Download**: Once you’ve made your selections, click the “Download” button at the bottom of the panel.
 
-- **Save the file**: Your browser will prompt you to save the PDF file to your desired location on your computer.
+7. **Save the file**: Your browser will prompt you to save the PDF file to your desired location on your computer.
 
 ## Downloading Canva Templates as PDF on Mobile Devices
 
 If you’re using the Canva mobile app on your smartphone or tablet, the process is similar but with a slightly different interface:
 
-- **Open your design**: Launch the Canva app and open your template or design.
+1. **Open your design**: Launch the Canva app and open your template or design.
 
-- **Tap the Share icon**: Look for the share icon (usually an arrow pointing up out of a box) in the top-right corner.
+2. **Tap the Share icon**: Look for the share icon (usually an arrow pointing up out of a box) in the top-right corner.
 
-- **Select Download**: Scroll down in the sharing options until you see “Download.”
+3. **Select Download**: Scroll down in the sharing options until you see “Download.”
 
-- **Choose PDF format**: Tap on the file format option and select either “PDF Standard” or “PDF Print.”
+4. **Choose PDF format**: Tap on the file format option and select either “PDF Standard” or “PDF Print.”
 
-- **Download**: Tap the “Download” button to save the PDF to your device.
+5. **Download**: Tap the “Download” button to save the PDF to your device.
 
 ## Understanding PDF Standard vs. PDF Print
 
@@ -98,11 +98,11 @@ To ensure you get the best results when downloading your Canva templates as PDFs
 
 If you’ve used premium elements in your Canva design but don’t want to pay for them, you have a few options:
 
-- **Replace premium elements**: Before downloading, replace any premium elements with free alternatives available in Canva.
+1. **Replace premium elements**: Before downloading, replace any premium elements with free alternatives available in Canva.
 
-- **Screenshot method**: As a last resort, you can take a high-quality screenshot of your design and convert it to PDF using other tools. However, this may result in lower quality and is not recommended for professional use.
+2. **Screenshot method**: As a last resort, you can take a high-quality screenshot of your design and convert it to PDF using other tools. However, this may result in lower quality and is not recommended for professional use.
 
-- **Free trial**: Consider using Canva Pro’s free trial to access premium features and download your design as a PDF.
+3. **Free trial**: Consider using Canva Pro’s free trial to access premium features and download your design as a PDF.
 
 Remember that using premium elements without proper licensing may violate Canva’s terms of service and copyright laws.
 

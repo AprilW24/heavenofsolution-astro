@@ -62,13 +62,13 @@ In your file manager app, look for an **Eject** or **Unmount** option for your S
 
 **Alternatively, you can eject your SD card from Android’s Settings app:**
 
-- Open the Settings app
+1. Open the Settings app
 
-- Tap **Storage**
+2. Tap **Storage**
 
-- Tap the eject icon next to your SD card
+3. Tap the eject icon next to your SD card
 
-- You will get a notification when it is safe to physically remove the card
+4. You will get a notification when it is safe to physically remove the card
 
 Once ejected, you can pull the SD card out of your phone or unplug the adapter. To reinsert the card later, just follow Step 1 again.
 

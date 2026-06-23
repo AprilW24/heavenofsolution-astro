@@ -26,9 +26,9 @@ Understanding the underlying cause can help you prevent your phone from freezing
 
 The first and simplest step to try is restarting your phone. This will often resolve any temporary software glitches that may be causing your phone to freeze. Here’s how:
 
-- Press and hold down the power button for about 30 seconds, until your phone restarts.
+1. Press and hold down the power button for about 30 seconds, until your phone restarts.
 
-- If your phone has a removable battery, you can also take the battery out, wait a few seconds, then reinsert it and turn the phone back on.
+2. If your phone has a removable battery, you can also take the battery out, wait a few seconds, then reinsert it and turn the phone back on.
 
 In many cases, a simple restart is all it takes to unfreeze your Android phone. But if your phone is still unresponsive after restarting, move on to the next step.
 
@@ -46,11 +46,11 @@ A forced restart is a bit more powerful than a standard restart, and will usuall
 
 If your phone is freezing frequently, it could be a sign that your operating system is out of date. Android releases periodic software updates that include bug fixes, security patches, and performance improvements. Here’s how to check for available updates:
 
-- Open your phone’s **Settings** app
+1. Open your phone’s **Settings** app
 
-- Near the bottom, tap **System** > **System Update**
+2. Near the bottom, tap **System** > **System Update**
 
-- You’ll see your update status. Follow any steps on the screen to install an available update.
+3. You’ll see your update status. Follow any steps on the screen to install an available update.
 
 Keeping your Android software up to date is one of the best ways to prevent performance issues like freezing from occurring.
 
@@ -60,11 +60,11 @@ Sometimes a particular app can cause your entire phone to freeze if it has a bug
 
 The process to enter safe mode varies depending on your phone model, so it’s best to look up instructions for your specific device. In general, it involves these steps:
 
-- Press and hold the power button to bring up the power menu
+1. Press and hold the power button to bring up the power menu
 
-- Touch and hold **Power off**
+2. Touch and hold **Power off**
 
-- When prompted, tap **OK** to restart in safe mode
+3. When prompted, tap **OK** to restart in safe mode
 
 If your phone works fine in safe mode, that means one of your installed apps is likely the issue. You can narrow it down by uninstalling recently downloaded apps one by one to see if the freezing resolves.
 
@@ -78,15 +78,15 @@ Here’s how to factory reset your Android phone:
 
 ![](/wp-content/uploads/2024/07/HoS_Unfreeze.jpg)
 
-- Open your phone’s **Settings** app
+1. Open your phone’s **Settings** app
 
-- Tap **System** > **Reset options** > **Erase all data (factory reset)**
+2. Tap **System** > **Reset options** > **Erase all data (factory reset)**
 
-- Tap **Erase all data**
+3. Tap **Erase all data**
 
-- Enter your PIN, pattern, or password if prompted
+4. Enter your PIN, pattern, or password if prompted
 
-- To erase all data from your phone’s internal storage, tap **Erase everything**
+5. To erase all data from your phone’s internal storage, tap **Erase everything**
 
 After the reset, your phone will restart like new. This should resolve any persistent freezing issues. You can then restore your backed up data and reinstall your apps.
 

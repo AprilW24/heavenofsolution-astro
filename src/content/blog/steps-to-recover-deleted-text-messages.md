@@ -12,13 +12,13 @@ Have you ever accidentally deleted an important text message on your Android pho
 
 The first place to look for deleted texts is right on your Android phone. Some devices, like Samsung Galaxy phones, have a built-in “recycle bin” or “trash” folder where deleted messages are stored temporarily before being permanently erased. Here’s how to check:
 
-- Open your **Messages** app
+1. Open your **Messages** app
 
-- Tap the **three-dot menu** in the upper right
+2. Tap the **three-dot menu** in the upper right
 
-- Look for the **Trash** or **Recycle Bin** option
+3. Look for the **Trash** or **Recycle Bin** option
 
-- If you see your deleted messages listed, select them and tap **Restore**
+4. If you see your deleted messages listed, select them and tap **Restore**
 
 If your phone doesn’t have this trash folder option, or the message you want isn’t there, move on to the next method.
 
@@ -26,17 +26,17 @@ If your phone doesn’t have this trash folder option, or the message you want i
 
 If you had previously enabled Google Drive backups on your Android phone, you may be able to restore your deleted text messages from the cloud. The catch is, you’ll need to factory reset your phone to a previous backup point before the messages were deleted. Make sure you have a recent backup of anything else important on your phone first. Then follow these steps:
 
-- Go to your phone’s **Settings** > **System** > **Reset Options**
+1. Go to your phone’s **Settings** > **System** > **Reset Options**
 
-- Tap **Erase all data (factory reset)**
+2. Tap **Erase all data (factory reset)**
 
-- On the next screen, tap **Restore from a backup**
+3. On the next screen, tap **Restore from a backup**
 
-- Sign in with the Google account you used to create the backup
+4. Sign in with the Google account you used to create the backup
 
-- Choose the most recent backup from before you deleted the texts
+5. Choose the most recent backup from before you deleted the texts
 
-- Follow the prompts to restore the backup and your deleted messages should reappear
+6. Follow the prompts to restore the backup and your deleted messages should reappear
 
 Keep in mind this will erase any data or changes made to your phone since that backup was created. Restoring a backup should be a last resort if the messages are critical to recover.
 
@@ -52,15 +52,15 @@ If your phone doesn’t have a recycle bin and you don’t want to restore an ol
 
 To use one of these recovery apps or programs:
 
-- Download and install the app on your phone or computer
+1. Download and install the app on your phone or computer
 
-- Connect your Android phone with a USB cable if using computer software
+2. Connect your Android phone with a USB cable if using computer software
 
-- Allow the app necessary permissions to scan your phone’s memory
+3. Allow the app necessary permissions to scan your phone’s memory
 
-- Select the option to scan for and recover deleted text messages
+4. Select the option to scan for and recover deleted text messages
 
-- Preview any retrievable texts and restore them to your phone or computer
+5. Preview any retrievable texts and restore them to your phone or computer
 
 Data recovery apps aren’t 100% guaranteed, as deleted messages may already be overwritten in your phone’s memory. But it’s worth trying if you’ve exhausted other options.
 

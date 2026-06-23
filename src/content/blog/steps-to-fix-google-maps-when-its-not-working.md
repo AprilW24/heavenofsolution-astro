@@ -16,11 +16,11 @@ One of the easiest and quickest ways to fix minor software glitches is to simply
 
 To restart most Android phones:
 
-- Press and hold the power button for a few seconds
+1. Press and hold the power button for a few seconds
 
-- Tap **Restart** when the option appears
+2. Tap **Restart** when the option appears
 
-- Wait for your phone to fully power off and back on
+3. Wait for your phone to fully power off and back on
 
 Once your phone has restarted, open Google Maps again and see if the issue has been resolved. If not, move on to the next troubleshooting step.
 
@@ -30,17 +30,17 @@ Using an outdated version of the Google Maps app can lead to bugs and other prob
 
 To check for updates to Google Maps on Android:
 
-- Open the Google Play Store app
+1. Open the Google Play Store app
 
-- Tap on your profile icon in the top right
+2. Tap on your profile icon in the top right
 
-- Select **Manage apps & device**
+3. Select **Manage apps & device**
 
-- Tap **Updates available**
+4. Tap **Updates available**
 
-- If an update for Google Maps is listed, tap the **Update** button next to it
+5. If an update for Google Maps is listed, tap the **Update** button next to it
 
-- Alternatively, tap **Update all** to install all available app updates
+6. Alternatively, tap **Update all** to install all available app updates
 
 ![](/wp-content/uploads/2024/07/HoS_FixMaps-1.jpg)
 
@@ -64,25 +64,25 @@ To enable location services on Android:
 
 ![](/wp-content/uploads/2024/07/HoS_FixMaps.jpg)
 
-- Open your phone’s Settings app
+1. Open your phone’s Settings app
 
-- Tap **Location**
+2. Tap **Location**
 
-- Turn the location toggle switch on
+3. Turn the location toggle switch on
 
-- Ensure the location mode is set to **High accuracy**
+4. Ensure the location mode is set to **High accuracy**
 
 You should also make sure Google Maps has permission to access your location:
 
-- Go to your Android phone’s Settings app
+1. Go to your Android phone’s Settings app
 
-- Tap **Apps & notifications**
+2. Tap **Apps & notifications**
 
-- Find and select Google Maps
+3. Find and select Google Maps
 
-- Tap **Permissions**
+4. Tap **Permissions**
 
-- Make sure the **Location** permission is enabled
+5. Make sure the **Location** permission is enabled
 
 After enabling location access, restart Google Maps and see if your position is now appearing correctly on the map.
 
@@ -92,13 +92,13 @@ If the blue dot indicating your location in Google Maps is pointing in the wrong
 
 To calibrate the compass:
 
-- Open Google Maps
+1. Open Google Maps
 
-- Tap the blue dot that marks your location
+2. Tap the blue dot that marks your location
 
-- Tap the **Calibrate** button that appears
+3. Tap the **Calibrate** button that appears
 
-- Tilt and rotate your phone as instructed by the on-screen animation
+4. Tilt and rotate your phone as instructed by the on-screen animation
 
 Once the calibration process is complete, the compass should be pointing in the correct direction, and navigation in Google Maps will be more accurate.
 
@@ -108,17 +108,17 @@ Over time, the data cached by Google Maps can become corrupted and lead to issue
 
 To clear Google Maps’ cache and data on Android:
 
-- Go to your phone’s Settings app
+1. Go to your phone’s Settings app
 
-- Tap **Apps & notifications**
+2. Tap **Apps & notifications**
 
-- Locate and tap on Google Maps
+3. Locate and tap on Google Maps
 
-- Tap **Storage & cache**
+4. Tap **Storage & cache**
 
-- Tap **Clear cache** to delete the app’s temporary files
+5. Tap **Clear cache** to delete the app’s temporary files
 
-- If issues persist, tap **Clear storage** to delete all data associated with Google Maps
+6. If issues persist, tap **Clear storage** to delete all data associated with Google Maps
 
 Note that clearing the storage will remove your app preferences and saved locations. You’ll need to sign back into your Google account in Maps after clearing the data.
 
@@ -128,15 +128,15 @@ If you’ve tried all the above steps and Google Maps is still not working prope
 
 To uninstall Google Maps on Android:
 
-- Go to your phone’s Settings
+1. Go to your phone’s Settings
 
-- Tap **Apps & notifications**
+2. Tap **Apps & notifications**
 
-- Find and tap on Google Maps
+3. Find and tap on Google Maps
 
-- Tap **Uninstall**
+4. Tap **Uninstall**
 
-- Confirm you want to remove the app
+5. Confirm you want to remove the app
 
 Then reinstall a fresh copy of Google Maps from the Google Play Store. Open the app and sign in with your Google account to restore your saved places and preferences.
 

@@ -16,13 +16,13 @@ In this guide, we’ll walk through the simple steps to turn Incognito Mode on a
 
 Follow these quick steps to start browsing YouTube privately:
 
-- **Open the YouTube app** on your iPhone or Android phone. Make sure you are signed into your YouTube/Google account.
+1. **Open the YouTube app** on your iPhone or Android phone. Make sure you are signed into your YouTube/Google account.
 
-- Tap on your **profile picture icon** in the top right corner of the screen. This will open a menu with several options.
+2. Tap on your **profile picture icon** in the top right corner of the screen. This will open a menu with several options.
 
-- Look for the option labeled **Turn on Incognito** and tap it. You’ll see a message explaining that Incognito Mode is now enabled and your activity from this session will be cleared once you turn it off.
+3. Look for the option labeled **Turn on Incognito** and tap it. You’ll see a message explaining that Incognito Mode is now enabled and your activity from this session will be cleared once you turn it off.
 
-- You’ll know Incognito Mode is active when you see the **Incognito icon** (hat and glasses) in place of your profile picture. There will also be a **black bar at the bottom** of the app indicating you are incognito.
+4. You’ll know Incognito Mode is active when you see the **Incognito icon** (hat and glasses) in place of your profile picture. There will also be a **black bar at the bottom** of the app indicating you are incognito.
 
 That’s it! You can now use YouTube as you normally would by browsing the Home feed, searching for videos, viewing your Subscriptions, etc. However, your activity is now private and won’t be saved to your history or used to influence your future recommendations.
 
@@ -42,11 +42,11 @@ Incognito Mode is best used for short private viewing sessions. For normal usage
 
 To turn off Incognito Mode when you’re done with your private browsing session:
 
-- Tap the **Incognito icon** (hat and glasses) in the top right corner where your profile picture normally displays.
+1. Tap the **Incognito icon** (hat and glasses) in the top right corner where your profile picture normally displays.
 
-- Select **Turn off Incognito** from the menu that appears.
+2. Select **Turn off Incognito** from the menu that appears.
 
-- You will automatically be signed back into the YouTube account you were using prior to going Incognito and the app will return to normal functionality.
+3. You will automatically be signed back into the YouTube account you were using prior to going Incognito and the app will return to normal functionality.
 
 Note that as soon as you disable Incognito Mode, YouTube will clear all activity from that private session. The videos you watched and the searches you performed will be erased and will not influence your recommendations going forward.
 

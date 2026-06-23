@@ -28,13 +28,13 @@ While cookies can be helpful, they can also raise privacy concerns. Some people 
 
 You might want to delete specific cookies for several reasons:
 
-- **Privacy concerns**: Remove tracking cookies from certain websites.
+1. **Privacy concerns**: Remove tracking cookies from certain websites.
 
-- **Troubleshooting**: Resolve issues with a particular website.
+2. **Troubleshooting**: Resolve issues with a particular website.
 
-- **Freeing up space**: Remove unnecessary data from your device.
+3. **Freeing up space**: Remove unnecessary data from your device.
 
-- **Starting fresh**: Clear your browsing data for a specific site.
+4. **Starting fresh**: Clear your browsing data for a specific site.
 
 Now, let’s get into the steps to delete specific cookies in Chrome on your Android device.
 
@@ -94,47 +94,47 @@ While deleting specific cookies is useful, there are other ways to manage your c
 
 If you want to delete all cookies at once:
 
-- Go to **Settings** > **Privacy and security** > **Clear browsing data**
+1. Go to **Settings** > **Privacy and security** > **Clear browsing data**
 
-- Select the time range (e.g., Last hour, Last 24 hours, All time)
+2. Select the time range (e.g., Last hour, Last 24 hours, All time)
 
-- Ensure **Cookies and site data** is checked
+3. Ensure **Cookies and site data** is checked
 
-- Tap **Clear data**
+4. Tap **Clear data**
 
 ### Block Third-Party Cookies
 
 To prevent third-party cookies from being stored:
 
-- Go to **Settings** > **Site settings** > **Third-party cookies**
+1. Go to **Settings** > **Site settings** > **Third-party cookies**
 
-- Choose **Block third-party cookies**
+2. Choose **Block third-party cookies**
 
 ### Allow or Block Cookies for Specific Sites
 
 You can set cookie preferences for individual websites:
 
-- Visit the website
+1. Visit the website
 
-- Tap the **lock** icon in the address bar
+2. Tap the **lock** icon in the address bar
 
-- Tap **Cookies**
+3. Tap **Cookies**
 
-- Choose to allow or block cookies for that site
+4. Choose to allow or block cookies for that site
 
 ## The Importance of Regular Cookie Management
 
 Managing your cookies is an essential part of maintaining your online privacy and security. Here are some reasons why you should regularly review and delete cookies:
 
-- **Enhanced Privacy**: Deleting cookies can prevent websites from tracking your online behavior across multiple sessions.
+1. **Enhanced Privacy**: Deleting cookies can prevent websites from tracking your online behavior across multiple sessions.
 
-- **Improved Security**: Regularly clearing cookies can help protect you from security vulnerabilities that might exploit cookie data.
+2. **Improved Security**: Regularly clearing cookies can help protect you from security vulnerabilities that might exploit cookie data.
 
-- **Better Performance**: Clearing out unnecessary cookies can help your browser run more smoothly and potentially free up some storage space on your device.
+3. **Better Performance**: Clearing out unnecessary cookies can help your browser run more smoothly and potentially free up some storage space on your device.
 
-- **Up-to-Date Content**: Sometimes, outdated cookies can cause websites to display old or incorrect information. Deleting cookies ensures you’re seeing the most current version of a site.
+4. **Up-to-Date Content**: Sometimes, outdated cookies can cause websites to display old or incorrect information. Deleting cookies ensures you’re seeing the most current version of a site.
 
-- **Control Over Personalization**: By managing your cookies, you have more control over how websites personalize your experience.
+5. **Control Over Personalization**: By managing your cookies, you have more control over how websites personalize your experience.
 
 ## Balancing Convenience and Privacy
 

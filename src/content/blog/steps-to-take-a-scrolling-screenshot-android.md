@@ -22,25 +22,25 @@ Generally, the scrolling screenshot feature is available on Android devices runn
 
 Follow these step-by-step instructions to capture a scrolling screenshot on your Android device:
 
-- **Navigate to the content you want to capture**: Open the webpage, app, or conversation that you want to take a scrolling screenshot of.
+1. **Navigate to the content you want to capture**: Open the webpage, app, or conversation that you want to take a scrolling screenshot of.
 
-- **Take a regular screenshot**: Press and hold the power button and the volume down button simultaneously for a few seconds. Alternatively, you can use the screenshot gesture if your device supports it (e.g., swiping three fingers down the screen).
+2. **Take a regular screenshot**: Press and hold the power button and the volume down button simultaneously for a few seconds. Alternatively, you can use the screenshot gesture if your device supports it (e.g., swiping three fingers down the screen).
 
-- **Look for the scrolling screenshot option**: After taking the screenshot, you should see a set of options at the bottom of the screen. Look for an option labeled **Scroll**, **Capture more**, or something similar. If you don’t see this option, your device may not support the scrolling screenshot feature natively.
+3. **Look for the scrolling screenshot option**: After taking the screenshot, you should see a set of options at the bottom of the screen. Look for an option labeled **Scroll**, **Capture more**, or something similar. If you don’t see this option, your device may not support the scrolling screenshot feature natively.
 
-- **Adjust the scrolling area**: Once you tap on the scrolling screenshot option, the screen will automatically start scrolling down. You can stop the scrolling by tapping on the screen or hitting the **Done** or **Stop** button. Some devices may also allow you to manually adjust the scrolling area by dragging the selection handles.
+4. **Adjust the scrolling area**: Once you tap on the scrolling screenshot option, the screen will automatically start scrolling down. You can stop the scrolling by tapping on the screen or hitting the **Done** or **Stop** button. Some devices may also allow you to manually adjust the scrolling area by dragging the selection handles.
 
-- **Edit and save the screenshot**: After capturing the entire content, you may have the option to edit the screenshot using the built-in tools. You can crop, annotate, or highlight specific parts of the image. Once you’re satisfied with the changes, tap on the **Save** or **Done** button to store the scrolling screenshot in your device’s gallery.
+5. **Edit and save the screenshot**: After capturing the entire content, you may have the option to edit the screenshot using the built-in tools. You can crop, annotate, or highlight specific parts of the image. Once you’re satisfied with the changes, tap on the **Save** or **Done** button to store the scrolling screenshot in your device’s gallery.
 
 ## Alternative Methods
 
 If your Android device doesn’t have a built-in scrolling screenshot feature, don’t worry! There are alternative methods you can use to achieve similar results:
 
-- **Third-party apps**: There are several apps available on the Google Play Store that offer scrolling screenshot functionality. Some popular options include LongShot, Stitch & Share, and Screenshot Easy. These apps work by automatically scrolling the screen and stitching multiple screenshots together.
+1. **Third-party apps**: There are several apps available on the Google Play Store that offer scrolling screenshot functionality. Some popular options include LongShot, Stitch & Share, and Screenshot Easy. These apps work by automatically scrolling the screen and stitching multiple screenshots together.
 
-- **Google Assistant**: If you have Google Assistant enabled on your device, you can use voice commands to take a scrolling screenshot. Simply say, “Hey Google, take a screenshot,” and then tap on the **Capture more** option when it appears.
+2. **Google Assistant**: If you have Google Assistant enabled on your device, you can use voice commands to take a scrolling screenshot. Simply say, “Hey Google, take a screenshot,” and then tap on the **Capture more** option when it appears.
 
-- **Manufacturer-specific features**: Some Android device manufacturers have their own implementations of the scrolling screenshot feature. For example, Samsung devices have a **Scroll capture** option in the screenshot toolbar, while OnePlus devices have an **Expanded screenshot** feature accessible through the power button menu.
+3. **Manufacturer-specific features**: Some Android device manufacturers have their own implementations of the scrolling screenshot feature. For example, Samsung devices have a **Scroll capture** option in the screenshot toolbar, while OnePlus devices have an **Expanded screenshot** feature accessible through the power button menu.
 
 ## Tips and Tricks
 

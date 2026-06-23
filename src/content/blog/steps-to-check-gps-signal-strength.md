@@ -18,11 +18,11 @@ To ensure your device is utilizing all available location services for the best 
 
 ![](/wp-content/uploads/2024/06/HoS_CheckGPS-3.jpg)
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap on **Location**
+2. Tap on **Location**
 
-- Select **High Accuracy** mode
+3. Select **High Accuracy** mode
 
 High Accuracy mode combines GPS, Wi-Fi, and mobile networks to determine your location more precisely.
 
@@ -32,25 +32,25 @@ Most Android devices have built-in GPS status tools that provide information abo
 
 ![](/wp-content/uploads/2024/06/HoS_CheckGPS-2.jpg)
 
-- Open the **Google Maps** app
+1. Open the **Google Maps** app
 
-- Tap on the blue dot representing your location
+2. Tap on the blue dot representing your location
 
-- In the menu that appears, tap on **Calibrate with Live View**
+3. In the menu that appears, tap on **Calibrate with Live View**
 
-- Follow the on-screen instructions to calibrate your compass and improve location accuracy
+4. Follow the on-screen instructions to calibrate your compass and improve location accuracy
 
 Alternatively, you can use the **GPS Test** tool hidden within Android’s developer options:
 
-- Go to **Settings > About phone**
+1. Go to **Settings > About phone**
 
-- Tap on **Build number** seven times to enable Developer options
+2. Tap on **Build number** seven times to enable Developer options
 
-- Return to the main Settings menu and select **Developer options**
+3. Return to the main Settings menu and select **Developer options**
 
-- Scroll down and tap on **GPS Test**
+4. Scroll down and tap on **GPS Test**
 
-- The GPS Test screen will display information about visible satellites, their signal strength, and estimated accuracy
+5. The GPS Test screen will display information about visible satellites, their signal strength, and estimated accuracy
 
 ## Step 3: Use Third-Party Apps for Detailed GPS Information
 
@@ -60,13 +60,13 @@ To use these apps:
 
 ![](/wp-content/uploads/2024/06/HoS_CheckGPS-1.jpg)
 
-- Download and install **GPS Status & Toolbox** or **GPSTest** from the Google Play Store
+1. Download and install **GPS Status & Toolbox** or **GPSTest** from the Google Play Store
 
-- Open the app and grant it location permissions
+2. Open the app and grant it location permissions
 
-- The app will display real-time information about GPS satellite signals, SNR values, and estimated accuracy
+3. The app will display real-time information about GPS satellite signals, SNR values, and estimated accuracy
 
-- Use the app’s tools to clear AGPS data, reset GPS settings, or download fresh AGPS data for faster location locks
+4. Use the app’s tools to clear AGPS data, reset GPS settings, or download fresh AGPS data for faster location locks
 
 ## Step 4: Ensure Clear Line of Sight to the Sky
 
@@ -84,9 +84,9 @@ Regularly updating your Android device’s operating system and location-based a
 
 ![](/wp-content/uploads/2024/06/HoS_CheckGPS.jpg)
 
-- Go to **Settings > System > System Update** to check for available Android updates
+1. Go to **Settings > System > System Update** to check for available Android updates
 
-- Open the **Google Play Store** app and tap on **My apps & games** to update your installed apps
+2. Open the **Google Play Store** app and tap on **My apps & games** to update your installed apps
 
 ## Conclusion
 

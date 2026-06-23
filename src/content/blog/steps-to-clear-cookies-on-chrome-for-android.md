@@ -48,15 +48,15 @@ After selecting the data types and time range, tap the **Clear data** button at 
 
 If you only want to remove cookies for a single website, you can do that too without clearing data for other sites. Here’s how:
 
-- Open the Chrome app and navigate to the website.
+1. Open the Chrome app and navigate to the website.
 
-- Tap the **lock icon** next to the URL in the address bar.
+2. Tap the **lock icon** next to the URL in the address bar.
 
-- Tap **Cookies**.
+3. Tap **Cookies**.
 
-- On the next screen, tap the **trash can icon** next to the site’s cookies.
+4. On the next screen, tap the **trash can icon** next to the site’s cookies.
 
-- Tap **Clear** to delete the cookies for that specific site.
+5. Tap **Clear** to delete the cookies for that specific site.
 
 This is useful if you’re having trouble with a particular website but don’t want to sign out of other sites or lose your saved preferences.
 

@@ -20,25 +20,25 @@ AI also helps with messy data. You can fix columns, merge files, or detect text 
 
 ## Step-by-Step to Analyze Business Data Using AI on Android
 
-- Open or install an AI-powered data analysis app like *Formula Bot*, *Gemini*, or *Julius AI* from the Play Store.
+1. Open or install an AI-powered data analysis app like *Formula Bot*, *Gemini*, or *Julius AI* from the Play Store.
 
-- Import your sales, cost, or marketing data from Google Sheets, Excel, or a CSV file.
+2. Import your sales, cost, or marketing data from Google Sheets, Excel, or a CSV file.
 
-- Clean the data using built-in tools to remove errors or missing values.
+3. Clean the data using built-in tools to remove errors or missing values.
 
-- Ask natural questions like “What were my top products this month” or “How did revenue change last quarter.”
+4. Ask natural questions like “What were my top products this month” or “How did revenue change last quarter.”
 
-- Let the AI summarize key metrics and generate visuals like bar charts or line graphs.
+5. Let the AI summarize key metrics and generate visuals like bar charts or line graphs.
 
-- Use correlation or trend analysis features to find patterns in your business data.
+6. Use correlation or trend analysis features to find patterns in your business data.
 
-- Export the results to share with your team or clients.
+7. Export the results to share with your team or clients.
 
-- Save your dashboard so you can keep tracking new data every week.
+8. Save your dashboard so you can keep tracking new data every week.
 
-- Use mobile widgets or notifications to stay on top of updates in real time.
+9. Use mobile widgets or notifications to stay on top of updates in real time.
 
-- Adjust your business decisions based on the insights you get, whether it’s changing pricing, focusing on certain products, or improving campaigns.
+10. Adjust your business decisions based on the insights you get, whether it’s changing pricing, focusing on certain products, or improving campaigns.
 
 ## Why Using AI Makes a Big Difference
 

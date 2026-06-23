@@ -22,15 +22,15 @@ Before we dive into the methods, let’s discuss why you might want to view Inst
 
 The easiest way to view Instagram photos in full size is by using the Instagram app itself. Here’s how:
 
-- Open the Instagram app on your Android device.
+1. Open the Instagram app on your Android device.
 
-- Find the photo you want to view in full size.
+2. Find the photo you want to view in full size.
 
-- Tap and hold on the photo until a menu appears.
+3. Tap and hold on the photo until a menu appears.
 
-- Select **View Profile Picture** or **View Photo** depending on whether it’s a profile picture or a regular photo.
+4. Select **View Profile Picture** or **View Photo** depending on whether it’s a profile picture or a regular photo.
 
-- The photo will open in full size. You can zoom in and out to see more details.
+5. The photo will open in full size. You can zoom in and out to see more details.
 
 ## Method 2: Using Third-Party Apps
 
@@ -38,45 +38,45 @@ If the Instagram app method doesn’t work for you, or if you want more features
 
 ### InstaSave
 
-- Download and install the InstaSave app from the Google Play Store.
+1. Download and install the InstaSave app from the Google Play Store.
 
-- Open the app and log in with your Instagram account.
+2. Open the app and log in with your Instagram account.
 
-- Find the photo you want to view in full size.
+3. Find the photo you want to view in full size.
 
-- Tap the download button to save the photo to your device in full resolution.
+4. Tap the download button to save the photo to your device in full resolution.
 
 ### FullSizeDP
 
-- Download and install the FullSizeDP app from the Google Play Store.
+1. Download and install the FullSizeDP app from the Google Play Store.
 
-- Open the app and enter the username of the Instagram account whose profile picture you want to view in full size.
+2. Open the app and enter the username of the Instagram account whose profile picture you want to view in full size.
 
-- Tap the **Get Full Size DP** button to view the profile picture in full resolution.
+3. Tap the **Get Full Size DP** button to view the profile picture in full resolution.
 
 ### Insta BigPic
 
-- Download and install the Insta BigPic app from the Google Play Store.
+1. Download and install the Insta BigPic app from the Google Play Store.
 
-- Open the app and log in with your Instagram account.
+2. Open the app and log in with your Instagram account.
 
-- Find the photo you want to view in full size.
+3. Find the photo you want to view in full size.
 
-- Tap the download button to save the photo to your device in full resolution.
+4. Tap the download button to save the photo to your device in full resolution.
 
 ## Method 3: Using a Web Browser
 
 If you don’t want to use the Instagram app or third-party apps, you can use a web browser to view Instagram photos in full size. Here’s how:
 
-- Open a web browser on your Android device.
+1. Open a web browser on your Android device.
 
-- Go to the Instagram website and log in with your account.
+2. Go to the Instagram website and log in with your account.
 
-- Find the photo you want to view in full size.
+3. Find the photo you want to view in full size.
 
-- Tap and hold on the photo until a menu appears.
+4. Tap and hold on the photo until a menu appears.
 
-- Select **Open image in new tab** to view the photo in full size.
+5. Select **Open image in new tab** to view the photo in full size.
 
 ## Tips for Posting High-Quality Photos on Instagram
 

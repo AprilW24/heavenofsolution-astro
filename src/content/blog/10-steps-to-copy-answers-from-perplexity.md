@@ -20,25 +20,25 @@ Copying directly from Perplexity sometimes comes with extra formatting or footno
 
 Here’s how to copy an answer from Perplexity on your Android device:
 
-- Open the Perplexity app on your Android phone.
+1. Open the Perplexity app on your Android phone.
 
-- Find and open the answer you want to copy, whether from your library, threads, or a new search.
+2. Find and open the answer you want to copy, whether from your library, threads, or a new search.
 
-- Scroll down to the bottom of the answer you want to copy.
+3. Scroll down to the bottom of the answer you want to copy.
 
-- Look for the copy icon—usually shown as two overlapping pages or a clipboard symbol.
+4. Look for the copy icon—usually shown as two overlapping pages or a clipboard symbol.
 
-- Tap the copy icon to copy the answer to your clipboard.
+5. Tap the copy icon to copy the answer to your clipboard.
 
-- Open the app or document where you want to paste the answer.
+6. Open the app or document where you want to paste the answer.
 
-- Paste the copied text using a long press and selecting “Paste” or using the paste button.
+7. Paste the copied text using a long press and selecting “Paste” or using the paste button.
 
-- Check the pasted text for any extra formatting or symbols and clean up if needed.
+8. Check the pasted text for any extra formatting or symbols and clean up if needed.
 
-- Save or share your copied answer as you like.
+9. Save or share your copied answer as you like.
 
-- Repeat for any other answers you want to copy.
+10. Repeat for any other answers you want to copy.
 
 ## Troubleshooting and Extra Tips
 

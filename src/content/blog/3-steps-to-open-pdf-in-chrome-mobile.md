@@ -18,21 +18,21 @@ The good news is that there are several ways to open and view PDFs in Chrome on 
 
 Chrome for Android has a built-in PDF viewer that allows you to open and read PDF files directly in the browser. However, this feature may not be enabled by default on all devices. Here’s how to use and enable Chrome’s built-in PDF viewer:
 
-- **Open Chrome**: Launch the Chrome browser on your Android device.
+1. **Open Chrome**: Launch the Chrome browser on your Android device.
 
-- **Navigate to a PDF**: Either enter the URL of a PDF file or locate a PDF link on a webpage.
+2. **Navigate to a PDF**: Either enter the URL of a PDF file or locate a PDF link on a webpage.
 
-- **Tap on the PDF link**: If Chrome’s PDF viewer is enabled, the PDF should open directly in the browser.
+3. **Tap on the PDF link**: If Chrome’s PDF viewer is enabled, the PDF should open directly in the browser.
 
 If the PDF doesn’t open and instead downloads to your device, you may need to enable the PDF viewer in Chrome’s settings:
 
-- **Open Chrome Settings**: Tap the three-dot menu in the top-right corner and select “Settings.”
+1. **Open Chrome Settings**: Tap the three-dot menu in the top-right corner and select “Settings.”
 
-- **Access Site Settings**: Scroll down and tap on “Site settings.”
+2. **Access Site Settings**: Scroll down and tap on “Site settings.”
 
-- **Find PDF Documents**: Look for “Additional content settings” and tap on “PDF documents.”
+3. **Find PDF Documents**: Look for “Additional content settings” and tap on “PDF documents.”
 
-- **Enable PDF Viewer**: Toggle on the “Download PDFs” option to disable automatic downloads and enable the built-in viewer.
+4. **Enable PDF Viewer**: Toggle on the “Download PDFs” option to disable automatic downloads and enable the built-in viewer.
 
 Once enabled, Chrome should open PDF files directly in the browser instead of downloading them.
 
@@ -40,15 +40,15 @@ Once enabled, Chrome should open PDF files directly in the browser instead of do
 
 If Chrome’s built-in PDF viewer isn’t working or you prefer a more feature-rich experience, you can use Google Drive to open PDFs in Chrome mobile:
 
-- **Upload PDF to Google Drive**: If your PDF isn’t already in Google Drive, upload it through the Drive app or website.
+1. **Upload PDF to Google Drive**: If your PDF isn’t already in Google Drive, upload it through the Drive app or website.
 
-- **Open Chrome**: Launch the Chrome browser on your Android device.
+2. **Open Chrome**: Launch the Chrome browser on your Android device.
 
-- **Navigate to Google Drive**: Go to drive.google.com and sign in if necessary.
+3. **Navigate to Google Drive**: Go to drive.google.com and sign in if necessary.
 
-- **Locate the PDF**: Find the PDF file you want to open in your Drive.
+4. **Locate the PDF**: Find the PDF file you want to open in your Drive.
 
-- **Tap to open**: Tap on the PDF file, and it should open in Chrome using Google Drive’s PDF viewer.
+5. **Tap to open**: Tap on the PDF file, and it should open in Chrome using Google Drive’s PDF viewer.
 
 This method offers additional features like zooming, searching within the document, and even basic editing capabilities.
 
@@ -56,11 +56,11 @@ This method offers additional features like zooming, searching within the docume
 
 If you frequently work with PDFs and need more advanced features, consider installing a dedicated PDF reader app. Many of these apps integrate with Chrome, allowing you to open PDFs directly from the browser:
 
-- **Install a PDF reader**: Choose a reputable PDF reader app from the Google Play Store, such as Adobe Acrobat Reader, Xodo PDF Reader, or Foxit PDF Reader.
+1. **Install a PDF reader**: Choose a reputable PDF reader app from the Google Play Store, such as Adobe Acrobat Reader, Xodo PDF Reader, or Foxit PDF Reader.
 
-- **Set as default**: When you first try to open a PDF in Chrome after installing the reader, you’ll be prompted to choose an app. Select your new PDF reader and choose “Always” to set it as the default.
+2. **Set as default**: When you first try to open a PDF in Chrome after installing the reader, you’ll be prompted to choose an app. Select your new PDF reader and choose “Always” to set it as the default.
 
-- **Open PDFs**: Now, when you tap on a PDF link in Chrome, it should automatically open in your chosen PDF reader app.
+3. **Open PDFs**: Now, when you tap on a PDF link in Chrome, it should automatically open in your chosen PDF reader app.
 
 Using a dedicated PDF reader often provides a better reading experience and more features than Chrome’s built-in viewer.
 

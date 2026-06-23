@@ -48,11 +48,11 @@ Changing the site permission tells Chrome that you trust the site and want to al
 
 If the above steps don’t resolve the issue, you may need to adjust your Safe Browsing settings in Chrome. There are three protection levels:
 
-- **Enhanced Protection** – Offers the most proactive security against threats, but may block more downloads
+1. **Enhanced Protection** – Offers the most proactive security against threats, but may block more downloads
 
-- **Standard Protection** – The default setting, protects against known threats
+2. **Standard Protection** – The default setting, protects against known threats
 
-- **No Protection** – Turns off Safe Browsing entirely, leaving you vulnerable to threats
+3. **No Protection** – Turns off Safe Browsing entirely, leaving you vulnerable to threats
 
 To maximize security, you should keep Safe Browsing on if possible. But if you need to download a blocked file, you can temporarily lower or disable protection:
 
@@ -114,16 +114,16 @@ A simple restart is often an effective troubleshooting step when you encounter i
 
 Chrome’s download blocking can be an annoyance, but it serves an important purpose in protecting your device from online threats. By following the steps outlined above, you can unblock downloads when needed while still maintaining a good level of security:
 
-- Check your Chrome download settings
+1. Check your Chrome download settings
 
-- Allow downloads from trusted sites
+2. Allow downloads from trusted sites
 
-- Adjust your Safe Browsing level
+3. Adjust your Safe Browsing level
 
-- Unblock individual downloaded files
+4. Unblock individual downloaded files
 
-- Clear your browsing data
+5. Clear your browsing data
 
-- Restart your Android device
+6. Restart your Android device
 
 The key is to find the right balance between access and security. Unblock downloads strategically for sites and files you trust, but keep your guard up against potential threats. With these tips, you can take control of downloading in Chrome on Android.

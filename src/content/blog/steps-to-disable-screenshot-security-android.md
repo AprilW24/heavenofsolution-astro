@@ -14,13 +14,13 @@ Fortunately, there are several methods you can use to bypass screenshot restrict
 
 Before resorting to more advanced measures, first check if the app you’re trying to screenshot has a built-in option to allow screenshots:
 
-- Open the **Settings** menu within the app that’s blocking screenshots. This is often found by tapping the three-dot overflow menu icon.
+1. Open the **Settings** menu within the app that’s blocking screenshots. This is often found by tapping the three-dot overflow menu icon.
 
-- Look for options related to **Security & Privacy** or **Permissions**. The exact labels will vary by app.
+2. Look for options related to **Security & Privacy** or **Permissions**. The exact labels will vary by app.
 
-- See if there is a toggle to **Allow screenshots** or **Disable secure window**. Enable this setting if available.
+3. See if there is a toggle to **Allow screenshots** or **Disable secure window**. Enable this setting if available.
 
-- Restart the app and try taking a screenshot again to see if it works.
+4. Restart the app and try taking a screenshot again to see if it works.
 
 Not all apps include configurable screenshot settings, so if you don’t see this option, move on to the other methods below.
 
@@ -28,15 +28,15 @@ Not all apps include configurable screenshot settings, so if you don’t see thi
 
 If you’re trying to capture a webpage in Chrome’s Incognito mode, screenshots are blocked by default. However, you can enable them through an experimental flag:
 
-- Open **Chrome** and type chrome://flags into the address bar.
+1. Open **Chrome** and type chrome://flags into the address bar.
 
-- In the search box at the top, type **incognito screenshot**.
+2. In the search box at the top, type **incognito screenshot**.
 
-- Tap the dropdown menu next to the **Incognito Screenshot** flag and change it to **Enabled**.
+3. Tap the dropdown menu next to the **Incognito Screenshot** flag and change it to **Enabled**.
 
-- Tap the **Relaunch** button at the bottom to restart Chrome and apply the change.
+4. Tap the **Relaunch** button at the bottom to restart Chrome and apply the change.
 
-- Open an Incognito tab and try taking a screenshot. It should now work without any security errors.
+5. Open an Incognito tab and try taking a screenshot. It should now work without any security errors.
 
 Keep in mind that this flag is still experimental, so it may not be available on all versions of Chrome or could be removed in future updates.
 
@@ -44,13 +44,13 @@ Keep in mind that this flag is still experimental, so it may not be available on
 
 Google Assistant has a built-in screenshot tool that can sometimes bypass app restrictions:
 
-- Open the app or screen you want to capture.
+1. Open the app or screen you want to capture.
 
-- Trigger the **Google Assistant** by saying “Hey Google” or long-pressing the Home button.
+2. Trigger the **Google Assistant** by saying “Hey Google” or long-pressing the Home button.
 
-- Say “Take a screenshot” and the Assistant should snap a picture of your screen, even if the app normally blocks it.
+3. Say “Take a screenshot” and the Assistant should snap a picture of your screen, even if the app normally blocks it.
 
-- The screenshot will be saved to your device’s Photos or Gallery app where you can view and share it.
+4. The screenshot will be saved to your device’s Photos or Gallery app where you can view and share it.
 
 This method isn’t foolproof, as some high-security apps can still prevent the Assistant from capturing the screen. But it’s a quick and easy way to try circumventing the restriction.
 
@@ -58,17 +58,17 @@ This method isn’t foolproof, as some high-security apps can still prevent the 
 
 If you have access to another device, you can cast your Android’s screen to it and take a screenshot there instead:
 
-- Install the **Google Home** app on both your Android device and the second phone, tablet, or computer.
+1. Install the **Google Home** app on both your Android device and the second phone, tablet, or computer.
 
-- Open the **Google Home** app on your Android device and tap the **Account** tab.
+2. Open the **Google Home** app on your Android device and tap the **Account** tab.
 
-- Verify that **Mirror device** is turned on under the **Services** section.
+3. Verify that **Mirror device** is turned on under the **Services** section.
 
-- On the second device, open the **Google Home** app and look for your Android phone or tablet under the **Devices** tab.
+4. On the second device, open the **Google Home** app and look for your Android phone or tablet under the **Devices** tab.
 
-- Tap on your Android device to connect to it and mirror its screen.
+5. Tap on your Android device to connect to it and mirror its screen.
 
-- Use the screenshot function on the second device to capture your Android’s screen.
+6. Use the screenshot function on the second device to capture your Android’s screen.
 
 Since the screenshot is taken on a separate device, any restrictions on your Android phone or tablet won’t apply. The downside is this method requires additional hardware and a bit more setup time.
 

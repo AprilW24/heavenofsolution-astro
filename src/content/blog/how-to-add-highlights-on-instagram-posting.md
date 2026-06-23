@@ -86,9 +86,9 @@ This method is quick and doesn’t require changing any settings. However, it do
 
 While this method doesn’t allow you to add full Stories to your Highlights without posting, it does let you customize the appearance of your Highlights without creating public Stories:
 
-- **Design Custom Covers**: Create custom images for your Highlight covers using design tools like Canva or Photoshop. Make sure they’re sized correctly for Instagram (1080×1920 pixels).
+1. **Design Custom Covers**: Create custom images for your Highlight covers using design tools like Canva or Photoshop. Make sure they’re sized correctly for Instagram (1080×1920 pixels).
 
-- **Edit Existing Highlight**:
+2. **Edit Existing Highlight**:
 
 - Go to your profile and tap on the Highlight you want to edit
 

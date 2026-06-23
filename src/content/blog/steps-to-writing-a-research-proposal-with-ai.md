@@ -14,25 +14,25 @@ I’ve definitely found myself in situations where I want a neat, organized draf
 
 One thing I stick to is this simple process for using an AI app on my phone to write a full research proposal. Here’s my go-to step-by-step method:
 
-- Pick a reliable AI writing app from your app store.
+1. Pick a reliable AI writing app from your app store.
 
-- Log in and look for a ‘research proposal’ or ‘academic writing’ template.
+2. Log in and look for a ‘research proposal’ or ‘academic writing’ template.
 
-- Tap to create a new document or proposal.
+3. Tap to create a new document or proposal.
 
-- Type in your research topic and short description in plain language.
+4. Type in your research topic and short description in plain language.
 
-- Fill out any form fields for details like research question, objectives, and methodology.
+5. Fill out any form fields for details like research question, objectives, and methodology.
 
-- Ask the app to include a *literature review* section by typing a short instruction.
+6. Ask the app to include a *literature review* section by typing a short instruction.
 
-- Choose your academic field or discipline to get more focused results.
+7. Choose your academic field or discipline to get more focused results.
 
-- Review the first AI draft and make edits to match your style or requirements.
+8. Review the first AI draft and make edits to match your style or requirements.
 
-- Add any *references* or key readings you want mentioned.
+9. Add any *references* or key readings you want mentioned.
 
-- Export your draft to your email, notes, or a *PDF* for sharing and review.
+10. Export your draft to your email, notes, or a *PDF* for sharing and review.
 
 ## Why Using AI on Mobile Makes This So Much Easier
 

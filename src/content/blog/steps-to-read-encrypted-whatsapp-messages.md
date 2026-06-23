@@ -16,11 +16,11 @@ One of the easiest ways to read encrypted WhatsApp messages is by using WhatsApp
 
 **Steps:**
 
-- Open WhatsApp on the target device and go to Settings > Linked Devices.
+1. Open WhatsApp on the target device and go to Settings > Linked Devices.
 
-- Tap on **Link a Device** and scan the QR code that appears on the screen using your computer’s web browser.
+2. Tap on **Link a Device** and scan the QR code that appears on the screen using your computer’s web browser.
 
-- Once linked, you can access all the encrypted messages on the target device through WhatsApp Web on your computer.
+3. Once linked, you can access all the encrypted messages on the target device through WhatsApp Web on your computer.
 
 ### Method 2: Using a WhatsApp Data Recovery Tool
 
@@ -28,13 +28,13 @@ If you don’t have access to the target device or the account credentials, you 
 
 **Steps:**
 
-- Download and install a reputable WhatsApp data recovery tool on your computer, such as iMyFone ChatsBack or Dr.Fone.
+1. Download and install a reputable WhatsApp data recovery tool on your computer, such as iMyFone ChatsBack or Dr.Fone.
 
-- Connect the target device to your computer using a USB cable.
+2. Connect the target device to your computer using a USB cable.
 
-- Follow the prompts in the data recovery tool to scan and extract the encrypted WhatsApp messages from the device.
+3. Follow the prompts in the data recovery tool to scan and extract the encrypted WhatsApp messages from the device.
 
-- Once extracted, the tool will attempt to decrypt the messages using advanced algorithms.
+4. Once extracted, the tool will attempt to decrypt the messages using advanced algorithms.
 
 **Note:** This method may require you to root or jailbreak the target device, which can be a complex and risky process. It’s recommended to seek professional assistance if you’re not familiar with the process.
 
@@ -44,15 +44,15 @@ Another method to read encrypted WhatsApp messages is by using a WhatsApp viewer
 
 **Steps:**
 
-- Root or jailbreak the target device using a reliable tool like Magisk or Cydia.
+1. Root or jailbreak the target device using a reliable tool like Magisk or Cydia.
 
-- Download and install a WhatsApp viewer tool like WhatsApp Viewer or Whapa on your computer.
+2. Download and install a WhatsApp viewer tool like WhatsApp Viewer or Whapa on your computer.
 
-- Connect the target device to your computer using a USB cable.
+3. Connect the target device to your computer using a USB cable.
 
-- Use the WhatsApp viewer tool to locate and extract the encrypted WhatsApp database files from the device.
+4. Use the WhatsApp viewer tool to locate and extract the encrypted WhatsApp database files from the device.
 
-- Use the tool to decrypt the database files and view the encrypted messages.
+5. Use the tool to decrypt the database files and view the encrypted messages.
 
 **Note:** Rooting or jailbreaking a device can be a complex process and may void the device’s warranty. It’s recommended to seek professional assistance if you’re not familiar with the process.
 

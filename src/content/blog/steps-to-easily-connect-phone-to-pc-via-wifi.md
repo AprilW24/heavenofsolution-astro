@@ -28,17 +28,17 @@ Now that you know the perks, let’s dive into how to actually connect your phon
 
 Windows 10 and 11 come with a built-in “Your Phone” app that lets you link your Android phone or iPhone to your PC wirelessly. Here’s how to set it up:
 
-- **On your PC:** Open the Your Phone app. You can find it by searching the Start menu. Click **Get started**.
+1. **On your PC:** Open the Your Phone app. You can find it by searching the Start menu. Click **Get started**.
 
-- **On your Android phone:** Download and install the **Your Phone Companion** app from the Google Play Store. Open the app and tap **Sign in with Microsoft**.
+2. **On your Android phone:** Download and install the **Your Phone Companion** app from the Google Play Store. Open the app and tap **Sign in with Microsoft**.
 
-- **On your iPhone:** The Your Phone app has limited functionality for iOS. You can’t transfer files, but you can send webpages from your phone to PC. Download and install the **Continue on PC** app from the App Store.
+3. **On your iPhone:** The Your Phone app has limited functionality for iOS. You can’t transfer files, but you can send webpages from your phone to PC. Download and install the **Continue on PC** app from the App Store.
 
-- **Sign in** with the same Microsoft account on both your phone and PC.
+4. **Sign in** with the same Microsoft account on both your phone and PC.
 
-- **Allow permissions** on your phone so Your Phone can access your photos, files, etc.
+5. **Allow permissions** on your phone so Your Phone can access your photos, files, etc.
 
-- **Connected!** You should now see your phone’s photos, texts, notifications and more in the Your Phone app on your PC. You can drag and drop files between devices.
+6. **Connected!** You should now see your phone’s photos, texts, notifications and more in the Your Phone app on your PC. You can drag and drop files between devices.
 
 ### Method 2: Use Third-Party Apps to Connect Phone to PC via WiFi
 
@@ -56,15 +56,15 @@ The setup process varies between apps, but typically involves installing the app
 
 For a more manual method that doesn’t require installing any extra software on your PC, you can turn your phone into an FTP server and access it from your computer’s file manager. To do this:
 
-- **On your Android phone:** Download an FTP server app like WiFi FTP Server or primitive ftpd. Open the app and start the FTP server. Note the ftp:// address.
+1. **On your Android phone:** Download an FTP server app like WiFi FTP Server or primitive ftpd. Open the app and start the FTP server. Note the ftp:// address.
 
-- **On your iPhone:** Download an FTP server app like FE File Explorer or Documents by Readdle. Open the app, enable the WiFi transfer feature, and note the ftp:// address.
+2. **On your iPhone:** Download an FTP server app like FE File Explorer or Documents by Readdle. Open the app, enable the WiFi transfer feature, and note the ftp:// address.
 
-- **On your PC:** Open File Explorer on Windows or Finder on Mac. Type the ftp:// address from your phone into the address bar and hit Enter.
+3. **On your PC:** Open File Explorer on Windows or Finder on Mac. Type the ftp:// address from your phone into the address bar and hit Enter.
 
-- **Log in** with the username and password shown in your FTP server app, if prompted.
+4. **Log in** with the username and password shown in your FTP server app, if prompted.
 
-- **Browse and transfer files** between your phone and computer using the file manager.
+5. **Browse and transfer files** between your phone and computer using the file manager.
 
 ### Conclusion
 

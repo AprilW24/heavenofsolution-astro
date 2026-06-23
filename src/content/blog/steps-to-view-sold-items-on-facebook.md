@@ -28,21 +28,21 @@ Viewing sold Marketplace listings is easy to do on both desktop and mobile.
 
 #### 1. On Desktop
 
-- Go to [Facebook Marketplace](https://www.facebook.com/marketplace) and click on the **Selling** tab in the left sidebar.
+1. Go to [Facebook Marketplace](https://www.facebook.com/marketplace) and click on the **Selling** tab in the left sidebar.
 
-- In the **Status** filter at the top, choose **Sold**.
+2. In the **Status** filter at the top, choose **Sold**.
 
-- This will display all your sold listings from the past 30 days.
+3. This will display all your sold listings from the past 30 days.
 
 #### 2. On Mobile
 
-- Open the Facebook app and tap on **Marketplace** at the bottom.
+1. Open the Facebook app and tap on **Marketplace** at the bottom.
 
-- Tap on the account icon in the top-right corner.
+2. Tap on the account icon in the top-right corner.
 
-- Select **Your Listings**.
+3. Select **Your Listings**.
 
-- Tap on **Status** and choose **Sold**.
+4. Tap on **Status** and choose **Sold**.
 
 Pro Tip: To analyze specifics around an item, tap into each individual sold listing. This will show the exact sale price, date sold, and buyer details.
 

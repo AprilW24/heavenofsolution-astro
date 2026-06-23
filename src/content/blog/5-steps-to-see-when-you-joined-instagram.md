@@ -26,13 +26,13 @@ Now, let’s explore the different ways to uncover your Instagram join date.
 
 One of the simplest ways to get an idea of when you joined Instagram is to find your first post.
 
-- Open the Instagram app on your mobile device.
+1. Open the Instagram app on your mobile device.
 
-- Go to your profile by tapping on your profile picture in the bottom right corner.
+2. Go to your profile by tapping on your profile picture in the bottom right corner.
 
-- Scroll all the way down to your very first post.
+3. Scroll all the way down to your very first post.
 
-- The date on this post will give you a good approximation of when you joined.
+4. The date on this post will give you a good approximation of when you joined.
 
 **Note**: This method isn’t exact, as you may not have posted immediately after joining. However, it provides a reasonable estimate for most users.
 
@@ -40,17 +40,17 @@ One of the simplest ways to get an idea of when you joined Instagram is to find 
 
 Instagram offers a feature that allows you to download all your data, including your account creation date. Here’s how to use it:
 
-- Go to your Instagram profile and tap the three lines in the top right corner.
+1. Go to your Instagram profile and tap the three lines in the top right corner.
 
-- Select “Settings and privacy.”
+2. Select “Settings and privacy.”
 
-- Scroll down and tap “Download your information.”
+3. Scroll down and tap “Download your information.”
 
-- Enter your email address and tap “Request download.”
+4. Enter your email address and tap “Request download.”
 
-- You’ll receive an email with a link to your data within 48 hours.
+5. You’ll receive an email with a link to your data within 48 hours.
 
-- Download and open the file, then look for the “Date joined” information.
+6. Download and open the file, then look for the “Date joined” information.
 
 This method provides the most accurate join date, straight from Instagram’s records.
 
@@ -58,13 +58,13 @@ This method provides the most accurate join date, straight from Instagram’s re
 
 If you still have access to the email account you used to sign up for Instagram, you might find your welcome email:
 
-- Log into your email account.
+1. Log into your email account.
 
-- Search for “Welcome to Instagram” or “Instagram sign up.”
+2. Search for “Welcome to Instagram” or “Instagram sign up.”
 
-- Find the oldest email from Instagram, which should be your welcome message.
+3. Find the oldest email from Instagram, which should be your welcome message.
 
-- The date of this email will be your join date.
+4. The date of this email will be your join date.
 
 **Pro Tip**: If you use Gmail, try searching with “from:instagram.com” to filter all emails from Instagram.
 
@@ -72,13 +72,13 @@ If you still have access to the email account you used to sign up for Instagram,
 
 There are third-party websites that claim to show your Instagram join date. However, be cautious when using these:
 
-- Search for “Instagram join date checker” on your preferred search engine.
+1. Search for “Instagram join date checker” on your preferred search engine.
 
-- Choose a reputable-looking website.
+2. Choose a reputable-looking website.
 
-- Enter your Instagram username (not your password).
+3. Enter your Instagram username (not your password).
 
-- The site may display your estimated join date.
+4. The site may display your estimated join date.
 
 **Warning**: Be very careful with third-party sites. Never enter your password or sensitive information. These sites may not be accurate or secure.
 
@@ -86,13 +86,13 @@ There are third-party websites that claim to show your Instagram join date. Howe
 
 If all else fails, you can try contacting Instagram directly:
 
-- Go to the Instagram Help Center.
+1. Go to the Instagram Help Center.
 
-- Look for a “Contact Us” or similar option.
+2. Look for a “Contact Us” or similar option.
 
-- Explain that you’re trying to find your account creation date.
+3. Explain that you’re trying to find your account creation date.
 
-- Provide your username and any other requested information.
+4. Provide your username and any other requested information.
 
 Be patient, as response times can vary, and there’s no guarantee they’ll provide this information.
 

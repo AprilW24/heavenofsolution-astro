@@ -48,13 +48,13 @@ Take a moment to read through the terms of service and privacy policy to ensure 
 
 Once you’ve chosen a service and created an account (if necessary), it’s time to upload your files. The process typically involves the following:
 
-- **Log in** to your chosen file sharing service.
+1. **Log in** to your chosen file sharing service.
 
-- Look for an **“Upload” button** or a designated area to drag and drop files.
+2. Look for an **“Upload” button** or a designated area to drag and drop files.
 
-- **Select the files** you want to upload from your device.
+3. **Select the files** you want to upload from your device.
 
-- **Wait for the upload to complete**. The time this takes will depend on your internet connection speed and the size of your files.
+4. **Wait for the upload to complete**. The time this takes will depend on your internet connection speed and the size of your files.
 
 **Pro tip**: If you’re uploading multiple files, consider compressing them into a single ZIP file first. This can make the upload process faster and more manageable, especially if you’re sharing many small files.
 
@@ -78,11 +78,11 @@ Take the time to review and adjust these settings according to your needs. For s
 
 With your files uploaded and sharing settings configured, you’re ready to share! The most common methods for sharing your files are:
 
-- **Copy the sharing link**: Most services provide a URL that you can copy and paste into an email, message, or social media post.
+1. **Copy the sharing link**: Most services provide a URL that you can copy and paste into an email, message, or social media post.
 
-- **Use the platform’s sharing features**: Many services integrate with email or messaging apps, allowing you to share directly from the platform.
+2. **Use the platform’s sharing features**: Many services integrate with email or messaging apps, allowing you to share directly from the platform.
 
-- **Adjust permissions for specific users**: If you’re using a service like Google Drive, you can invite specific people and set individual permissions for each user.
+3. **Adjust permissions for specific users**: If you’re using a service like Google Drive, you can invite specific people and set individual permissions for each user.
 
 When sharing, always double-check that you’ve selected the correct files and that the sharing settings are appropriate for your intended audience.
 
@@ -104,19 +104,19 @@ Regular management of your shared files ensures that your storage remains organi
 
 To make the most of free online file sharing services and ensure a smooth experience for both you and your recipients, consider these best practices:
 
-- **Be mindful of file sizes**: Even with large file sharing services, there are usually limits. Break up extremely large files if necessary.
+1. **Be mindful of file sizes**: Even with large file sharing services, there are usually limits. Break up extremely large files if necessary.
 
-- **Use descriptive file names**: This helps recipients identify the contents without having to open each file.
+2. **Use descriptive file names**: This helps recipients identify the contents without having to open each file.
 
-- **Compress files when possible**: This can significantly reduce upload and download times.
+3. **Compress files when possible**: This can significantly reduce upload and download times.
 
-- **Check your internet connection**: A stable, fast connection will make the upload process much smoother.
+4. **Check your internet connection**: A stable, fast connection will make the upload process much smoother.
 
-- **Be cautious with sensitive information**: Always use secure methods and consider encrypting sensitive files before uploading.
+5. **Be cautious with sensitive information**: Always use secure methods and consider encrypting sensitive files before uploading.
 
-- **Communicate with recipients**: Let them know you’ve shared files and provide any necessary instructions or passwords.
+6. **Communicate with recipients**: Let them know you’ve shared files and provide any necessary instructions or passwords.
 
-- **Clean up after sharing**: Delete files you no longer need to share to maintain your privacy and free up storage space.
+7. **Clean up after sharing**: Delete files you no longer need to share to maintain your privacy and free up storage space.
 
 ## Conclusion
 

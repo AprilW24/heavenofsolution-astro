@@ -26,33 +26,33 @@ Before you start creating your slideshow, you’ll need to decide which photos o
 
 To begin creating your slideshow:
 
-- Open the Instagram app on your mobile device
+1. Open the Instagram app on your mobile device
 
-- Tap the camera icon in the top-left corner or swipe right from your feed to access the Story camera
+2. Tap the camera icon in the top-left corner or swipe right from your feed to access the Story camera
 
-- At the bottom of the screen, select **Create** mode
+3. At the bottom of the screen, select **Create** mode
 
 ### 3. Upload Your Photos and Videos
 
 Now it’s time to add your content to the Story:
 
-- Tap the square icon in the bottom-left corner to access your gallery
+1. Tap the square icon in the bottom-left corner to access your gallery
 
-- Select the **Multiple** option to choose several photos or videos
+2. Select the **Multiple** option to choose several photos or videos
 
-- Pick the content you want to include in your slideshow
+3. Pick the content you want to include in your slideshow
 
-- Tap **Next** when you’re done selecting
+4. Tap **Next** when you’re done selecting
 
 ### 4. Arrange and Edit Your Slides
 
 After uploading your content, you can customize each slide:
 
-- Drag and drop the slides to reorder them as desired
+1. Drag and drop the slides to reorder them as desired
 
-- Tap each slide to access editing options like filters, text, and stickers
+2. Tap each slide to access editing options like filters, text, and stickers
 
-- Adjust the duration of each slide by tapping and holding it, then dragging the slider at the bottom
+3. Adjust the duration of each slide by tapping and holding it, then dragging the slider at the bottom
 
 **Remember**: Keep each slide between 3-5 seconds for optimal viewing experience.
 
@@ -60,15 +60,15 @@ After uploading your content, you can customize each slide:
 
 Adding music is what will make your slideshow truly stand out. Here’s how to do it:
 
-- Tap the sticker icon at the top of the screen
+1. Tap the sticker icon at the top of the screen
 
-- Select the **Music** sticker
+2. Select the **Music** sticker
 
-- Browse through the available tracks or use the search function to find a specific song
+3. Browse through the available tracks or use the search function to find a specific song
 
-- Once you’ve chosen a song, select the portion you want to use by dragging the slider at the bottom
+4. Once you’ve chosen a song, select the portion you want to use by dragging the slider at the bottom
 
-- Adjust the music sticker’s appearance or hide it completely if you prefer
+5. Adjust the music sticker’s appearance or hide it completely if you prefer
 
 Instagram offers a vast library of licensed music, ensuring you have plenty of options to match your slideshow’s mood and theme.
 
@@ -76,11 +76,11 @@ Instagram offers a vast library of licensed music, ensuring you have plenty of o
 
 To make your slideshow more engaging:
 
-- Add text to provide context or captions for your images
+1. Add text to provide context or captions for your images
 
-- Use stickers to make your Story more interactive (e.g., polls, questions, or emoji sliders)
+2. Use stickers to make your Story more interactive (e.g., polls, questions, or emoji sliders)
 
-- Consider using GIFs to add movement and fun to static images
+3. Consider using GIFs to add movement and fun to static images
 
 **Pro tip**: Use consistent fonts and colors across your slides to maintain a cohesive look.
 
@@ -88,21 +88,21 @@ To make your slideshow more engaging:
 
 Before posting, it’s crucial to review your slideshow:
 
-- Use the preview function to watch your slideshow from start to finish
+1. Use the preview function to watch your slideshow from start to finish
 
-- Make any necessary adjustments to timing, music sync, or content order
+2. Make any necessary adjustments to timing, music sync, or content order
 
-- Ensure the music complements your visuals and doesn’t overpower them
+3. Ensure the music complements your visuals and doesn’t overpower them
 
 ### 8. Share Your Slideshow
 
 Once you’re satisfied with your creation:
 
-- Tap **Send To** at the bottom of the screen
+1. Tap **Send To** at the bottom of the screen
 
-- Select **Your Story** to post it to your Instagram Story
+2. Select **Your Story** to post it to your Instagram Story
 
-- Optionally, you can also send it to close friends or share it as a direct message
+3. Optionally, you can also send it to close friends or share it as a direct message
 
 ## Advanced Tips for Creating Stellar Slideshows
 

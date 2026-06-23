@@ -10,11 +10,11 @@ If you’ve recently switched from an Android phone to an iPad, one of the first
 
 In this article, we’ll walk through step-by-step instructions for three easy ways to send photos from Android to iPad:
 
-- Using Apple’s Move to iOS app
+1. Using Apple’s Move to iOS app
 
-- Via cloud storage services like Google Photos
+2. Via cloud storage services like Google Photos
 
-- With third-party transfer apps
+3. With third-party transfer apps
 
 Before getting started, there are a few things to keep in mind:
 
@@ -34,17 +34,17 @@ Apple provides an official app called **Move to iOS** specifically for migrating
 
 Here’s how to transfer photos with Move to iOS:
 
-- On your iPad, begin the setup process until you reach the **Apps & Data** screen.
+1. On your iPad, begin the setup process until you reach the **Apps & Data** screen.
 
-- Select the **Move Data from Android** option.
+2. Select the **Move Data from Android** option.
 
-- On your Android phone, **install the Move to iOS app** from the Google Play Store and open it.
+3. On your Android phone, **install the Move to iOS app** from the Google Play Store and open it.
 
-- Tap **Continue** on both devices and agree to the terms and conditions on the Android phone.
+4. Tap **Continue** on both devices and agree to the terms and conditions on the Android phone.
 
-- On the Android device, enter the **12-digit code** displayed on the iPad.
+5. On the Android device, enter the **12-digit code** displayed on the iPad.
 
-- Select **Photos** on the Transfer Data screen and tap Next to begin transferring photos to your iPad.
+6. Select **Photos** on the Transfer Data screen and tap Next to begin transferring photos to your iPad.
 
 ### Method 2: Via Cloud Storage Services
 
@@ -52,15 +52,15 @@ Another easy option is to use a **cloud storage service** like Google Photos to 
 
 Follow these steps:
 
-- On your Android phone, **download the Google Photos app** if you don’t already have it.
+1. On your Android phone, **download the Google Photos app** if you don’t already have it.
 
-- In Google Photos, tap your **profile picture** and select **Turn on backup**.
+2. In Google Photos, tap your **profile picture** and select **Turn on backup**.
 
-- Wait for your photos to finish uploading to Google Photos.
+3. Wait for your photos to finish uploading to Google Photos.
 
-- On your iPad, **install Google Photos** from the App Store and sign in with the same Google account.
+4. On your iPad, **install Google Photos** from the App Store and sign in with the same Google account.
 
-- Now you can **access all your backed up photos** on your iPad.
+5. Now you can **access all your backed up photos** on your iPad.
 
 This method also works with other popular cloud services like Dropbox and OneDrive. The main drawback is that transferring a large photo library can take a long time and eat up a lot of data if you’re backing up over a cellular connection.
 
@@ -70,19 +70,19 @@ There are also a number of **third-party apps** that specialize in cross-platfor
 
 Here’s how it works:
 
-- Download the **Send Anywhere app** on both your Android and iOS devices.
+1. Download the **Send Anywhere app** on both your Android and iOS devices.
 
-- Open the app on your Android phone and tap the **+** button.
+2. Open the app on your Android phone and tap the **+** button.
 
-- Select the **photos** you want to transfer and tap **Done**.
+3. Select the **photos** you want to transfer and tap **Done**.
 
-- You’ll see a **6-digit code**. Leave this screen open on your Android phone.
+4. You’ll see a **6-digit code**. Leave this screen open on your Android phone.
 
-- Open Send Anywhere on your iPad and tap **Receive**.
+5. Open Send Anywhere on your iPad and tap **Receive**.
 
-- **Enter the 6-digit code** from your Android phone.
+6. **Enter the 6-digit code** from your Android phone.
 
-- The selected photos will be sent to your iPad. You’ll find them saved in the Photos app.
+7. The selected photos will be sent to your iPad. You’ll find them saved in the Photos app.
 
 Other third-party apps that work similarly include Feem and Photo Transfer App. Just be aware that some free versions include ads or file size limitations.
 

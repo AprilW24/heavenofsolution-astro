@@ -18,15 +18,15 @@ Google Maps’ speed camera warning feature will alert you when you’re approac
 
 Follow these simple steps to enable speed camera warnings in Google Maps on your Android device:
 
-- **Open Google Maps**: Launch the Google Maps app on your Android smartphone or tablet.
+1. **Open Google Maps**: Launch the Google Maps app on your Android smartphone or tablet.
 
-- **Access Settings**: Tap on your profile picture icon in the top-right corner of the screen to open the menu, then scroll down and tap on **Settings**.
+2. **Access Settings**: Tap on your profile picture icon in the top-right corner of the screen to open the menu, then scroll down and tap on **Settings**.
 
-- **Navigate to Navigation Settings**: In the Settings menu, tap on **Navigation settings** to access the options related to Google Maps navigation.
+3. **Navigate to Navigation Settings**: In the Settings menu, tap on **Navigation settings** to access the options related to Google Maps navigation.
 
-- **Enable Speed Limit**: Scroll down until you see the **Speed limits** option. Tap on the toggle switch next to it to turn the feature on. This will display the speed limit on the map while navigating.
+4. **Enable Speed Limit**: Scroll down until you see the **Speed limits** option. Tap on the toggle switch next to it to turn the feature on. This will display the speed limit on the map while navigating.
 
-- **Turn On Speed Camera Warnings**: Just below the **Speed limits** option, you’ll see **Speed cameras**. Tap on the toggle switch to enable speed camera warnings.
+5. **Turn On Speed Camera Warnings**: Just below the **Speed limits** option, you’ll see **Speed cameras**. Tap on the toggle switch to enable speed camera warnings.
 
 That’s it! You’ve now successfully enabled speed camera warnings in Google Maps on your Android device. The next time you use Google Maps for navigation, you’ll receive visual and audible alerts when approaching a speed camera, helping you maintain a safe speed and avoid potential fines.
 

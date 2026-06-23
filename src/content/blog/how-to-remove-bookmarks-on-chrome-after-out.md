@@ -16,17 +16,17 @@ Before diving into the removal process, it’s important to understand how Chrom
 
 The most straightforward way to ensure your bookmarks are removed is to delete them before signing out of Chrome. Here’s how you can do this:
 
-- Open Google Chrome on your computer.
+1. Open Google Chrome on your computer.
 
-- Click on the three-dot menu icon in the top-right corner.
+2. Click on the three-dot menu icon in the top-right corner.
 
-- Navigate to “Bookmarks” and then “Bookmark manager.”
+3. Navigate to “Bookmarks” and then “Bookmark manager.”
 
-- In the Bookmark manager, you can select individual bookmarks or use the Ctrl+A (Cmd+A on Mac) shortcut to select all bookmarks.
+4. In the Bookmark manager, you can select individual bookmarks or use the Ctrl+A (Cmd+A on Mac) shortcut to select all bookmarks.
 
-- Right-click and choose “Delete” or use the Delete key on your keyboard.
+5. Right-click and choose “Delete” or use the Delete key on your keyboard.
 
-- Confirm the deletion when prompted.
+6. Confirm the deletion when prompted.
 
 By following these steps, you’ll remove all bookmarks from your Chrome browser. After this, when you sign out, there won’t be any bookmarks left associated with your account on that device.
 
@@ -34,15 +34,15 @@ By following these steps, you’ll remove all bookmarks from your Chrome browser
 
 If you’ve already signed out and want to ensure that your synced bookmarks are removed from all devices, you’ll need to take a different approach:
 
-- Sign back into your Google account on Chrome.
+1. Sign back into your Google account on Chrome.
 
-- Go to the Google Dashboard (https://myaccount.google.com/dashboard).
+2. Go to the Google Dashboard (https://myaccount.google.com/dashboard).
 
-- Find “Chrome Sync” and click on “Manage Chrome Sync.”
+3. Find “Chrome Sync” and click on “Manage Chrome Sync.”
 
-- Here, you can choose to clear all synced data, including bookmarks.
+4. Here, you can choose to clear all synced data, including bookmarks.
 
-- Alternatively, you can turn off sync for bookmarks specifically.
+5. Alternatively, you can turn off sync for bookmarks specifically.
 
 After performing these actions, your synced bookmarks will be removed from Google’s servers and won’t reappear when you sign in on other devices.
 
@@ -50,9 +50,9 @@ After performing these actions, your synced bookmarks will be removed from Googl
 
 If you frequently use shared computers and want to avoid the hassle of removing bookmarks every time, consider using Incognito mode:
 
-- Click on the three-dot menu in Chrome.
+1. Click on the three-dot menu in Chrome.
 
-- Select “New Incognito Window” or use the shortcut Ctrl+Shift+N (Cmd+Shift+N on Mac).
+2. Select “New Incognito Window” or use the shortcut Ctrl+Shift+N (Cmd+Shift+N on Mac).
 
 In Incognito mode, Chrome doesn’t save your browsing history, cookies, site data, or information entered in forms. It also doesn’t store any bookmarks you create during the session. When you close all Incognito windows, this data is automatically cleared.
 
@@ -60,15 +60,15 @@ In Incognito mode, Chrome doesn’t save your browsing history, cookies, site da
 
 Another effective method to remove bookmarks and other browsing data after signing out is to clear your browsing data:
 
-- Open Chrome and click on the three-dot menu.
+1. Open Chrome and click on the three-dot menu.
 
-- Go to “More tools” and select “Clear browsing data.”
+2. Go to “More tools” and select “Clear browsing data.”
 
-- Choose the time range for which you want to clear data (select “All time” to remove everything).
+3. Choose the time range for which you want to clear data (select “All time” to remove everything).
 
-- Make sure “Browsing history” and “Cookies and other site data” are checked.
+4. Make sure “Browsing history” and “Cookies and other site data” are checked.
 
-- Click “Clear data.”
+5. Click “Clear data.”
 
 This process will remove locally stored bookmarks along with other browsing data, ensuring a clean slate for the next user.
 
@@ -76,13 +76,13 @@ This process will remove locally stored bookmarks along with other browsing data
 
 Chrome profiles are an excellent way to keep your browsing data separate, especially on shared computers:
 
-- Click on the profile icon next to the three-dot menu in Chrome.
+1. Click on the profile icon next to the three-dot menu in Chrome.
 
-- Select “Add” to create a new profile.
+2. Select “Add” to create a new profile.
 
-- Use this profile for your browsing session.
+3. Use this profile for your browsing session.
 
-- When done, switch back to the default profile or remove your profile entirely.
+4. When done, switch back to the default profile or remove your profile entirely.
 
 By using a separate profile, you can keep your bookmarks and other data isolated. When you remove the profile, all associated data, including bookmarks, is deleted.
 
@@ -90,11 +90,11 @@ By using a separate profile, you can keep your bookmarks and other data isolated
 
 If you want to prevent your bookmarks from syncing to your Google account in the first place:
 
-- Click on the three-dot menu and go to “Settings.”
+1. Click on the three-dot menu and go to “Settings.”
 
-- Click on “Sync and Google services.”
+2. Click on “Sync and Google services.”
 
-- Turn off “Sync everything” and uncheck “Bookmarks” under the customization options.
+3. Turn off “Sync everything” and uncheck “Bookmarks” under the customization options.
 
 By disabling sync for bookmarks, you ensure that any bookmarks you create are only stored locally and won’t be accessible on other devices or after signing out.
 

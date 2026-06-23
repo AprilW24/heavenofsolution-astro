@@ -10,17 +10,17 @@ In today’s digital age, social media platforms have become an integral part of
 
 ## Steps to Untag Yourself from X Posts on Android
 
-- **Open the X app** on your Android device.
+1. **Open the X app** on your Android device.
 
-- Tap on the **Notifications icon** located at the bottom of your screen.
+2. Tap on the **Notifications icon** located at the bottom of your screen.
 
-- Select **Mentions** at the top of the Notification window to view the conversations where you’ve been mentioned.
+3. Select **Mentions** at the top of the Notification window to view the conversations where you’ve been mentioned.
 
-- Find the conversation you want to leave. Tap on the **three dots** (menu icon) in the upper right corner of the post.
+4. Find the conversation you want to leave. Tap on the **three dots** (menu icon) in the upper right corner of the post.
 
-- Choose **Leave this conversation** to stop receiving notifications about it.
+5. Choose **Leave this conversation** to stop receiving notifications about it.
 
-- To completely untag yourself from future conversations, ensure you manage your account settings. You can adjust who can tag you and mute notifications if necessary.
+6. To completely untag yourself from future conversations, ensure you manage your account settings. You can adjust who can tag you and mute notifications if necessary.
 
 By following these straightforward steps, you can easily remove yourself from unwanted conversations and prevent future mentions from cluttering your notifications.
 

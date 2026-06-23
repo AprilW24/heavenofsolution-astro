@@ -26,25 +26,25 @@ Over time, the Facebook app accumulates cache and data, which can lead to perfor
 
 On Android:
 
-- Go to your phone’s Settings.
+1. Go to your phone’s Settings.
 
-- Find and tap on **Apps** or **Application Manager**.
+2. Find and tap on **Apps** or **Application Manager**.
 
-- Scroll down and find the Facebook app.
+3. Scroll down and find the Facebook app.
 
-- Tap on **Storage**.
+4. Tap on **Storage**.
 
-- Tap on **Clear Cache** and then **Clear Data**.
+5. Tap on **Clear Cache** and then **Clear Data**.
 
 On iPhone:
 
-- Go to your phone’s Settings.
+1. Go to your phone’s Settings.
 
-- Scroll down and find the Facebook app.
+2. Scroll down and find the Facebook app.
 
-- Tap on it and then tap on **Delete App**.
+3. Tap on it and then tap on **Delete App**.
 
-- Reinstall the Facebook app from the App Store.
+4. Reinstall the Facebook app from the App Store.
 
 ## Step 4: Disable Hardware Acceleration (for Browser)
 
@@ -62,11 +62,11 @@ Facebook has a built-in autoplay feature for videos, which can sometimes cause p
 
 To enable autoplay:
 
-- Open the Facebook app and go to Settings.
+1. Open the Facebook app and go to Settings.
 
-- Scroll down and tap on **Media and Contacts**.
+2. Scroll down and tap on **Media and Contacts**.
 
-- Under **Autoplay**, select **On Mobile Data and Wi-Fi Connections** or **On Wi-Fi Connections Only**.
+3. Under **Autoplay**, select **On Mobile Data and Wi-Fi Connections** or **On Wi-Fi Connections Only**.
 
 ## Step 6: Restart Your Device
 

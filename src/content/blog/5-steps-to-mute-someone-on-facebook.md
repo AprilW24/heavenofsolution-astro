@@ -12,9 +12,9 @@ Facebook is a great platform for staying connected with friends and family, but 
 
 Before we dive into the steps, it’s important to understand the two main ways you can mute someone on Facebook:
 
-- **Snooze**: This option temporarily mutes someone’s posts for 30 days. After this period, their posts will automatically start appearing in your feed again.
+1. **Snooze**: This option temporarily mutes someone’s posts for 30 days. After this period, their posts will automatically start appearing in your feed again.
 
-- **Unfollow**: This option allows you to permanently mute someone’s posts without unfriending them. You’ll remain friends, but you won’t see their content in your news feed unless you choose to follow them again.
+2. **Unfollow**: This option allows you to permanently mute someone’s posts without unfriending them. You’ll remain friends, but you won’t see their content in your news feed unless you choose to follow them again.
 
 Both of these methods are reversible, and the person you mute won’t be notified of your action. Now, let’s get into the step-by-step process of muting someone on the Facebook app.
 
@@ -22,15 +22,15 @@ Both of these methods are reversible, and the person you mute won’t be notifie
 
 If you want to take a temporary break from someone’s posts, the snooze feature is perfect. Here’s how to use it:
 
-- Open the Facebook app on your smartphone.
+1. Open the Facebook app on your smartphone.
 
-- Scroll through your news feed until you find a post from the person you want to mute.
+2. Scroll through your news feed until you find a post from the person you want to mute.
 
-- Tap the three-dot menu (⋯) in the top-right corner of their post.
+3. Tap the three-dot menu (⋯) in the top-right corner of their post.
 
-- From the menu that appears, select “Snooze [Name] for 30 days.”
+4. From the menu that appears, select “Snooze [Name] for 30 days.”
 
-- A confirmation message will appear. Tap “Snooze” to confirm.
+5. A confirmation message will appear. Tap “Snooze” to confirm.
 
 That’s it! You won’t see posts from this person in your news feed for the next 30 days. After this period, their posts will automatically start appearing again.
 
@@ -38,21 +38,21 @@ That’s it! You won’t see posts from this person in your news feed for the ne
 
 If you want a more long-term solution, unfollowing is the way to go. Here’s how to do it:
 
-- Open the Facebook app and find a post from the person you want to mute in your news feed.
+1. Open the Facebook app and find a post from the person you want to mute in your news feed.
 
-- Tap the three-dot menu (⋯) in the top-right corner of their post.
+2. Tap the three-dot menu (⋯) in the top-right corner of their post.
 
-- Select “Unfollow [Name]” from the menu.
+3. Select “Unfollow [Name]” from the menu.
 
-- Confirm your choice by tapping “Unfollow” in the pop-up window.
+4. Confirm your choice by tapping “Unfollow” in the pop-up window.
 
 Alternatively, you can unfollow someone directly from their profile:
 
-- Go to the person’s Facebook profile.
+1. Go to the person’s Facebook profile.
 
-- Tap the “Friends” button near the top of their profile.
+2. Tap the “Friends” button near the top of their profile.
 
-- Select “Unfollow” from the options that appear.
+3. Select “Unfollow” from the options that appear.
 
 By unfollowing, you’ll stop seeing the person’s posts in your news feed, but you’ll remain friends. You can always visit their profile to see their posts if you want to.
 
@@ -60,37 +60,37 @@ By unfollowing, you’ll stop seeing the person’s posts in your news feed, but
 
 In addition to muting posts, you might want to mute someone’s stories. Here’s how:
 
-- Open the Facebook app and find the person’s story in the Stories section at the top of your feed.
+1. Open the Facebook app and find the person’s story in the Stories section at the top of your feed.
 
-- Long-press on their story icon.
+2. Long-press on their story icon.
 
-- Select “Mute [Name]’s story” from the options that appear.
+3. Select “Mute [Name]’s story” from the options that appear.
 
-- Choose how long you want to mute their stories (8 hours, 24 hours, or 7 days).
+4. Choose how long you want to mute their stories (8 hours, 24 hours, or 7 days).
 
-- Tap “Mute” to confirm.
+5. Tap “Mute” to confirm.
 
 ## How to Unmute Someone on Facebook
 
 If you’ve muted someone and later decide you want to see their posts again, you can easily unmute them. Here’s how:
 
-- Tap the menu icon (three horizontal lines) in the Facebook app.
+1. Tap the menu icon (three horizontal lines) in the Facebook app.
 
-- Scroll down and tap “Settings & Privacy,” then “Settings.”
+2. Scroll down and tap “Settings & Privacy,” then “Settings.”
 
-- Scroll to find and tap “News Feed Preferences.”
+3. Scroll to find and tap “News Feed Preferences.”
 
-- Tap “Reconnect with people you unfollowed” to see a list of people you’ve unfollowed.
+4. Tap “Reconnect with people you unfollowed” to see a list of people you’ve unfollowed.
 
-- Tap the profile of the person you want to unmute.
+5. Tap the profile of the person you want to unmute.
 
 For snoozed accounts:
 
-- Follow steps 1-3 above.
+1. Follow steps 1-3 above.
 
-- Tap “Manage your snooze settings.”
+2. Tap “Manage your snooze settings.”
 
-- Find the person you want to unmute and tap “End Snooze.”
+3. Find the person you want to unmute and tap “End Snooze.”
 
 ## Tips for Managing Your Facebook Experience
 

@@ -20,23 +20,23 @@ Now that we have a basic understanding of Incognito mode, let’s walk through t
 
 ### For Android Devices:
 
-- **Open the Chrome app**: Locate and tap the Chrome icon on your Android device’s home screen or app drawer.
+1. **Open the Chrome app**: Locate and tap the Chrome icon on your Android device’s home screen or app drawer.
 
-- **Access the menu**: Look for the three vertical dots in the top-right corner of the Chrome window. This is the “More” menu icon. Tap on it to open the dropdown menu.
+2. **Access the menu**: Look for the three vertical dots in the top-right corner of the Chrome window. This is the “More” menu icon. Tap on it to open the dropdown menu.
 
-- **Select “New Incognito Tab”**: In the dropdown menu, you’ll see an option that says “New Incognito Tab.” Tap on this option.
+3. **Select “New Incognito Tab”**: In the dropdown menu, you’ll see an option that says “New Incognito Tab.” Tap on this option.
 
-- **Confirm you’re in Incognito mode**: A new tab will open with a dark theme and an Incognito icon (usually a spy or hat-and-glasses symbol) in the top bar. This indicates that you’re now browsing in Incognito mode.
+4. **Confirm you’re in Incognito mode**: A new tab will open with a dark theme and an Incognito icon (usually a spy or hat-and-glasses symbol) in the top bar. This indicates that you’re now browsing in Incognito mode.
 
 ### For iOS Devices (iPhone and iPad):
 
-- **Launch Chrome**: Find and tap the Chrome app icon on your iOS device’s home screen.
+1. **Launch Chrome**: Find and tap the Chrome app icon on your iOS device’s home screen.
 
-- **Open the menu**: Look for the three dots in the bottom-right corner of the screen (on iPhone) or top-right corner (on iPad). Tap this icon to open the menu.
+2. **Open the menu**: Look for the three dots in the bottom-right corner of the screen (on iPhone) or top-right corner (on iPad). Tap this icon to open the menu.
 
-- **Choose “New Incognito Tab”**: From the menu options, select “New Incognito Tab”.
+3. **Choose “New Incognito Tab”**: From the menu options, select “New Incognito Tab”.
 
-- **Verify Incognito mode**: A new tab will open with a dark theme and the Incognito icon, confirming that you’re now browsing privately.
+4. **Verify Incognito mode**: A new tab will open with a dark theme and the Incognito icon, confirming that you’re now browsing privately.
 
 ## Using Incognito Mode Effectively
 
@@ -52,17 +52,17 @@ Once you’ve opened an Incognito tab, you can browse the web as you normally wo
 
 There are several practical reasons to use Incognito mode on your mobile Chrome browser:
 
-- **Multiple account sign-ins**: Incognito mode allows you to sign in to multiple accounts on the same website without logging out of your primary account.
+1. **Multiple account sign-ins**: Incognito mode allows you to sign in to multiple accounts on the same website without logging out of your primary account.
 
-- **Shopping for gifts**: When searching for surprise gifts for friends or family, Incognito mode ensures that your browsing history doesn’t spoil the surprise.
+2. **Shopping for gifts**: When searching for surprise gifts for friends or family, Incognito mode ensures that your browsing history doesn’t spoil the surprise.
 
-- **Avoiding personalized search results**: Incognito mode can help you get more neutral search results by preventing websites from using your previous search history to personalize results.
+3. **Avoiding personalized search results**: Incognito mode can help you get more neutral search results by preventing websites from using your previous search history to personalize results.
 
-- **Testing website changes**: If you’re a web developer or designer, Incognito mode can be useful for viewing your website as a new visitor would, without cached data influencing the display.
+4. **Testing website changes**: If you’re a web developer or designer, Incognito mode can be useful for viewing your website as a new visitor would, without cached data influencing the display.
 
-- **Bypassing article limits**: Some news websites allow a limited number of free articles before requiring a subscription. Incognito mode can sometimes help you bypass these limits.
+5. **Bypassing article limits**: Some news websites allow a limited number of free articles before requiring a subscription. Incognito mode can sometimes help you bypass these limits.
 
-- **Temporary logins**: When using a friend’s device or a public computer, Incognito mode ensures that your login information isn’t saved on the device.
+6. **Temporary logins**: When using a friend’s device or a public computer, Incognito mode ensures that your login information isn’t saved on the device.
 
 ## Limitations and Misconceptions
 
@@ -80,15 +80,15 @@ While Incognito mode is a useful tool, it’s important to understand its limita
 
 To further enhance your privacy while browsing on your mobile device, consider these additional tips:
 
-- **Use a VPN**: A Virtual Private Network encrypts your internet traffic and masks your IP address, providing an extra layer of privacy.
+1. **Use a VPN**: A Virtual Private Network encrypts your internet traffic and masks your IP address, providing an extra layer of privacy.
 
-- **Enable “Do Not Track”**: While not foolproof, enabling the “Do Not Track” option in Chrome’s settings can request websites not to track your browsing behavior.
+2. **Enable “Do Not Track”**: While not foolproof, enabling the “Do Not Track” option in Chrome’s settings can request websites not to track your browsing behavior.
 
-- **Clear browsing data regularly**: Even when not using Incognito mode, regularly clearing your browsing data can help maintain your privacy.
+3. **Clear browsing data regularly**: Even when not using Incognito mode, regularly clearing your browsing data can help maintain your privacy.
 
-- **Use privacy-focused extensions**: Consider installing privacy-enhancing extensions like ad blockers or tracker blockers in Chrome.
+4. **Use privacy-focused extensions**: Consider installing privacy-enhancing extensions like ad blockers or tracker blockers in Chrome.
 
-- **Be cautious with permissions**: Be mindful of the permissions you grant to websites and apps, especially regarding location data and access to your device’s features.
+5. **Be cautious with permissions**: Be mindful of the permissions you grant to websites and apps, especially regarding location data and access to your device’s features.
 
 ## Conclusion
 

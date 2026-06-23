@@ -10,19 +10,19 @@ In today’s digital age, sharing music has never been easier, especially with p
 
 Adding family members to your Spotify Premium account is a straightforward process. Here’s how to do it:
 
-- **Log In to Your Account**: Open a web browser and go to [Spotify Account](https://www.spotify.com/account). Log in with your credentials.
+1. **Log In to Your Account**: Open a web browser and go to [Spotify Account](https://www.spotify.com/account). Log in with your credentials.
 
-- **Navigate to Manage Members**: Once logged in, find the option for **Manage members** under your subscription settings. This will take you to the Family Plan management page.
+2. **Navigate to Manage Members**: Once logged in, find the option for **Manage members** under your subscription settings. This will take you to the Family Plan management page.
 
-- **Invite Family Members**: In the Family Plan management section, look for an option to invite family members. You will usually find an option labeled **Invite** or **Add member**. Click this.
+3. **Invite Family Members**: In the Family Plan management section, look for an option to invite family members. You will usually find an option labeled **Invite** or **Add member**. Click this.
 
-- **Enter Email Addresses**: You will be prompted to enter the email addresses of the family members you wish to invite. Make sure they have their own Spotify accounts or will create one.
+4. **Enter Email Addresses**: You will be prompted to enter the email addresses of the family members you wish to invite. Make sure they have their own Spotify accounts or will create one.
 
-- **Send Invitations**: After entering the email addresses, confirm the invites. The invited members will receive an email with a link to join your Family Plan.
+5. **Send Invitations**: After entering the email addresses, confirm the invites. The invited members will receive an email with a link to join your Family Plan.
 
-- **Confirm Addresses**: Once they accept the invitation, they will need to confirm that they live at the same address as you, as Spotify requires this for their Family Plan.
+6. **Confirm Addresses**: Once they accept the invitation, they will need to confirm that they live at the same address as you, as Spotify requires this for their Family Plan.
 
-- **Enjoy Your Music Together**: After all steps are completed, each family member will have their own Premium account under your Family Plan, allowing for customized playlists and music recommendations.
+7. **Enjoy Your Music Together**: After all steps are completed, each family member will have their own Premium account under your Family Plan, allowing for customized playlists and music recommendations.
 
 Following these steps will help you easily add your family members, transforming your Spotify experience into a shared musical adventure!
 

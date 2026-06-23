@@ -12,17 +12,17 @@ Getting a new Android phone is exciting, but it can be a hassle to transfer all 
 
 Before you can transfer your Viber messages to a new phone, you first need to create a backup on your old device:
 
-- Open the **Viber app** on your old Android phone
+1. Open the **Viber app** on your old Android phone
 
-- Tap **More** (the 3 dots icon) and select **Settings**
+2. Tap **More** (the 3 dots icon) and select **Settings**
 
-- Tap on **Account** and then **Viber Backup**
+3. Tap on **Account** and then **Viber Backup**
 
-- Make sure your Viber app is connected to **Google Drive**. If it’s not, tap **Connect to Google Drive** and sign in with your Google account.
+4. Make sure your Viber app is connected to **Google Drive**. If it’s not, tap **Connect to Google Drive** and sign in with your Google account.
 
-- Select if you also want to include **Photos** and **Videos** in your backup
+5. Select if you also want to include **Photos** and **Videos** in your backup
 
-- Tap **Back Up Now** to manually create a backup of your Viber messages
+6. Tap **Back Up Now** to manually create a backup of your Viber messages
 
 **Pro Tip:** You can also enable **Auto Backup** in the Viber Backup settings to automatically backup your messages daily, weekly or monthly to Google Drive. This ensures you always have an up-to-date backup.
 
@@ -30,21 +30,21 @@ Before you can transfer your Viber messages to a new phone, you first need to cr
 
 Once you have a backup of your Viber messages, you can set up Viber on your new Android device:
 
-- **Download** and **install** the Viber app from the Google Play Store on your new phone
+1. **Download** and **install** the Viber app from the Google Play Store on your new phone
 
-- Open the Viber app and verify your phone number
+2. Open the Viber app and verify your phone number
 
-- Viber will detect that you have a backup available to restore
+3. Viber will detect that you have a backup available to restore
 
 ### Step 3: Restore Your Viber Messages on Your New Phone
 
 After setting up Viber on your new Android phone, you can restore your chat history from the backup:
 
-- On the **Restore Viber Backup** prompt, tap **Restore Now**
+1. On the **Restore Viber Backup** prompt, tap **Restore Now**
 
-- Viber will begin downloading and restoring your backed up messages. This may take some time depending on the size of the backup.
+2. Viber will begin downloading and restoring your backed up messages. This may take some time depending on the size of the backup.
 
-- Once the restore is complete, you should see all your Viber chats and message history on your new phone
+3. Once the restore is complete, you should see all your Viber chats and message history on your new phone
 
 **Note:** The Viber restore process will overwrite any new messages received between when you created the backup and when you restored on your new phone. So it’s best to restore immediately after setting up Viber on the new device.
 
@@ -52,13 +52,13 @@ After setting up Viber on your new Android phone, you can restore your chat hist
 
 In addition to your messages, you’ll also want to restore any purchases you made in Viber, such as sticker packs or Viber Out subscriptions:
 
-- In the Viber app on your new phone, go to **More > Settings > Account**
+1. In the Viber app on your new phone, go to **More > Settings > Account**
 
-- Tap on **Purchases**
+2. Tap on **Purchases**
 
-- Select **Restore Subscriptions** to restore your Viber Out plans and credits
+3. Select **Restore Subscriptions** to restore your Viber Out plans and credits
 
-- Select **Restore Sticker Packs** to restore any sticker packs you purchased
+4. Select **Restore Sticker Packs** to restore any sticker packs you purchased
 
 After restoring, you should have access to all your previous Viber purchases on your new Android phone.
 

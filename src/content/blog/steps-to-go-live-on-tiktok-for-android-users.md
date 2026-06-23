@@ -16,13 +16,13 @@ Before we dive into the steps, it’s important to understand what TikTok Live i
 
 Before you can start your live stream, there are a few requirements you need to meet:
 
-- **Age Requirement**: You must be at least 18 years old to go live on TikTok.
+1. **Age Requirement**: You must be at least 18 years old to go live on TikTok.
 
-- **Follower Count**: You need to have at least 1,000 followers to access the live streaming feature.
+2. **Follower Count**: You need to have at least 1,000 followers to access the live streaming feature.
 
-- **Account Standing**: Your account should be in good standing, meaning you haven’t violated TikTok’s community guidelines.
+3. **Account Standing**: Your account should be in good standing, meaning you haven’t violated TikTok’s community guidelines.
 
-- **Android Device**: Make sure you have a compatible Android device with the latest version of the TikTok app installed.
+4. **Android Device**: Make sure you have a compatible Android device with the latest version of the TikTok app installed.
 
 If you meet these requirements, you’re ready to start your live streaming journey on TikTok!
 

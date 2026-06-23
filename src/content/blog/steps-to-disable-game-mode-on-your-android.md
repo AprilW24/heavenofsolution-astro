@@ -12,13 +12,13 @@ Game Mode is a feature on many Android phones designed to optimize gaming perfor
 
 On Samsung Galaxy phones running One UI, Game Mode is part of the Game Launcher app. To turn it off:
 
-- Open the **Game Launcher** app. You can find it in your app drawer.
+1. Open the **Game Launcher** app. You can find it in your app drawer.
 
-- Tap the **three-dot menu** icon in the top-right and select **Game Booster**.
+2. Tap the **three-dot menu** icon in the top-right and select **Game Booster**.
 
-- In the Game Booster settings, tap **Game optimization** near the bottom.
+3. In the Game Booster settings, tap **Game optimization** near the bottom.
 
-- Select **Standard** or **Battery saver** mode instead of Performance mode to effectively disable the gaming optimizations.
+4. Select **Standard** or **Battery saver** mode instead of Performance mode to effectively disable the gaming optimizations.
 
 You can also use the switch next to **Pause USB Power Delivery** to prevent the phone from fast charging and generating excess heat during gaming sessions.
 
@@ -26,9 +26,9 @@ You can also use the switch next to **Pause USB Power Delivery** to prevent the 
 
 On the Nothing Phone, Game Mode is enabled by default for installed games. To disable it:
 
-- Go to **Settings > System > Game Mode**.
+1. Go to **Settings > System > Game Mode**.
 
-- Tap **Game Dashboard** and turn off the **Use game dashboard** toggle.
+2. Tap **Game Dashboard** and turn off the **Use game dashboard** toggle.
 
 This will disable the Game Dashboard overlay that appears when playing games. However, some users have reported that Game Mode remains active even with the dashboard disabled. There may be a bug that requires a software update from Nothing to fully turn off Game Mode.
 
@@ -36,13 +36,13 @@ This will disable the Game Dashboard overlay that appears when playing games. Ho
 
 Some Sony smart TVs running Android TV or Google TV software have a Game Mode feature. To toggle it on or off:
 
-- Press the **Settings** button on your remote.
+1. Press the **Settings** button on your remote.
 
-- Go to **System Settings** or **Device Preferences**.
+2. Go to **System Settings** or **Device Preferences**.
 
-- Select **Retail mode settings** or **Picture & Display**.
+3. Select **Retail mode settings** or **Picture & Display**.
 
-- Enable or disable the **Game mode** setting.
+4. Enable or disable the **Game mode** setting.
 
 The exact menu options may vary depending on your specific Sony TV model and software version.
 
@@ -52,11 +52,11 @@ Starting with Android 12, there is an official Game Mode API that allows game de
 
 However, developers can choose to override the default Game Mode settings from the device manufacturer. In Android 13 and later, you can check if a game has its own custom implementation:
 
-- Open the **Settings** app and go to **Apps**.
+1. Open the **Settings** app and go to **Apps**.
 
-- Find the game in the app list and tap it.
+2. Find the game in the app list and tap it.
 
-- Look for a **Game Mode** menu. If present, the game has integrated the Game Mode API and may provide its own performance settings.
+3. Look for a **Game Mode** menu. If present, the game has integrated the Game Mode API and may provide its own performance settings.
 
 Not all games support the Game Mode API, so this menu won’t always be available. In most cases, the default Game Mode behavior from the phone maker will be used.
 

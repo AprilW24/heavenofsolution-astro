@@ -18,13 +18,13 @@ The first step is to install the Google Drive desktop app on your Windows PC or 
 
 To install Drive for desktop:
 
-- Go to the [Drive for Desktop](https://www.google.com/drive/download/) download page
+1. Go to the [Drive for Desktop](https://www.google.com/drive/download/) download page
 
-- Click the Download button
+2. Click the Download button
 
-- Open the installer file and follow the prompts to complete installation
+3. Open the installer file and follow the prompts to complete installation
 
-- Sign in with your Google account to begin syncing
+4. Sign in with your Google account to begin syncing
 
 ### Step 2: Locate the synced Drive folder
 

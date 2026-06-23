@@ -62,17 +62,17 @@ Once you’re in the capabilities menu, you’ll see a list of features. Here’
 
 Here’s a quick example of how to set an intelligent reminder:
 
-- Open Perplexity Assistant.
+1. Open Perplexity Assistant.
 
-- Say or type, “Remind me to check the weather tomorrow morning.”
+2. Say or type, “Remind me to check the weather tomorrow morning.”
 
-- The assistant finds the right time for the reminder.
+3. The assistant finds the right time for the reminder.
 
-- It confirms the reminder details with you.
+4. It confirms the reminder details with you.
 
-- The reminder is set inside the Perplexity app.
+5. The reminder is set inside the Perplexity app.
 
-- You get notified at the right time without extra setup.
+6. You get notified at the right time without extra setup.
 
 ## Conclusion
 

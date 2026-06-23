@@ -16,13 +16,13 @@ This guide will walk you through the steps to check your Chrome version, enable 
 
 Before enabling updates, it’s a good idea to check which version of Chrome you currently have installed:
 
-- Open the Chrome app on your Android device
+1. Open the Chrome app on your Android device
 
-- Tap the **More** icon (three vertical dots) in the top right corner
+2. Tap the **More** icon (three vertical dots) in the top right corner
 
-- Go to **Help & feedback** > **About Chrome**
+3. Go to **Help & feedback** > **About Chrome**
 
-- The current version number will be listed at the top of the About page
+4. The current version number will be listed at the top of the About page
 
 If you are not on the latest version, you’ll see an **Update** button that you can tap to install the newest release. We’ll cover more on manually updating Chrome in a later section.
 
@@ -30,45 +30,45 @@ If you are not on the latest version, you’ll see an **Update** button that you
 
 The easiest way to ensure Chrome stays up-to-date is to enable automatic updates. When auto-updates are on, Chrome will periodically check for new versions and silently install them in the background without any action needed from you. Here’s how to turn on automatic updates:
 
-- Open the Google Play Store app on your Android device
+1. Open the Google Play Store app on your Android device
 
-- Tap your **profile icon** in the top right corner
+2. Tap your **profile icon** in the top right corner
 
-- Select **Settings** > **Network preferences** > **Auto-update apps**
+3. Select **Settings** > **Network preferences** > **Auto-update apps**
 
-- Choose **Over any network** to allow updates on both Wi-Fi and mobile data, or select **Over Wi-Fi only** if you want to avoid using your data plan
+4. Choose **Over any network** to allow updates on both Wi-Fi and mobile data, or select **Over Wi-Fi only** if you want to avoid using your data plan
 
-- Make sure the **Auto-update apps** setting is enabled
+5. Make sure the **Auto-update apps** setting is enabled
 
 With these settings, the Play Store will keep Chrome and your other installed apps updated to the latest available versions automatically. You can also choose to enable auto-updates for individual apps:
 
-- Open the Play Store and go to **My apps & games**
+1. Open the Play Store and go to **My apps & games**
 
-- Find Chrome in the list of installed apps and tap it
+2. Find Chrome in the list of installed apps and tap it
 
-- Tap the **More** icon (three dots) and select **Enable auto update**
+3. Tap the **More** icon (three dots) and select **Enable auto update**
 
 ## 3. Manually Updating Chrome
 
 Even with automatic updates enabled, you may sometimes want to manually check for and install the latest Chrome version:
 
-- Open the Play Store and tap your **profile icon**
+1. Open the Play Store and tap your **profile icon**
 
-- Tap **Manage apps & device** and then **Updates available**
+2. Tap **Manage apps & device** and then **Updates available**
 
-- If a Chrome update is available, tap **Update** next to the Chrome listing
+3. If a Chrome update is available, tap **Update** next to the Chrome listing
 
-- The update will download and install
+4. The update will download and install
 
 You can also uninstall Chrome updates if you experience any issues after updating, such as incompatibilities with other apps or websites not loading properly:
 
-- Go to your Android **Settings** > **Apps**
+1. Go to your Android **Settings** > **Apps**
 
-- Find and tap Chrome in the list of apps
+2. Find and tap Chrome in the list of apps
 
-- Tap the **More** icon (three dots) and select **Uninstall updates**
+3. Tap the **More** icon (three dots) and select **Uninstall updates**
 
-- Confirm by tapping **OK** in the dialog prompt
+4. Confirm by tapping **OK** in the dialog prompt
 
 This will revert Chrome to the previous version you had installed. You can then wait for a newer update that hopefully resolves the problems you encountered.
 

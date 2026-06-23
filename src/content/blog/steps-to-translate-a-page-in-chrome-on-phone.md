@@ -46,11 +46,11 @@ It’s important to note that machine translation isn’t perfect, and there may
 
 If you want more control over Chrome’s translation feature, you can adjust its settings. To do this:
 
-- Tap the three-dot menu icon in the top-right corner of Chrome.
+1. Tap the three-dot menu icon in the top-right corner of Chrome.
 
-- Tap **Settings**.
+2. Tap **Settings**.
 
-- Tap **Languages**.
+3. Tap **Languages**.
 
 ![](/wp-content/uploads/2024/08/HoS_TranslateaPage.jpg)
 

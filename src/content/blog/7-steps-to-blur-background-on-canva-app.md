@@ -22,19 +22,19 @@ Before you start blurring, ensure you have the image you want to work with. You 
 
 Before we dive into the steps, it’s good to know that Canva’s user-friendly interface makes it easy to experiment with different effects. You can always undo changes if you don’t like them, so feel free to try out different blur levels.
 
-- **Open Canva App**: Launch the Canva app on your Android device.
+1. **Open Canva App**: Launch the Canva app on your Android device.
 
-- **Select Design Type**: Choose the type of design you want to create.
+2. **Select Design Type**: Choose the type of design you want to create.
 
-- **Upload Image**: Tap the “+” button, select “Image,” and upload your photo.
+3. **Upload Image**: Tap the “+” button, select “Image,” and upload your photo.
 
-- **Select Image**: Tap on the uploaded image to bring up the editing menu.
+4. **Select Image**: Tap on the uploaded image to bring up the editing menu.
 
-- **Apply Blur Effect**: Tap on “Effects” and select “Blur” or “Background Blur.”
+5. **Apply Blur Effect**: Tap on “Effects” and select “Blur” or “Background Blur.”
 
-- **Adjust Blur Intensity**: Use the slider to adjust the blur level.
+6. **Adjust Blur Intensity**: Use the slider to adjust the blur level.
 
-- **Preview and Save**: Preview your changes and tap “Done” to apply the effect.
+7. **Preview and Save**: Preview your changes and tap “Done” to apply the effect.
 
 ## Advanced Technique: Using Background Removal
 

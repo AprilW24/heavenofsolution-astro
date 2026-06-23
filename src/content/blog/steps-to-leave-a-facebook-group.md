@@ -32,11 +32,11 @@ Now, let’s walk through the process of leaving a Facebook group without notify
 
 Before leaving the group, it’s a good idea to mute notifications. This way, you can gradually decrease your activity without suddenly disappearing.
 
-- Go to the Facebook group you want to leave.
+1. Go to the Facebook group you want to leave.
 
-- Click on the “Notifications” button (usually located near the top of the group page).
+2. Click on the “Notifications” button (usually located near the top of the group page).
 
-- Select “Off” to stop receiving notifications.
+3. Select “Off” to stop receiving notifications.
 
 By muting notifications, you’ll naturally become less active in the group, making your eventual departure less noticeable.
 
@@ -44,13 +44,13 @@ By muting notifications, you’ll naturally become less active in the group, mak
 
 If you want to be extra cautious, you can remove your recent posts and comments from the group. This step is optional but can help minimize your digital footprint within the group.
 
-- Go to your Facebook profile.
+1. Go to your Facebook profile.
 
-- Click on the “Activity Log” button.
+2. Click on the “Activity Log” button.
 
-- Use the filters to find your activity in the specific group.
+3. Use the filters to find your activity in the specific group.
 
-- Delete or hide any recent posts or comments you’ve made.
+4. Delete or hide any recent posts or comments you’ve made.
 
 **Be aware that this process can be time-consuming, especially if you’ve been very active in the group. Additionally, while you can remove your own posts, you can’t delete responses to other people’s posts or comments.**
 
@@ -58,15 +58,15 @@ If you want to be extra cautious, you can remove your recent posts and comments 
 
 Now that you’ve prepared the ground, it’s time to actually leave the group:
 
-- Navigate to the Facebook group you want to leave.
+1. Navigate to the Facebook group you want to leave.
 
-- Look for the “Joined” button near the top of the group page (on desktop) or under the group cover photo (on mobile).
+2. Look for the “Joined” button near the top of the group page (on desktop) or under the group cover photo (on mobile).
 
-- Click on the “Joined” button to reveal a dropdown menu.
+3. Click on the “Joined” button to reveal a dropdown menu.
 
-- Select “Leave Group” from the options.
+4. Select “Leave Group” from the options.
 
-- Facebook will ask you to confirm your decision. Click “Leave Group” again to finalize.
+5. Facebook will ask you to confirm your decision. Click “Leave Group” again to finalize.
 
 **Remember, Facebook doesn’t send a notification to other members when you leave. However, your name will be removed from the member list, which observant members might notice.**
 
@@ -74,11 +74,11 @@ Now that you’ve prepared the ground, it’s time to actually leave the group:
 
 After leaving the group, you might still see related content in your news feed due to Facebook’s algorithms. To further distance yourself:
 
-- If you see any posts from the group you left, click the three dots (…) next to the post.
+1. If you see any posts from the group you left, click the three dots (…) next to the post.
 
-- Select “Hide post” or “Snooze [Group Name] for 30 days.”
+2. Select “Hide post” or “Snooze [Group Name] for 30 days.”
 
-- You can also choose to “Hide all from [Group Name]” to completely remove it from your feed.
+3. You can also choose to “Hide all from [Group Name]” to completely remove it from your feed.
 
 This step helps ensure that you don’t accidentally interact with group content, which could reveal that you’re still seeing posts despite leaving.
 

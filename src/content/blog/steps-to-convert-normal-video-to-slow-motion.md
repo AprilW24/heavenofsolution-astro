@@ -40,13 +40,13 @@ One of the great features of Video Speed Changer: SlowMo is that it allows you t
 
 To do this:
 
-- Tap on the timeline to set a start point
+1. Tap on the timeline to set a start point
 
-- Drag to select the portion of the video you want to slow down
+2. Drag to select the portion of the video you want to slow down
 
-- Adjust the speed for this section using the slider
+3. Adjust the speed for this section using the slider
 
-- Repeat for other sections if desired
+4. Repeat for other sections if desired
 
 ### Step 5: Preview Your Work
 
@@ -64,33 +64,33 @@ After the export process is complete, you can save the video to your device or s
 
 While the basic process of converting a video to slow motion is straightforward, there are some additional techniques you can use to enhance your results:
 
-- **Use selective slow motion**: Instead of slowing down the entire video, try applying the effect only to the most impactful moments. This can create a more dynamic and engaging viewing experience.
+1. **Use selective slow motion**: Instead of slowing down the entire video, try applying the effect only to the most impactful moments. This can create a more dynamic and engaging viewing experience.
 
-- **Experiment with different speeds**: Don’t be afraid to play around with various speed settings. Sometimes, a slightly faster slow motion (e.g., 0.75x) can look more natural than an extremely slow version.
+2. **Experiment with different speeds**: Don’t be afraid to play around with various speed settings. Sometimes, a slightly faster slow motion (e.g., 0.75x) can look more natural than an extremely slow version.
 
-- **Combine with other effects**: Many video editing apps allow you to add filters, text, or music to your videos. Try combining these with your slow-motion effect for more creative results.
+3. **Combine with other effects**: Many video editing apps allow you to add filters, text, or music to your videos. Try combining these with your slow-motion effect for more creative results.
 
-- **Consider the audio**: Remember that slowing down a video will also affect its audio. In many cases, it’s best to mute the original audio and add a separate soundtrack to your slow-motion video.
+4. **Consider the audio**: Remember that slowing down a video will also affect its audio. In many cases, it’s best to mute the original audio and add a separate soundtrack to your slow-motion video.
 
 ## Alternative Apps
 
 While Video Speed Changer: SlowMo is an excellent choice, there are other free Android apps you might want to consider:
 
-- **Slow motion video fast&slow mo**: This app offers a simple interface for both slowing down and speeding up videos. It’s a good option if you’re looking for a straightforward, no-frills solution.
+1. **Slow motion video fast&slow mo**: This app offers a simple interface for both slowing down and speeding up videos. It’s a good option if you’re looking for a straightforward, no-frills solution.
 
-- **Videoshop**: While not exclusively a slow-motion app, Videoshop offers a range of video editing features, including the ability to adjust video speed. It’s a good choice if you’re looking for a more comprehensive video editing tool.
+2. **Videoshop**: While not exclusively a slow-motion app, Videoshop offers a range of video editing features, including the ability to adjust video speed. It’s a good choice if you’re looking for a more comprehensive video editing tool.
 
 ## Limitations and Considerations
 
 While these free apps can produce impressive results, it’s important to be aware of their limitations:
 
-- **Video quality**: Free apps may compress your video during the editing process, potentially reducing its quality. If you’re working on a professional project, you might want to consider paid options that offer higher quality output.
+1. **Video quality**: Free apps may compress your video during the editing process, potentially reducing its quality. If you’re working on a professional project, you might want to consider paid options that offer higher quality output.
 
-- **Processing time**: Depending on the length and resolution of your video, as well as the processing power of your device, converting a video to slow motion can take some time. Be patient during the export process.
+2. **Processing time**: Depending on the length and resolution of your video, as well as the processing power of your device, converting a video to slow motion can take some time. Be patient during the export process.
 
-- **Battery drain**: Video processing can be demanding on your device’s battery. It’s a good idea to keep your phone plugged in while working on longer videos.
+3. **Battery drain**: Video processing can be demanding on your device’s battery. It’s a good idea to keep your phone plugged in while working on longer videos.
 
-- **Storage space**: Slow-motion videos, especially those at higher resolutions, can take up significant storage space on your device. Make sure you have enough free space before starting your project.
+4. **Storage space**: Slow-motion videos, especially those at higher resolutions, can take up significant storage space on your device. Make sure you have enough free space before starting your project.
 
 ## Conclusion
 

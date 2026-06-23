@@ -12,13 +12,13 @@ Are you tired of the Facebook app taking up too much storage space on your Andro
 
 Before we dive into the uninstallation process, let’s discuss some reasons why you might want to remove the Facebook app from your Android phone:
 
-- **Free up storage space**: The Facebook app can take up a significant amount of storage, especially if you’ve been using it for a long time. By uninstalling the app, you can reclaim valuable space on your device.
+1. **Free up storage space**: The Facebook app can take up a significant amount of storage, especially if you’ve been using it for a long time. By uninstalling the app, you can reclaim valuable space on your device.
 
-- **Improve battery life**: Many users have reported that the Facebook app is a major battery drain. Removing the app can help extend your phone’s battery life.
+2. **Improve battery life**: Many users have reported that the Facebook app is a major battery drain. Removing the app can help extend your phone’s battery life.
 
-- **Reduce data usage**: If you’re on a limited data plan, the Facebook app’s background data usage can quickly eat up your allowance. Uninstalling the app can help you save on data costs.
+3. **Reduce data usage**: If you’re on a limited data plan, the Facebook app’s background data usage can quickly eat up your allowance. Uninstalling the app can help you save on data costs.
 
-- **Protect your privacy**: Facebook has faced numerous privacy concerns over the years. By removing the app, you can limit the amount of personal information Facebook can collect about you.
+4. **Protect your privacy**: Facebook has faced numerous privacy concerns over the years. By removing the app, you can limit the amount of personal information Facebook can collect about you.
 
 ## Step-by-Step Guide to Uninstalling the Facebook App
 
@@ -26,27 +26,27 @@ Now that you understand the benefits of uninstalling the Facebook app, let’s w
 
 ### Step 1: Locate the Facebook App
 
-- Go to your Android device’s home screen or app drawer.
+1. Go to your Android device’s home screen or app drawer.
 
-- Find the Facebook app icon.
+2. Find the Facebook app icon.
 
 ### Step 2: Uninstall the App
 
-- Tap and hold the Facebook app icon until a menu appears.
+1. Tap and hold the Facebook app icon until a menu appears.
 
-- Select **Uninstall**.
+2. Select **Uninstall**.
 
-- Confirm your choice by tapping **OK** when prompted.
+3. Confirm your choice by tapping **OK** when prompted.
 
 ### Step 3: Clear App Data and Cache (Optional)
 
-- Go to your Android device’s **Settings**.
+1. Go to your Android device’s **Settings**.
 
-- Tap on **Apps** or **Application Manager**.
+2. Tap on **Apps** or **Application Manager**.
 
-- Find and tap on the Facebook app.
+3. Find and tap on the Facebook app.
 
-- Tap on **Clear Data** and **Clear Cache**.
+4. Tap on **Clear Data** and **Clear Cache**.
 
 ## Alternative Methods for Uninstalling Facebook
 
@@ -54,21 +54,21 @@ If the above method doesn’t work for you, or if your device doesn’t allow yo
 
 ### Disable the App
 
-- Go to your Android device’s **Settings**.
+1. Go to your Android device’s **Settings**.
 
-- Tap on Apps or **Application Manager**.
+2. Tap on Apps or **Application Manager**.
 
-- Find and tap on the Facebook app.
+3. Find and tap on the Facebook app.
 
-- Tap on **Disable**.
+4. Tap on **Disable**.
 
 ### Use ADB Commands
 
-- Enable USB debugging on your Android device.
+1. Enable USB debugging on your Android device.
 
-- Connect your device to a computer with Android Debug Bridge (ADB) installed.
+2. Connect your device to a computer with Android Debug Bridge (ADB) installed.
 
-- Open a command prompt or terminal and enter the following command: adb shell pm uninstall -k --user 0 com.facebook.katana
+3. Open a command prompt or terminal and enter the following command: adb shell pm uninstall -k --user 0 com.facebook.katana
 
 ## Accessing Facebook After Uninstalling the App
 

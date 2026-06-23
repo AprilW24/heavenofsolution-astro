@@ -24,25 +24,25 @@ It also helps to know that Gemini generates all videos in a **16:9 landscape fo
 
 Here’s the full process to animate your first photo using Gemini. ✅
 
-- Go to *gemini.google.com* and sign in to your Google account with an active AI Pro or Ultra subscription.
+1. Go to *gemini.google.com* and sign in to your Google account with an active AI Pro or Ultra subscription.
 
-- Click the **“Tools”** button in the prompt box at the bottom of the screen.
+2. Click the **“Tools”** button in the prompt box at the bottom of the screen.
 
-- Select **“Create video”** from the tool menu that pops up.
+3. Select **“Create video”** from the tool menu that pops up.
 
-- Click the photo upload icon to attach the image you want to animate.
+4. Click the photo upload icon to attach the image you want to animate.
 
-- Choose a clear, high-resolution photo where the main subject is visible and close to the camera.
+5. Choose a clear, high-resolution photo where the main subject is visible and close to the camera.
 
-- Type a descriptive prompt in the text field explaining what you want to happen in the video.
+6. Type a descriptive prompt in the text field explaining what you want to happen in the video.
 
-- Include audio details in your prompt like background music, sound effects, ambient noise, or spoken dialogue if you want your video to have sound. 🎧
+7. Include audio details in your prompt like background music, sound effects, ambient noise, or spoken dialogue if you want your video to have sound. 🎧
 
-- Hit the **Send** button and wait for Gemini to generate your 8-second video clip.
+8. Hit the **Send** button and wait for Gemini to generate your 8-second video clip.
 
-- Review the result and if it’s not quite right, tweak your prompt and try again.
+9. Review the result and if it’s not quite right, tweak your prompt and try again.
 
-- Once you’re happy with the output, tap the **Share** button or download the video to save it to your device. 🎉
+10. Once you’re happy with the output, tap the **Share** button or download the video to save it to your device. 🎉
 
 ## How to Write Better Prompts for Higher Quality Animated Videos
 

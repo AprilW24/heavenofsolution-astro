@@ -12,37 +12,37 @@ Losing your phone can be a stressful experience, especially if you rely on it fo
 
 If you have an Android phone, you can use the **Find My Device** feature to locate your phone, even if it’s on airplane mode. This feature uses GPS to track your phone’s location, so it will still work even if your phone is offline. To use Find My Device:
 
-- Go to the Find My Device website (https://www.google.com/android/find) on another device.
+1. Go to the Find My Device website (https://www.google.com/android/find) on another device.
 
-- Sign in with the Google account associated with your lost phone.
+2. Sign in with the Google account associated with your lost phone.
 
-- If your phone is turned on and connected to the internet, you should see its location on a map.
+3. If your phone is turned on and connected to the internet, you should see its location on a map.
 
-- If your phone is offline, you’ll see its last known location.
+4. If your phone is offline, you’ll see its last known location.
 
 If you have an iPhone, you can use the **Find My** feature to locate your phone. Like Find My Device, Find My uses GPS to track your phone’s location, even if it’s offline. To use Find My:
 
-- Go to the iCloud website (https://www.icloud.com/) on another device.
+1. Go to the iCloud website (https://www.icloud.com/) on another device.
 
-- Sign in with your Apple ID and password.
+2. Sign in with your Apple ID and password.
 
-- Click on the Find My app.
+3. Click on the Find My app.
 
-- If your phone is turned on and connected to the internet, you should see its location on a map.
+4. If your phone is turned on and connected to the internet, you should see its location on a map.
 
-- If your phone is offline, you’ll see its last known location.
+5. If your phone is offline, you’ll see its last known location.
 
 ## Step 2: Check Your Google Location History (Android)
 
 If you have an Android phone and have enabled Google Location History, you may be able to see your phone’s location history, even if it’s currently on airplane mode. To check your Google Location History:
 
-- Go to the Google Maps Timeline (https://www.google.com/maps/timeline) on another device.
+1. Go to the Google Maps Timeline (https://www.google.com/maps/timeline) on another device.
 
-- Sign in with the Google account associated with your lost phone.
+2. Sign in with the Google account associated with your lost phone.
 
-- Select the date your phone went missing.
+3. Select the date your phone went missing.
 
-- Look for any location data that may indicate where your phone was last located.
+4. Look for any location data that may indicate where your phone was last located.
 
 Keep in mind that this method will only work if you had Google Location History enabled on your phone before it went missing.
 

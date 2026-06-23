@@ -34,9 +34,9 @@ Once you’re in the app, you’ll see your Drive’s main interface. You can:
 
 - To **download** the file for offline access:
 
-- Tap the **three-dot menu** next to the file
+1. Tap the **three-dot menu** next to the file
 
-- Select **Make available offline**
+2. Select **Make available offline**
 
 The file will now be available even without an internet connection.
 
@@ -116,15 +116,15 @@ The file will be saved to your device’s download folder.
 
 To make the process of retrieving files from Google Drive even smoother, consider these tips:
 
-- **Organize your files**: Use folders and a consistent naming convention to make files easier to find.
+1. **Organize your files**: Use folders and a consistent naming convention to make files easier to find.
 
-- **Use the search function**: The search bar in Google Drive is powerful and can help you quickly locate files.
+2. **Use the search function**: The search bar in Google Drive is powerful and can help you quickly locate files.
 
-- **Star important files**: Mark frequently accessed files with a star for quick access.
+3. **Star important files**: Mark frequently accessed files with a star for quick access.
 
-- **Use the “Recent” tab**: This section in the Google Drive app shows your most recently accessed files.
+4. **Use the “Recent” tab**: This section in the Google Drive app shows your most recently accessed files.
 
-- **Enable offline access**: Make important files available offline to access them without an internet connection.
+5. **Enable offline access**: Make important files available offline to access them without an internet connection.
 
 ## Troubleshooting Common Issues
 

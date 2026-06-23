@@ -16,33 +16,33 @@ Before we dive into the cancellation process, it’s important to understand how
 
 Before you proceed with canceling your Canva subscription on Android, there are a few things you should keep in mind:
 
-- **Timing is key**: Try to cancel at least a day before your next billing cycle to avoid being charged for an additional period.
+1. **Timing is key**: Try to cancel at least a day before your next billing cycle to avoid being charged for an additional period.
 
-- **Save your work**: While your designs will still be accessible after cancellation, it’s always a good idea to download any important projects before you cancel.
+2. **Save your work**: While your designs will still be accessible after cancellation, it’s always a good idea to download any important projects before you cancel.
 
-- **Consider alternatives**: If you’re canceling due to cost, remember that Canva offers a free plan. You might want to downgrade instead of canceling entirely.
+3. **Consider alternatives**: If you’re canceling due to cost, remember that Canva offers a free plan. You might want to downgrade instead of canceling entirely.
 
-- **Check your subscription source**: Ensure that you subscribed through Google Play. If you subscribed directly through Canva’s website or another platform, the cancellation process will be different.
+4. **Check your subscription source**: Ensure that you subscribed through Google Play. If you subscribed directly through Canva’s website or another platform, the cancellation process will be different.
 
 ## Step-by-Step Guide to Canceling Canva Subscription on Android
 
 Now, let’s get into the nitty-gritty of canceling your Canva subscription on your Android device. Follow these steps carefully:
 
-- **Open Google Play Store**: Locate and tap the Google Play Store icon on your Android device’s home screen or app drawer.
+1. **Open Google Play Store**: Locate and tap the Google Play Store icon on your Android device’s home screen or app drawer.
 
-- **Access your profile**: Tap on your profile picture or initial in the top right corner of the screen. This will open your Google Play account menu.
+2. **Access your profile**: Tap on your profile picture or initial in the top right corner of the screen. This will open your Google Play account menu.
 
-- **Navigate to subscriptions**: In the account menu, look for and tap on “Payments & subscriptions.” Then, select “Subscriptions” from the list of options.
+3. **Navigate to subscriptions**: In the account menu, look for and tap on “Payments & subscriptions.” Then, select “Subscriptions” from the list of options.
 
-- **Find Canva**: Scroll through your list of active subscriptions until you find Canva. Tap on it to open the subscription details.
+4. **Find Canva**: Scroll through your list of active subscriptions until you find Canva. Tap on it to open the subscription details.
 
-- **Cancel subscription**: On the Canva subscription page, you should see a “Cancel subscription” button. Tap on this button.
+5. **Cancel subscription**: On the Canva subscription page, you should see a “Cancel subscription” button. Tap on this button.
 
-- **Confirm cancellation**: Google Play will ask you to confirm your decision. You might also be presented with options to pause your subscription or change plans. If you’re sure about canceling, proceed with the cancellation.
+6. **Confirm cancellation**: Google Play will ask you to confirm your decision. You might also be presented with options to pause your subscription or change plans. If you’re sure about canceling, proceed with the cancellation.
 
-- **Provide feedback (optional)**: You may be asked to provide a reason for canceling. While this step is optional, your feedback can help Canva improve their service.
+7. **Provide feedback (optional)**: You may be asked to provide a reason for canceling. While this step is optional, your feedback can help Canva improve their service.
 
-- **Verify cancellation**: After confirming, you should see a message indicating that your subscription has been canceled. Take note of the date when your access to Canva Pro features will end.
+8. **Verify cancellation**: After confirming, you should see a message indicating that your subscription has been canceled. Take note of the date when your access to Canva Pro features will end.
 
 ## What Happens After Cancellation?
 

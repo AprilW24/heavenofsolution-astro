@@ -24,25 +24,25 @@ If you want your post or thread to get noticed, make it public so it pops up for
 
 ## Step-by-Step to Managing Your Perplexity Library
 
-- Go to the Library from the main sidebar.
+1. Go to the Library from the main sidebar.
 
-- Search threads by keyword or title.
+2. Search threads by keyword or title.
 
-- Sort threads by newest or oldest.
+3. Sort threads by newest or oldest.
 
-- Filter threads by search mode, like *Pro* or *Labs*.
+4. Filter threads by search mode, like *Pro* or *Labs*.
 
-- Select multiple threads you want to delete.
+5. Select multiple threads you want to delete.
 
-- Click the dots menu to delete everything in one go.
+6. Click the dots menu to delete everything in one go.
 
-- Add threads to a Space for project grouping.
+7. Add threads to a Space for project grouping.
 
-- Hide threads created through *Comet* browser if needed.
+8. Hide threads created through *Comet* browser if needed.
 
-- Share threads by sending them to a Space or making them public.
+9. Share threads by sending them to a Space or making them public.
 
-- Organize Spaces by topic or project as your archive grows.
+10. Organize Spaces by topic or project as your archive grows.
 
 ## Spaces Help You Group and Share Your Work Easily
 

@@ -90,11 +90,11 @@ TikTok doesn’t typically provide individual feedback on reports. However, you 
 
 If you want to report a specific video, comment, or message rather than an entire account, the process is similar:
 
-- For videos: Tap the share icon (usually an arrow) and select “Report” from the options.
+1. For videos: Tap the share icon (usually an arrow) and select “Report” from the options.
 
-- For comments: Long-press the comment and select “Report” from the pop-up menu.
+2. For comments: Long-press the comment and select “Report” from the pop-up menu.
 
-- For direct messages: Tap and hold the message, then select “More” and “Report.”
+3. For direct messages: Tap and hold the message, then select “More” and “Report.”
 
 ### Understanding TikTok’s Community Guidelines
 
@@ -130,11 +130,11 @@ You can block a user by going to their profile, tapping the three-dot menu, and 
 
 After submitting a report:
 
-- TikTok’s moderation team reviews the report
+1. TikTok’s moderation team reviews the report
 
-- They assess whether the reported content or behavior violates guidelines
+2. They assess whether the reported content or behavior violates guidelines
 
-- If a violation is found, TikTok may:
+3. If a violation is found, TikTok may:
 
 - Remove the specific content
 

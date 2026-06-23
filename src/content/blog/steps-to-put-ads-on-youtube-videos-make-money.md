@@ -24,13 +24,13 @@ Assuming you’ve met these requirements, let’s explore how to put ads on your
 
 The first step in monetizing your YouTube videos on mobile is to download the YouTube Studio app. This app is available for both Android and iOS devices.
 
-- Open your device’s app store (Google Play Store for Android or App Store for iOS)
+1. Open your device’s app store (Google Play Store for Android or App Store for iOS)
 
-- Search for **YouTube Studio**
+2. Search for **YouTube Studio**
 
-- Download and install the app
+3. Download and install the app
 
-- Sign in with your YouTube account
+4. Sign in with your YouTube account
 
 **Pro tip:** Make sure you’re signing in with the account associated with the YouTube channel you want to monetize.
 
@@ -38,15 +38,15 @@ The first step in monetizing your YouTube videos on mobile is to download the Yo
 
 If you haven’t already enabled monetization on your channel, you’ll need to do this first.
 
-- Open the YouTube Studio app
+1. Open the YouTube Studio app
 
-- Tap on the menu icon (three horizontal lines) in the top left corner
+2. Tap on the menu icon (three horizontal lines) in the top left corner
 
-- Select **Monetization** from the menu
+3. Select **Monetization** from the menu
 
-- If eligible, you’ll see an option to **Turn on monetization**
+4. If eligible, you’ll see an option to **Turn on monetization**
 
-- Follow the prompts to accept the YouTube Partner Program terms
+5. Follow the prompts to accept the YouTube Partner Program terms
 
 **Note:** If you don’t see the monetization option, your channel may not yet be eligible. Double-check that you meet the requirements mentioned earlier.
 
@@ -54,13 +54,13 @@ If you haven’t already enabled monetization on your channel, you’ll need to 
 
 To receive payments from YouTube, you’ll need to link an AdSense account. If you don’t have one, you’ll need to create one.
 
-- In the YouTube Studio app, go to the Monetization section
+1. In the YouTube Studio app, go to the Monetization section
 
-- Tap on **Link an AdSense account**
+2. Tap on **Link an AdSense account**
 
-- Follow the prompts to either create a new AdSense account or link an existing one
+3. Follow the prompts to either create a new AdSense account or link an existing one
 
-- Complete the AdSense application process
+4. Complete the AdSense application process
 
 **Important:** Be sure to enter accurate information when setting up your AdSense account, as this will be used for tax purposes and payments.
 
@@ -68,15 +68,15 @@ To receive payments from YouTube, you’ll need to link an AdSense account. If y
 
 Once your channel is monetized and linked to AdSense, you can start enabling ads on your videos.
 
-- In the YouTube Studio app, tap on **Content** in the bottom menu
+1. In the YouTube Studio app, tap on **Content** in the bottom menu
 
-- Find the video you want to monetize
+2. Find the video you want to monetize
 
-- Tap on the video to open its details
+3. Tap on the video to open its details
 
-- Scroll down to find the **Monetization** section
+4. Scroll down to find the **Monetization** section
 
-- Toggle the switch to turn on monetization for that video
+5. Toggle the switch to turn on monetization for that video
 
 **Pro tip:** You can also enable monetization for multiple videos at once by selecting them in the Content section and using the bulk edit feature.
 
@@ -84,13 +84,13 @@ Once your channel is monetized and linked to AdSense, you can start enabling ads
 
 For videos longer than 8 minutes, you have the option to place mid-roll ads. Here’s how to do it:
 
-- In the video details screen, tap on **Ad breaks**
+1. In the video details screen, tap on **Ad breaks**
 
-- Choose between **Automatic** (YouTube places ads at natural breaks) or **Manual** (you choose where to place ads)
+2. Choose between **Automatic** (YouTube places ads at natural breaks) or **Manual** (you choose where to place ads)
 
-- If choosing manual, scrub through the video timeline and tap **Add break** where you want ads to appear
+3. If choosing manual, scrub through the video timeline and tap **Add break** where you want ads to appear
 
-- Save your changes
+4. Save your changes
 
 **Best practice:** Place ads at natural transition points in your video to minimize disruption to the viewer experience.
 
@@ -98,11 +98,11 @@ For videos longer than 8 minutes, you have the option to place mid-roll ads. Her
 
 It’s a good idea to regularly review your monetization settings to ensure they align with your content and goals.
 
-- In the YouTube Studio app, go to **Settings** > **Channel** > **Monetization**
+1. In the YouTube Studio app, go to **Settings** > **Channel** > **Monetization**
 
-- Review the types of ads you’re allowing on your videos (e.g., display ads, overlay ads, sponsored cards)
+2. Review the types of ads you’re allowing on your videos (e.g., display ads, overlay ads, sponsored cards)
 
-- Adjust settings as needed based on your preferences and content type
+3. Adjust settings as needed based on your preferences and content type
 
 **Remember:** Some ad types may not be suitable for all content, so choose wisely to maintain a good viewer experience.
 
@@ -110,11 +110,11 @@ It’s a good idea to regularly review your monetization settings to ensure they
 
 Keep track of your earnings and performance using the YouTube Studio app.
 
-- Tap on **Analytics** in the bottom menu
+1. Tap on **Analytics** in the bottom menu
 
-- Go to the **Revenue** tab to see your estimated earnings
+2. Go to the **Revenue** tab to see your estimated earnings
 
-- Explore different metrics and time periods to understand your channel’s performance
+3. Explore different metrics and time periods to understand your channel’s performance
 
 **Pro tip:** Use these insights to inform your content strategy and optimize your videos for better monetization.
 

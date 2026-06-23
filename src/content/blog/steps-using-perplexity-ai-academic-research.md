@@ -22,25 +22,25 @@ The Android app interface makes everything simple—search bar in the middle, fi
 
 ## Step-by-Step to Use Perplexity AI for Research on Android
 
-- Download Perplexity AI from Google Play and log in using your Google account.
+1. Download Perplexity AI from Google Play and log in using your Google account.
 
-- Tap the focus icon near the search bar and select *Academic* for verified research results.
+2. Tap the focus icon near the search bar and select *Academic* for verified research results.
 
-- Type your question clearly; specific questions give better results.
+3. Type your question clearly; specific questions give better results.
 
-- Turn on *Deep Research* mode if you want Perplexity to analyze multiple sources.
+4. Turn on *Deep Research* mode if you want Perplexity to analyze multiple sources.
 
-- Wait a few minutes for the app to process and summarize your answer.
+5. Wait a few minutes for the app to process and summarize your answer.
 
-- Tap citations in the response to verify the original sources.
+6. Tap citations in the response to verify the original sources.
 
-- Use the “Share” or “Export” option to download the report as a PDF.
+7. Use the “Share” or “Export” option to download the report as a PDF.
 
-- Save your queries in Collections to revisit later.
+8. Save your queries in Collections to revisit later.
 
-- If you need context, continue the chat the app remembers your thread.
+9. If you need context, continue the chat the app remembers your thread.
 
-- Copy the references or use them directly in your paper.
+10. Copy the references or use them directly in your paper.
 
 ## Ready-to-Use Prompt for Academic Research
 

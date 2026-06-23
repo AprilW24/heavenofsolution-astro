@@ -28,21 +28,21 @@ TransVoice is a lightweight yet robust Android app that allows you to add custom
 
 **Steps:**
 
-- Install TransVoice from the Google Play Store.
+1. Install TransVoice from the Google Play Store.
 
-- Open the app and select **Tools** > **Video Tools** > **Synthesize audio & video**.
+2. Open the app and select **Tools** > **Video Tools** > **Synthesize audio & video**.
 
-- Choose your YouTube video clip.
+3. Choose your YouTube video clip.
 
-- Tap **Select Bgm** to choose your first music file.
+4. Tap **Select Bgm** to choose your first music file.
 
-- Click **Next** to add the music.
+5. Click **Next** to add the music.
 
-- Repeat steps 4-5 to add additional songs.
+6. Repeat steps 4-5 to add additional songs.
 
-- Adjust the timing and volume of each track as needed.
+7. Adjust the timing and volume of each track as needed.
 
-- Export your video with the added music.
+8. Export your video with the added music.
 
 ### 2. InShot (Android & iOS)
 
@@ -50,21 +50,21 @@ InShot is a popular video editing app available for both Android and iOS devices
 
 **Steps:**
 
-- Download and open InShot.
+1. Download and open InShot.
 
-- Import your video.
+2. Import your video.
 
-- Tap the **Music** icon.
+3. Tap the **Music** icon.
 
-- Choose your first song from the app’s library or your device.
+4. Choose your first song from the app’s library or your device.
 
-- Adjust the song’s position and duration.
+5. Adjust the song’s position and duration.
 
-- Repeat steps 3-5 to add more songs.
+6. Repeat steps 3-5 to add more songs.
 
-- Adjust volumes as needed.
+7. Adjust volumes as needed.
 
-- Export your video.
+8. Export your video.
 
 ### 3. Adobe Premiere Rush (Android & iOS)
 
@@ -72,21 +72,21 @@ For more advanced editing capabilities, Adobe Premiere Rush offers a professiona
 
 **Steps:**
 
-- Download Adobe Premiere Rush and sign in.
+1. Download Adobe Premiere Rush and sign in.
 
-- Create a new project and import your video.
+2. Create a new project and import your video.
 
-- Tap the **Audio** icon.
+3. Tap the **Audio** icon.
 
-- Browse the music library and select your first song.
+4. Browse the music library and select your first song.
 
-- Adjust the song’s position and duration on the timeline.
+5. Adjust the song’s position and duration on the timeline.
 
-- Repeat steps 3-5 to add more songs.
+6. Repeat steps 3-5 to add more songs.
 
-- Fine-tune audio levels for each track.
+7. Fine-tune audio levels for each track.
 
-- Export your video.
+8. Export your video.
 
 ## Method 2: Using YouTube Studio on Desktop
 
@@ -94,25 +94,25 @@ While not a mobile solution, using YouTube Studio on a desktop browser remains o
 
 **Steps:**
 
-- Upload your video to YouTube (you can do this from your phone).
+1. Upload your video to YouTube (you can do this from your phone).
 
-- On a desktop browser, go to studio.youtube.com and sign in.
+2. On a desktop browser, go to studio.youtube.com and sign in.
 
-- Select **Content** from the left menu.
+3. Select **Content** from the left menu.
 
-- Click on the video you want to edit.
+4. Click on the video you want to edit.
 
-- Select **Editor** from the left menu.
+5. Select **Editor** from the left menu.
 
-- Click on **Audio** and browse the YouTube Audio Library.
+6. Click on **Audio** and browse the YouTube Audio Library.
 
-- When you find a song, click **Add** to insert it into your video.
+7. When you find a song, click **Add** to insert it into your video.
 
-- Drag the blue box to adjust the song’s position and duration.
+8. Drag the blue box to adjust the song’s position and duration.
 
-- Repeat steps 6-8 to add more songs.
+9. Repeat steps 6-8 to add more songs.
 
-- Click **Save** when finished.
+10. Click **Save** when finished.
 
 ## Tips for Adding Multiple Songs
 

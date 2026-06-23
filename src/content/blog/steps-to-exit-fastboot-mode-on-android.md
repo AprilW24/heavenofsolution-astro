@@ -22,63 +22,63 @@ Now that you understand what fastboot mode is, let’s explore various methods t
 
 The simplest way to exit fastboot mode is to reboot your phone. Here’s how:
 
-- Press and hold the power button for about 10-15 seconds until your device vibrates or the screen goes black.
+1. Press and hold the power button for about 10-15 seconds until your device vibrates or the screen goes black.
 
-- If the phone doesn’t restart automatically, press the power button again to turn it back on.
+2. If the phone doesn’t restart automatically, press the power button again to turn it back on.
 
-- Your device should now boot into the normal Android operating system.
+3. Your device should now boot into the normal Android operating system.
 
 ### Method 2: Use the Volume and Power Keys
 
 If rebooting doesn’t work, you can try using a combination of the volume and power keys to exit fastboot mode:
 
-- Press and hold the volume down and power buttons simultaneously for 10-15 seconds.
+1. Press and hold the volume down and power buttons simultaneously for 10-15 seconds.
 
-- Your phone should vibrate or the screen should turn off, indicating a reboot.
+2. Your phone should vibrate or the screen should turn off, indicating a reboot.
 
-- If necessary, press the power button to turn your device back on.
+3. If necessary, press the power button to turn your device back on.
 
-- Your phone should now start in normal mode.
+4. Your phone should now start in normal mode.
 
 ### Method 3: Remove the Battery (For Devices with Removable Batteries)
 
 If your Android device has a removable battery, you can try this method:
 
-- Power off your phone if it’s not already turned off.
+1. Power off your phone if it’s not already turned off.
 
-- Remove the back cover and take out the battery.
+2. Remove the back cover and take out the battery.
 
-- Wait for about 30 seconds to a minute.
+3. Wait for about 30 seconds to a minute.
 
-- Reinsert the battery and put the back cover on.
+4. Reinsert the battery and put the back cover on.
 
-- Press the power button to turn on your device.
+5. Press the power button to turn on your device.
 
-- Your phone should boot into the regular Android OS.
+6. Your phone should boot into the regular Android OS.
 
 ### Method 4: Wait for the Battery to Drain (For Devices with Non-Removable Batteries)
 
 If your phone has a non-removable battery, you can try waiting for the battery to completely drain:
 
-- Leave your device in fastboot mode until the battery runs out and the phone turns off.
+1. Leave your device in fastboot mode until the battery runs out and the phone turns off.
 
-- Connect your phone to a charger and let it charge for a while.
+2. Connect your phone to a charger and let it charge for a while.
 
-- Press the power button to turn on your device.
+3. Press the power button to turn on your device.
 
-- Your phone should now start normally.
+4. Your phone should now start normally.
 
 ### Method 5: Use Android Multi Tools
 
 If none of the above methods work, you can use Android Multi Tools, a software utility for Windows that can help you fix various Android issues, including a stuck fastboot mode:
 
-- Download and install Android Multi Tools on your Windows PC.
+1. Download and install Android Multi Tools on your Windows PC.
 
-- Launch the program as an administrator.
+2. Launch the program as an administrator.
 
-- Connect your Android device to the computer using a USB cable.
+3. Connect your Android device to the computer using a USB cable.
 
-- Follow the on-screen instructions to fix the fastboot mode issue.
+4. Follow the on-screen instructions to fix the fastboot mode issue.
 
 ## Conclusion
 

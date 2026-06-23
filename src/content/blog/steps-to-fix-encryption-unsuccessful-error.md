@@ -26,13 +26,13 @@ Now, let’s look at the steps to fix this error without losing your data.
 
 **The simplest solution is often the most effective:**
 
-- Press and hold the power button to force a shutdown.
+1. Press and hold the power button to force a shutdown.
 
-- Wait for 30 seconds.
+2. Wait for 30 seconds.
 
-- Turn the device back on.
+3. Turn the device back on.
 
-- Repeat this process 3-5 times.
+4. Repeat this process 3-5 times.
 
 In some cases, multiple reboots can resolve the issue by allowing the system to complete the encryption process or clear temporary glitches.
 
@@ -40,43 +40,43 @@ In some cases, multiple reboots can resolve the issue by allowing the system to 
 
 Safe mode can help determine if a third-party app is causing the issue:
 
-- Press and hold the power button.
+1. Press and hold the power button.
 
-- When the power menu appears, press and hold the **Power off** option.
+2. When the power menu appears, press and hold the **Power off** option.
 
-- You’ll see a prompt to reboot to safe mode. Tap **OK**.
+3. You’ll see a prompt to reboot to safe mode. Tap **OK**.
 
-- If the device boots successfully in safe mode, the issue may be caused by a recently installed app.
+4. If the device boots successfully in safe mode, the issue may be caused by a recently installed app.
 
 ## Step 3: Clear Cache Partition
 
 Clearing the cache partition can resolve many system issues:
 
-- Power off your device.
+1. Power off your device.
 
-- Press and hold the Volume Down and Power buttons simultaneously.
+2. Press and hold the Volume Down and Power buttons simultaneously.
 
-- When the device vibrates, release the buttons.
+3. When the device vibrates, release the buttons.
 
-- Use volume buttons to navigate to **Recovery mode** and press the Power button to select.
+4. Use volume buttons to navigate to **Recovery mode** and press the Power button to select.
 
-- In recovery mode, use volume buttons to select **Wipe cache partition**.
+5. In recovery mode, use volume buttons to select **Wipe cache partition**.
 
-- Confirm and wait for the process to complete.
+6. Confirm and wait for the process to complete.
 
-- Reboot your device.
+7. Reboot your device.
 
 ## Step 4: Use ADB to Clear Data Partition
 
 For more advanced users, Android Debug Bridge (ADB) can be used to clear the data partition:
 
-- Enable USB debugging on your device (if accessible).
+1. Enable USB debugging on your device (if accessible).
 
-- Connect your device to a computer with ADB installed.
+2. Connect your device to a computer with ADB installed.
 
-- Open a command prompt and enter:adb devices adb shell rm -rf /data/system/locksettings.db
+3. Open a command prompt and enter:adb devices adb shell rm -rf /data/system/locksettings.db
 
-- Reboot your device.
+4. Reboot your device.
 
 **Note:** This method requires some technical knowledge and may not be suitable for all users.
 
@@ -84,13 +84,13 @@ For more advanced users, Android Debug Bridge (ADB) can be used to clear the dat
 
 If previous methods fail, flashing stock firmware can often resolve the issue:
 
-- Download the official stock firmware for your device model.
+1. Download the official stock firmware for your device model.
 
-- Use a flashing tool like Odin (for Samsung devices) or Fastboot.
+2. Use a flashing tool like Odin (for Samsung devices) or Fastboot.
 
-- Follow the specific instructions for your device to flash the firmware.
+3. Follow the specific instructions for your device to flash the firmware.
 
-- After flashing, boot your device normally.
+4. After flashing, boot your device normally.
 
 **Caution:** Flashing firmware can be risky and may void your warranty. Proceed with caution and ensure you follow instructions specific to your device model.
 
@@ -98,13 +98,13 @@ If previous methods fail, flashing stock firmware can often resolve the issue:
 
 Custom recovery tools like TWRP can provide additional options:
 
-- Boot into custom recovery mode.
+1. Boot into custom recovery mode.
 
-- Navigate to **Wipe** or **Advanced Wipe**.
+2. Navigate to **Wipe** or **Advanced Wipe**.
 
-- Select **Data** partition and change the file system to ext4.
+3. Select **Data** partition and change the file system to ext4.
 
-- Perform the format and reboot.
+4. Perform the format and reboot.
 
 **Note:** This method requires an unlocked bootloader and custom recovery, which may not be available or advisable for all users.
 
@@ -112,23 +112,23 @@ Custom recovery tools like TWRP can provide additional options:
 
 If software solutions fail, the problem may be hardware-related:
 
-- Check for any physical damage to your device.
+1. Check for any physical damage to your device.
 
-- Ensure the battery is properly connected and not swollen.
+2. Ensure the battery is properly connected and not swollen.
 
-- If possible, try booting with a different battery.
+3. If possible, try booting with a different battery.
 
-- Consider professional repair services if hardware issues are suspected.
+4. Consider professional repair services if hardware issues are suspected.
 
 ## Step 8: Seek Professional Help
 
 If all else fails, it’s time to seek professional assistance:
 
-- Contact your device manufacturer’s support.
+1. Contact your device manufacturer’s support.
 
-- Visit an authorized service center.
+2. Visit an authorized service center.
 
-- Explain the steps you’ve already taken to troubleshoot the issue.
+3. Explain the steps you’ve already taken to troubleshoot the issue.
 
 Professional technicians may have specialized tools and knowledge to resolve the issue without data loss.
 

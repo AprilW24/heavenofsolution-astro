@@ -30,13 +30,13 @@ Given these limitations, third-party applications have become essential tools fo
 
 Before you begin the process of deleting all your tweets, there are a few important steps you should take:
 
-- **Download your Twitter archive**: This is crucial as it contains all your tweet data. To do this:• Open the Twitter app on your phone• Go to Settings and Privacy• Tap on “Your Twitter data”• Request your archive
+1. **Download your Twitter archive**: This is crucial as it contains all your tweet data. To do this:• Open the Twitter app on your phone• Go to Settings and Privacy• Tap on “Your Twitter data”• Request your archive
 
-- **Backup important tweets**: If there are any tweets you want to keep, make sure to save them separately before deletion.
+2. **Backup important tweets**: If there are any tweets you want to keep, make sure to save them separately before deletion.
 
-- **Consider the permanence**: Remember that once tweets are deleted, they cannot be recovered. Make sure you’re certain about your decision.
+3. **Consider the permanence**: Remember that once tweets are deleted, they cannot be recovered. Make sure you’re certain about your decision.
 
-- **Check connected apps**: Some third-party apps might be posting tweets on your behalf. Review and revoke access to any apps you no longer use.
+4. **Check connected apps**: Some third-party apps might be posting tweets on your behalf. Review and revoke access to any apps you no longer use.
 
 ## Using Third-Party Apps to Delete All Tweets
 
@@ -48,15 +48,15 @@ TweetEraser is one of the most popular and user-friendly options for mass tweet 
 
 **Steps to use TweetEraser:**
 
-- Go to the TweetEraser website on your phone’s browser.
+1. Go to the TweetEraser website on your phone’s browser.
 
-- Sign in with your Twitter account.
+2. Sign in with your Twitter account.
 
-- Upload your Twitter archive (which you downloaded earlier).
+3. Upload your Twitter archive (which you downloaded earlier).
 
-- Use the filters to select all tweets or specify certain criteria.
+4. Use the filters to select all tweets or specify certain criteria.
 
-- Click “Delete tweets” to begin the process.
+5. Click “Delete tweets” to begin the process.
 
 TweetEraser offers both free and paid options. The free version allows you to delete up to 3,200 tweets, while paid plans offer unlimited deletions and more advanced features.
 
@@ -66,13 +66,13 @@ TweetDelete is another excellent option that works well on mobile browsers. It�
 
 **How to use TweetDelete:**
 
-- Visit the TweetDelete website on your phone.
+1. Visit the TweetDelete website on your phone.
 
-- Authorize the app with your Twitter account.
+2. Authorize the app with your Twitter account.
 
-- Choose your deletion preferences (e.g., delete tweets older than a certain date).
+3. Choose your deletion preferences (e.g., delete tweets older than a certain date).
 
-- Confirm and let the app do its work.
+4. Confirm and let the app do its work.
 
 TweetDelete is free for basic use, with a premium version available for more advanced features.
 
@@ -82,15 +82,15 @@ Circleboom offers a comprehensive suite of Twitter management tools, including b
 
 **Steps for using Circleboom:**
 
-- Go to the Circleboom website and sign up.
+1. Go to the Circleboom website and sign up.
 
-- Connect your Twitter account.
+2. Connect your Twitter account.
 
-- Navigate to the “Delete Tweets” section.
+3. Navigate to the “Delete Tweets” section.
 
-- Set your criteria for deletion (date range, keywords, etc.).
+4. Set your criteria for deletion (date range, keywords, etc.).
 
-- Review and confirm the tweets to be deleted.
+5. Review and confirm the tweets to be deleted.
 
 Circleboom offers various pricing tiers, with some basic functions available in the free version.
 
@@ -112,15 +112,15 @@ If you’re looking for a more drastic solution, you might consider temporarily 
 
 **To deactivate your account:**
 
-- Open the Twitter app on your phone.
+1. Open the Twitter app on your phone.
 
-- Go to Settings and Privacy.
+2. Go to Settings and Privacy.
 
-- Tap on “Account” and then “Deactivate your account”.
+3. Tap on “Account” and then “Deactivate your account”.
 
-- Read the information provided and proceed if you’re sure.
+4. Read the information provided and proceed if you’re sure.
 
-- Enter your password to confirm.
+5. Enter your password to confirm.
 
 Remember, if you log back in within the 30-day period, the deactivation process will be canceled, and your tweets will remain intact.
 

@@ -20,19 +20,19 @@ Changing the language in Canva can enhance your user experience, especially if y
 
 Here are the steps to change the language on the Canva app for Android:
 
-- **Open the Canva App**: Start by launching the Canva app on your Android device.
+1. **Open the Canva App**: Start by launching the Canva app on your Android device.
 
-- **Tap on the Profile Icon**: Look for your profile icon at the top left corner of the screen and tap on it.
+2. **Tap on the Profile Icon**: Look for your profile icon at the top left corner of the screen and tap on it.
 
-- **Access Account Settings**: From the dropdown menu, select “Account Settings.”
+3. **Access Account Settings**: From the dropdown menu, select “Account Settings.”
 
-- **Locate Language Settings**: Scroll down in the settings menu until you find the “Language” option.
+4. **Locate Language Settings**: Scroll down in the settings menu until you find the “Language” option.
 
-- **Select Your Preferred Language**: Click on the arrow next to the current language and choose your desired language from the list.
+5. **Select Your Preferred Language**: Click on the arrow next to the current language and choose your desired language from the list.
 
-- **Save Changes**: Once you’ve selected your language, the changes should be saved automatically.
+6. **Save Changes**: Once you’ve selected your language, the changes should be saved automatically.
 
-- **Verify the Change**: Go back to the main app interface to ensure that the language has changed correctly.
+7. **Verify the Change**: Go back to the main app interface to ensure that the language has changed correctly.
 
 ## Additional Tips
 

@@ -14,21 +14,21 @@ This guide will walk you through the simple steps to create your Perplexity acco
 
 Creating an account on the Perplexity app is straightforward and takes just a few minutes. Here’s the step-by-step process:
 
-- Download or update the Perplexity app from the Google Play Store.
+1. Download or update the Perplexity app from the Google Play Store.
 
-- Open the app and tap the **Sign Up** button on the home screen.
+2. Open the app and tap the **Sign Up** button on the home screen.
 
-- Choose to sign up using your Google account, Apple ID, or enter your email address.
+3. Choose to sign up using your Google account, Apple ID, or enter your email address.
 
-- If you pick email, enter it and check your inbox for a confirmation link.
+4. If you pick email, enter it and check your inbox for a confirmation link.
 
-- Click the link in the email to verify your address and return to the app.
+5. Click the link in the email to verify your address and return to the app.
 
-- Create a username and optionally add a profile picture.
+6. Create a username and optionally add a profile picture.
 
-- Tap **Continue** and then **Finish** to complete the setup.
+7. Tap **Continue** and then **Finish** to complete the setup.
 
-- You’re now logged in and ready to start using Perplexity AI on your Android device.
+8. You’re now logged in and ready to start using Perplexity AI on your Android device.
 
 This quick setup lets you access features like saving your search history, uploading files, and using different chat modes tailored to your needs.
 

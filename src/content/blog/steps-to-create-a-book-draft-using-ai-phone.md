@@ -36,25 +36,25 @@ What I like is their mobile setups; they let me draft, edit, and store everythin
 
 Here’s how I get a draft down from just an idea, all while using my phone:
 
-- Decide on your topic and genre before you start.
+1. Decide on your topic and genre before you start.
 
-- Choose an AI writing app from the ones mentioned above.
+2. Choose an AI writing app from the ones mentioned above.
 
-- Create an account, set up a new project, and name your book.
+3. Create an account, set up a new project, and name your book.
 
-- Use a voice memo or text input to capture initial ideas.
+4. Use a voice memo or text input to capture initial ideas.
 
-- Build a basic outline with chapter titles or sections.
+5. Build a basic outline with chapter titles or sections.
 
-- Feed your outline into the AI and request a sample draft of the first chapter.
+6. Feed your outline into the AI and request a sample draft of the first chapter.
 
-- Review and edit the AI-generated content to match your voice.
+7. Review and edit the AI-generated content to match your voice.
 
-- Repeat steps 6 and 7 chapter by chapter until you have your draft.
+8. Repeat steps 6 and 7 chapter by chapter until you have your draft.
 
-- Use built-in grammar and style checks for quick edits.
+9. Use built-in grammar and style checks for quick edits.
 
-- Export your full draft to cloud storage or email for safe backup.
+10. Export your full draft to cloud storage or email for safe backup.
 
 ## What You Need to Know About Editing and Collaboration on Your Phone
 

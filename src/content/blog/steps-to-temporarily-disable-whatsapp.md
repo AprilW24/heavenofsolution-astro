@@ -16,29 +16,29 @@ Fortunately, there are ways to go invisible on WhatsApp or temporarily disable i
 
 The first step to temporarily disabling WhatsApp is to turn off its notifications. Here’s how:
 
-- Open WhatsApp on your phone
+1. Open WhatsApp on your phone
 
-- Go to **Settings > Notifications**
+2. Go to **Settings > Notifications**
 
-- Select **None** for the Notification tone under Messages
+3. Select **None** for the Notification tone under Messages
 
-- Turn off vibration and choose **None** for the Light option
+4. Turn off vibration and choose **None** for the Light option
 
-- Disable **Use high priority notifications**
+5. Disable **Use high priority notifications**
 
-- Repeat these steps for the Group settings
+6. Repeat these steps for the Group settings
 
 ## Step 2: Disable Notifications from Android Settings
 
 Next, you can disable WhatsApp notifications from your Android device’s general settings:
 
-- Go to **Settings** on your Android device
+1. Go to **Settings** on your Android device
 
-- Select **Apps and Notifications > Apps**
+2. Select **Apps and Notifications > Apps**
 
-- Find and select **WhatsApp** from the list of apps
+3. Find and select **WhatsApp** from the list of apps
 
-- Go to **Notifications** and turn off **All WhatsApp Notifications**
+4. Go to **Notifications** and turn off **All WhatsApp Notifications**
 
 ![](/wp-content/uploads/2024/04/HoS-4-2.jpg)
 
@@ -46,11 +46,11 @@ Next, you can disable WhatsApp notifications from your Android device’s genera
 
 To further minimize WhatsApp’s activity, revoke its permissions and disable background data usage:
 
-- In WhatsApp settings, go to **Permissions**
+1. In WhatsApp settings, go to **Permissions**
 
-- Revoke all permissions that allow WhatsApp to access your camera, microphone, and files
+2. Revoke all permissions that allow WhatsApp to access your camera, microphone, and files
 
-- Tap on **Mobile Data** and disable the usage of mobile data in the background
+3. Tap on **Mobile Data** and disable the usage of mobile data in the background
 
 ![](/wp-content/uploads/2024/04/HoS-5-1.jpg)
 
@@ -58,11 +58,11 @@ To further minimize WhatsApp’s activity, revoke its permissions and disable ba
 
 Finally, you can force stop WhatsApp to prevent it from functioning in the background:
 
-- Go to your phone **Settings** and open **Apps**
+1. Go to your phone **Settings** and open **Apps**
 
-- From the list of apps, select **WhatsApp**
+2. From the list of apps, select **WhatsApp**
 
-- Tap on **Force Stop** to stop the app from running
+3. Tap on **Force Stop** to stop the app from running
 
 ![](/wp-content/uploads/2024/04/HoS-6.jpg)
 

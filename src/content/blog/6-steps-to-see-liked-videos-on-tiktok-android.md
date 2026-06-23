@@ -68,15 +68,15 @@ To watch a liked video, simply tap on its thumbnail. The video will play in full
 
 Now that you know how to access your liked videos, here are some tips to help you manage this collection effectively:
 
-- **Regular Cleanup**: Periodically go through your liked videos and unlike those that no longer interest you. This helps keep your collection relevant and manageable.
+1. **Regular Cleanup**: Periodically go through your liked videos and unlike those that no longer interest you. This helps keep your collection relevant and manageable.
 
-- **Use Categories**: While TikTok doesn’t offer a built-in categorization system for liked videos, you can create your own system. For example, you might like specific types of videos (e.g., recipes, workouts, comedy) at different times of the day to create an informal organization.
+2. **Use Categories**: While TikTok doesn’t offer a built-in categorization system for liked videos, you can create your own system. For example, you might like specific types of videos (e.g., recipes, workouts, comedy) at different times of the day to create an informal organization.
 
-- **Combine with Favorites**: For videos you absolutely love and want quick access to, use the “Add to Favorites” feature. This creates a separate, more curated list of top content.
+3. **Combine with Favorites**: For videos you absolutely love and want quick access to, use the “Add to Favorites” feature. This creates a separate, more curated list of top content.
 
-- **Privacy Awareness**: Be mindful of your privacy settings for liked videos. If set to public, remember that others can see what you’ve liked, which might influence your liking behavior.
+4. **Privacy Awareness**: Be mindful of your privacy settings for liked videos. If set to public, remember that others can see what you’ve liked, which might influence your liking behavior.
 
-- **Inspiration Board**: Use your liked videos as an inspiration board for your own content creation. Regularly revisiting these can spark new ideas for your TikToks.
+5. **Inspiration Board**: Use your liked videos as an inspiration board for your own content creation. Regularly revisiting these can spark new ideas for your TikToks.
 
 ## Troubleshooting Common Issues
 

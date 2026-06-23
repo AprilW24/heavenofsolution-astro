@@ -16,13 +16,13 @@ YouTube Music offers a vast library of songs, albums, and playlists, making it a
 
 Before we dive into the steps, make sure you have the following:
 
-- A YouTube Music Premium subscription
+1. A YouTube Music Premium subscription
 
-- The YouTube Music app installed on your phone
+2. The YouTube Music app installed on your phone
 
-- Sufficient storage space on your device
+3. Sufficient storage space on your device
 
-- A stable internet connection (for the initial download)
+4. A stable internet connection (for the initial download)
 
 Now, let’s explore the step-by-step process to download music from YouTube Music to your phone.
 
@@ -68,11 +68,11 @@ After the download is complete, you can access your offline music by tapping on 
 
 If you want to ensure you’re only playing downloaded music, you can enable offline mode:
 
-- Tap your profile picture in the top right corner
+1. Tap your profile picture in the top right corner
 
-- Go to “Settings”
+2. Go to “Settings”
 
-- Scroll down and toggle on “Offline mode”
+3. Scroll down and toggle on “Offline mode”
 
 This will restrict playback to only your downloaded content, helping you save data and battery life.
 
@@ -92,15 +92,15 @@ To make the most of your downloaded music, consider these tips:
 
 If you encounter problems while downloading music, try these solutions:
 
-- **Check your internet connection**: Ensure you have a stable connection, preferably Wi-Fi, for smooth downloads.
+1. **Check your internet connection**: Ensure you have a stable connection, preferably Wi-Fi, for smooth downloads.
 
-- **Restart the app**: Close and reopen the YouTube Music app to resolve minor glitches.
+2. **Restart the app**: Close and reopen the YouTube Music app to resolve minor glitches.
 
-- **Clear app cache**: Go to your phone’s settings, find the YouTube Music app, and clear its cache.
+3. **Clear app cache**: Go to your phone’s settings, find the YouTube Music app, and clear its cache.
 
-- **Update the app**: Make sure you’re using the latest version of the YouTube Music app.
+4. **Update the app**: Make sure you’re using the latest version of the YouTube Music app.
 
-- **Check available storage**: Ensure your device has enough free space for the downloads.
+5. **Check available storage**: Ensure your device has enough free space for the downloads.
 
 ## Alternative Methods (For Educational Purposes Only)
 
@@ -120,15 +120,15 @@ Some of these unofficial methods include:
 
 Choosing to download music legally through YouTube Music Premium offers several advantages:
 
-- **High-quality audio**: Official downloads ensure you get the best possible audio quality.
+1. **High-quality audio**: Official downloads ensure you get the best possible audio quality.
 
-- **Support for artists**: Legal downloads contribute to royalties for the musicians you love.
+2. **Support for artists**: Legal downloads contribute to royalties for the musicians you love.
 
-- **Regular updates**: The official app receives updates and new features regularly.
+3. **Regular updates**: The official app receives updates and new features regularly.
 
-- **No risk of malware**: You avoid the security risks associated with unofficial download methods.
+4. **No risk of malware**: You avoid the security risks associated with unofficial download methods.
 
-- **Seamless integration**: Downloads are integrated with your YouTube Music library and playlists.
+5. **Seamless integration**: Downloads are integrated with your YouTube Music library and playlists.
 
 ## Conclusion
 

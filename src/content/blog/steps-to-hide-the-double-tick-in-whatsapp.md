@@ -24,17 +24,17 @@ Whatever your reason, disabling read receipts only takes a few taps in the Whats
 
 Follow these simple steps to turn off read receipts and hide the double blue ticks in WhatsApp on your Android phone:
 
-- Open the WhatsApp app on your Android device.
+1. Open the WhatsApp app on your Android device.
 
-- Tap the three dots menu icon in the top right corner of the screen.
+2. Tap the three dots menu icon in the top right corner of the screen.
 
-- Select **Settings** from the dropdown menu that appears.
+3. Select **Settings** from the dropdown menu that appears.
 
-- Tap **Account** in the settings menu.
+4. Tap **Account** in the settings menu.
 
-- Select **Privacy** from the account settings.
+5. Select **Privacy** from the account settings.
 
-- Scroll down and find the **Read receipts** option. Tap the toggle switch next to it to turn read receipts off. The switch will turn from green to gray.
+6. Scroll down and find the **Read receipts** option. Tap the toggle switch next to it to turn read receipts off. The switch will turn from green to gray.
 
 That’s it! You’ve now disabled read receipts for your WhatsApp account. Senders will no longer see the double blue ticks when you’ve read their messages. Instead, they’ll just see the double gray check marks indicating the message was delivered to your phone.
 

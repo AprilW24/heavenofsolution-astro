@@ -38,13 +38,13 @@ This enables auto-captions for any videos you view in Instagram.
 
 Once you’ve enabled captions, you can add them to your Stories.
 
-- Tap on **Your Story** at the top
+1. Tap on **Your Story** at the top
 
-- Record a video or upload one from your camera roll
+2. Record a video or upload one from your camera roll
 
-- After recording/uploading, tap on the **sticker icon** at the top
+3. After recording/uploading, tap on the **sticker icon** at the top
 
-- Select **Captions** from the options
+4. Select **Captions** from the options
 
 ### Customize Captions
 

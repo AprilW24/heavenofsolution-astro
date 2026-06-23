@@ -62,11 +62,11 @@ You can tap **Add** again to cancel your original friend request if you want. Ta
 
 Snapchat also has a **Quick Add** section that suggests friends you may know based on mutual connections. To access it:
 
-- Tap the magnifying glass icon on the main screen to open search
+1. Tap the magnifying glass icon on the main screen to open search
 
-- Scroll down to **Quick Add**
+2. Scroll down to **Quick Add**
 
-- Look through the list for anyone you may have added
+3. Look through the list for anyone you may have added
 
 If their name appears in Quick Add with an **Add** button next to it, you likely have not successfully connected with them yet. You can tap **Add** to send them a friend request.
 

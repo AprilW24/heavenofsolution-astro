@@ -16,17 +16,17 @@ In this article, we’ll walk through the simple steps to manually tag faces and
 
 Before you can start tagging faces, you first need to make sure the Face Grouping feature is enabled in Google Photos. Here’s how:
 
-- Open the Google Photos app on your Android device
+1. Open the Google Photos app on your Android device
 
-- Tap your **profile icon** in the upper right corner
+2. Tap your **profile icon** in the upper right corner
 
-- Select **Photos settings** from the menu
+3. Select **Photos settings** from the menu
 
-- Tap **Group similar faces** under the Memories section
+4. Tap **Group similar faces** under the Memories section
 
-- Make sure the toggle for **Face Groups** is turned on
+5. Make sure the toggle for **Face Groups** is turned on
 
-- Optionally, you can also enable **Show pets with people** to include your furry friends
+6. Optionally, you can also enable **Show pets with people** to include your furry friends
 
 ![](/wp-content/uploads/2024/08/HoS_AddPhotos-1.jpg)
 
@@ -38,11 +38,11 @@ Now that face grouping is enabled, let’s see which people Google has already f
 
 ![](/wp-content/uploads/2024/08/HoS_AddPhotos.jpg)
 
-- In the Google Photos app, tap the **Search** tab at the bottom
+1. In the Google Photos app, tap the **Search** tab at the bottom
 
-- Scroll down to find the **People & Pets** section
+2. Scroll down to find the **People & Pets** section
 
-- Here you’ll see face groups Google has already created based on similar looking faces
+3. Here you’ll see face groups Google has already created based on similar looking faces
 
 Tap on a face group to see all photos of that person. If the face group is not yet named, you’ll see a prompt to **Add a name** at the top. We’ll go over naming face groups in the next step.
 
@@ -50,13 +50,13 @@ Tap on a face group to see all photos of that person. If the face group is not y
 
 Adding a name to a face group makes it easy to search for photos of that person later. Here’s how to do it:
 
-- Open the face group by tapping on it from the People & Pets section
+1. Open the face group by tapping on it from the People & Pets section
 
-- Tap the **Add a name** button at the top
+2. Tap the **Add a name** button at the top
 
-- Type in the person’s name or nickname you want to use
+3. Type in the person’s name or nickname you want to use
 
-- Tap **Done** to save the name
+4. Tap **Done** to save the name
 
 Now when you search in Google Photos, you can just type in the person’s name to quickly pull up their face group and all associated photos. Only you can see the names you set, even if you share the photos themselves.
 
@@ -64,17 +64,17 @@ Now when you search in Google Photos, you can just type in the person’s name t
 
 If Google missed a few photos of a person, you can manually add the face to their existing face group. Here’s how:
 
-- Open the photo with the face you want to add
+1. Open the photo with the face you want to add
 
-- Tap the **Info** button (an **i** in a circle) at the top
+2. Tap the **Info** button (an **i** in a circle) at the top
 
-- Scroll down to the **People** section
+3. Scroll down to the **People** section
 
-- Tap **Add a name** under the face you want to tag
+4. Tap **Add a name** under the face you want to tag
 
-- Select the existing face group you want to add it to (or create a new one)
+5. Select the existing face group you want to add it to (or create a new one)
 
-- Tap **Done** to confirm
+6. Tap **Done** to confirm
 
 The face will now be included in that group and show up when you search for that person. Repeat this process for any other missing faces.
 
@@ -84,15 +84,15 @@ In some cases, Google may create two or more face groups for the same person. Th
 
 You can merge these duplicate groups into one so all the photos show up together. Here’s how:
 
-- Open one of the duplicate face groups
+1. Open one of the duplicate face groups
 
-- Tap the **Options** menu (three dots) in the upper right
+2. Tap the **Options** menu (three dots) in the upper right
 
-- Select **Merge & name** from the menu
+3. Select **Merge & name** from the menu
 
-- Select the other duplicate face groups you want to merge together
+4. Select the other duplicate face groups you want to merge together
 
-- Tap **Merge** to confirm
+5. Tap **Merge** to confirm
 
 All of the face groups will now be combined under the single name. You can repeat this process for any other duplicates you find.
 
@@ -100,13 +100,13 @@ All of the face groups will now be combined under the single name. You can repea
 
 Occasionally, Google may mistakenly add a photo to the wrong face group. This is usually because the person looks similar to someone else or their face is obscured. You can easily remove these incorrect matches:
 
-- Open the photo with the misidentified face
+1. Open the photo with the misidentified face
 
-- Tap the **Info** button at the top
+2. Tap the **Info** button at the top
 
-- Find the incorrect face match under the People section
+3. Find the incorrect face match under the People section
 
-- Tap the **X** next to their name to remove it from that group
+4. Tap the **X** next to their name to remove it from that group
 
 The photo will be removed from the face group but will still remain in your Google Photos library. Repeat this for any other incorrect matches you spot.
 
@@ -114,11 +114,11 @@ The photo will be removed from the face group but will still remain in your Goog
 
 If there are certain face groups you don’t want showing up in your People view, you can hide them without deleting the photos themselves. This is useful for things like large group photos where you may not know everyone. Here’s how:
 
-- Long press on the face group you want to hide
+1. Long press on the face group you want to hide
 
-- Tap the **Hide & remove** button that appears at the top
+2. Tap the **Hide & remove** button that appears at the top
 
-- Confirm by tapping **Hide** in the pop-up window
+3. Confirm by tapping **Hide** in the pop-up window
 
 The face group will now be hidden from the People section. You can still find the photos by scrolling through your library or searching for other items in the image. To unhide a face group, tap the **View hidden faces** button at the bottom of the People section.
 

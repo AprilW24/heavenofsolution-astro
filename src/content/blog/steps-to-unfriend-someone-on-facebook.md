@@ -76,13 +76,13 @@ Whether you choose to unfriend someone or not, it’s crucial to regularly revie
 
 To review your privacy settings on the Facebook mobile app:
 
-- Tap the menu icon (three horizontal lines).
+1. Tap the menu icon (three horizontal lines).
 
-- Scroll down and tap “Settings & Privacy.”
+2. Scroll down and tap “Settings & Privacy.”
 
-- Tap “Settings.”
+3. Tap “Settings.”
 
-- Review and adjust your privacy settings as needed.
+4. Review and adjust your privacy settings as needed.
 
 By maintaining strong privacy settings, you can often avoid the need to unfriend people, as you’ll have more control over who sees what on your profile.
 

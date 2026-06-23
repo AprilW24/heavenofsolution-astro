@@ -22,19 +22,19 @@ If the deleted app data is not in the recycle bin or trash folder, your next ste
 
 One of the best data recovery software tools for Android is **DroidKit**. This powerful application can recover various types of data, including photos, videos, messages, contacts, and even app data. Here’s how to use DroidKit to recover deleted app data:
 
-- **Download and install DroidKit** on your computer.
+1. **Download and install DroidKit** on your computer.
 
-- **Connect your Android device** to your computer using a USB cable.
+2. **Connect your Android device** to your computer using a USB cable.
 
-- **Launch DroidKit** and select the **Recover Data** option.
+3. **Launch DroidKit** and select the **Recover Data** option.
 
-- **Select the types of data** you want to recover, including **App Data**.
+4. **Select the types of data** you want to recover, including **App Data**.
 
-- **Click “Next”** and let DroidKit scan your device for deleted files.
+5. **Click “Next”** and let DroidKit scan your device for deleted files.
 
-- **Preview the recoverable files** and select the ones you want to recover.
+6. **Preview the recoverable files** and select the ones you want to recover.
 
-- **Click “Recover”** to save the selected files to your computer.
+7. **Click “Recover”** to save the selected files to your computer.
 
 **Note:** DroidKit requires your Android device to be in debugging mode. If you haven’t enabled this mode before, follow the on-screen instructions to do so.
 

@@ -32,17 +32,17 @@ Now that we understand the context, let’s explore the steps to turn off YouTub
 
 The simplest way to turn off YouTube casting is directly within the app itself. Here’s how:
 
-- **Open the YouTube app** on your Android device.
+1. **Open the YouTube app** on your Android device.
 
-- **Tap on your profile picture** in the top-right corner of the screen.
+2. **Tap on your profile picture** in the top-right corner of the screen.
 
-- **Select “Settings”** from the menu that appears.
+3. **Select “Settings”** from the menu that appears.
 
-- **Scroll down** and find the “Connected TV” section.
+4. **Scroll down** and find the “Connected TV” section.
 
-- **Tap on “Connected TV”** to access casting-related settings.
+5. **Tap on “Connected TV”** to access casting-related settings.
 
-- **Look for the “Allow remote control”** option and toggle it off.
+6. **Look for the “Allow remote control”** option and toggle it off.
 
 By disabling this option, you prevent other devices from controlling playback on your Android device, effectively turning off the casting feature.
 
@@ -50,13 +50,13 @@ By disabling this option, you prevent other devices from controlling playback on
 
 If you’re currently casting to a device and want to stop, follow these steps:
 
-- **Open the YouTube app** while a video is casting.
+1. **Open the YouTube app** while a video is casting.
 
-- **Look for the casting icon** at the top of the screen (it looks like a TV with a Wi-Fi symbol).
+2. **Look for the casting icon** at the top of the screen (it looks like a TV with a Wi-Fi symbol).
 
-- **Tap on the casting icon** to open the casting menu.
+3. **Tap on the casting icon** to open the casting menu.
 
-- **Select “Disconnect”** from the list of options.
+4. **Select “Disconnect”** from the list of options.
 
 This method will immediately stop the current casting session and return playback to your Android device.
 
@@ -64,11 +64,11 @@ This method will immediately stop the current casting session and return playbac
 
 Android’s Quick Settings panel offers a convenient way to manage casting:
 
-- **Swipe down** from the top of your screen to open the Quick Settings panel.
+1. **Swipe down** from the top of your screen to open the Quick Settings panel.
 
-- **Look for the “Cast” or “Screen Cast” tile**. If you don’t see it, you may need to edit your Quick Settings layout to add it.
+2. **Look for the “Cast” or “Screen Cast” tile**. If you don’t see it, you may need to edit your Quick Settings layout to add it.
 
-- **Tap on the “Cast” tile** to turn it off. The icon should change to indicate that casting is disabled.
+3. **Tap on the “Cast” tile** to turn it off. The icon should change to indicate that casting is disabled.
 
 This method disables casting system-wide, affecting not just YouTube but all apps that use the casting feature.
 
@@ -76,15 +76,15 @@ This method disables casting system-wide, affecting not just YouTube but all app
 
 Casting relies on your Wi-Fi network, so adjusting your Wi-Fi settings can effectively disable casting:
 
-- **Go to your Android device’s Settings**.
+1. **Go to your Android device’s Settings**.
 
-- **Tap on “Network & Internet”** or “Connections” (the exact wording may vary depending on your device).
+2. **Tap on “Network & Internet”** or “Connections” (the exact wording may vary depending on your device).
 
-- **Select “Wi-Fi”**.
+3. **Select “Wi-Fi”**.
 
-- **Tap on the gear icon** next to your connected Wi-Fi network.
+4. **Tap on the gear icon** next to your connected Wi-Fi network.
 
-- **Look for an option called “Device discovery”** or “Smart network switch” and turn it off.
+5. **Look for an option called “Device discovery”** or “Smart network switch” and turn it off.
 
 Disabling this option can prevent your device from discovering and connecting to casting-enabled devices on your network.
 
@@ -92,11 +92,11 @@ Disabling this option can prevent your device from discovering and connecting to
 
 Using a VPN can indirectly disable casting by making your device appear as if it’s on a different network:
 
-- **Install a reputable VPN app** from the Google Play Store.
+1. **Install a reputable VPN app** from the Google Play Store.
 
-- **Open the VPN app** and connect to a server.
+2. **Open the VPN app** and connect to a server.
 
-- **Once connected**, open YouTube and try to cast. You should find that casting is no longer available.
+3. **Once connected**, open YouTube and try to cast. You should find that casting is no longer available.
 
 Remember that using a VPN may affect your internet speed and could interfere with other network-dependent apps.
 
@@ -104,13 +104,13 @@ Remember that using a VPN may affect your internet speed and could interfere wit
 
 As a more drastic measure, you can disable Google Play Services, which is responsible for many casting functions:
 
-- **Go to your Android device’s Settings**.
+1. **Go to your Android device’s Settings**.
 
-- **Tap on “Apps & notifications”** or “Application manager”.
+2. **Tap on “Apps & notifications”** or “Application manager”.
 
-- **Find and select “Google Play Services”**.
+3. **Find and select “Google Play Services”**.
 
-- **Tap on “Disable”** or “Turn off”.
+4. **Tap on “Disable”** or “Turn off”.
 
 **Warning**: Disabling Google Play Services can affect many apps and functions on your Android device. Only use this method if you’re comfortable with potential side effects and know how to re-enable the service.
 

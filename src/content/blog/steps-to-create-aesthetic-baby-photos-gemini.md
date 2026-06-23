@@ -32,25 +32,25 @@ One more thing that helps a lot is setting the aspect ratio at the end of your p
 
 Follow these steps and you’ll have a stunning result within minutes. I’ll also drop an example prompt in step 6 that you can use as a base. 👇
 
-- Open Google Gemini at *gemini.google.com* and sign in to your Google account.
+1. Open Google Gemini at *gemini.google.com* and sign in to your Google account.
 
-- Click the **+** icon and **Upload files** in the chat bar to upload your baby’s reference photo.
+2. Click the **+** icon and **Upload files** in the chat bar to upload your baby’s reference photo.
 
-- Choose a clear, well-lit reference photo where your baby’s face is visible and not blurry.
+3. Choose a clear, well-lit reference photo where your baby’s face is visible and not blurry.
 
-- Decide on your aesthetic theme before typing anything, whether it’s a dreamy floral garden, a cozy winter setup, or a minimalist studio look. 🌸
+4. Decide on your aesthetic theme before typing anything, whether it’s a dreamy floral garden, a cozy winter setup, or a minimalist studio look. 🌸
 
-- Start your prompt with the image quality and style you want, for example *“A hyper-realistic 8K portrait…”*
+5. Start your prompt with the image quality and style you want, for example *“A hyper-realistic 8K portrait…”*
 
-- Use this example prompt as a starting point and adjust the details to fit your vision: *“A hyper-realistic 8K portrait of a sleeping newborn baby nestled inside a round woven basket, wrapped in soft ivory knit blankets, surrounded by dried white gypsophila flowers and eucalyptus sprigs, warm diffused window light coming from the upper left casting a gentle glow on the baby’s skin, shot from directly above at a 90-degree angle, shallow depth of field with a smooth creamy background, pastel cream and warm sand tones throughout, cinematic film grain, lifestyle photography style, 4×5 aspect ratio.”*
+6. Use this example prompt as a starting point and adjust the details to fit your vision: *“A hyper-realistic 8K portrait of a sleeping newborn baby nestled inside a round woven basket, wrapped in soft ivory knit blankets, surrounded by dried white gypsophila flowers and eucalyptus sprigs, warm diffused window light coming from the upper left casting a gentle glow on the baby’s skin, shot from directly above at a 90-degree angle, shallow depth of field with a smooth creamy background, pastel cream and warm sand tones throughout, cinematic film grain, lifestyle photography style, 4×5 aspect ratio.”*
 
-- After pasting your prompt, hit enter and let Gemini generate the first version.
+7. After pasting your prompt, hit enter and let Gemini generate the first version.
 
-- If the result isn’t quite right, type a follow-up message describing what to change, like “make the background more blurred” or “add more warm tones to the light.”
+8. If the result isn’t quite right, type a follow-up message describing what to change, like “make the background more blurred” or “add more warm tones to the light.”
 
-- Keep refining with short follow-up instructions until the image matches your vision. 🔄
+9. Keep refining with short follow-up instructions until the image matches your vision. 🔄
 
-- Once you’re happy with the result, download the image and save it in full resolution for printing or sharing.
+10. Once you’re happy with the result, download the image and save it in full resolution for printing or sharing.
 
 ## Conclusion
 

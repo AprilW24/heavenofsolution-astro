@@ -32,13 +32,13 @@ Follow these simple steps to quote reply on your Android device:
 
 In addition to the standard quote reply, WhatsApp offers the option to reply privately to a specific message in a group chat. This feature is useful when you want to address a particular group member without involving the entire group. Here’s how to do it:
 
-- **Select the message:** In the group chat, tap and hold the message you want to reply to privately.
+1. **Select the message:** In the group chat, tap and hold the message you want to reply to privately.
 
-- **Tap the menu icon:** From the menu that appears, tap the three-dot menu icon (⋮) to access more options.
+2. **Tap the menu icon:** From the menu that appears, tap the three-dot menu icon (⋮) to access more options.
 
-- **Choose “Reply privately”:** From the expanded menu, select **Reply privately**. This action will open a new individual chat with the sender of the selected message, with the message quoted.
+3. **Choose “Reply privately”:** From the expanded menu, select **Reply privately**. This action will open a new individual chat with the sender of the selected message, with the message quoted.
 
-- **Compose and send your private reply:** Type your response in the input field and tap the send button to send your private quote reply.
+4. **Compose and send your private reply:** Type your response in the input field and tap the send button to send your private quote reply.
 
 ## Conclusion
 

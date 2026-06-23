@@ -12,51 +12,51 @@ Have you ever accidentally deleted important LINE chats on your Android phone an
 
 LINE for Android automatically backs up your chat history to Google Drive. Here’s how to check if you have a recent backup:
 
-- Open the LINE app on your Android device.
+1. Open the LINE app on your Android device.
 
-- Go to **Settings** by tapping the gear icon.
+2. Go to **Settings** by tapping the gear icon.
 
-- Select **Chats** and then **Chat backup**.
+3. Select **Chats** and then **Chat backup**.
 
-- Look for a recent backup listed. If found, you can restore your chat history from this backup.
+4. Look for a recent backup listed. If found, you can restore your chat history from this backup.
 
 ## 2. Restore from Google Drive Backup
 
 If you have a Google Drive backup, follow these steps to restore your LINE chat history:
 
-- Uninstall the LINE app from your Android device.
+1. Uninstall the LINE app from your Android device.
 
-- Reinstall LINE from the Google Play Store.
+2. Reinstall LINE from the Google Play Store.
 
-- Log in with your LINE account.
+3. Log in with your LINE account.
 
-- During setup, you will be asked to restore from Google Drive. Follow the prompts to **restore your chat history**.
+4. During setup, you will be asked to restore from Google Drive. Follow the prompts to **restore your chat history**.
 
 ## 3. Use a Local Backup
 
 LINE also allows you to create a local backup on your Android device. If you have one, you can restore your chats by:
 
-- Opening LINE and going to **Settings**.
+1. Opening LINE and going to **Settings**.
 
-- Selecting **Chats** and then **Backup and Restore**.
+2. Selecting **Chats** and then **Backup and Restore**.
 
-- Tapping **Restore from Backup**.
+3. Tapping **Restore from Backup**.
 
-- Choosing the backup file from your device storage.
+4. Choosing the backup file from your device storage.
 
 ## 4. Recover LINE Chat History Without Backup
 
 If you don’t have a backup, don’t despair! You can still recover deleted LINE chats using third-party tools like iMyFone ChatsBack for LINE. This powerful software can deeply scan your Android device to retrieve lost data. Here’s how it works:
 
-- Download and install iMyFone ChatsBack on your computer.
+1. Download and install iMyFone ChatsBack on your computer.
 
-- Connect your Android phone and select **Recover from Device**.
+2. Connect your Android phone and select **Recover from Device**.
 
-- Choose between **Shallow Recovery** and **Deep Recovery** modes.
+3. Choose between **Shallow Recovery** and **Deep Recovery** modes.
 
-- After scanning, preview the recoverable LINE chats and select the ones you want.
+4. After scanning, preview the recoverable LINE chats and select the ones you want.
 
-- Click **Recover to PC** or **Recover to Device** to get your chats back.
+5. Click **Recover to PC** or **Recover to Device** to get your chats back.
 
 ## 5. Ask Your Chat Partners
 

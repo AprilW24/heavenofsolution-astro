@@ -24,13 +24,13 @@ Now that we know why saving Snapchat videos can be useful, let’s look at exact
 
 The easiest Snapchat videos to save are your own. Here’s how:
 
-- **Open the Snapchat app and tap the Memories icon** at the bottom center of the screen.
+1. **Open the Snapchat app and tap the Memories icon** at the bottom center of the screen.
 
-- **Locate the video you want to save** and tap on it to open it full screen.
+2. **Locate the video you want to save** and tap on it to open it full screen.
 
-- **Press and hold on the video until a menu pops up.** Tap the **Export** option.
+3. **Press and hold on the video until a menu pops up.** Tap the **Export** option.
 
-- **Choose where you want to save the video,** like your camera roll or gallery. That’s it!
+4. **Choose where you want to save the video,** like your camera roll or gallery. That’s it!
 
 You can also save a video right after recording it by tapping the Download icon before sending.
 
@@ -40,13 +40,13 @@ Saving Snapchat videos sent to you by friends is trickier, but still doable. Her
 
 ### 1. Saving in Chat
 
-- Open the chat with your friend and locate the video.
+1. Open the chat with your friend and locate the video.
 
-- Press and hold on the video until a menu appears.
+2. Press and hold on the video until a menu appears.
 
-- Tap **Save in Chat**. This will keep the video in your chat, but won’t actually download it to your phone.
+3. Tap **Save in Chat**. This will keep the video in your chat, but won’t actually download it to your phone.
 
-- To download it, **press and hold the saved video again** and tap **Save to Camera Roll.**
+4. To download it, **press and hold the saved video again** and tap **Save to Camera Roll.**
 
 Note that your friend will be notified when you save their video in chat!
 
@@ -54,13 +54,13 @@ Note that your friend will be notified when you save their video in chat!
 
 If you don’t want the other person notified that you saved their video, you can record your screen while playing it.
 
-- **Open your phone’s Settings and enable Screen Record.** On most Androids, you’ll find this under Settings > Advanced Features.
+1. **Open your phone’s Settings and enable Screen Record.** On most Androids, you’ll find this under Settings > Advanced Features.
 
-- **Open the Snapchat video** you want to record.
+2. **Open the Snapchat video** you want to record.
 
-- **Pull down the notification shade and tap the Screen Record icon.** The recording will start after a brief countdown.
+3. **Pull down the notification shade and tap the Screen Record icon.** The recording will start after a brief countdown.
 
-- **Play the Snapchat video in full.** Once it’s done, stop the screen recording. The video will be saved to your phone.
+4. **Play the Snapchat video in full.** Once it’s done, stop the screen recording. The video will be saved to your phone.
 
 Keep in mind, your friend may still get notified that you took a screenshot if the video includes an image at any point.
 

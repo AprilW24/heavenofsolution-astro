@@ -12,25 +12,25 @@ Plenty of people get tripped up with app subscriptions. Google Play and the App 
 
 ## Step-by-step to Cancelled Perplexity Subscription
 
-- Open the *Perplexity* app or visit the website and log in to your account.
+1. Open the *Perplexity* app or visit the website and log in to your account.
 
-- Tap your profile icon or the gear for *Settings*.
+2. Tap your profile icon or the gear for *Settings*.
 
-- Scroll to find ***Subscription* **or look for the *Perplexity Pro* section.
+3. Scroll to find ***Subscription* **or look for the *Perplexity Pro* section.
 
-- Hit ***Manage Subscriptions** *or *Subscription Management* to see your current plan.
+4. Hit ***Manage Subscriptions** *or *Subscription Management* to see your current plan.
 
-- Tap ***Cancel Subscription*** (this might be at the bottom).
+5. Tap ***Cancel Subscription*** (this might be at the bottom).
 
-- Follow any prompts that pop up to confirm.
+6. Follow any prompts that pop up to confirm.
 
-- Watch for a confirmation message or email so you know it went through.
+7. Watch for a confirmation message or email so you know it went through.
 
-- If you subscribed via Apple or Google, make sure to cancel through those store subscriptions too.
+8. If you subscribed via Apple or Google, make sure to cancel through those store subscriptions too.
 
-- Double-check in the subscription area that your plan status says “Canceled.”
+9. Double-check in the subscription area that your plan status says “Canceled.”
 
-- Breathe easy—no more unexpected charges next month!
+10. Breathe easy—no more unexpected charges next month!
 
 ## Understanding Where to Cancel Depending on How You Signed Up
 

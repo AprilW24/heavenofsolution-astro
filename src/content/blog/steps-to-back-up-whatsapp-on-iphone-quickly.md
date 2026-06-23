@@ -24,25 +24,25 @@ One thing worth knowing is that *iCloud* only keeps one backup at a time and wil
 
 Here’s the fastest and most reliable way to get your WhatsApp chats backed up using *iCloud*. 🔄
 
-- Make sure your iPhone is connected to *Wi-Fi* for a stable and faster backup process.
+1. Make sure your iPhone is connected to *Wi-Fi* for a stable and faster backup process.
 
-- Open the **Settings** app on your iPhone, tap your name at the top, go to *iCloud*, and check that *iCloud Drive* is turned on.
+2. Open the **Settings** app on your iPhone, tap your name at the top, go to *iCloud*, and check that *iCloud Drive* is turned on.
 
-- Open **WhatsApp** and tap the **Settings** icon at the bottom-right corner of the screen.
+3. Open **WhatsApp** and tap the **Settings** icon at the bottom-right corner of the screen.
 
-- Tap **Chats** from the menu list.
+4. Tap **Chats** from the menu list.
 
-- Tap **Chat Backup** to open the backup settings page.
+5. Tap **Chat Backup** to open the backup settings page.
 
-- Tap **Auto Backup** and pick how often you want WhatsApp to back up automatically, like *Daily*, *Weekly*, or *Monthly*.
+6. Tap **Auto Backup** and pick how often you want WhatsApp to back up automatically, like *Daily*, *Weekly*, or *Monthly*.
 
-- Toggle on **Include Videos** if you want your video messages saved too (keep in mind this uses more storage space).
+7. Toggle on **Include Videos** if you want your video messages saved too (keep in mind this uses more storage space).
 
-- Tap **Back Up Now** to start an immediate manual backup right away.
+8. Tap **Back Up Now** to start an immediate manual backup right away.
 
-- Wait for the backup to finish, then check the date and size of the last successful backup on that same screen. ✅
+9. Wait for the backup to finish, then check the date and size of the last successful backup on that same screen. ✅
 
-- Head back to *iCloud* settings to confirm the backup file is stored there if you want to double-check everything.
+10. Head back to *iCloud* settings to confirm the backup file is stored there if you want to double-check everything.
 
 ## Other Ways to Back Up WhatsApp on iPhone Besides iCloud
 

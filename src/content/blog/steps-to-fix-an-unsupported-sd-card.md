@@ -32,33 +32,33 @@ Insert the unsupported SD card into another device, such as a computer or a diff
 
 Outdated Android software can sometimes cause compatibility issues with SD cards. To ensure your device is running the latest version:
 
-- Go to **Settings** > **System** > **System Update**
+1. Go to **Settings** > **System** > **System Update**
 
-- Check for any available updates and install them if prompted
+2. Check for any available updates and install them if prompted
 
-- Restart your device and reinsert the SD card to see if the issue is resolved
+3. Restart your device and reinsert the SD card to see if the issue is resolved
 
 ## Step 4: Use a Third-Party SD Card Repair Tool
 
 If the previous steps haven’t resolved the unsupported SD card error, you can try using a third-party SD card repair tool like TestDisk. This powerful, open-source tool can help fix partition table issues and recover lost data. Here’s how to use TestDisk:
 
-- Download and install TestDisk on your computer
+1. Download and install TestDisk on your computer
 
-- Connect the unsupported SD card to your computer using a card reader
+2. Connect the unsupported SD card to your computer using a card reader
 
-- Launch TestDisk and follow the on-screen instructions to scan and repair the SD card
+3. Launch TestDisk and follow the on-screen instructions to scan and repair the SD card
 
 ## Step 5: Reinsert the SD Card and Reboot Your Android Device
 
 After attempting the above fixes, reinsert the SD card into your Android device and reboot it. This process can help refresh the connection between your device and the SD card, potentially resolving the unsupported SD card error.
 
-- Power off your Android device and remove the SD card
+1. Power off your Android device and remove the SD card
 
-- Clean the SD card and the device’s SD card slot with a soft, dry cloth
+2. Clean the SD card and the device’s SD card slot with a soft, dry cloth
 
-- Reinsert the SD card and power on your device
+3. Reinsert the SD card and power on your device
 
-- Check if the SD card is now accessible
+4. Check if the SD card is now accessible
 
 ## Step 6: Format the SD Card as a Last Resort
 
@@ -66,13 +66,13 @@ If none of the previous steps have resolved the unsupported SD card error, forma
 
 To format the SD card:
 
-- Insert the SD card into your computer using a card reader
+1. Insert the SD card into your computer using a card reader
 
-- Open **File Explorer** and right-click on the SD card
+2. Open **File Explorer** and right-click on the SD card
 
-- Select **Format** and choose the appropriate file system (FAT32 or exFAT)
+3. Select **Format** and choose the appropriate file system (FAT32 or exFAT)
 
-- Click **Start** to begin the formatting process
+4. Click **Start** to begin the formatting process
 
 Once the formatting is complete, reinsert the SD card into your Android device and check if it’s now recognized and accessible.
 

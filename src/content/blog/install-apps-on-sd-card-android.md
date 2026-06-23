@@ -16,13 +16,13 @@ While not all apps support being moved to an SD card, many do. **Installing apps
 
 The first step is to insert a compatible SD card into your Android device. Once inserted, you’ll need to set it as the default storage location for new app installations.
 
-- Go to **Settings > Storage**
+1. Go to **Settings > Storage**
 
-- Tap on the SD card option
+2. Tap on the SD card option
 
-- Select **Format as Portable Storage** or **Format as Internal Storage** (options may vary)
+3. Select **Format as Portable Storage** or **Format as Internal Storage** (options may vary)
 
-- Follow the prompts to format the SD card
+4. Follow the prompts to format the SD card
 
 **Note:** Formatting will erase all existing data on the SD card, so back up any important files first.
 
@@ -30,13 +30,13 @@ The first step is to insert a compatible SD card into your Android device. Once 
 
 With the SD card set up, you can now change the default install location for new apps to the SD card.
 
-- Go to **Settings > Storage**
+1. Go to **Settings > Storage**
 
-- Tap on the gear icon or three-dot menu for more options
+2. Tap on the gear icon or three-dot menu for more options
 
-- Select **Default Install Location**
+3. Select **Default Install Location**
 
-- Choose **SD Card** as the new default location
+4. Choose **SD Card** as the new default location
 
 From now on, any new apps you install will be directed to the SD card by default.
 
@@ -44,13 +44,13 @@ From now on, any new apps you install will be directed to the SD card by default
 
 With the default location set to the SD card, you can now install new apps directly to the SD card from the Google Play Store or other sources.
 
-- Open the Google Play Store
+1. Open the Google Play Store
 
-- Find the app you want to install
+2. Find the app you want to install
 
-- Tap **Install**
+3. Tap **Install**
 
-- The app will now install directly to the SD card
+4. The app will now install directly to the SD card
 
 **Note:** Some apps may not support being installed on external storage. In that case, they will install to your phone’s internal storage regardless of the default location setting.
 
@@ -58,17 +58,17 @@ With the default location set to the SD card, you can now install new apps direc
 
 If you have existing apps already installed on your phone’s internal storage, you can move them to the SD card as well (if the app supports it).
 
-- Go to **Settings > Apps** or **Apps & Notifications**
+1. Go to **Settings > Apps** or **Apps & Notifications**
 
-- Find the app you want to move
+2. Find the app you want to move
 
-- Tap on the app to open its details
+3. Tap on the app to open its details
 
-- Select **Storage** or **Storage & Cache**
+4. Select **Storage** or **Storage & Cache**
 
-- If available, tap **Change** and select **SD** **Card**
+5. If available, tap **Change** and select **SD** **Card**
 
-- Tap **Move** to begin transferring the app to the SD card
+6. Tap **Move** to begin transferring the app to the SD card
 
 **Note:** Not all apps can be moved to external storage due to limitations or developer restrictions.
 

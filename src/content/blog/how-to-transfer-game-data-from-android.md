@@ -26,35 +26,35 @@ Before transferring data to your new phone, it’s important to ensure you have 
 
 Many games support Google Play Games cloud saves, which automatically sync your progress to your Google account. However, some games require you to manually enable this feature.
 
-- Open the **Google Play Games** app
+1. Open the **Google Play Games** app
 
-- Tap the **Settings** icon
+2. Tap the **Settings** icon
 
-- Tap **Google Play Games Cloud Save**
+3. Tap **Google Play Games Cloud Save**
 
-- Toggle cloud saves **On** for your games
+4. Toggle cloud saves **On** for your games
 
 ### Using the Google One App
 
 For games that don’t use Google Play Games, you can try backing up app data with the Google One app, even with a free 15GB plan.
 
-- Install the **Google One** app from the Play Store
+1. Install the **Google One** app from the Play Store
 
-- Tap the **Settings** icon and select **Manage backup**
+2. Tap the **Settings** icon and select **Manage backup**
 
-- Make sure **App data** is toggled On
+3. Make sure **App data** is toggled On
 
-- Tap **Back up now** to start the backup process
+4. Tap **Back up now** to start the backup process
 
 ### Manually Backup Game Files
 
 For games that don’t support cloud saves, you may need to manually back up the game files.
 
-- Use a **File Manager** app to locate the game’s folder (often in /Android/data or /Android/obb)
+1. Use a **File Manager** app to locate the game’s folder (often in /Android/data or /Android/obb)
 
-- **Copy the folder** to a safe location, like an SD card or cloud storage service
+2. **Copy the folder** to a safe location, like an SD card or cloud storage service
 
-- Some games also have an in-game export or backup option in the settings menu
+3. Some games also have an in-game export or backup option in the settings menu
 
 ## Restore Game Data on Your New Android Phone
 
@@ -62,33 +62,33 @@ After backing up your game data, you can transfer it to your new Android device 
 
 ### Restore from Google Play Games Cloud Save
 
-- **Sign in** with the same Google account on your new phone
+1. **Sign in** with the same Google account on your new phone
 
-- Open the **Google Play Games** app
+2. Open the **Google Play Games** app
 
-- Verify cloud saves are enabled for your games
+3. Verify cloud saves are enabled for your games
 
-- Launch the game and your progress should sync automatically
+4. Launch the game and your progress should sync automatically
 
 ### Restore from Google One Backup
 
-- Install the **Google One** app on your new phone
+1. Install the **Google One** app on your new phone
 
-- **Sign in** with the same Google account
+2. **Sign in** with the same Google account
 
-- Tap the **Settings** icon and select **Restore**
+3. Tap the **Settings** icon and select **Restore**
 
-- Select the backup you want to restore from
+4. Select the backup you want to restore from
 
-- Wait for the restore process to complete
+5. Wait for the restore process to complete
 
 ### Manually Transfer Game Files
 
-- **Copy the backed up game folder** from your SD card or cloud storage to your new phone
+1. **Copy the backed up game folder** from your SD card or cloud storage to your new phone
 
-- Place the folder in the same location as on your old device (usually /Android/data or /Android/obb)
+2. Place the folder in the same location as on your old device (usually /Android/data or /Android/obb)
 
-- Launch the game and it should load your transferred progress
+3. Launch the game and it should load your transferred progress
 
 ### Using Third-Party Apps
 

@@ -12,19 +12,19 @@ Have you ever connected to a Wi-Fi network on your Android phone or tablet, only
 
 The first place to check for a forgotten Wi-Fi password is in your Android’s Settings app:
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap on **Network & Internet** or **Connections**, depending on your device
+2. Tap on **Network & Internet** or **Connections**, depending on your device
 
-- Select **Wi-Fi** from the list of options
+3. Select **Wi-Fi** from the list of options
 
-- Find the Wi-Fi network you want the password for and tap on it
+4. Find the Wi-Fi network you want the password for and tap on it
 
-- Select **Share** or **QR code** (on some devices, you may need to tap **Advanced** first)
+5. Select **Share** or **QR code** (on some devices, you may need to tap **Advanced** first)
 
-- You’ll be prompted to scan your fingerprint, enter your PIN, or use face recognition to view the password
+6. You’ll be prompted to scan your fingerprint, enter your PIN, or use face recognition to view the password
 
-- The Wi-Fi password will be displayed on the screen
+7. The Wi-Fi password will be displayed on the screen
 
 This method works for viewing Wi-Fi passwords saved on your device that you’ve connected to before. However, it won’t help if you’ve never actually connected to that network on your current phone or tablet.
 
@@ -32,11 +32,11 @@ This method works for viewing Wi-Fi passwords saved on your device that you’ve
 
 If your Android device is rooted, you can use a Wi-Fi password viewer app to see passwords for all nearby networks, even if you haven’t connected to them before. Rooting gives you admin-level access to your device’s operating system. Here’s how to view Wi-Fi passwords on a rooted Android:
 
-- Download a Wi-Fi password viewer app from the Google Play Store (e.g. WiFi Password Viewer)
+1. Download a Wi-Fi password viewer app from the Google Play Store (e.g. WiFi Password Viewer)
 
-- Open the app and grant it root access when prompted
+2. Open the app and grant it root access when prompted
 
-- The app will scan and display a list of nearby Wi-Fi networks along with their passwords
+3. The app will scan and display a list of nearby Wi-Fi networks along with their passwords
 
 Keep in mind that rooting your Android device can void the warranty and potentially cause issues if not done properly. Only attempt this if you’re comfortable with the process.
 
@@ -44,19 +44,19 @@ Keep in mind that rooting your Android device can void the warranty and potentia
 
 Android actually stores a backup of your Wi-Fi passwords in a text file on the device. You can access this file if you have a file explorer app:
 
-- Connect your Android device to your computer with a USB cable
+1. Connect your Android device to your computer with a USB cable
 
-- On the Android, pull down the notification shade and tap **Charging this device via USB**
+2. On the Android, pull down the notification shade and tap **Charging this device via USB**
 
-- Under **Use USB for**, select **File Transfer**
+3. Under **Use USB for**, select **File Transfer**
 
-- Use your computer’s file explorer to browse the files on the Android device
+4. Use your computer’s file explorer to browse the files on the Android device
 
-- Navigate to **/data/misc/wifi**
+5. Navigate to **/data/misc/wifi**
 
-- Look for a file named **wpa_supplicant.conf** and open it with a text editor
+6. Look for a file named **wpa_supplicant.conf** and open it with a text editor
 
-- The Wi-Fi network names and passwords will be listed in plain text
+7. The Wi-Fi network names and passwords will be listed in plain text
 
 This method requires a bit more technical know-how but it allows you to view all saved Wi-Fi passwords in one place. Just be careful not to edit or delete anything in the **wpa_supplicant.conf** file or you could cause issues with your Wi-Fi connections.
 
@@ -64,13 +64,13 @@ This method requires a bit more technical know-how but it allows you to view all
 
 If you’re trying to recover the password for your home Wi-Fi network and none of the above methods work, you may need to reset the password altogether:
 
-- Contact your internet service provider (ISP) and request a password reset
+1. Contact your internet service provider (ISP) and request a password reset
 
-- If you have access to the admin settings on your Wi-Fi router, you can log in and change the password yourself
+2. If you have access to the admin settings on your Wi-Fi router, you can log in and change the password yourself
 
-- Some routers have a physical reset button you can press to restore the default password
+3. Some routers have a physical reset button you can press to restore the default password
 
-- If you’re trying to connect to a workplace or school network, contact your IT department to request the password
+4. If you’re trying to connect to a workplace or school network, contact your IT department to request the password
 
 Resetting the Wi-Fi password will restore connectivity, but you’ll need to re-enter the new password on all your previously connected devices. Be sure to create a strong password you can remember to avoid this situation in the future.
 

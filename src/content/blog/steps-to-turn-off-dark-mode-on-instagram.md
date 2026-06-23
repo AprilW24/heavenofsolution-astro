@@ -28,19 +28,19 @@ Before we dive into the steps to disable dark mode, it’s essential to understa
 
 Let’s get to the heart of the matter. Here’s a step-by-step guide to disable dark mode directly within the Instagram app:
 
-- **Open the Instagram app** on your Android device.
+1. **Open the Instagram app** on your Android device.
 
-- **Navigate to your profile** by tapping on the profile icon in the bottom right corner of the screen.
+2. **Navigate to your profile** by tapping on the profile icon in the bottom right corner of the screen.
 
-- **Tap the hamburger menu** (three horizontal lines) in the top right corner to open the side menu.
+3. **Tap the hamburger menu** (three horizontal lines) in the top right corner to open the side menu.
 
-- **Select “Settings”** from the menu options.
+4. **Select “Settings”** from the menu options.
 
-- **Tap on “Theme”** in the settings list. This option is usually located under the “Account” section.
+5. **Tap on “Theme”** in the settings list. This option is usually located under the “Account” section.
 
-- **Choose “Light”** from the available options. You may see three choices: Light, Dark, and System Default.
+6. **Choose “Light”** from the available options. You may see three choices: Light, Dark, and System Default.
 
-- **Exit the settings** and return to the main Instagram feed to see the changes take effect.
+7. **Exit the settings** and return to the main Instagram feed to see the changes take effect.
 
 By following these steps, you should now have Instagram back in light mode, regardless of your system-wide theme settings.
 
@@ -50,25 +50,25 @@ If you’ve followed the steps above and Instagram is still in dark mode, don’
 
 **Check your system settings**: As mentioned earlier, Instagram can follow your device’s theme settings. To ensure that your system isn’t overriding Instagram’s settings:
 
-- Go to your Android device’s **Settings**.
+1. Go to your Android device’s **Settings**.
 
-- Navigate to **Display** or **Theme** settings (this may vary depending on your device manufacturer).
+2. Navigate to **Display** or **Theme** settings (this may vary depending on your device manufacturer).
 
-- Look for a **Dark theme** or **Night mode** option and make sure it’s turned off.
+3. Look for a **Dark theme** or **Night mode** option and make sure it’s turned off.
 
 **Update the app**: Sometimes, outdated versions of Instagram can cause issues with theme settings. Make sure you have the latest version of Instagram installed from the Google Play Store.
 
 **Clear app cache**: If the problem persists, try clearing Instagram’s cache:
 
-- Go to your device’s **Settings**.
+1. Go to your device’s **Settings**.
 
-- Find **Apps** or **Application Manager**.
+2. Find **Apps** or **Application Manager**.
 
-- Locate and tap on **Instagram**.
+3. Locate and tap on **Instagram**.
 
-- Select **Storage**.
+4. Select **Storage**.
 
-- Tap **Clear Cache**.
+5. Tap **Clear Cache**.
 
 **Reinstall the app**: As a last resort, you can try uninstalling and reinstalling Instagram. This can often resolve persistent issues with app settings.
 

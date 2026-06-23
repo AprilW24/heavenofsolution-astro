@@ -18,17 +18,17 @@ Some methods need a computer, while others use things you already set up, like S
 
 ## 6 Steps to Unlock Your Android Password Without Factory Reset
 
-- After multiple wrong attempts, tap the “Forgot Pattern” or *Forgot PIN* option below the password box.
+1. After multiple wrong attempts, tap the “Forgot Pattern” or *Forgot PIN* option below the password box.
 
-- Sign in with your Google account connected to the locked phone.
+2. Sign in with your Google account connected to the locked phone.
 
-- Enter your Gmail and password, then follow any verification steps if asked.
+3. Enter your Gmail and password, then follow any verification steps if asked.
 
-- Create a new password or pattern when prompted.
+4. Create a new password or pattern when prompted.
 
-- Use this new password or pattern to unlock your phone.
+5. Use this new password or pattern to unlock your phone.
 
-- Go to settings and update your security info so this doesn’t happen again.
+6. Go to settings and update your security info so this doesn’t happen again.
 
 ## Using Find My Device Features to Bypass Your Lock
 

@@ -24,23 +24,23 @@ Before we dive into the “how,” let’s discuss the “why.” Keeping your A
 
 First, let’s find out which Android version your phone is currently running:
 
-- Open the **Settings** app on your phone.
+1. Open the **Settings** app on your phone.
 
-- Scroll down and tap on **About phone** or **About tablet.**
+2. Scroll down and tap on **About phone** or **About tablet.**
 
-- Look for **Android version** to see your current version number.
+3. Look for **Android version** to see your current version number.
 
 ### Step 2: Check for Available Updates
 
 Now that you know your current version, it’s time to check if any updates are available:
 
-- Go back to the **Settings** app.
+1. Go back to the **Settings** app.
 
-- Tap on **System** and then **System Update.**
+2. Tap on **System** and then **System Update.**
 
-- Your phone will check for available updates. If an update is found, tap on **Download and Install.**
+3. Your phone will check for available updates. If an update is found, tap on **Download and Install.**
 
-- Make sure your phone is connected to a Wi-Fi network and has sufficient battery life before proceeding.
+4. Make sure your phone is connected to a Wi-Fi network and has sufficient battery life before proceeding.
 
 ### Step 3: Prepare for the Update
 
@@ -56,11 +56,11 @@ Before starting the update process, it’s a good idea to take a few precautiona
 
 Once the update is downloaded and your phone is prepared, it’s time to install:
 
-- Your phone will prompt you to install the update. Tap on **Install Now.**
+1. Your phone will prompt you to install the update. Tap on **Install Now.**
 
-- The installation process will begin, and your phone will restart several times during this process.
+2. The installation process will begin, and your phone will restart several times during this process.
 
-- Be patient and do not interrupt the installation by turning off your phone or removing the battery.
+3. Be patient and do not interrupt the installation by turning off your phone or removing the battery.
 
 ### Step 5: Enjoy Your Updated Android Phone!
 

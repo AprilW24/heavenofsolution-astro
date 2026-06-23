@@ -20,13 +20,13 @@ Before enabling hotspot on your Android phone, it’s important to check your mo
 
 To turn on the mobile hotspot feature on your Android phone, follow these steps:
 
-- Open the **Settings** app on your Android device.
+1. Open the **Settings** app on your Android device.
 
-- Go to **Network & internet** or **Connections**, depending on your device.
+2. Go to **Network & internet** or **Connections**, depending on your device.
 
-- Tap on **Hotspot & tetherin**g.
+3. Tap on **Hotspot & tetherin**g.
 
-- Toggle on the switch next to **Mobile Hotspot** or **Wi-Fi Hotspot**.
+4. Toggle on the switch next to **Mobile Hotspot** or **Wi-Fi Hotspot**.
 
 Your Android phone is now broadcasting a Wi-Fi network that other devices can connect to.
 
@@ -34,15 +34,15 @@ Your Android phone is now broadcasting a Wi-Fi network that other devices can co
 
 Once you’ve enabled the mobile hotspot, you can customize its settings to make it more secure and easier to identify. Here’s how:
 
-- Tap on **Mobile Hotspot** or **Wi-Fi Hotspot** in the Hotspot & tethering menu.
+1. Tap on **Mobile Hotspot** or **Wi-Fi Hotspot** in the Hotspot & tethering menu.
 
-- Change the **Network name (SSID)** to something unique and recognizable.
+2. Change the **Network name (SSID)** to something unique and recognizable.
 
-- Set a strong **Password** to prevent unauthorized access to your hotspot.
+3. Set a strong **Password** to prevent unauthorized access to your hotspot.
 
-- Choose the **Security type**, preferably WPA2, for the best protection.
+4. Choose the **Security type**, preferably WPA2, for the best protection.
 
-- Select the **AP Band** (2.4 GHz or 5 GHz) based on your needs and device compatibility.
+5. Select the **AP Band** (2.4 GHz or 5 GHz) based on your needs and device compatibility.
 
 By configuring these settings, you can ensure that your mobile hotspot is secure and easy to find when connecting other devices.
 
@@ -50,13 +50,13 @@ By configuring these settings, you can ensure that your mobile hotspot is secure
 
 Now that your Android phone’s mobile hotspot is set up and configured, you can start connecting other devices to it. Here’s how:
 
-- On the device you want to connect, open the Wi-Fi settings.
+1. On the device you want to connect, open the Wi-Fi settings.
 
-- Look for your hotspot’s network name (SSID) in the list of available networks.
+2. Look for your hotspot’s network name (SSID) in the list of available networks.
 
-- Tap on your hotspot’s SSID and enter the password when prompted.
+3. Tap on your hotspot’s SSID and enter the password when prompted.
 
-- Once connected, the device should have internet access through your Android phone’s mobile data connection.
+4. Once connected, the device should have internet access through your Android phone’s mobile data connection.
 
 Keep in mind that the more devices you connect to your hotspot, the slower the internet speed may be, as they are all sharing the same mobile data connection.
 

@@ -36,25 +36,25 @@ Before you take the plunge and deactivate your account, there are a few things t
 
 Now, let’s get into the actual process of deactivating your account from the Twitter mobile app:
 
-- Open the Twitter app on your mobile device and make sure you’re logged into the account you wish to deactivate.
+1. Open the Twitter app on your mobile device and make sure you’re logged into the account you wish to deactivate.
 
-- Tap on your profile icon in the top left corner of the screen. This will open a menu.
+2. Tap on your profile icon in the top left corner of the screen. This will open a menu.
 
-- In the menu, tap on **Settings and privacy**. This will take you to a new screen with various options for managing your account.
+3. In the menu, tap on **Settings and privacy**. This will take you to a new screen with various options for managing your account.
 
-- On the Settings and privacy screen, tap on **Your account**. This will open a submenu with options related to your account specifically.
+4. On the Settings and privacy screen, tap on **Your account**. This will open a submenu with options related to your account specifically.
 
-- In the Your account submenu, scroll down and tap on **Deactivate your account**. This will take you to a page with information about the deactivation process.
+5. In the Your account submenu, scroll down and tap on **Deactivate your account**. This will take you to a page with information about the deactivation process.
 
-- Read the information carefully. Twitter explains what happens when you deactivate, including the 30-day reactivation period and the permanent deletion of your data after that period.
+6. Read the information carefully. Twitter explains what happens when you deactivate, including the 30-day reactivation period and the permanent deletion of your data after that period.
 
-- If you’re sure you want to proceed, tap on the **Deactivate** button at the bottom of the screen.
+7. If you’re sure you want to proceed, tap on the **Deactivate** button at the bottom of the screen.
 
-- Twitter will ask you to enter your password to confirm that you are the account holder. Enter your password in the provided field.
+8. Twitter will ask you to enter your password to confirm that you are the account holder. Enter your password in the provided field.
 
-- After entering your password, tap on the **Deactivate** button again. This is your final confirmation.
+9. After entering your password, tap on the **Deactivate** button again. This is your final confirmation.
 
-- Your account is now deactivated. If you log in anytime within the next 30 days, your account will be restored. After 30 days, all your data will be permanently erased.
+10. Your account is now deactivated. If you log in anytime within the next 30 days, your account will be restored. After 30 days, all your data will be permanently erased.
 
 ### After Deactivation
 
@@ -72,11 +72,11 @@ Once your account is deactivated, here’s what you can expect:
 
 If you change your mind within 30 days of deactivating, reactivating your account is easy:
 
-- Simply log into your account using your username and password.
+1. Simply log into your account using your username and password.
 
-- Twitter will prompt you to confirm that you want to reactivate your account.
+2. Twitter will prompt you to confirm that you want to reactivate your account.
 
-- Once you confirm, your account will be restored, and all your tweets and data will be accessible again.
+3. Once you confirm, your account will be restored, and all your tweets and data will be accessible again.
 
 Remember, after 30 days, your account and all its data will be permanently deleted and cannot be recovered.
 

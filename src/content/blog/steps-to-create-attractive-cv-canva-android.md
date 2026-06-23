@@ -20,25 +20,25 @@ Canva also keeps your work synced if you ever want to move from your phone to a 
 
 ## Steps to Make a CV on Canva Using Android
 
-- Open the Canva app and sign in with your *Google* account.
+1. Open the Canva app and sign in with your *Google* account.
 
-- Tap the “+” button and search for “CV” or “resume.”
+2. Tap the “+” button and search for “CV” or “resume.”
 
-- Choose a simple, professional template (avoid the ones with too many shapes).
+3. Choose a simple, professional template (avoid the ones with too many shapes).
 
-- Tap “Customize” to open the template in the editor.
+4. Tap “Customize” to open the template in the editor.
 
-- Replace the sample name and title with yours.
+5. Replace the sample name and title with yours.
 
-- Add contact details like phone, email, and *LinkedIn*.
+6. Add contact details like phone, email, and *LinkedIn*.
 
-- Edit the text boxes for your experience, skills, and education.
+7. Edit the text boxes for your experience, skills, and education.
 
-- Change colors or fonts if needed, but keep it readable.
+8. Change colors or fonts if needed, but keep it readable.
 
-- Preview your design to check alignment and spacing.
+9. Preview your design to check alignment and spacing.
 
-- Download it as PDF when done and save a copy to send later.
+10. Download it as PDF when done and save a copy to send later.
 
 ## How to Make Your CV Look Professional
 

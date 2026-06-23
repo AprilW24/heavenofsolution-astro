@@ -12,25 +12,25 @@ The process is simple but powerful. No need to jump between apps or dig through 
 
 ## Step-by-Step Guide for Using Perplexity Labs Mode
 
-- Open the Perplexity app or website and log in.
+1. Open the Perplexity app or website and log in.
 
-- Look for the mode selector in the search/input bar.
+2. Look for the mode selector in the search/input bar.
 
-- Tap or click the selector and pick ***Labs*** mode.
+3. Tap or click the selector and pick ***Labs*** mode.
 
-- On mobile, make sure your app is updated, then use the same mode picker.
+4. On mobile, make sure your app is updated, then use the same mode picker.
 
-- Hit the ‘New Project’ or ‘Start a Lab’ button.
+5. Hit the ‘New Project’ or ‘Start a Lab’ button.
 
-- Type a project idea or question (be as detailed as you like).
+6. Type a project idea or question (be as detailed as you like).
 
-- Wait for Labs to do its thing—this takes a few minutes.
+7. Wait for Labs to do its thing—this takes a few minutes.
 
-- Check the *Assets* tab for all your generated charts, images, documents, or code files.
+8. Check the *Assets* tab for all your generated charts, images, documents, or code files.
 
-- Download or share anything you need from your completed project.
+9. Download or share anything you need from your completed project.
 
-- If you want an interactive mini app, head to the *App* tab in your finished project.
+10. If you want an interactive mini app, head to the *App* tab in your finished project.
 
 ## Using Labs to Tackle Projects and Organize Results Better
 

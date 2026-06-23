@@ -24,31 +24,31 @@ Before diving into the how-to, let’s discuss why adding your business location
 
 To access location features, you need an Instagram Business profile. If you haven’t done this already, here’s how:
 
-- Go to your profile and tap the three lines icon in the top right corner
+1. Go to your profile and tap the three lines icon in the top right corner
 
-- Tap **Settings**
+2. Tap **Settings**
 
-- Tap **Account**
+3. Tap **Account**
 
-- Tap **Switch to Professional Account**
+4. Tap **Switch to Professional Account**
 
-- Select **Business**
+5. Select **Business**
 
-- Follow the prompts to connect to your Facebook Business page
+6. Follow the prompts to connect to your Facebook Business page
 
 ### Step 2: Add Your Address to Your Bio
 
 With a Business profile, you can add your address right in your bio for easy reference. Here’s how:
 
-- Go to your profile and tap **Edit Profile**
+1. Go to your profile and tap **Edit Profile**
 
-- Under **Public Business Information**, tap **Contact Options**
+2. Under **Public Business Information**, tap **Contact Options**
 
-- Enter your business address
+3. Enter your business address
 
-- Make sure **Display Contact Info** is enabled
+4. Make sure **Display Contact Info** is enabled
 
-- Tap **Done**
+5. Tap **Done**
 
 Your address will now show in your bio and users can tap it for directions.
 
@@ -56,15 +56,15 @@ Your address will now show in your bio and users can tap it for directions.
 
 To tag your exact business location, you may need to create a custom location. Unfortunately this can’t be done directly on Instagram anymore – you need to use Facebook. Here’s how:
 
-- Open your Facebook app and create a new post
+1. Open your Facebook app and create a new post
 
-- Tap **Check In**
+2. Tap **Check In**
 
-- In the search bar, type your business name and tap the **+** button
+3. In the search bar, type your business name and tap the **+** button
 
-- Enter your location name and details
+4. Enter your location name and details
 
-- Tap **Create**
+5. Tap **Create**
 
 Your new custom location should now be available to select on both Facebook and Instagram.
 
@@ -72,17 +72,17 @@ Your new custom location should now be available to select on both Facebook and 
 
 Whenever you post about your business, be sure to tag your location:
 
-- Tap the **+** button to create a new post
+1. Tap the **+** button to create a new post
 
-- Add your photo and effects, then tap **Next**
+2. Add your photo and effects, then tap **Next**
 
-- Type your caption
+3. Type your caption
 
-- Tap **Add Location**
+4. Tap **Add Location**
 
-- Search for and select your business location
+5. Search for and select your business location
 
-- Tap **Share**
+6. Tap **Share**
 
 Your location tag will appear above your post. Users can tap it to see other posts from your location.
 
@@ -90,15 +90,15 @@ Your location tag will appear above your post. Users can tap it to see other pos
 
 You can also tag your location in Instagram Stories for extra visibility. Here’s how:
 
-- Take or upload a photo/video for your story
+1. Take or upload a photo/video for your story
 
-- Tap the sticker icon in the top right
+2. Tap the sticker icon in the top right
 
-- Select the **Location** sticker
+3. Select the **Location** sticker
 
-- Search for and select your business location
+4. Search for and select your business location
 
-- Place the sticker where you want it and post your story
+5. Place the sticker where you want it and post your story
 
 Users can tap your location sticker to see other stories and posts from that location.
 

@@ -14,31 +14,31 @@ Whether you want to keep your real number private or don’t have a mobile numbe
 
 One of the easiest ways to bypass the mobile number requirement is to use a landline phone number instead. Here’s how:
 
-- Download and install WhatsApp on your Android device if you haven’t already. If you have an existing account, delete it and reinstall the app.
+1. Download and install WhatsApp on your Android device if you haven’t already. If you have an existing account, delete it and reinstall the app.
 
-- Open WhatsApp and agree to the terms and conditions. Select your country and enter your landline number.
+2. Open WhatsApp and agree to the terms and conditions. Select your country and enter your landline number.
 
-- Choose the option to verify via SMS. This will fail after about 5 minutes since you can’t receive texts on a landline.
+3. Choose the option to verify via SMS. This will fail after about 5 minutes since you can’t receive texts on a landline.
 
-- After the SMS verification fails, tap **Call me** to receive an automated phone call from WhatsApp with your verification code.
+4. After the SMS verification fails, tap **Call me** to receive an automated phone call from WhatsApp with your verification code.
 
-- Answer the call on your landline phone and write down the verification code that is spoken to you.
+5. Answer the call on your landline phone and write down the verification code that is spoken to you.
 
-- Enter this code into WhatsApp on your Android device to complete the verification process. Your account is now active!
+6. Enter this code into WhatsApp on your Android device to complete the verification process. Your account is now active!
 
 ## Method 2: Use a Virtual Number App
 
 Another option is to use a virtual phone number app to generate a number you can use for WhatsApp verification. One popular choice is TextNow:
 
-- Download both WhatsApp and the TextNow app on your Android device.
+1. Download both WhatsApp and the TextNow app on your Android device.
 
-- Open TextNow and create an account. Choose your desired area code to generate a virtual number.
+2. Open TextNow and create an account. Choose your desired area code to generate a virtual number.
 
-- Open WhatsApp and enter your TextNow number when prompted during setup.
+3. Open WhatsApp and enter your TextNow number when prompted during setup.
 
-- WhatsApp will send a verification code to your TextNow number. Open the TextNow app, get the code from the text message, and enter it into WhatsApp.
+4. WhatsApp will send a verification code to your TextNow number. Open the TextNow app, get the code from the text message, and enter it into WhatsApp.
 
-- Complete the WhatsApp setup process and start using it with your virtual TextNow number.
+5. Complete the WhatsApp setup process and start using it with your virtual TextNow number.
 
 Note: In some cases, WhatsApp may not accept virtual numbers for verification. If you encounter issues, contact their support team for assistance.
 
@@ -46,17 +46,17 @@ Note: In some cases, WhatsApp may not accept virtual numbers for verification. I
 
 Google Voice provides another way to get a virtual number for WhatsApp verification, and it’s free for users in the US. Here’s how to set it up:
 
-- Go to voice.google.com and sign into your Google account.
+1. Go to voice.google.com and sign into your Google account.
 
-- Click **Select** to choose a Google Voice number from the list of available options. Verify the number using your real phone number.
+2. Click **Select** to choose a Google Voice number from the list of available options. Verify the number using your real phone number.
 
-- Install the Google Voice app on your Android device and sign in.
+3. Install the Google Voice app on your Android device and sign in.
 
-- Uninstall and reinstall WhatsApp. Enter your new Google Voice number during setup.
+4. Uninstall and reinstall WhatsApp. Enter your new Google Voice number during setup.
 
-- WhatsApp will send a verification code to your Google Voice number. Open the Voice app, copy the code from the text message, and enter it into WhatsApp.
+5. WhatsApp will send a verification code to your Google Voice number. Open the Voice app, copy the code from the text message, and enter it into WhatsApp.
 
-- Finish setting up your WhatsApp account with your Google Voice number.
+6. Finish setting up your WhatsApp account with your Google Voice number.
 
 ## Conclusion
 

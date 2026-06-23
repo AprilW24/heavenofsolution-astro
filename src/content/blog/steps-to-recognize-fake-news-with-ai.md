@@ -26,25 +26,25 @@ Researchers at Keele University even made a model that detects fake news with 99
 
 ## Step-by-step to recognize fake news with your phone
 
-- Download a trusted AI tool like *FakeOut*, *Scam Check*, or *Microsoft NewsGuard*.
+1. Download a trusted AI tool like *FakeOut*, *Scam Check*, or *Microsoft NewsGuard*.
 
-- Copy the link or upload the image or video you want to verify.
+2. Copy the link or upload the image or video you want to verify.
 
-- Let the app scan it for visual or language anomalies.
+3. Let the app scan it for visual or language anomalies.
 
-- Review the AI report. It’ll rate trust levels or mark suspicious parts.
+4. Review the AI report. It’ll rate trust levels or mark suspicious parts.
 
-- Cross-check that story on search engines or fact-check sites like *Snopes* or *Reuters*.
+5. Cross-check that story on search engines or fact-check sites like *Snopes* or *Reuters*.
 
-- Look for other sources with the same news and compare dates or quotes.
+6. Look for other sources with the same news and compare dates or quotes.
 
-- Inspect usernames or profiles for missing bio info or recycled photos.
+7. Inspect usernames or profiles for missing bio info or recycled photos.
 
-- Read comments other users may have exposed the fake already.
+8. Read comments other users may have exposed the fake already.
 
-- Report fake posts using your platform’s tools.
+9. Report fake posts using your platform’s tools.
 
-- Stay skeptical even when something looks “too real.”
+10. Stay skeptical even when something looks “too real.”
 
 ## Common mistakes when using AI to fight fake news
 

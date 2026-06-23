@@ -28,19 +28,19 @@ Regardless of the reason, it’s essential to stop using your phone immediately 
 
 The easiest and most effective way to retrieve deleted phone calls on Android is by using a reliable data recovery application. One such app is **DroidKit**, which allows you to recover various types of lost data, including call logs, without rooting your device. Here’s how to use it:
 
-- Download and install DroidKit on your computer.
+1. Download and install DroidKit on your computer.
 
-- Connect your Android phone to the PC using a USB cable.
+2. Connect your Android phone to the PC using a USB cable.
 
-- Select **Recover Lost Data** from the main interface.
+3. Select **Recover Lost Data** from the main interface.
 
-- Choose **Call Logs** from the list of data types and click **Start**.
+4. Choose **Call Logs** from the list of data types and click **Start**.
 
-- Wait for DroidKit to scan your device thoroughly.
+5. Wait for DroidKit to scan your device thoroughly.
 
-- Preview the recoverable call logs and select the ones you want to restore.
+6. Preview the recoverable call logs and select the ones you want to restore.
 
-- Click **Recover** to save the selected call history to your computer or device.
+7. Click **Recover** to save the selected call history to your computer or device.
 
 DroidKit is user-friendly and compatible with most Android devices, making it an excellent choice for retrieving deleted phone calls.
 
@@ -48,17 +48,17 @@ DroidKit is user-friendly and compatible with most Android devices, making it an
 
 If you had previously enabled Google Drive backup on your Android phone, there’s a good chance your deleted call history is stored in the cloud. Follow these steps to restore call logs from Google Drive:
 
-- Go to your phone’s **Settings** > **System** > **Reset options**.
+1. Go to your phone’s **Settings** > **System** > **Reset options**.
 
-- Tap on **Erase all data (factory reset)** and confirm the action.
+2. Tap on **Erase all data (factory reset)** and confirm the action.
 
-- During the setup process after the reset, choose to restore data from your Google account.
+3. During the setup process after the reset, choose to restore data from your Google account.
 
-- Sign in to the Google account associated with your backup.
+4. Sign in to the Google account associated with your backup.
 
-- Select the most recent backup that might contain your deleted call logs.
+5. Select the most recent backup that might contain your deleted call logs.
 
-- Wait for the restoration process to complete, and your call history should be recovered.
+6. Wait for the restoration process to complete, and your call history should be recovered.
 
 Keep in mind that this method will erase all current data on your phone, replacing it with the older backup. It’s crucial to create a new backup before proceeding with this approach.
 
@@ -66,15 +66,15 @@ Keep in mind that this method will erase all current data on your phone, replaci
 
 In some cases, you can retrieve deleted phone calls by reaching out to your mobile carrier. Most service providers keep call detail records (CDRs) for a specific period, typically up to 2 years, for legal and billing purposes. Here’s how to request your call logs from the carrier:
 
-- Contact your mobile service provider’s customer support.
+1. Contact your mobile service provider’s customer support.
 
-- Explain your situation and request access to your call detail records.
+2. Explain your situation and request access to your call detail records.
 
-- Provide necessary information like your account details and the specific dates for which you need the call logs.
+3. Provide necessary information like your account details and the specific dates for which you need the call logs.
 
-- The carrier may ask you to fill out a form or provide additional identification for security purposes.
+4. The carrier may ask you to fill out a form or provide additional identification for security purposes.
 
-- Once approved, you’ll receive your call history either via email or through their online portal.
+5. Once approved, you’ll receive your call history either via email or through their online portal.
 
 Note that this method might not be free, and the level of detail in the provided records may vary depending on your carrier’s policies.
 

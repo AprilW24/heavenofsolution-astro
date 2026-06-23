@@ -22,53 +22,53 @@ Google Drive is a reliable and convenient cloud storage service that allows you 
 
 Most Android devices have the option to automatically sync contacts with your Google account. To ensure this feature is enabled:
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap on **Accounts** or **Accounts & Sync**
+2. Tap on **Accounts** or **Accounts & Sync**
 
-- Select your **Google account**
+3. Select your **Google account**
 
-- Make sure the **Contacts** toggle is turned on
+4. Make sure the **Contacts** toggle is turned on
 
 ## Step 2: Manually Export Contacts to Google Drive (Optional)
 
 If you want to create a manual backup of your contacts, you can export them as a file and upload it to Google Drive. Here’s how:
 
-- Open the **Contacts** app on your Android device
+1. Open the **Contacts** app on your Android device
 
-- Tap on the **three-dot menu** in the top-right corner
+2. Tap on the **three-dot menu** in the top-right corner
 
-- Select **Export** or **Share**
+3. Select **Export** or **Share**
 
-- Choose **Google Drive** as the export destination
+4. Choose **Google Drive** as the export destination
 
-- Select the **account** you want to save the contacts to
+5. Select the **account** you want to save the contacts to
 
-- Tap **Save** to upload the contacts file to Google Drive
+6. Tap **Save** to upload the contacts file to Google Drive
 
 ## Step 3: Verify Your Contacts are Backed Up
 
 To ensure your contacts are successfully backed up to Google Drive:
 
-- Open the **Google Contacts** app or visit [contacts.google.com](https://contacts.google.com/) in a web browser
+1. Open the **Google Contacts** app or visit [contacts.google.com](https://contacts.google.com/) in a web browser
 
-- Sign in to your Google account if prompted
+2. Sign in to your Google account if prompted
 
-- Check that your contacts are listed and up-to-date
+3. Check that your contacts are listed and up-to-date
 
 ## Step 4: Restore Contacts from Google Drive (When Needed)
 
 If you ever need to restore your contacts from Google Drive:
 
-- On your new or reset device, make sure you’re signed in to the same Google account used for the backup
+1. On your new or reset device, make sure you’re signed in to the same Google account used for the backup
 
-- Open the **Settings** app and go to **Accounts** or **Accounts & Sync**
+2. Open the **Settings** app and go to **Accounts** or **Accounts & Sync**
 
-- Tap on your **Google account**
+3. Tap on your **Google account**
 
-- Make sure the **Contacts** toggle is turned on to initiate the sync process
+4. Make sure the **Contacts** toggle is turned on to initiate the sync process
 
-- Your contacts will be restored to your device automatically
+5. Your contacts will be restored to your device automatically
 
 ## Conclusion
 

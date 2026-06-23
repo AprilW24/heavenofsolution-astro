@@ -12,11 +12,11 @@ Are you looking for a creative way to generate passive income? Selling Canva tem
 
 Before you can start creating templates to sell, you’ll need a Canva account. While a free account is sufficient to get started, a Canva Pro account offers additional features that can enhance your template-creating process. Here’s what you need to do:
 
-- Sign up for a Canva account if you don’t already have one.
+1. Sign up for a Canva account if you don’t already have one.
 
-- Familiarize yourself with Canva’s tools and features.
+2. Familiarize yourself with Canva’s tools and features.
 
-- Consider upgrading to Canva Pro for access to more design elements and features, although it’s not necessary to sell templates.
+3. Consider upgrading to Canva Pro for access to more design elements and features, although it’s not necessary to sell templates.
 
 **Pro tip:** Even with a free Canva account, you have access to a vast library of elements and fonts that you can use to create stunning templates.
 
@@ -24,11 +24,11 @@ Before you can start creating templates to sell, you’ll need a Canva account. 
 
 Before diving into design, it’s crucial to identify your target market and choose a niche. This will help you create templates that are in demand and stand out in the crowded Etsy marketplace. Here’s how to approach this step:
 
-- Explore Etsy to see what types of Canva templates are popular.
+1. Explore Etsy to see what types of Canva templates are popular.
 
-- Identify gaps in the market or areas where you can offer unique designs.
+2. Identify gaps in the market or areas where you can offer unique designs.
 
-- Consider your own skills and interests when choosing a niche.
+3. Consider your own skills and interests when choosing a niche.
 
 Some popular Canva template categories on Etsy include:
 
@@ -48,15 +48,15 @@ Remember, the key is to find a balance between what’s in demand and what you e
 
 Now comes the fun part – creating your templates! When designing, keep these points in mind:
 
-- **Start from scratch:** Canva’s terms of use prohibit selling their pre-made templates. Create original designs using Canva’s free elements, fonts, and your creativity.
+1. **Start from scratch:** Canva’s terms of use prohibit selling their pre-made templates. Create original designs using Canva’s free elements, fonts, and your creativity.
 
-- **Keep it customizable:** Your templates should be easy for buyers to edit and personalize.
+2. **Keep it customizable:** Your templates should be easy for buyers to edit and personalize.
 
-- **Maintain consistency:** If you’re creating a set or bundle, ensure all pieces have a cohesive look and feel.
+3. **Maintain consistency:** If you’re creating a set or bundle, ensure all pieces have a cohesive look and feel.
 
-- **Use free elements:** Stick to Canva’s free elements as much as possible. Many buyers don’t have Canva Pro and won’t want to pay extra for premium elements.
+4. **Use free elements:** Stick to Canva’s free elements as much as possible. Many buyers don’t have Canva Pro and won’t want to pay extra for premium elements.
 
-- **Create variations:** Offer multiple color schemes or layout options to increase the value of your template package.
+5. **Create variations:** Offer multiple color schemes or layout options to increase the value of your template package.
 
 Remember to save your work frequently and organize your designs into folders for easy management.
 
@@ -64,11 +64,11 @@ Remember to save your work frequently and organize your designs into folders for
 
 Once your templates are designed, you need to prepare them for sale. This involves:
 
-- **Creating a template link:** In Canva, click ‘Share’ and then ‘Template link’ to generate a link that allows buyers to make a copy of your design.
+1. **Creating a template link:** In Canva, click ‘Share’ and then ‘Template link’ to generate a link that allows buyers to make a copy of your design.
 
-- **Preparing a delivery file:** Create a PDF or image file that includes the template link and instructions for use. This is what you’ll upload to Etsy for buyers to download.
+2. **Preparing a delivery file:** Create a PDF or image file that includes the template link and instructions for use. This is what you’ll upload to Etsy for buyers to download.
 
-- **Creating product images:** Design eye-catching mockups or previews of your templates to use as product images on Etsy.
+3. **Creating product images:** Design eye-catching mockups or previews of your templates to use as product images on Etsy.
 
 **Important:** Never share the ‘edit’ link of your design, as this would allow buyers to alter your original template.
 
@@ -76,11 +76,11 @@ Once your templates are designed, you need to prepare them for sale. This involv
 
 If you haven’t already, it’s time to set up your Etsy shop. Here’s a quick rundown:
 
-- Go to Etsy.com and click ‘Sell on Etsy’.
+1. Go to Etsy.com and click ‘Sell on Etsy’.
 
-- Follow the prompts to set up your shop, including choosing a shop name and setting up payment and billing info.
+2. Follow the prompts to set up your shop, including choosing a shop name and setting up payment and billing info.
 
-- Customize your shop with a banner, profile picture, and ‘About’ section.
+3. Customize your shop with a banner, profile picture, and ‘About’ section.
 
 Remember to read and understand Etsy’s seller policies before listing your products.
 
@@ -88,19 +88,19 @@ Remember to read and understand Etsy’s seller policies before listing your pro
 
 Now it’s time to list your templates for sale. Here’s what you need to do:
 
-- Click ‘Add a listing’ in your Etsy shop manager.
+1. Click ‘Add a listing’ in your Etsy shop manager.
 
-- Upload your product images.
+2. Upload your product images.
 
-- Write a compelling title and description for your template.
+3. Write a compelling title and description for your template.
 
-- Set your price (research similar products to ensure competitive pricing).
+4. Set your price (research similar products to ensure competitive pricing).
 
-- Choose relevant tags and categories to help buyers find your product.
+5. Choose relevant tags and categories to help buyers find your product.
 
-- Upload your delivery file (the PDF or image with the template link and instructions).
+6. Upload your delivery file (the PDF or image with the template link and instructions).
 
-- Preview your listing and publish when you’re satisfied.
+7. Preview your listing and publish when you’re satisfied.
 
 **Pro tip:** In your description, clearly explain what buyers will receive and how to use the template. This can help prevent confusion and negative reviews.
 
@@ -108,15 +108,15 @@ Now it’s time to list your templates for sale. Here’s what you need to do:
 
 Creating and listing your templates is just the beginning. To succeed, you need to market your products effectively. Here are some strategies:
 
-- **Utilize social media:** Share your templates on platforms like Pinterest, Instagram, and Facebook. Create eye-catching pins for Pinterest, as it’s particularly effective for driving traffic to Etsy shops.
+1. **Utilize social media:** Share your templates on platforms like Pinterest, Instagram, and Facebook. Create eye-catching pins for Pinterest, as it’s particularly effective for driving traffic to Etsy shops.
 
-- **Optimize for SEO:** Use relevant keywords in your titles, tags, and descriptions to improve your visibility in Etsy and Google searches.
+2. **Optimize for SEO:** Use relevant keywords in your titles, tags, and descriptions to improve your visibility in Etsy and Google searches.
 
-- **Offer excellent customer service:** Respond promptly to questions and address any issues quickly. Positive reviews can significantly boost your shop’s credibility.
+3. **Offer excellent customer service:** Respond promptly to questions and address any issues quickly. Positive reviews can significantly boost your shop’s credibility.
 
-- **Run promotions:** Offer occasional sales or discounts to attract new customers and encourage repeat buyers.
+4. **Run promotions:** Offer occasional sales or discounts to attract new customers and encourage repeat buyers.
 
-- **Expand your product line:** Regularly add new templates to keep your shop fresh and give customers reasons to return.
+5. **Expand your product line:** Regularly add new templates to keep your shop fresh and give customers reasons to return.
 
 Remember, building a successful Etsy shop takes time and effort. Be patient and consistent in your marketing efforts.
 

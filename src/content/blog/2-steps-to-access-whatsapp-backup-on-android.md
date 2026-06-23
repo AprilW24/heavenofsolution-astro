@@ -22,21 +22,21 @@ There are two main ways WhatsApp backs up data on Android devices – to Google 
 
 Follow these steps to find and view your WhatsApp backup on Google Drive:
 
-- Open the Google Drive app on your Android phone.
+1. Open the Google Drive app on your Android phone.
 
-- Tap on the hamburger menu in the top-left.
+2. Tap on the hamburger menu in the top-left.
 
-- Select Backups.
+3. Select Backups.
 
-- You will see a WhatsApp backup file with the date it was last updated.
+4. You will see a WhatsApp backup file with the date it was last updated.
 
 To preview media files in the backup:
 
-- Tap on the WhatsApp backup file.
+1. Tap on the WhatsApp backup file.
 
-- Select Attachments.
+2. Select Attachments.
 
-- You can view all backed up photos, videos and other media.
+3. You can view all backed up photos, videos and other media.
 
 **Note:** To view messages and calls in the backup, you need to first decrypt the backup which requires uninstalling and reinstalling WhatsApp.
 
@@ -44,15 +44,15 @@ To preview media files in the backup:
 
 To find WhatsApp backups saved locally on your Android device:
 
-- Download a file manager app like Files by Google.
+1. Download a file manager app like Files by Google.
 
-- Navigate to Internal Storage/WhatsApp/Databases.
+2. Navigate to Internal Storage/WhatsApp/Databases.
 
-- Here you will find msgstore database files that are your WhatsApp backups. The most recent one ends with **.db.crypt12** for example.
+3. Here you will find msgstore database files that are your WhatsApp backups. The most recent one ends with **.db.crypt12** for example.
 
-- Copy the backup file you want to access to another location on your phone or computer.
+4. Copy the backup file you want to access to another location on your phone or computer.
 
-- You can’t directly view the messages but this backup can be restored when you reinstall WhatsApp on the same phone number.
+5. You can’t directly view the messages but this backup can be restored when you reinstall WhatsApp on the same phone number.
 
 ### Conclusion
 

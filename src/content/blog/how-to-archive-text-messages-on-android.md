@@ -14,23 +14,23 @@ The most straightforward way to archive text messages on Android is by using the
 
 To archive messages using the default Messages app:
 
-- Open the Messages app on your Android device.
+1. Open the Messages app on your Android device.
 
-- Find the conversation you want to archive.
+2. Find the conversation you want to archive.
 
-- Long-press on the conversation to select it.
+3. Long-press on the conversation to select it.
 
-- Tap the archive icon (usually resembling a box with a downward arrow) at the top of the screen.
+4. Tap the archive icon (usually resembling a box with a downward arrow) at the top of the screen.
 
 Alternatively, you can swipe left or right on a conversation in the main interface to archive it quickly. The archived messages will be moved out of your main inbox but can still be accessed when needed.
 
 To view archived messages:
 
-- Open the Messages app.
+1. Open the Messages app.
 
-- Tap on the three-dot menu icon.
+2. Tap on the three-dot menu icon.
 
-- Select “Archived” from the options.
+3. Select “Archived” from the options.
 
 Here, you’ll find all your archived conversations. To unarchive a message, simply repeat the archiving process on the archived conversation, and it will return to your main inbox.
 
@@ -38,11 +38,11 @@ Here, you’ll find all your archived conversations. To unarchive a message, sim
 
 If you’re using Google Messages as your default messaging app, the archiving process is similar but with some additional features:
 
-- Open Google Messages.
+1. Open Google Messages.
 
-- Touch and hold the conversation you want to archive.
+2. Touch and hold the conversation you want to archive.
 
-- Tap the archive icon at the top of the screen.
+3. Tap the archive icon at the top of the screen.
 
 Google Messages also allows you to archive multiple conversations at once by selecting multiple threads before tapping the archive icon.
 
@@ -58,13 +58,13 @@ SMS Backup+ is a popular open-source app that allows you to back up your text me
 
 To use SMS Backup+:
 
-- Download and install SMS Backup+ from the Google Play Store.
+1. Download and install SMS Backup+ from the Google Play Store.
 
-- Open the app and connect it to your Gmail account.
+2. Open the app and connect it to your Gmail account.
 
-- Grant the necessary permissions.
+3. Grant the necessary permissions.
 
-- Tap “Backup” to start archiving your messages to Gmail.
+4. Tap “Backup” to start archiving your messages to Gmail.
 
 Your text messages will be stored in Gmail under a label called “SMS,” making them easily searchable and accessible from any device with internet access.
 
@@ -74,15 +74,15 @@ For those who prefer to keep their archives on their computer rather than in the
 
 To archive messages using MobiKin:
 
-- Install MobiKin Backup Manager on your computer.
+1. Install MobiKin Backup Manager on your computer.
 
-- Connect your Android phone to the computer via USB.
+2. Connect your Android phone to the computer via USB.
 
-- Launch the software and select “Messages” from the main interface.
+3. Launch the software and select “Messages” from the main interface.
 
-- Choose the messages you want to archive.
+4. Choose the messages you want to archive.
 
-- Click “Backup” to save the selected messages to your computer.
+5. Click “Backup” to save the selected messages to your computer.
 
 This method provides a secure, offline archive of your messages that you can easily access and manage from your computer.
 
@@ -92,11 +92,11 @@ Another effective way to archive your text messages is by using cloud storage se
 
 **Google Drive Backup**:
 
-- Go to Settings > Google > Backup on your Android device.
+1. Go to Settings > Google > Backup on your Android device.
 
-- Ensure that “Backup to Google Drive” is turned on.
+2. Ensure that “Backup to Google Drive” is turned on.
 
-- Tap on “Back up now” to manually initiate a backup.
+3. Tap on “Back up now” to manually initiate a backup.
 
 This method backs up various data from your phone, including text messages, to your Google account. While it’s not specifically for archiving texts, it provides a comprehensive backup solution.
 
@@ -104,15 +104,15 @@ This method backs up various data from your phone, including text messages, to y
 
 For those who prefer a more hands-on approach, manually exporting and archiving text messages is an option:
 
-- Open your Messages app.
+1. Open your Messages app.
 
-- Tap the three-dot menu icon.
+2. Tap the three-dot menu icon.
 
-- Look for an option like “Export messages” or “Save messages.”
+3. Look for an option like “Export messages” or “Save messages.”
 
-- Choose the conversations you want to export.
+4. Choose the conversations you want to export.
 
-- Select a destination to save the exported file (e.g., Google Drive, email, or local storage).
+5. Select a destination to save the exported file (e.g., Google Drive, email, or local storage).
 
 This method allows you to create a file containing your messages, which you can then store wherever you prefer for safekeeping.
 

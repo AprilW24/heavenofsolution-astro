@@ -106,11 +106,11 @@ Keep in mind that Chrome flags are experimental features and can cause unexpecte
 
 In summary, while Chrome mobile doesn’t natively support extensions, your extensions from other devices may still be syncing to your phone or tablet. To remove an unwanted extension on Chrome mobile:
 
-- Check if extension sync is enabled in Chrome’s settings
+1. Check if extension sync is enabled in Chrome’s settings
 
-- Turn off extension sync on your mobile device
+2. Turn off extension sync on your mobile device
 
-- Uninstall the extension in Chrome on your computer
+3. Uninstall the extension in Chrome on your computer
 
 This will prevent the extension from appearing or using resources on your mobile device. For most users, disabling extension sync is the simplest solution. Only advanced users should experiment with enabling extensions via Chrome flags.
 

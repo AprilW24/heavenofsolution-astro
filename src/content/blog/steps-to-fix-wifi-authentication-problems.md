@@ -18,13 +18,13 @@ Before you start troubleshooting, double-check that you’re entering the correc
 
 If you’re certain that you’re using the correct password but still can’t connect, try forgetting the network and then reconnecting to it. Here’s how:
 
-- Go to your Android device’s Wi-Fi settings.
+1. Go to your Android device’s Wi-Fi settings.
 
-- Find the network you’re trying to connect to and tap on it.
+2. Find the network you’re trying to connect to and tap on it.
 
-- Select **Forget** or **Forget network**.
+3. Select **Forget** or **Forget network**.
 
-- Wait a few seconds, then tap on the network again and enter the password to reconnect.
+4. Wait a few seconds, then tap on the network again and enter the password to reconnect.
 
 This process will remove any old network settings that may be causing the authentication error and allow your device to establish a new connection.
 
@@ -36,13 +36,13 @@ Sometimes, the problem may lie with your router rather than your Android device.
 
 Outdated software on your Android device can sometimes cause Wi-Fi authentication errors. Make sure your device is running the latest version of its operating system by following these steps:
 
-- Open your device’s Settings app.
+1. Open your device’s Settings app.
 
-- Tap **System** or **About phone**.
+2. Tap **System** or **About phone**.
 
-- Tap **System update** or **Software update**.
+3. Tap **System update** or **Software update**.
 
-- If an update is available, follow the on-screen instructions to download and install it.
+4. If an update is available, follow the on-screen instructions to download and install it.
 
 Keeping your device’s software up to date can help resolve bugs and improve overall performance.
 
@@ -50,15 +50,15 @@ Keeping your device’s software up to date can help resolve bugs and improve ov
 
 If none of the above steps work, you may need to reset your Android device’s network settings. This will erase all saved Wi-Fi networks and other network-related settings, but it can often resolve stubborn authentication errors. Here’s how to do it:
 
-- Open your device’s Settings app.
+1. Open your device’s Settings app.
 
-- Tap **System** or **General management**.
+2. Tap **System** or **General management**.
 
-- Tap **Reset** or **Reset options**.
+3. Tap **Reset** or **Reset options**.
 
-- Tap **Reset network settings** or **Reset Wi-Fi, mobile & Bluetooth**.
+4. Tap **Reset network settings** or **Reset Wi-Fi, mobile & Bluetooth**.
 
-- Confirm that you want to reset your settings.
+5. Confirm that you want to reset your settings.
 
 After resetting your network settings, you’ll need to reconnect to your Wi-Fi network and enter the password again.
 

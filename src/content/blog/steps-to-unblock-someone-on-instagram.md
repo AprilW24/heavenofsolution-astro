@@ -42,11 +42,11 @@ From your blocked accounts list, simply tap **Unblock** next to the name of the 
 
 You can also unblock someone by visiting their profile directly:
 
-- Use the search bar to find their profile
+1. Use the search bar to find their profile
 
-- Tap the **Unblock** button on their profile
+2. Tap the **Unblock** button on their profile
 
-- Confirm by tapping **Unblock** in the pop-up
+3. Confirm by tapping **Unblock** in the pop-up
 
 This method is useful if you want to double check you’re unblocking the right account. However, it takes more time if you need to unblock several people.
 

@@ -26,25 +26,25 @@ Pick photos where faces are clear, well-lit, and facing forward. Blurry or dark 
 
 ## How to Combine Two People’s Photos into One Image Using Gemini AI
 
-- Open your browser and go to **gemini.google.com**, then sign in with your Google account.
+1. Open your browser and go to **gemini.google.com**, then sign in with your Google account.
 
-- Start a new chat by clicking the **New Chat** option from the sidebar or top menu.
+2. Start a new chat by clicking the **New Chat** option from the sidebar or top menu.
 
-- Click the **+** (plus) icon in the compose field at the bottom of the screen.
+3. Click the **+** (plus) icon in the compose field at the bottom of the screen.
 
-- Select **Upload Files** or **Gallery** from the menu that pops up.
+4. Select **Upload Files** or **Gallery** from the menu that pops up.
 
-- Choose and upload the first photo (Person A) from your device.
+5. Choose and upload the first photo (Person A) from your device.
 
-- Click the **+** icon again and upload the second photo (Person B) the same way.
+6. Click the **+** icon again and upload the second photo (Person B) the same way.
 
-- Once both photos are uploaded, type a detailed prompt describing the combined image you want, for example, *“Enhanced, 4K HD, realistic photo of a couple smiling and looking at each other in a garden with beautiful flowers in the background. Keep their faces exactly the same as in the uploaded photos.”*
+7. Once both photos are uploaded, type a detailed prompt describing the combined image you want, for example, *“Enhanced, 4K HD, realistic photo of a couple smiling and looking at each other in a garden with beautiful flowers in the background. Keep their faces exactly the same as in the uploaded photos.”*
 
-- Hit the **Send** button and wait a few seconds for Gemini to generate the combined image.
+8. Hit the **Send** button and wait a few seconds for Gemini to generate the combined image.
 
-- If the result isn’t quite right, refine your prompt by adding details like lighting, pose, or background and regenerate.
+9. If the result isn’t quite right, refine your prompt by adding details like lighting, pose, or background and regenerate.
 
-- Once you’re happy with the result, download the image directly to your device. 🎊
+10. Once you’re happy with the result, download the image directly to your device. 🎊
 
 ## How to Write the Perfect Prompt for a Natural-Looking Combined Photo
 

@@ -14,21 +14,21 @@ One of the first things you should do when experiencing Chrome freezing issues i
 
 To update Chrome:
 
-- Open the Google Play Store app
+1. Open the Google Play Store app
 
-- Search for **Google Chrome**
+2. Search for **Google Chrome**
 
-- If an update is available, tap **Update**
+3. If an update is available, tap **Update**
 
 To update Android:
 
-- Go to **Settings** on your device
+1. Go to **Settings** on your device
 
-- Tap **System** or **Software Update**
+2. Tap **System** or **Software Update**
 
-- Select **Check for Updates**
+3. Select **Check for Updates**
 
-- If an update is available, follow the on-screen instructions to install it
+4. If an update is available, follow the on-screen instructions to install it
 
 ## Step 2: Close Unnecessary Tabs and Apps
 
@@ -36,17 +36,17 @@ Having too many Chrome tabs or apps running simultaneously can consume a signifi
 
 To close Chrome tabs:
 
-- Open the Chrome app
+1. Open the Chrome app
 
-- Tap the square icon in the top-right corner to view all open tabs
+2. Tap the square icon in the top-right corner to view all open tabs
 
-- Close tabs by tapping the **X** next to each tab or swipe them away
+3. Close tabs by tapping the **X** next to each tab or swipe them away
 
 To close apps:
 
-- Navigate to your device’s recent apps screen (usually by tapping the square or three-line button)
+1. Navigate to your device’s recent apps screen (usually by tapping the square or three-line button)
 
-- Swipe away any apps you’re not currently using
+2. Swipe away any apps you’re not currently using
 
 ## Step 3: Clear Chrome’s Cache and Data
 
@@ -54,15 +54,15 @@ Over time, Chrome’s cache and data can accumulate and cause performance issues
 
 To clear Chrome’s cache and data:
 
-- Go to your device’s **Settings**
+1. Go to your device’s **Settings**
 
-- Tap **Apps** or **Application Manager**
+2. Tap **Apps** or **Application Manager**
 
-- Find and tap **Google Chrome**
+3. Find and tap **Google Chrome**
 
-- Tap **Storage**
+4. Tap **Storage**
 
-- Select **Clear Cache** and **Clear Data**
+5. Select **Clear Cache** and **Clear Data**
 
 Note that clearing data will sign you out of Chrome and remove any saved preferences, so make sure to sync your important data before proceeding.
 
@@ -72,11 +72,11 @@ Chrome flags are experimental features that can be enabled or disabled by users.
 
 To disable Chrome flags:
 
-- Open Chrome and type **chrome://flags** in the address bar
+1. Open Chrome and type **chrome://flags** in the address bar
 
-- Tap **Reset all to default**
+2. Tap **Reset all to default**
 
-- Restart Chrome
+3. Restart Chrome
 
 ## Step 5: Uninstall and Reinstall Chrome
 
@@ -84,21 +84,21 @@ If none of the above steps have resolved the freezing issue, you may need to uni
 
 To uninstall Chrome:
 
-- Go to your device’s **Settings**
+1. Go to your device’s **Settings**
 
-- Tap **Apps** or **Application Manager**
+2. Tap **Apps** or **Application Manager**
 
-- Find and tap **Google Chrome**
+3. Find and tap **Google Chrome**
 
-- Select **Uninstall**
+4. Select **Uninstall**
 
 To reinstall Chrome:
 
-- Open the Google Play Store app
+1. Open the Google Play Store app
 
-- Search for **Google Chrome**
+2. Search for **Google Chrome**
 
-- Tap **Install**
+3. Tap **Install**
 
 ## Conclusion
 

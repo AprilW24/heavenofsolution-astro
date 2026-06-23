@@ -18,21 +18,21 @@ Most codes come from official emails, student programs, or partner offers. Expir
 
 ## Step-by-Step Using Your Perplexity Promo Code on Mobile Web
 
-- Open your phone’s browser and type in *perplexity.ai*.
+1. Open your phone’s browser and type in *perplexity.ai*.
 
-- Log in to your existing account, or make a new one if you’re fresh.
+2. Log in to your existing account, or make a new one if you’re fresh.
 
-- Find the official referral or promo link you received via email, partner offer, or student deal.
+3. Find the official referral or promo link you received via email, partner offer, or student deal.
 
-- Tap that promo link—if it’s legit, you’ll see a pop-up for the offer.
+4. Tap that promo link—if it’s legit, you’ll see a pop-up for the offer.
 
-- Choose your subscription plan.
+5. Choose your subscription plan.
 
-- If your promo code isn’t automatically filled, copy it from the pop-up.
+6. If your promo code isn’t automatically filled, copy it from the pop-up.
 
-- Tap on “Add Promotion Code” at checkout and paste your code.
+7. Tap on “Add Promotion Code” at checkout and paste your code.
 
-- Hit “Subscribe” to seal the deal and start your discounted access.
+8. Hit “Subscribe” to seal the deal and start your discounted access.
 
 Each step is super straightforward—no extra clicks needed. Promo codes only work once, and stacking isn’t allowed, so use your best deal code! 🎉
 

@@ -16,11 +16,11 @@ This article will walk through the key steps to activate dark mode for the Messa
 
 The first step is to turn on the system-wide dark theme under Android’s Display settings:
 
-- Open the Settings app on your Android device.
+1. Open the Settings app on your Android device.
 
-- Tap on **Display**.
+2. Tap on **Display**.
 
-- Look for the **Dark theme** option and toggle it on.
+3. Look for the **Dark theme** option and toggle it on.
 
 This will make the Quick Settings menu, Settings app, and other supported system interfaces switch to dark mode automatically.
 
@@ -28,15 +28,15 @@ This will make the Quick Settings menu, Settings app, and other supported system
 
 The native Messages app on Android allows choosing between light, dark, and default system themes:
 
-- Launch the **Messages** app.
+1. Launch the **Messages** app.
 
-- Tap on the three-dot menu icon in the top right.
+2. Tap on the three-dot menu icon in the top right.
 
-- Select **Settings**.
+3. Select **Settings**.
 
-- Tap on **Theme**.
+4. Tap on **Theme**.
 
-- Choose either **Light**, **Dark** or **System default**.
+5. Choose either **Light**, **Dark** or **System default**.
 
 Selecting the **Dark** theme applies dark mode to the Messages interface regardless of the system setting.
 
@@ -44,11 +44,11 @@ Selecting the **Dark** theme applies dark mode to the Messages interface regardl
 
 Some apps may not have a built-in dark theme option yet. But Android’s Developer Options include a **Force dark mode** setting that applies dark mode system-wide, including on unsupported apps:
 
-- Enable **Developer options** on your device if you haven’t already.
+1. Enable **Developer options** on your device if you haven’t already.
 
-- Open **Settings** and select **System > Developer options**.
+2. Open **Settings** and select **System > Developer options**.
 
-- Scroll down and toggle on the **Force dark mode** option.
+3. Scroll down and toggle on the **Force dark mode** option.
 
 This will forcibly apply dark mode across interfaces. Note that results can vary depending on the app, and a few apps may have issues with forced dark mode.
 

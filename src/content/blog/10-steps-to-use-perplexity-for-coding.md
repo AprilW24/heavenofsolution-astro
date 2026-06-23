@@ -20,25 +20,25 @@ You can work across *Python*, *JavaScript*, *C++*, *HTML/CSS*, *SQL*, *Ruby*, an
 
 Here’s the real meat—actual steps for getting results on Perplexity. Each is just one friendly line for you to follow:
 
-- Open Perplexity on the web or via its app on your device.
+1. Open Perplexity on the web or via its app on your device.
 
-- Sign in for more options or just get started (guest mode works too).
+2. Sign in for more options or just get started (guest mode works too).
 
-- Type your coding idea or challenge in plain English.
+3. Type your coding idea or challenge in plain English.
 
-- Pick your programming language if you know it (otherwise, just ask).
+4. Pick your programming language if you know it (otherwise, just ask).
 
-- Wait for the app to generate a code snippet just for you.
+5. Wait for the app to generate a code snippet just for you.
 
-- Copy the code to your favorite editor or test environment.
+6. Copy the code to your favorite editor or test environment.
 
-- If you see errors or confusing parts, paste them back into Perplexity for help.
+7. If you see errors or confusing parts, paste them back into Perplexity for help.
 
-- Ask for code optimization, better structure, or to make it readable.
+8. Ask for code optimization, better structure, or to make it readable.
 
-- Use feedback from the app to improve or fix issues.
+9. Use feedback from the app to improve or fix issues.
 
-- Keep chatting for tweaks, explanations, or even a code rewrite.
+10. Keep chatting for tweaks, explanations, or even a code rewrite.
 
 If you want to test the code right away, use free online editors (like *Replit* or *CodeSandbox*) and see it working in seconds. Trying stuff out this way makes the learning stick, and seeing results immediately is always motivating!
 

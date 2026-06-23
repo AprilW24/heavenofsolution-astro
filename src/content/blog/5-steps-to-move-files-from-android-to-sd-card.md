@@ -22,15 +22,15 @@ Your Android device may prompt you to format the SD card. Formatting will erase 
 
 One of the easiest ways to move files from your Android device to an SD card is by using the Files by Google app. If you don’t have the app installed, you can download it for free from the Google Play Store. Here’s how to use Files by Google to transfer files:
 
-- Open the Files by Google app on your Android device.
+1. Open the Files by Google app on your Android device.
 
-- Under the **Categories** section, select the type of file you want to move (e.g., Images, Videos, Audio, or Documents).
+2. Under the **Categories** section, select the type of file you want to move (e.g., Images, Videos, Audio, or Documents).
 
-- Locate the file you want to transfer and tap and hold on it to select it. You can also select multiple files by tapping on them individually.
+3. Locate the file you want to transfer and tap and hold on it to select it. You can also select multiple files by tapping on them individually.
 
-- Tap the three-dot menu icon in the top-right corner and select **Move to** or **Copy to**.
+4. Tap the three-dot menu icon in the top-right corner and select **Move to** or **Copy to**.
 
-- Choose your SD card as the destination and tap **Move here** or **Copy here**.
+5. Choose your SD card as the destination and tap **Move here** or **Copy here**.
 
 The selected files will now be moved or copied to your SD card.
 
@@ -38,17 +38,17 @@ The selected files will now be moved or copied to your SD card.
 
 Most Android devices come with a built-in file manager app that you can use to move files to your SD card. The exact steps may vary depending on your device and Android version, but here’s a general guide:
 
-- Open your device’s file manager app. It may be called **Files**, **My Files**, or something similar.
+1. Open your device’s file manager app. It may be called **Files**, **My Files**, or something similar.
 
-- Navigate to the folder containing the files you want to move (e.g., **Internal Storage**).
+2. Navigate to the folder containing the files you want to move (e.g., **Internal Storage**).
 
-- Tap and hold on a file to select it. You can also select multiple files by tapping on them individually.
+3. Tap and hold on a file to select it. You can also select multiple files by tapping on them individually.
 
-- Tap the three-dot menu icon and select **Move** or **Copy**.
+4. Tap the three-dot menu icon and select **Move** or **Copy**.
 
-- Navigate to your SD card and choose the destination folder.
+5. Navigate to your SD card and choose the destination folder.
 
-- Tap **Move here** or **Paste** to transfer the files.
+6. Tap **Move here** or **Paste** to transfer the files.
 
 Your files will now be moved or copied to the SD card.
 
@@ -56,19 +56,19 @@ Your files will now be moved or copied to the SD card.
 
 Another way to transfer files from your Android device to an SD card is by using a computer. This method is useful if you have a large number of files to move or if you prefer managing your files on a larger screen. Here’s how to do it:
 
-- Connect your Android device to your computer using a USB cable.
+1. Connect your Android device to your computer using a USB cable.
 
-- On your Android device, tap the notification that says **Charging this device via USB**.
+2. On your Android device, tap the notification that says **Charging this device via USB**.
 
-- Under **Use USB for,** select **File Transfer** or **Transfer files**.
+3. Under **Use USB for,** select **File Transfer** or **Transfer files**.
 
-- On your computer, open the file explorer and locate your Android device.
+4. On your computer, open the file explorer and locate your Android device.
 
-- Open the folder containing the files you want to move (e.g., **Internal Storage**).
+5. Open the folder containing the files you want to move (e.g., **Internal Storage**).
 
-- Select the files you want to transfer and copy them (Ctrl+C on Windows, Command+C on Mac).
+6. Select the files you want to transfer and copy them (Ctrl+C on Windows, Command+C on Mac).
 
-- Navigate to your SD card folder and paste the files (Ctrl+V on Windows, Command+V on Mac).
+7. Navigate to your SD card folder and paste the files (Ctrl+V on Windows, Command+V on Mac).
 
 The files will now be copied to your SD card.
 

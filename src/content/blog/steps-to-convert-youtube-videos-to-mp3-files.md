@@ -26,17 +26,17 @@ Now that we know some of the benefits, let’s look at how to actually convert Y
 
 One of the easiest ways to convert YouTube videos to MP3 is by using a free online converter tool. There are many of these websites available. Here are the steps using one popular option called Y2Mate:
 
-- Go to YouTube.com and find the video you want to convert. Copy the full URL from your browser’s address bar.
+1. Go to YouTube.com and find the video you want to convert. Copy the full URL from your browser’s address bar.
 
-- Navigate to y2mate.nu in your web browser.
+2. Navigate to y2mate.nu in your web browser.
 
-- Paste the YouTube video URL into the input field on the Y2Mate homepage.
+3. Paste the YouTube video URL into the input field on the Y2Mate homepage.
 
-- Select **MP3** as the output format and choose the audio quality (128kbps, 256kbps, or 320kbps). Higher bitrates mean better audio quality but larger file sizes.
+4. Select **MP3** as the output format and choose the audio quality (128kbps, 256kbps, or 320kbps). Higher bitrates mean better audio quality but larger file sizes.
 
-- Click the **Convert** button to start the conversion process. Depending on the length of the video, this may take a few seconds to a couple minutes.
+5. Click the **Convert** button to start the conversion process. Depending on the length of the video, this may take a few seconds to a couple minutes.
 
-- Once the conversion is complete, click the **Download** button to save the MP3 file to your computer.
+6. Once the conversion is complete, click the **Download** button to save the MP3 file to your computer.
 
 Some other popular free online YouTube to MP3 converter sites include:
 
@@ -56,17 +56,17 @@ If you prefer to use a dedicated program rather than a web tool, there are also 
 
 Here’s how it works:
 
-- Download and install the free 4K YouTube to MP3 program from 4kdownload.com. It’s available for Windows, Mac, and Linux.
+1. Download and install the free 4K YouTube to MP3 program from 4kdownload.com. It’s available for Windows, Mac, and Linux.
 
-- Open the program and click the **Paste Link** button at the top.
+2. Open the program and click the **Paste Link** button at the top.
 
-- Go to YouTube.com, copy the URL of the video you want to convert, and paste it into the 4K YouTube to MP3 program.
+3. Go to YouTube.com, copy the URL of the video you want to convert, and paste it into the 4K YouTube to MP3 program.
 
-- Select **MP3** as the output format and choose your desired audio bitrate/quality.
+4. Select **MP3** as the output format and choose your desired audio bitrate/quality.
 
-- Click the **Download** button to convert the video and save it as an MP3 on your computer. By default, it will be saved in your Music folder.
+5. Click the **Download** button to convert the video and save it as an MP3 on your computer. By default, it will be saved in your Music folder.
 
-- To find the downloaded MP3, right-click it in the 4K YouTube to MP3 program and select **Show in Folder**.
+6. To find the downloaded MP3, right-click it in the 4K YouTube to MP3 program and select **Show in Folder**.
 
 Some other free YouTube to MP3 converter software options include:
 
@@ -96,14 +96,14 @@ Converting YouTube videos to MP3 files is a convenient way to enjoy your favorit
 
 To recap, here are the basic steps:
 
-- Copy the YouTube video URL you want to convert
+1. Copy the YouTube video URL you want to convert
 
-- Paste the URL into a YouTube to MP3 converter website or program
+2. Paste the URL into a YouTube to MP3 converter website or program
 
-- Choose MP3 as the output format and select the audio quality
+3. Choose MP3 as the output format and select the audio quality
 
-- Convert the video and download the MP3 file
+4. Convert the video and download the MP3 file
 
-- Save the MP3 on your computer or transfer it to your mobile device
+5. Save the MP3 on your computer or transfer it to your mobile device
 
 Now you’ll be able to listen to YouTube audio anytime and anywhere, even without an internet connection. Import the MP3s into your favorite music player, create custom playlists, and enjoy!

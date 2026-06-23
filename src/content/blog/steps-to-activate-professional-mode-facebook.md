@@ -24,25 +24,25 @@ To fix it, update the app from Google Play, clear cache, and make sure your acco
 
 ## Step-by-step to activate professional mode on Android
 
-- Open the Facebook app and go to your profile.
+1. Open the Facebook app and go to your profile.
 
-- Tap the three dots beside the **Edit Profile** button.
+2. Tap the three dots beside the **Edit Profile** button.
 
-- Scroll down until you see **Turn on professional Mode**.
+3. Scroll down until you see **Turn on professional Mode**.
 
-- Tap **Turn on professional mode**.
+4. Tap **Turn on professional mode**.
 
-- Read the short info about what changes, then tap **Turn On** again.
+5. Read the short info about what changes, then tap **Turn On** again.
 
-- Choose your default audience such as *Public* or *Friends*.
+6. Choose your default audience such as *Public* or *Friends*.
 
-- Confirm your choice to finish activation.
+7. Confirm your choice to finish activation.
 
-- Check your profile to make sure it now says *Professional Dashboard*.
+8. Check your profile to make sure it now says *Professional Dashboard*.
 
-- Tap into your new dashboard to explore Creator Tools.
+9. Tap into your new dashboard to explore Creator Tools.
 
-- Restart the app if your profile doesn’t update right away.
+10. Restart the app if your profile doesn’t update right away.
 
 ## How to use new tools after activation
 

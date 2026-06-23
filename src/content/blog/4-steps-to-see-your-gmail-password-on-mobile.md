@@ -18,17 +18,17 @@ One of the most straightforward ways to see your Gmail password on mobile is by 
 
 **Here’s how to use Google Password Manager:**
 
-- Open the Chrome app on your mobile device.
+1. Open the Chrome app on your mobile device.
 
-- Tap on the three-dot menu in the top-right corner.
+2. Tap on the three-dot menu in the top-right corner.
 
-- Go to “Settings” and then select “Passwords” or “Password Manager.”
+3. Go to “Settings” and then select “Passwords” or “Password Manager.”
 
-- You may need to verify your identity using your device’s lock screen method (fingerprint, PIN, or pattern).
+4. You may need to verify your identity using your device’s lock screen method (fingerprint, PIN, or pattern).
 
-- Once verified, you’ll see a list of saved passwords. Look for the entry related to your Gmail account.
+5. Once verified, you’ll see a list of saved passwords. Look for the entry related to your Gmail account.
 
-- Tap on the Gmail entry, and you should see an option to view the password.
+6. Tap on the Gmail entry, and you should see an option to view the password.
 
 It’s important to note that if you’re using an iPhone, you might need to download the Google Password Manager app separately from the App Store.
 
@@ -36,19 +36,19 @@ It’s important to note that if you’re using an iPhone, you might need to dow
 
 For Android users, there’s often a built-in password manager in the device settings. This method can vary slightly depending on your phone’s manufacturer, but the general steps are as follows:
 
-- Open your device’s “Settings” app.
+1. Open your device’s “Settings” app.
 
-- Scroll down and tap on “Google” or “Accounts.”
+2. Scroll down and tap on “Google” or “Accounts.”
 
-- Select “Manage your Google Account.”
+3. Select “Manage your Google Account.”
 
-- Tap on the “Security” tab.
+4. Tap on the “Security” tab.
 
-- Scroll down to find “Password Manager” and tap on it.
+5. Scroll down to find “Password Manager” and tap on it.
 
-- Look for the Gmail entry in the list of saved passwords.
+6. Look for the Gmail entry in the list of saved passwords.
 
-- Tap on it and use your device’s authentication method to view the password.
+7. Tap on it and use your device’s authentication method to view the password.
 
 This method is particularly useful for those who prefer not to use the Chrome browser or want a quicker way to access their saved passwords.
 
@@ -56,19 +56,19 @@ This method is particularly useful for those who prefer not to use the Chrome br
 
 While the Gmail app itself doesn’t directly show your password, it can help you initiate the password recovery process if you’ve forgotten your password:
 
-- Open the Gmail app on your mobile device.
+1. Open the Gmail app on your mobile device.
 
-- Tap on your profile picture in the top-right corner.
+2. Tap on your profile picture in the top-right corner.
 
-- Select “Manage your Google Account.”
+3. Select “Manage your Google Account.”
 
-- Go to the “Security” tab.
+4. Go to the “Security” tab.
 
-- Scroll down to “Signing in to Google” and tap on “Password.”
+5. Scroll down to “Signing in to Google” and tap on “Password.”
 
-- You’ll be prompted to enter your current password. If you don’t remember it, tap on “Forgot password?”
+6. You’ll be prompted to enter your current password. If you don’t remember it, tap on “Forgot password?”
 
-- Follow the prompts to reset your password using your recovery email or phone number.
+7. Follow the prompts to reset your password using your recovery email or phone number.
 
 This method is more about resetting your password rather than viewing it, but it’s a crucial step if you’ve completely forgotten your login credentials.
 
@@ -76,13 +76,13 @@ This method is more about resetting your password rather than viewing it, but it
 
 If you’re using a third-party password manager app like LastPass, Dashlane, or 1Password, you can easily retrieve your Gmail password through these apps. Here’s a general guide:
 
-- Open your password manager app.
+1. Open your password manager app.
 
-- Authenticate yourself using your master password or biometric data.
+2. Authenticate yourself using your master password or biometric data.
 
-- Search for “Gmail” or “Google” in your saved passwords.
+3. Search for “Gmail” or “Google” in your saved passwords.
 
-- Select the entry and choose the option to view the password.
+4. Select the entry and choose the option to view the password.
 
 Using a password manager is highly recommended for overall online security, as it allows you to generate and store strong, unique passwords for all your accounts.
 

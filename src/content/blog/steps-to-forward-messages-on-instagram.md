@@ -18,17 +18,17 @@ The most straightforward method to forward a message on Instagram without typing
 
 **Steps:**
 
-- Open the Instagram conversation containing the message you want to forward.
+1. Open the Instagram conversation containing the message you want to forward.
 
-- Long-press on the message to select it.
+2. Long-press on the message to select it.
 
-- Tap “Copy” from the options that appear.
+3. Tap “Copy” from the options that appear.
 
-- Navigate to the conversation where you want to forward the message.
+4. Navigate to the conversation where you want to forward the message.
 
-- Long-press in the text input field and select “Paste.”
+5. Long-press in the text input field and select “Paste.”
 
-- Send the message.
+6. Send the message.
 
 This method works well for text messages but has limitations when it comes to sharing media or complex message formats.
 
@@ -38,17 +38,17 @@ For messages that include images, videos, or complex layouts, taking a screensho
 
 **Steps:**
 
-- Open the Instagram conversation and locate the message you want to forward.
+1. Open the Instagram conversation and locate the message you want to forward.
 
-- Take a screenshot of the message (the method varies depending on your device).
+2. Take a screenshot of the message (the method varies depending on your device).
 
-- Open the conversation where you want to forward the message.
+3. Open the conversation where you want to forward the message.
 
-- Tap the “+” icon or camera icon to add media.
+4. Tap the “+” icon or camera icon to add media.
 
-- Select the screenshot from your gallery.
+5. Select the screenshot from your gallery.
 
-- Add any additional context if needed and send the message.
+6. Add any additional context if needed and send the message.
 
 This method allows you to capture and share the exact visual appearance of a message, including any media or formatting.
 
@@ -58,13 +58,13 @@ Instagram offers a built-in share feature for posts and stories, which can be us
 
 **Steps:**
 
-- Find the post or story you want to forward.
+1. Find the post or story you want to forward.
 
-- Tap the paper airplane icon (share button) below the post or on the story.
+2. Tap the paper airplane icon (share button) below the post or on the story.
 
-- Select the user or users you want to send the content to.
+3. Select the user or users you want to send the content to.
 
-- Add an optional message and tap “Send.”
+4. Add an optional message and tap “Send.”
 
 While this method doesn’t work for regular text messages, it’s an excellent way to share posts and stories with multiple users quickly.
 
@@ -74,17 +74,17 @@ If you need to forward a voice message, you can use your device’s screen recor
 
 **Steps:**
 
-- Start a screen recording on your device.
+1. Start a screen recording on your device.
 
-- Open the Instagram conversation with the voice message.
+2. Open the Instagram conversation with the voice message.
 
-- Play the voice message while recording.
+3. Play the voice message while recording.
 
-- Stop the screen recording.
+4. Stop the screen recording.
 
-- Open the conversation where you want to forward the message.
+5. Open the conversation where you want to forward the message.
 
-- Share the screen recording as a video message.
+6. Share the screen recording as a video message.
 
 This method allows you to share voice messages without having to re-record them, although the recipient will receive them as video files.
 
@@ -106,15 +106,15 @@ If you choose to explore this option, be sure to:
 
 To make the process of forwarding messages on Instagram even smoother, consider the following tips:
 
-- **Use Instagram’s Close Friends feature:** Create a list of close friends or frequently messaged contacts to quickly share content with a specific group.
+1. **Use Instagram’s Close Friends feature:** Create a list of close friends or frequently messaged contacts to quickly share content with a specific group.
 
-- **Utilize Instagram’s “Send To” function:** When viewing a post or story, use the “Send To” option to quickly share content with multiple users at once.
+2. **Utilize Instagram’s “Send To” function:** When viewing a post or story, use the “Send To” option to quickly share content with multiple users at once.
 
-- **Create message templates:** For frequently forwarded messages, consider creating templates that you can easily copy and paste when needed.
+3. **Create message templates:** For frequently forwarded messages, consider creating templates that you can easily copy and paste when needed.
 
-- **Organize your DMs:** Keep your Instagram inbox organized by archiving old conversations and prioritizing important chats for easier access.
+4. **Organize your DMs:** Keep your Instagram inbox organized by archiving old conversations and prioritizing important chats for easier access.
 
-- **Leverage Instagram’s “Saved Messages” feature:** Save important messages or content that you frequently forward for quick access later.
+5. **Leverage Instagram’s “Saved Messages” feature:** Save important messages or content that you frequently forward for quick access later.
 
 ## Conclusion
 

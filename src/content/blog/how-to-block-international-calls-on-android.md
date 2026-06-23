@@ -26,13 +26,13 @@ Now that we’ve covered the why, let’s get into the how!
 
 Most Android phones come with built-in call blocking features. Here’s how to use them:
 
-- **Open your Phone app**: Tap on the phone icon on your home screen or app drawer.
+1. **Open your Phone app**: Tap on the phone icon on your home screen or app drawer.
 
-- **Access the settings**: Look for the three-dot menu or gear icon, usually in the top-right corner.
+2. **Access the settings**: Look for the three-dot menu or gear icon, usually in the top-right corner.
 
-- **Find call blocking options**: Look for “Block numbers,” “Call blocking,” or something similar.
+3. **Find call blocking options**: Look for “Block numbers,” “Call blocking,” or something similar.
 
-- **Enable international call blocking**: You may see an option to block calls from unidentified or international numbers. Toggle this on.
+4. **Enable international call blocking**: You may see an option to block calls from unidentified or international numbers. Toggle this on.
 
 Remember, the exact steps might vary slightly depending on your Android version and phone manufacturer. But don’t worry – we’ve got more methods up our sleeve!
 
@@ -40,11 +40,11 @@ Remember, the exact steps might vary slightly depending on your Android version 
 
 Many mobile carriers offer call blocking services. Here’s how to take advantage of them:
 
-- **Contact your carrier**: Reach out to your mobile service provider’s customer support.
+1. **Contact your carrier**: Reach out to your mobile service provider’s customer support.
 
-- **Ask about call blocking services**: Inquire specifically about blocking international calls.
+2. **Ask about call blocking services**: Inquire specifically about blocking international calls.
 
-- **Follow their instructions**: Your carrier will guide you through the process, which may involve:
+3. **Follow their instructions**: Your carrier will guide you through the process, which may involve:
 
 - Activating a service on your account
 
@@ -82,15 +82,15 @@ Remember, while third-party apps can be powerful, they often require access to y
 
 Sometimes, you might want to block specific international numbers rather than all international calls. Here’s how:
 
-- **Open your Phone app**: Tap on the phone icon.
+1. **Open your Phone app**: Tap on the phone icon.
 
-- **Go to your call log**: Find the international number you want to block.
+2. **Go to your call log**: Find the international number you want to block.
 
-- **Tap on the number**: This should bring up more options.
+3. **Tap on the number**: This should bring up more options.
 
-- **Choose “Block” or “Add to block list”**: The exact wording may vary, but look for an option to block the number.
+4. **Choose “Block” or “Add to block list”**: The exact wording may vary, but look for an option to block the number.
 
-- **Confirm your choice**: You may need to tap “OK” or “Block” again to confirm.
+5. **Confirm your choice**: You may need to tap “OK” or “Block” again to confirm.
 
 This method is great for targeting specific nuisance callers without blocking all international calls.
 
@@ -98,11 +98,11 @@ This method is great for targeting specific nuisance callers without blocking al
 
 While not specifically for international calls, Do Not Disturb mode can be a handy tool:
 
-- **Swipe down** from the top of your screen to access the Quick Settings panel.
+1. **Swipe down** from the top of your screen to access the Quick Settings panel.
 
-- **Tap on “Do Not Disturb”** or the crescent moon icon.
+2. **Tap on “Do Not Disturb”** or the crescent moon icon.
 
-- **Customize Do Not Disturb settings**:
+3. **Customize Do Not Disturb settings**:
 
 - Go to Settings > Sound > Do Not Disturb
 

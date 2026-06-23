@@ -12,9 +12,9 @@ In today’s digital age, video calls have become an essential way to stay conne
 
 One of the easiest ways to end a FaceTime call without the other person knowing is by activating Airplane Mode on your device. Here’s how:
 
-- While on the FaceTime call, quickly press the power button or return to the home screen to turn off the display momentarily.
+1. While on the FaceTime call, quickly press the power button or return to the home screen to turn off the display momentarily.
 
-- Immediately swipe down from the top of the screen to access the Control Center and enable Airplane Mode.
+2. Immediately swipe down from the top of the screen to access the Control Center and enable Airplane Mode.
 
 Once Airplane Mode is activated, the FaceTime call will be disconnected, and the other person will assume there was a connection issue.
 
@@ -22,9 +22,9 @@ Once Airplane Mode is activated, the FaceTime call will be disconnected, and the
 
 Another effective method to discreetly end a FaceTime call on an iPad or decline one on an iPhone is by using the Home button. Follow these steps:
 
-- Gently press the Home button on your iPad or use the Assistive Touch feature on your iPhone to access the home screen.
+1. Gently press the Home button on your iPad or use the Assistive Touch feature on your iPhone to access the home screen.
 
-- This will minimize the FaceTime app without actually ending the call.
+2. This will minimize the FaceTime app without actually ending the call.
 
 The other person will still see your video feed, unaware that you have disengaged from the conversation.
 
@@ -36,11 +36,11 @@ Similar to the Home button technique, you can press the lock button on your iPho
 
 Enabling the Do Not Disturb mode on your device is another way to gracefully end a FaceTime call. This feature silences all incoming notifications, including FaceTime calls. Here’s how to use it:
 
-- During the FaceTime call, swipe down from the top of the screen to access the Control Center.
+1. During the FaceTime call, swipe down from the top of the screen to access the Control Center.
 
-- Tap the crescent moon icon to activate Do Not Disturb mode.
+2. Tap the crescent moon icon to activate Do Not Disturb mode.
 
-- Exit the call discreetly without the other person being alerted.
+3. Exit the call discreetly without the other person being alerted.
 
 ## **5. Use a Polite Excuse**
 

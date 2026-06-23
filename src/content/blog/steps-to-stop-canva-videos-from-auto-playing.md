@@ -20,15 +20,15 @@ One of the reasons Canva defaults to auto-play is to make your designs more enga
 
 Here are the steps to stop your videos from auto-playing in Canva:
 
-- **Open Your Design**: First, open the Canva design where you want to stop the video from auto-playing.
+1. **Open Your Design**: First, open the Canva design where you want to stop the video from auto-playing.
 
-- **Select the Video**: Click on the video element in your design to select it.
+2. **Select the Video**: Click on the video element in your design to select it.
 
-- **Open Video Settings**: Once the video is selected, you’ll see a toolbar above it. Click on the three dots (⋯) to open more options.
+3. **Open Video Settings**: Once the video is selected, you’ll see a toolbar above it. Click on the three dots (⋯) to open more options.
 
-- **Disable Auto-Play**: In the dropdown menu, you should see an option to toggle “Auto-play” on or off. Click on it to disable auto-play.
+4. **Disable Auto-Play**: In the dropdown menu, you should see an option to toggle “Auto-play” on or off. Click on it to disable auto-play.
 
-- **Save Your Design**: After making these changes, make sure to save your design so the settings stick.
+5. **Save Your Design**: After making these changes, make sure to save your design so the settings stick.
 
 ## Alternative Solutions
 

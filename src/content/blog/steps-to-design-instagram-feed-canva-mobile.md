@@ -20,25 +20,25 @@ Once you’ve picked your vibe, mock up your page by laying out post ideas. Some
 
 Ready to start designing? Here’s how I do it, straight from my phone:
 
-- Open Canva Mobile and search for Instagram Post.
+1. Open Canva Mobile and search for Instagram Post.
 
-- Hit the template that matches your vision.
+2. Hit the template that matches your vision.
 
-- Set your custom colors, fonts, and graphics.
+3. Set your custom colors, fonts, and graphics.
 
-- Add photos, illustrations, or backgrounds that fit your style.
+4. Add photos, illustrations, or backgrounds that fit your style.
 
-- Arrange your posts for flow, try out Canva’s grid feature.
+5. Arrange your posts for flow, try out Canva’s grid feature.
 
-- Make Carousel posts for a smooth look by adding and editing pages.
+6. Make Carousel posts for a smooth look by adding and editing pages.
 
-- Preview your feed layout in Canva before sharing.
+7. Preview your feed layout in Canva before sharing.
 
-- Download your finished images to your phone.
+8. Download your finished images to your phone.
 
-- Post each image to Instagram following your planned order.
+9. Post each image to Instagram following your planned order.
 
-- Check your grid, tweak any post that isn’t fitting your style.
+10. Check your grid, tweak any post that isn’t fitting your style.
 
 ## Using Professional Tips and Tricks for a Fresh Feed, Even as a Beginner
 

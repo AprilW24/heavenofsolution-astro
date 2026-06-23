@@ -18,25 +18,25 @@ Another reason people love it is that it’s powered by OpenAI. That means it le
 
 ## Steps to Generate Text Automatically in Canva
 
-- Open Canva and start a new design or open an existing one.
+1. Open Canva and start a new design or open an existing one.
 
-- Click the Canva Assistant button on the bottom right corner.
+2. Click the Canva Assistant button on the bottom right corner.
 
-- In Canva Docs, tap the plus icon or type “**/**” to open *Magic Write.*
+3. In Canva Docs, tap the plus icon or type “**/**” to open *Magic Write.*
 
-- Choose *Magic Write* from the options that pop up.
+4. Choose *Magic Write* from the options that pop up.
 
-- In the text box, type your prompt or describe what you need.
+5. In the text box, type your prompt or describe what you need.
 
-- Use detailed instructions for better results. For example, “Write a 2-line Instagram caption for a coffee brand.”
+6. Use detailed instructions for better results. For example, “Write a 2-line Instagram caption for a coffee brand.”
 
-- Press Enter and wait a few seconds for Canva to create your text.
+7. Press Enter and wait a few seconds for Canva to create your text.
 
-- Read the result and tweak it to sound more natural.
+8. Read the result and tweak it to sound more natural.
 
-- Add emojis, hashtags, or your personal tone where needed.
+9. Add emojis, hashtags, or your personal tone where needed.
 
-- Paste or drag the text into your design and adjust the layout.
+10. Paste or drag the text into your design and adjust the layout.
 
 ## Tips to Get Better Text from Canva AI
 

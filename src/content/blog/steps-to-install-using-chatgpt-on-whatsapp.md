@@ -18,25 +18,25 @@ Using ChatGPT with WhatsApp is totally legit. OpenAI moved the bot straight onto
 
 ## Step-by-Step to Install ChatGPT on WhatsApp
 
-- Open your phone.
+1. Open your phone.
 
-- Open WhatsApp and hit the “**+**” icon for a new chat.
+2. Open WhatsApp and hit the “**+**” icon for a new chat.
 
-- Tap “**New contact**” to make a fresh entry.
+3. Tap “**New contact**” to make a fresh entry.
 
-- Type in ***+1 (800) 242-8478*** for the ChatGPT bot.
+4. Type in ***+1 (800) 242-8478*** for the ChatGPT bot.
 
-- Save the contact with name ***ChatGPT***.
+5. Save the contact with name ***ChatGPT***.
 
-- Start a chat by tapping the contact.
+6. Start a chat by tapping the contact.
 
-- Type a greeting or question.
+7. Type a greeting or question.
 
-- Wait for the reply, the first message confirms terms.
+8. Wait for the reply, the first message confirms terms.
 
-- Chat freely with the bot.
+9. Chat freely with the bot.
 
-- For QR code fans, use the QR option to connect even faster.
+10. For QR code fans, use the QR option to connect even faster.
 
 ## Extra Features You Get with ChatGPT on WhatsApp
 

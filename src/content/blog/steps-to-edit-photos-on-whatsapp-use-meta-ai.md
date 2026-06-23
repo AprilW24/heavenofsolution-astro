@@ -20,25 +20,25 @@ Meta AI works by reading your prompts. Type out exactly what change you want, se
 
 Ready to play with your pics? Here’s the simple step-by-step to edit or generate photos using Meta AI on WhatsApp.
 
-- Open WhatsApp and start a chat with Meta AI (or open the group/individual chat).
+1. Open WhatsApp and start a chat with Meta AI (or open the group/individual chat).
 
-- Tap the paperclip or camera icon to upload the photo you want to edit.
+2. Tap the paperclip or camera icon to upload the photo you want to edit.
 
-- If you’re making something new, type *imagine* followed by a prompt (like *imagine me at the beach*).
+3. If you’re making something new, type *imagine* followed by a prompt (like *imagine me at the beach*).
 
-- For an edit, tap and hold your photo, tap reply, and type your updated idea (*make my shirt blue* or *remove the dog*).
+4. For an edit, tap and hold your photo, tap reply, and type your updated idea (*make my shirt blue* or *remove the dog*).
 
-- Wait a second, Meta AI will drop the updated image right back in the chat.
+5. Wait a second, Meta AI will drop the updated image right back in the chat.
 
-- Try more changes by replying to the AI image, adding more details to your prompt.
+6. Try more changes by replying to the AI image, adding more details to your prompt.
 
-- For extra control, describe the result you want (*add sunglasses* or *change the background to a city view*).
+7. For extra control, describe the result you want (*add sunglasses* or *change the background to a city view*).
 
-- Save the edited image to your phone from the chat.
+8. Save the edited image to your phone from the chat.
 
-- Share directly to any group or status, or use it as a profile picture.
+9. Share directly to any group or status, or use it as a profile picture.
 
-- If you want to delete or change your creations, just use the standard delete for everyone or request deletion inside the chat settings.
+10. If you want to delete or change your creations, just use the standard delete for everyone or request deletion inside the chat settings.
 
 ## Extra Tools and Creative Features You Can Try
 

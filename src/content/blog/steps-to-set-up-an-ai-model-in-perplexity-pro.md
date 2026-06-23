@@ -12,25 +12,25 @@ So many folks don’t realize Perplexity Pro gives you choices, not just the sta
 
 ## How to Switch AI Model on Mobile
 
-- Open the Perplexity app on your phone.
+1. Open the Perplexity app on your phone.
 
-- Tap on the query text box to start your question.
+2. Tap on the query text box to start your question.
 
-- Look for the model icon or the word *Best* above or beside the search box.
+3. Look for the model icon or the word *Best* above or beside the search box.
 
-- Tap that model icon or *Best* button.
+4. Tap that model icon or *Best* button.
 
-- Scroll through the available AI models, such as GPT-4o or Claude.
+5. Scroll through the available AI models, such as GPT-4o or Claude.
 
-- Pick the AI model you want for your search.
+6. Pick the AI model you want for your search.
 
-- Confirm your selection, and the app will remember your choice for that session.
+7. Confirm your selection, and the app will remember your choice for that session.
 
-- Type your question and hit send.
+8. Type your question and hit send.
 
-- If you want to change the model for another question, repeat these steps.
+9. If you want to change the model for another question, repeat these steps.
 
-- For Pro users, this should work on both iOS and Android.
+10. For Pro users, this should work on both iOS and Android.
 
 ## Understanding Access and Model Choices for Perplexity Pro on Mobile
 

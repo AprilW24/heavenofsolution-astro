@@ -88,11 +88,11 @@ Once you’re satisfied with the result, look for a “Download” or “Save”
 
 While online tools are convenient, there are other methods you can use to change photo resolution:
 
-- **Desktop software**: Programs like Adobe Photoshop, GIMP, or even the built-in Photos app on Windows offer more advanced resizing options.
+1. **Desktop software**: Programs like Adobe Photoshop, GIMP, or even the built-in Photos app on Windows offer more advanced resizing options.
 
-- **Mobile apps**: Many photo editing apps for smartphones include resizing features, allowing you to adjust resolution on the go.
+2. **Mobile apps**: Many photo editing apps for smartphones include resizing features, allowing you to adjust resolution on the go.
 
-- **Command-line tools**: For tech-savvy users, command-line tools like ImageMagick can provide powerful batch processing capabilities.
+3. **Command-line tools**: For tech-savvy users, command-line tools like ImageMagick can provide powerful batch processing capabilities.
 
 ## Conclusion
 
@@ -112,15 +112,15 @@ While you can technically increase the resolution of a low-quality image, it won
 
 To resize an image with minimal quality loss:
 
-- Use a high-quality source image.
+1. Use a high-quality source image.
 
-- Maintain the aspect ratio when resizing.
+2. Maintain the aspect ratio when resizing.
 
-- Use a reputable resizing tool that employs advanced algorithms.
+3. Use a reputable resizing tool that employs advanced algorithms.
 
-- If reducing size, try to stay above 50% of the original dimensions.
+4. If reducing size, try to stay above 50% of the original dimensions.
 
-- Save in a lossless format like PNG for maximum quality retention.
+5. Save in a lossless format like PNG for maximum quality retention.
 
 ### What’s the difference between resizing and resampling an image?
 

@@ -16,19 +16,19 @@ Before we dive into the deletion process, let’s briefly review what Facebook S
 
 Now, let’s get to the heart of the matter: how to delete a Facebook story using your mobile device. Follow these simple steps to remove a story before its natural expiration:
 
-- **Open the Facebook App**: Start by launching the Facebook app on your smartphone. Ensure you’re logged into your account.
+1. **Open the Facebook App**: Start by launching the Facebook app on your smartphone. Ensure you’re logged into your account.
 
-- **Navigate to Your Story**: At the top of your News Feed, you’ll see a row of circular profile pictures representing various stories. Look for the one labeled “Your Story” or your profile picture with a blue ring around it.
+2. **Navigate to Your Story**: At the top of your News Feed, you’ll see a row of circular profile pictures representing various stories. Look for the one labeled “Your Story” or your profile picture with a blue ring around it.
 
-- **View Your Active Story**: Tap on your story to view it. This will open the story in full-screen mode.
+3. **View Your Active Story**: Tap on your story to view it. This will open the story in full-screen mode.
 
-- **Access the Options Menu**: While viewing your story, look for the three dots (⋯) typically located in the top right corner of the screen. This is the options menu for your story.
+4. **Access the Options Menu**: While viewing your story, look for the three dots (⋯) typically located in the top right corner of the screen. This is the options menu for your story.
 
-- **Select “Delete”**: Tap on the three dots to open the options menu. From the list that appears, select “Delete Photo” or “Delete Video,” depending on the type of content in your story.
+5. **Select “Delete”**: Tap on the three dots to open the options menu. From the list that appears, select “Delete Photo” or “Delete Video,” depending on the type of content in your story.
 
-- **Confirm Deletion**: A confirmation dialog will appear, asking if you’re sure you want to delete the story. Tap “Delete” to confirm and permanently remove the story from your Facebook profile.
+6. **Confirm Deletion**: A confirmation dialog will appear, asking if you’re sure you want to delete the story. Tap “Delete” to confirm and permanently remove the story from your Facebook profile.
 
-- **Verify Removal**: After confirming, your story should be immediately deleted. You can double-check by returning to your News Feed and ensuring that your story no longer appears in the Stories section.
+7. **Verify Removal**: After confirming, your story should be immediately deleted. You can double-check by returning to your News Feed and ensuring that your story no longer appears in the Stories section.
 
 It’s important to note that once you delete a story, it cannot be recovered. The deletion is permanent, so make sure you’re certain about removing the content before confirming.
 
@@ -48,15 +48,15 @@ While knowing how to delete a story is crucial, there are other aspects of Faceb
 
 To make the most of Facebook Stories and avoid the need for frequent deletions, consider these best practices:
 
-- **Think Before Posting**: Take a moment to review your story before sharing it. This can help prevent accidental posts or content you might regret later.
+1. **Think Before Posting**: Take a moment to review your story before sharing it. This can help prevent accidental posts or content you might regret later.
 
-- **Use the Preview Feature**: Facebook allows you to preview your story before posting. Take advantage of this to ensure everything looks as intended.
+2. **Use the Preview Feature**: Facebook allows you to preview your story before posting. Take advantage of this to ensure everything looks as intended.
 
-- **Understand Your Audience**: Be mindful of who can see your stories. Adjust your privacy settings accordingly to share content with the appropriate audience.
+3. **Understand Your Audience**: Be mindful of who can see your stories. Adjust your privacy settings accordingly to share content with the appropriate audience.
 
-- **Utilize Editing Tools**: Facebook offers various editing tools for stories, including filters, text overlays, and stickers. Use these to enhance your content rather than posting something you might want to delete later.
+4. **Utilize Editing Tools**: Facebook offers various editing tools for stories, including filters, text overlays, and stickers. Use these to enhance your content rather than posting something you might want to delete later.
 
-- **Experiment with Different Content**: Stories are a great way to share diverse content types, from behind-the-scenes glimpses to quick updates or polls. Variety can keep your audience engaged and reduce the likelihood of posting content you’ll want to remove.
+5. **Experiment with Different Content**: Stories are a great way to share diverse content types, from behind-the-scenes glimpses to quick updates or polls. Variety can keep your audience engaged and reduce the likelihood of posting content you’ll want to remove.
 
 ## Troubleshooting Common Issues
 

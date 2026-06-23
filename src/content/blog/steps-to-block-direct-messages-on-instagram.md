@@ -26,31 +26,31 @@ By adjusting these settings, you can significantly reduce the number of unwanted
 
 To begin, open the Instagram app on your Android device and follow these steps:
 
-- Tap on your profile icon in the bottom right corner of the screen.
+1. Tap on your profile icon in the bottom right corner of the screen.
 
-- Tap the three-line menu icon in the top right corner.
+2. Tap the three-line menu icon in the top right corner.
 
-- Select **Settings** from the menu.
+3. Select **Settings** from the menu.
 
 ## Step 2: Navigate to Message Controls
 
 Once you’re in the Instagram settings:
 
-- Tap on **Privacy** in the settings menu.
+1. Tap on **Privacy** in the settings menu.
 
-- Select **Messages** from the privacy options.
+2. Select **Messages** from the privacy options.
 
 ## Step 3: Adjust Your Message Control Settings
 
 In the message controls section, you’ll find several options to manage who can send you DMs:
 
-- Tap on **Your followers on Instagram** and select **Don’t receive** to stop receiving message requests from your followers.
+1. Tap on **Your followers on Instagram** and select **Don’t receive** to stop receiving message requests from your followers.
 
-- Tap on **Others on Instagram** and choose **Don’t receive requests** to prevent people who don’t follow you from sending message requests.
+2. Tap on **Others on Instagram** and choose **Don’t receive requests** to prevent people who don’t follow you from sending message requests.
 
-- If your Instagram account is linked to Facebook, tap on **Friends of friends on Facebook** and select **Don’t receive requests** to stop receiving message requests from friends of your Facebook friends.
+3. If your Instagram account is linked to Facebook, tap on **Friends of friends on Facebook** and select **Don’t receive requests** to stop receiving message requests from friends of your Facebook friends.
 
-- Tap on **People with your phone number** and choose **Don’t receive requests** to prevent people who have your phone number from sending you message requests.
+4. Tap on **People with your phone number** and choose **Don’t receive requests** to prevent people who have your phone number from sending you message requests.
 
 Remember, even if you don’t receive message requests from certain groups, they can still send you messages, but they’ll be filtered into a separate requests folder.
 
@@ -58,9 +58,9 @@ Remember, even if you don’t receive message requests from certain groups, they
 
 In addition to individual DMs, Instagram allows users to add you to group messages. To limit who can add you to these groups:
 
-- In the **Messages** section of your privacy settings, tap on **Who can add you to groups**.
+1. In the **Messages** section of your privacy settings, tap on **Who can add you to groups**.
 
-- Select **Only people you follow on Instagram** to ensure that only users you follow can add you to group messages.
+2. Select **Only people you follow on Instagram** to ensure that only users you follow can add you to group messages.
 
 ![](/wp-content/uploads/2024/08/HoS_BlockDirectMessages.jpg)
 
@@ -68,11 +68,11 @@ In addition to individual DMs, Instagram allows users to add you to group messag
 
 If you want to prevent people from sending you messages through your Instagram Stories:
 
-- Go to your Instagram settings and select **Privacy**.
+1. Go to your Instagram settings and select **Privacy**.
 
-- Tap on **Story** under the **Interactions** section.
+2. Tap on **Story** under the **Interactions** section.
 
-- Choose **Off** under the **Allow message replies** option.
+3. Choose **Off** under the **Allow message replies** option.
 
 ## Additional Tips for Managing Instagram Messages
 

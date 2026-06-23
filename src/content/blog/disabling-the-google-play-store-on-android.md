@@ -26,15 +26,15 @@ This is the simplest method, but it may not be the most secure or permanent solu
 
 **Steps:**
 
-- Locate the Play Store icon on your home screen or app drawer
+1. Locate the Play Store icon on your home screen or app drawer
 
-- Press and hold the icon until a menu appears
+2. Press and hold the icon until a menu appears
 
-- Tap on **App info** or **i** icon
+3. Tap on **App info** or **i** icon
 
-- Look for the **Disable** option and tap it
+4. Look for the **Disable** option and tap it
 
-- Confirm your choice when prompted
+5. Confirm your choice when prompted
 
 **Pros:**
 
@@ -54,15 +54,15 @@ For parents looking to restrict app installations, Android’s built-in parental
 
 **Steps:**
 
-- Open the Play Store app
+1. Open the Play Store app
 
-- Tap the profile icon in the top right corner
+2. Tap the profile icon in the top right corner
 
-- Go to **Settings** > **Family** > **Parental controls**
+3. Go to **Settings** > **Family** > **Parental controls**
 
-- Turn on parental controls and create a PIN
+4. Turn on parental controls and create a PIN
 
-- Set content restrictions for apps, games, and other media
+5. Set content restrictions for apps, games, and other media
 
 **Pros:**
 
@@ -82,13 +82,13 @@ For more robust control, especially in business or educational settings, an MDM 
 
 **Steps:**
 
-- Choose an MDM solution compatible with Android devices
+1. Choose an MDM solution compatible with Android devices
 
-- Set up the MDM on your device or network
+2. Set up the MDM on your device or network
 
-- Configure policies to restrict Play Store access
+3. Configure policies to restrict Play Store access
 
-- Apply the policies to target devices
+4. Apply the policies to target devices
 
 **Pros:**
 
@@ -110,13 +110,13 @@ App lockers can prevent access to specific applications, including the Play Stor
 
 **Steps:**
 
-- Download and install a reputable app locker from the Play Store
+1. Download and install a reputable app locker from the Play Store
 
-- Set up the app locker with a secure PIN or pattern
+2. Set up the app locker with a secure PIN or pattern
 
-- Select the Play Store in the list of apps to lock
+3. Select the Play Store in the list of apps to lock
 
-- Enable any additional security features offered by the app locker
+4. Enable any additional security features offered by the app locker
 
 **Pros:**
 
@@ -136,17 +136,17 @@ DNS filtering can block access to the Play Store servers, effectively preventing
 
 **Steps:**
 
-- Go to your device’s Wi-Fi settings
+1. Go to your device’s Wi-Fi settings
 
-- Long-press your connected network and select **Modify network**
+2. Long-press your connected network and select **Modify network**
 
-- Check the box for **Advanced options**
+3. Check the box for **Advanced options**
 
-- Change the IP settings to **Static**
+4. Change the IP settings to **Static**
 
-- Enter a custom DNS server that blocks Play Store access
+5. Enter a custom DNS server that blocks Play Store access
 
-- Save the changes and reconnect to the network
+6. Save the changes and reconnect to the network
 
 **Pros:**
 

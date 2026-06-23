@@ -28,21 +28,21 @@ Now that we understand the importance of a good bio, let’s walk through the st
 
 The first step is to navigate to your profile settings where you can edit your bio. Here’s how:
 
-- Open the Instagram app on your mobile device.
+1. Open the Instagram app on your mobile device.
 
-- Tap on your profile picture in the bottom right corner to go to your profile page.
+2. Tap on your profile picture in the bottom right corner to go to your profile page.
 
-- On your profile page, tap the “Edit Profile” button located just below your bio.
+3. On your profile page, tap the “Edit Profile” button located just below your bio.
 
 Alternatively, if you’re using Instagram on a desktop browser:
 
-- Go to instagram.com and log in to your account.
+1. Go to instagram.com and log in to your account.
 
-- Click on your profile picture in the top right corner.
+2. Click on your profile picture in the top right corner.
 
-- Select “Profile” from the dropdown menu.
+3. Select “Profile” from the dropdown menu.
 
-- Click the “Edit Profile” button next to your username.
+4. Click the “Edit Profile” button next to your username.
 
 ## Step 2: Navigate to the Bio Section
 
@@ -72,13 +72,13 @@ Here’s an example of an effective business bio:
 
 If you want to make your bio more readable, you might want to add line breaks. Instagram doesn’t have a built-in way to do this, but there’s a workaround:
 
-- Write your bio in a notes app on your phone.
+1. Write your bio in a notes app on your phone.
 
-- Add line breaks where you want them.
+2. Add line breaks where you want them.
 
-- Copy the entire text.
+3. Copy the entire text.
 
-- Paste it into the bio field on Instagram.
+4. Paste it into the bio field on Instagram.
 
 This method usually preserves the line breaks, making your bio more visually appealing and easier to read.
 
@@ -86,9 +86,9 @@ This method usually preserves the line breaks, making your bio more visually app
 
 Once you’re happy with your new bio, it’s time to save your changes:
 
-- On mobile: Tap the checkmark (✓) or “Done” button in the top right corner of the screen.
+1. On mobile: Tap the checkmark (✓) or “Done” button in the top right corner of the screen.
 
-- On desktop: Click the “Submit” button at the bottom of the Edit Profile page.
+2. On desktop: Click the “Submit” button at the bottom of the Edit Profile page.
 
 Instagram will immediately update your profile with the new bio.
 

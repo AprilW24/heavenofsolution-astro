@@ -18,23 +18,23 @@ The Background Remover tool is available on both the Canva mobile app and the de
 
 The process of removing backgrounds on Canva mobile is similar for both Android and iPhone users. Here’s a detailed guide on how to use this feature effectively:
 
-- **Open the Canva App**: Start by launching the Canva app on your mobile device. If you haven’t installed it yet, you can download it from the Google Play Store for Android or the App Store for iOS.
+1. **Open the Canva App**: Start by launching the Canva app on your mobile device. If you haven’t installed it yet, you can download it from the Google Play Store for Android or the App Store for iOS.
 
-- **Create a New Design or Open an Existing One**: Tap the “+” icon in the bottom right corner to create a new design, or open an existing project where you want to use an image with a removed background.
+2. **Create a New Design or Open an Existing One**: Tap the “+” icon in the bottom right corner to create a new design, or open an existing project where you want to use an image with a removed background.
 
-- **Upload Your Image**: If you’re starting a new design, you’ll be prompted to choose a template or start from scratch. Once you’re in the editor, tap the “+” button at the bottom of the screen and select “Uploads” to add your image. Choose the image you want to edit from your device’s gallery.
+3. **Upload Your Image**: If you’re starting a new design, you’ll be prompted to choose a template or start from scratch. Once you’re in the editor, tap the “+” button at the bottom of the screen and select “Uploads” to add your image. Choose the image you want to edit from your device’s gallery.
 
-- **Access the Effects Menu**: With your image selected, look for the “Effects” option in the bottom toolbar. Tap on it to reveal a range of editing tools.
+4. **Access the Effects Menu**: With your image selected, look for the “Effects” option in the bottom toolbar. Tap on it to reveal a range of editing tools.
 
-- **Use the Background Remover**: In the Effects menu, you’ll find the “BG Remover” option. Tap on it to start the background removal process. Canva will automatically detect and remove the background from your image.
+5. **Use the Background Remover**: In the Effects menu, you’ll find the “BG Remover” option. Tap on it to start the background removal process. Canva will automatically detect and remove the background from your image.
 
-- **Fine-tune the Results**: After the initial background removal, you may want to refine the edges or adjust certain areas. Canva provides “Erase” and “Restore” brushes for this purpose. Use these tools to touch up any imperfections in the background removal.
+6. **Fine-tune the Results**: After the initial background removal, you may want to refine the edges or adjust certain areas. Canva provides “Erase” and “Restore” brushes for this purpose. Use these tools to touch up any imperfections in the background removal.
 
-- **Apply the Changes**: Once you’re satisfied with the result, tap “Apply” to finalize the background removal.
+7. **Apply the Changes**: Once you’re satisfied with the result, tap “Apply” to finalize the background removal.
 
-- **Customize Your Design**: With the background removed, you can now add a new background, combine the image with other elements, or use it as is with a transparent background.
+8. **Customize Your Design**: With the background removed, you can now add a new background, combine the image with other elements, or use it as is with a transparent background.
 
-- **Save and Download**: When your design is complete, tap the download button at the top of the screen. Choose your preferred file format (PNG is recommended for images with transparent backgrounds) and save the image to your device.
+9. **Save and Download**: When your design is complete, tap the download button at the top of the screen. Choose your preferred file format (PNG is recommended for images with transparent backgrounds) and save the image to your device.
 
 ## Tips for Best Results
 

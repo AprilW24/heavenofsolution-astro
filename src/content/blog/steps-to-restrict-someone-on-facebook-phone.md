@@ -16,17 +16,17 @@ Facebook’s Restricted list is a privacy feature that allows you to limit what 
 
 Here’s a step-by-step guide on how to restrict someone on Facebook using your Android:
 
-- Open the Facebook app on your Android device.
+1. Open the Facebook app on your Android device.
 
-- Go to the profile of the person you want to restrict.
+2. Go to the profile of the person you want to restrict.
 
-- Tap on the **Friends** button located under their profile name.
+3. Tap on the **Friends** button located under their profile name.
 
-- From the pop-up menu, select **Edit Friend List**.
+4. From the pop-up menu, select **Edit Friend List**.
 
-- Select the **Restricted** option.
+5. Select the **Restricted** option.
 
-- Tap **Done** in the top right corner to save your changes.
+6. Tap **Done** in the top right corner to save your changes.
 
 The person is now restricted and will only be able to see your public posts and information.
 
@@ -34,17 +34,17 @@ The person is now restricted and will only be able to see your public posts and 
 
 Here’s a step-by-step guide on how to restrict someone on Facebook using your iOS:
 
-- Launch the Facebook app on your iPhone.
+1. Launch the Facebook app on your iPhone.
 
-- Navigate to the profile of the person you want to add to your Restricted list.
+2. Navigate to the profile of the person you want to add to your Restricted list.
 
-- Tap on the **Friends** button below their profile name.
+3. Tap on the **Friends** button below their profile name.
 
-- Select **Edit friend lists** from the options.
+4. Select **Edit friend lists** from the options.
 
-- Choose the **Restricted** option.
+5. Choose the **Restricted** option.
 
-- Tap **Done** to confirm your selection.
+6. Tap **Done** to confirm your selection.
 
 The selected user is now on your Restricted list and will have limited access to your profile and posts.
 
@@ -58,23 +58,23 @@ No, you cannot view or manage your Restricted list directly through the Facebook
 
 To remove someone from your Restricted list on mobile:
 
-- Go to their profile
+1. Go to their profile
 
-- Tap on **Friends**
+2. Tap on **Friends**
 
-- Select **Edit friends list**
+3. Select **Edit friends list**
 
-- Uncheck the **Restricted** option
+4. Uncheck the **Restricted** option
 
 To remove multiple people at once, use the Facebook website:
 
-- Go to **Friends**
+1. Go to **Friends**
 
-- Select **Custom lists**
+2. Select **Custom lists**
 
-- Choose **Restricted**
+3. Choose **Restricted**
 
-- Click the **X** icon next to the names of the people you want to remove from the list
+4. Click the **X** icon next to the names of the people you want to remove from the list
 
 ### Will someone know if I add them to my Restricted list on Facebook?
 

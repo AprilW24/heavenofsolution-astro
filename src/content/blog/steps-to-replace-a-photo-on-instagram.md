@@ -12,13 +12,13 @@ Have you ever posted a photo on Instagram, only to realize later that you used t
 
 The first step to replacing a photo on Instagram is to delete the original post. To do this:
 
-- Go to the post you want to delete
+1. Go to the post you want to delete
 
-- Tap the three dots in the upper right corner of the post
+2. Tap the three dots in the upper right corner of the post
 
-- Select **Delete**
+3. Select **Delete**
 
-- Confirm by tapping **Delete** again
+4. Confirm by tapping **Delete** again
 
 Keep in mind that deleting a post will also delete any likes, comments, and shares it has received. However, if you act quickly, you can minimize the impact on your engagement.
 
@@ -26,13 +26,13 @@ Keep in mind that deleting a post will also delete any likes, comments, and shar
 
 Once you’ve deleted the original post, it’s time to re-upload the corrected photo. To do this:
 
-- Select the photo you want to post from your camera roll
+1. Select the photo you want to post from your camera roll
 
-- Crop, filter, and edit the photo as desired
+2. Crop, filter, and edit the photo as desired
 
-- Write a caption, tag people, and add a location if applicable
+3. Write a caption, tag people, and add a location if applicable
 
-- Tap **Share** to post the photo to your feed
+4. Tap **Share** to post the photo to your feed
 
 **Pro Tip:** If you want to keep the same caption and tags as your original post, consider copying them before deleting the post so you can easily paste them into the new one.
 

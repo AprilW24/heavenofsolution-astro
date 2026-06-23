@@ -70,15 +70,15 @@ And there you have it! You’ve successfully disabled comments on your YouTube v
 
 While disabling comments is an effective way to manage interaction on your videos, there are other strategies you can employ to maintain a positive commenting environment:
 
-- **Use comment filters**: YouTube allows you to set up filters that automatically hold potentially inappropriate comments for review.
+1. **Use comment filters**: YouTube allows you to set up filters that automatically hold potentially inappropriate comments for review.
 
-- **Moderate comments**: Regularly review and moderate comments to remove any that violate your community guidelines.
+2. **Moderate comments**: Regularly review and moderate comments to remove any that violate your community guidelines.
 
-- **Engage with your audience**: Responding to comments can encourage positive interaction and discourage negative behavior.
+3. **Engage with your audience**: Responding to comments can encourage positive interaction and discourage negative behavior.
 
-- **Set clear community guidelines**: Establish and communicate clear guidelines for commenting on your videos.
+4. **Set clear community guidelines**: Establish and communicate clear guidelines for commenting on your videos.
 
-- **Use the “hold all comments for review” option**: This allows you to approve comments before they appear publicly.
+5. **Use the “hold all comments for review” option**: This allows you to approve comments before they appear publicly.
 
 Remember, disabling comments is a powerful tool, but it’s not always the best solution. Comments can provide valuable feedback and help build a community around your content. Consider your specific situation and goals when deciding whether to disable comments or use other management strategies.
 

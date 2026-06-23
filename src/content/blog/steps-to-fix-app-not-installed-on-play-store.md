@@ -12,15 +12,15 @@ Are you an Android user facing the frustrating issue of an app not installing fr
 
 One of the most common causes of the **app not installed** error is a corrupted cache or data associated with the Google Play Store app. Clearing this cache can often resolve the issue. Here’s how you can do it:
 
-- **Open the Settings app** on your Android device.
+1. **Open the Settings app** on your Android device.
 
-- **Navigate to Apps or Application Manager**.
+2. **Navigate to Apps or Application Manager**.
 
-- **Locate and select the Google Play Store app**.
+3. **Locate and select the Google Play Store app**.
 
-- **Tap on “Storage” or “Data”**.
+4. **Tap on “Storage” or “Data”**.
 
-- **Tap “Clear Cache” and “Clear Data”** to remove any corrupted files.
+5. **Tap “Clear Cache” and “Clear Data”** to remove any corrupted files.
 
 After clearing the cache and data, try reinstalling the app from the Play Store.
 
@@ -28,15 +28,15 @@ After clearing the cache and data, try reinstalling the app from the Play Store.
 
 Keeping the Google Play Store app up-to-date is crucial for ensuring smooth app installations. Here’s how you can check for updates:
 
-- **Open the Google Play Store app**.
+1. **Open the Google Play Store app**.
 
-- **Tap on the three-line menu icon** in the top-left corner.
+2. **Tap on the three-line menu icon** in the top-left corner.
 
-- **Select “Settings”**.
+3. **Select “Settings”**.
 
-- **Tap on “Play Store version”**.
+4. **Tap on “Play Store version”**.
 
-- **If an update is available, tap “Update”** to install the latest version.
+5. **If an update is available, tap “Update”** to install the latest version.
 
 Once the update is complete, try installing the app again.
 
@@ -44,13 +44,13 @@ Once the update is complete, try installing the app again.
 
 Sometimes, the **app not installed** error can be caused by an outdated Android system version. Updating your device’s software can resolve compatibility issues and fix various bugs. Here’s how you can check for system updates:
 
-- **Open the Settings app**.
+1. **Open the Settings app**.
 
-- **Scroll down and tap on “System” or “Software Update”**.
+2. **Scroll down and tap on “System” or “Software Update”**.
 
-- **Tap “Check for Updates”**.
+3. **Tap “Check for Updates”**.
 
-- **If an update is available, follow the on-screen instructions** to download and install it.
+4. **If an update is available, follow the on-screen instructions** to download and install it.
 
 After updating your Android system, try reinstalling the app from the Play Store.
 
@@ -58,11 +58,11 @@ After updating your Android system, try reinstalling the app from the Play Store
 
 Google Play Services is a crucial component that enables various features and functionalities on Android devices, including app installations. If Google Play Services is outdated or corrupted, it can cause issues with app installations. Here’s how you can update Google Play Services:
 
-- **Open the Google Play Store app**.
+1. **Open the Google Play Store app**.
 
-- **Search for “Google Play Services”**.
+2. **Search for “Google Play Services”**.
 
-- **Tap “Update”** if an update is available.
+3. **Tap “Update”** if an update is available.
 
 If Google Play Services is up-to-date, try the next step.
 
@@ -70,13 +70,13 @@ If Google Play Services is up-to-date, try the next step.
 
 Insufficient storage space on your Android device can prevent apps from installing successfully. Here’s how you can check and free up storage space:
 
-- **Open the Settings app**.
+1. **Open the Settings app**.
 
-- **Tap “Storage” or “Device Care”**.
+2. **Tap “Storage” or “Device Care”**.
 
-- **Check the available storage space**.
+3. **Check the available storage space**.
 
-- **If storage is low, consider uninstalling unused apps** or moving files to an external storage device.
+4. **If storage is low, consider uninstalling unused apps** or moving files to an external storage device.
 
 After freeing up storage space, try reinstalling the app from the Play Store.
 
@@ -88,17 +88,17 @@ In some cases, third-party apps or security software can interfere with the inst
 
 If none of the above steps work, you can try resetting the Google Play Store preferences. This will reset the app’s data and cache, potentially resolving any underlying issues. Here’s how you can do it:
 
-- **Open the Settings app**.
+1. **Open the Settings app**.
 
-- **Navigate to “Apps” or “Application Manager”**.
+2. **Navigate to “Apps” or “Application Manager”**.
 
-- **Locate and select the Google Play Store app**.
+3. **Locate and select the Google Play Store app**.
 
-- **Tap on “Storage”**.
+4. **Tap on “Storage”**.
 
-- **Tap “Clear Data” and “Clear Cache”**.
+5. **Tap “Clear Data” and “Clear Cache”**.
 
-- **Open the Google Play Store app** and sign in with your Google account.
+6. **Open the Google Play Store app** and sign in with your Google account.
 
 After resetting the preferences, try reinstalling the app from the Play Store.
 

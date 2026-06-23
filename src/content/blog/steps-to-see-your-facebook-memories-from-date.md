@@ -22,13 +22,13 @@ However, there are still a few workarounds you can use to find and view your mem
 
 The quickest way to find memories from a specific date is to use Facebook’s search bar. This method works on both the website and mobile app:
 
-- In the Facebook search bar, type in the date you want to see memories from in this format: **date month year**. For example: **24 August 2014**
+1. In the Facebook search bar, type in the date you want to see memories from in this format: **date month year**. For example: **24 August 2014**
 
-- Press Enter or click the search button.
+2. Press Enter or click the search button.
 
-- On the results page, click the **Posts** tab to filter for just posts from that date.
+3. On the results page, click the **Posts** tab to filter for just posts from that date.
 
-- Scroll through the search results to view your memories from that exact date.
+4. Scroll through the search results to view your memories from that exact date.
 
 The Posts tab will show you all posts you made on that date in past years. It also includes posts you were tagged in and posts made on your timeline by friends. You can see the full post content and any photos included. Posts are sorted in reverse-chronological order.
 
@@ -42,15 +42,15 @@ If you want to see a wider selection of memories beyond just wall posts and phot
 
 Here’s how to see your Facebook memories on the current date:
 
-- On the Facebook website, click **Memories** in the left sidebar. In the mobile app, tap the **Menu** icon (3 lines), then tap **Memories**.
+1. On the Facebook website, click **Memories** in the left sidebar. In the mobile app, tap the **Menu** icon (3 lines), then tap **Memories**.
 
-- Once on the Memories page, you’ll see a selection of **On This Day** memories from the current date in past years. This includes wall posts, photos, posts you’re tagged in, major life events, and more.
+2. Once on the Memories page, you’ll see a selection of **On This Day** memories from the current date in past years. This includes wall posts, photos, posts you’re tagged in, major life events, and more.
 
-- If you get a memory that’s close to the date you want to see, click the **See More Memories** link at the bottom of the memory.
+3. If you get a memory that’s close to the date you want to see, click the **See More Memories** link at the bottom of the memory.
 
-- This will open up a larger selection of memories from around that date. Scroll down this page to see if you can find the specific memory you’re looking for.
+4. This will open up a larger selection of memories from around that date. Scroll down this page to see if you can find the specific memory you’re looking for.
 
-- If you still don’t see the memory you want, keep scrolling down and click **See More Memories** again to go back even further in time.
+5. If you still don’t see the memory you want, keep scrolling down and click **See More Memories** again to go back even further in time.
 
 Using this method, you can see a wider variety of memories from around a certain date. It requires more manual effort than searching, but you may find memories that don’t show up in search results.
 
@@ -58,15 +58,15 @@ Using this method, you can see a wider variety of memories from around a certain
 
 Another way to find memories from a specific date is to navigate directly to your Timeline and locate the year and month you want to view. Here’s how:
 
-- Go to your **profile page** by clicking your name at the top of Facebook.
+1. Go to your **profile page** by clicking your name at the top of Facebook.
 
-- On your profile page, click **See Your About Info**, then click **See All** next to **Life Events**.
+2. On your profile page, click **See Your About Info**, then click **See All** next to **Life Events**.
 
-- On the Life Events page, click the **year** in the left sidebar for the time period you want to see memories from.
+3. On the Life Events page, click the **year** in the left sidebar for the time period you want to see memories from.
 
-- Scroll down to the **month** of the memory you want to find. Memories will be organized in reverse-chronological order within each month.
+4. Scroll down to the **month** of the memory you want to find. Memories will be organized in reverse-chronological order within each month.
 
-- Locate the specific **post or life event** you want to view on the timeline.
+5. Locate the specific **post or life event** you want to view on the timeline.
 
 This method works best if you’re looking for a major life event that you know the rough date of, like a wedding, graduation, new job, etc. Since you can jump directly to a year and month, it’s faster than endlessly scrolling back on your timeline.
 

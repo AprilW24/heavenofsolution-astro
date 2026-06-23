@@ -42,15 +42,15 @@ Before adding a new color, you’ll need to remove the original background. **Ca
 
 Once the background is removed, follow these steps to add a color:
 
-- **Click the “+” icon** on the left sidebar and select **“Elements”**.
+1. **Click the “+” icon** on the left sidebar and select **“Elements”**.
 
-- Search for **“Solid Color”** or **“Gradient”** in the search bar.
+2. Search for **“Solid Color”** or **“Gradient”** in the search bar.
 
-- **Drag your chosen color/gradient** to the timeline below your video.
+3. **Drag your chosen color/gradient** to the timeline below your video.
 
-- **Resize the color layer** to cover the entire canvas.
+4. **Resize the color layer** to cover the entire canvas.
 
-- Right-click the color layer and select **“Send to Back”** to place it behind your video.
+5. Right-click the color layer and select **“Send to Back”** to place it behind your video.
 
 **Pro Tips**:
 

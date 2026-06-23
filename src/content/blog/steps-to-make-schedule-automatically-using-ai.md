@@ -14,25 +14,25 @@ So, if you’re tired of rescheduling meetings or missing appointments, set up a
 
 ## Step-by-Step to Set Up an AI Auto-Scheduler on Your Phone
 
-- Download and install a trusted AI scheduling app like *Lindy*, *Motion*, or *Reclaim*.
+1. Download and install a trusted AI scheduling app like *Lindy*, *Motion*, or *Reclaim*.
 
-- Sync the app with your main phone calendar (like *Google Calendar* or *Outlook*).
+2. Sync the app with your main phone calendar (like *Google Calendar* or *Outlook*).
 
-- Set up your daily start and end times, plus your preferred meeting durations or focus blocks.
+3. Set up your daily start and end times, plus your preferred meeting durations or focus blocks.
 
-- Decide which types of activities matter most for your week (work, school, appointments, errands).
+4. Decide which types of activities matter most for your week (work, school, appointments, errands).
 
-- Mark any blackout dates, off-hours, or time zone needs.
+5. Mark any blackout dates, off-hours, or time zone needs.
 
-- Turn on AI suggestions for meetings, reminders, and conflicts.
+6. Turn on AI suggestions for meetings, reminders, and conflicts.
 
-- Add recurring tasks or events that you want scheduled automatically.
+7. Add recurring tasks or events that you want scheduled automatically.
 
-- Review the daily and weekly suggestions from the AI, confirm or rework as needed.
+8. Review the daily and weekly suggestions from the AI, confirm or rework as needed.
 
-- Share your calendar with family, coworkers, or study groups if you need coordination.
+9. Share your calendar with family, coworkers, or study groups if you need coordination.
 
-- Let the AI run in the background and adjust your schedule automatically as things pop up.
+10. Let the AI run in the background and adjust your schedule automatically as things pop up.
 
 ## How AI Scheduling Apps Really Work on Mobile
 

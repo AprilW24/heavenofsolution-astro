@@ -28,27 +28,27 @@ While these badges can be a source of pride for many users, finding them on the 
 
 Before you begin, it’s crucial to ensure you’re using the latest version of the Facebook app. Outdated versions may not display badges correctly or might lack the necessary features to view them. To update your app:
 
-- Open your device’s app store (Google Play Store for Android or App Store for iOS).
+1. Open your device’s app store (Google Play Store for Android or App Store for iOS).
 
-- Search for “Facebook” in the search bar.
+2. Search for “Facebook” in the search bar.
 
-- If an update is available, you’ll see an “Update” button. Tap it to install the latest version.
+3. If an update is available, you’ll see an “Update” button. Tap it to install the latest version.
 
-- Once updated, open the Facebook app and log in if necessary.
+4. Once updated, open the Facebook app and log in if necessary.
 
 ### Step 2: Navigate to a Facebook Page Where You’re Active
 
 To view your Top Fan badge (if you have one):
 
-- Open the Facebook app on your mobile device.
+1. Open the Facebook app on your mobile device.
 
-- Use the search bar at the top of the screen to find a page where you frequently interact.
+2. Use the search bar at the top of the screen to find a page where you frequently interact.
 
-- Go to that page’s timeline.
+3. Go to that page’s timeline.
 
-- Look for a recent post where you or other top fans have commented.
+4. Look for a recent post where you or other top fans have commented.
 
-- In the comments section, you should see badges next to usernames of top fans.
+5. In the comments section, you should see badges next to usernames of top fans.
 
 If you have a Top Fan badge, it will appear next to your name when you comment on that page’s posts. Remember, you need to be consistently active on a page to earn and maintain a Top Fan badge.
 
@@ -56,15 +56,15 @@ If you have a Top Fan badge, it will appear next to your name when you comment o
 
 For group badges:
 
-- Open the Facebook app and tap the menu icon (three horizontal lines) in the bottom right corner.
+1. Open the Facebook app and tap the menu icon (three horizontal lines) in the bottom right corner.
 
-- Scroll down and tap on “Groups.”
+2. Scroll down and tap on “Groups.”
 
-- Select a group where you’re an active member.
+3. Select a group where you’re an active member.
 
-- Look for a post where you or other members with badges have commented.
+4. Look for a post where you or other members with badges have commented.
 
-- You should see badges next to usernames in the comments section.
+5. You should see badges next to usernames in the comments section.
 
 Group badges vary depending on your role and activity level within the group. Common group badges include Admin, Moderator, Rising Star, Conversation Starter, and Visual Storyteller.
 
@@ -72,11 +72,11 @@ Group badges vary depending on your role and activity level within the group. Co
 
 To see how your badges appear to others:
 
-- Tap your profile picture in the top left corner of the Facebook app.
+1. Tap your profile picture in the top left corner of the Facebook app.
 
-- Scroll through your recent activity, particularly comments on pages or in groups where you’re active.
+2. Scroll through your recent activity, particularly comments on pages or in groups where you’re active.
 
-- Look for any badges next to your name in these interactions.
+3. Look for any badges next to your name in these interactions.
 
 This step allows you to see which badges are currently displayed alongside your name and in which contexts they appear.
 

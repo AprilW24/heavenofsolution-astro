@@ -30,25 +30,25 @@ Sometimes you can even use natural language prompts with tools like GitHub Copil
 
 ## Step-by-Step For Getting AI Running in Your Open Source Project on Phone
 
-- Pick a solid open source AI project with phone-friendly code and active support.
+1. Pick a solid open source AI project with phone-friendly code and active support.
 
-- Make sure your phone’s storage, RAM, and OS can handle the chosen tools.
+2. Make sure your phone’s storage, RAM, and OS can handle the chosen tools.
 
-- Install a good mobile code editor, cloud IDE, or terminal app.
+3. Install a good mobile code editor, cloud IDE, or terminal app.
 
-- Fork or clone the open source repo to your mobile device.
+4. Fork or clone the open source repo to your mobile device.
 
-- Follow the readme or setup docs, tweaking settings for mobile tweaks if needed.
+5. Follow the readme or setup docs, tweaking settings for mobile tweaks if needed.
 
-- Import lightweight AI models, or connect models using TensorFlow Lite or PyTorch Mobile.
+6. Import lightweight AI models, or connect models using TensorFlow Lite or PyTorch Mobile.
 
-- Test the core AI features locally, checking for bugs or performance drops.
+7. Test the core AI features locally, checking for bugs or performance drops.
 
-- Fix or tweak issues right on your phone, using AI-powered helpers or suggestions.
+8. Fix or tweak issues right on your phone, using AI-powered helpers or suggestions.
 
-- Push your updates or changes to the open source repo from your device.
+9. Push your updates or changes to the open source repo from your device.
 
-- Join project discussions, share feedback, and help build up the community.
+10. Join project discussions, share feedback, and help build up the community.
 
 ## Mobile AI Workflow Needs Realistic Expectations
 

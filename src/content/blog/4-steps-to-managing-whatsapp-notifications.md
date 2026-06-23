@@ -16,13 +16,13 @@ WhatsApp notifications are essential for staying up-to-date with your conversati
 
 To manage your WhatsApp notifications on Android, follow these steps:
 
-- Open the WhatsApp application on your Android device.
+1. Open the WhatsApp application on your Android device.
 
-- Tap the three-dot menu icon in the top-right corner.
+2. Tap the three-dot menu icon in the top-right corner.
 
-- Select “Settings” from the dropdown menu.
+3. Select “Settings” from the dropdown menu.
 
-- Tap on “Notifications” to access the notification settings.
+4. Tap on “Notifications” to access the notification settings.
 
 In the Notifications menu, you’ll find several options to customize your experience:
 
@@ -48,13 +48,13 @@ By adjusting these settings, you can tailor your WhatsApp notification experienc
 
 If you want to temporarily silence notifications from specific chats or groups without affecting your overall notification settings, you can mute them:
 
-- Open the chat or group you want to mute.
+1. Open the chat or group you want to mute.
 
-- Tap the three-dot menu icon.
+2. Tap the three-dot menu icon.
 
-- Select “Mute notifications.”
+3. Select “Mute notifications.”
 
-- Choose the duration: 8 hours, 1 week, or Always.
+4. Choose the duration: 8 hours, 1 week, or Always.
 
 This feature is particularly useful for busy group chats or when you need to focus without completely blocking someone.
 
@@ -62,29 +62,29 @@ This feature is particularly useful for busy group chats or when you need to foc
 
 There may be times when you need to block a contact on WhatsApp. Blocking prevents the person from sending you messages, calling you, or viewing your status updates. Here’s how to block a contact:
 
-- Open the chat with the contact you want to block.
+1. Open the chat with the contact you want to block.
 
-- Tap the three-dot menu icon.
+2. Tap the three-dot menu icon.
 
-- Select “More.”
+3. Select “More.”
 
-- Tap “Block.”
+4. Tap “Block.”
 
-- Confirm by tapping “Block” again.
+5. Confirm by tapping “Block” again.
 
 Alternatively, you can block a contact from your WhatsApp settings:
 
-- Go to WhatsApp Settings.
+1. Go to WhatsApp Settings.
 
-- Tap on “Account.”
+2. Tap on “Account.”
 
-- Select “Privacy.”
+3. Select “Privacy.”
 
-- Tap on “Blocked contacts.”
+4. Tap on “Blocked contacts.”
 
-- Tap the “Add” icon.
+5. Tap the “Add” icon.
 
-- Select the contact you want to block from your list.
+6. Select the contact you want to block from your list.
 
 **Remember**, when you block someone, they won’t be notified, but they won’t be able to see your online status, profile picture updates, or status updates.
 
@@ -92,19 +92,19 @@ Alternatively, you can block a contact from your WhatsApp settings:
 
 If you’ve blocked someone and later decide to unblock them, the process is straightforward:
 
-- Go to WhatsApp Settings.
+1. Go to WhatsApp Settings.
 
-- Tap on “Account.”
+2. Tap on “Account.”
 
-- Select “Privacy.”
+3. Select “Privacy.”
 
-- Tap on “Blocked contacts.”
+4. Tap on “Blocked contacts.”
 
-- Find the contact you want to unblock.
+5. Find the contact you want to unblock.
 
-- Tap and hold their name.
+6. Tap and hold their name.
 
-- Select “Unblock” from the menu that appears.
+7. Select “Unblock” from the menu that appears.
 
 After unblocking a contact, you’ll be able to receive messages and calls from them again, and they’ll be able to see your profile information and status updates.
 
@@ -114,35 +114,35 @@ Sometimes, you may want to delete entire chats or specific messages. Here’s ho
 
 **To delete an entire chat:**
 
-- Long-press the chat you want to delete.
+1. Long-press the chat you want to delete.
 
-- Tap the trash can icon at the top of the screen.
+2. Tap the trash can icon at the top of the screen.
 
-- Choose whether to delete media associated with the chat as well.
+3. Choose whether to delete media associated with the chat as well.
 
-- Confirm by tapping “Delete.”
+4. Confirm by tapping “Delete.”
 
 **To delete specific messages:**
 
-- Open the chat containing the message(s) you want to delete.
+1. Open the chat containing the message(s) you want to delete.
 
-- Long-press the message.
+2. Long-press the message.
 
-- Tap the trash can icon at the top of the screen.
+3. Tap the trash can icon at the top of the screen.
 
-- Choose “Delete for me” to remove it from your device only, or “Delete for everyone” to remove it for all chat participants (only available for a short time after sending).
+4. Choose “Delete for me” to remove it from your device only, or “Delete for everyone” to remove it for all chat participants (only available for a short time after sending).
 
 ## Advanced Notification Management
 
 For more granular control over your notifications, you can use Android’s built-in notification settings:
 
-- Go to your phone’s Settings.
+1. Go to your phone’s Settings.
 
-- Tap on “Apps & notifications.”
+2. Tap on “Apps & notifications.”
 
-- Find and tap on “WhatsApp.”
+3. Find and tap on “WhatsApp.”
 
-- Select “Notifications.”
+4. Select “Notifications.”
 
 Here, you can manage notification categories, set importance levels, and even customize the notification sound and vibration pattern for different types of WhatsApp notifications.
 
@@ -150,13 +150,13 @@ Here, you can manage notification categories, set importance levels, and even cu
 
 Constant notifications can drain your battery. To optimize WhatsApp’s battery usage:
 
-- Go to your phone’s Settings.
+1. Go to your phone’s Settings.
 
-- Tap on “Battery.”
+2. Tap on “Battery.”
 
-- Find WhatsApp in the list of apps.
+3. Find WhatsApp in the list of apps.
 
-- Adjust the battery optimization settings as needed.
+4. Adjust the battery optimization settings as needed.
 
 You can choose to restrict background activity or allow WhatsApp to run in the background for timely notifications.
 

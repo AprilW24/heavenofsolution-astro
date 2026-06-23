@@ -62,15 +62,15 @@ Once you’re satisfied with the location, tap the “Save” button. This will 
 
 Google Maps allows you to personalize the icon for your home address, making it easier to spot on the map.
 
-- Go back to the Labeled section in your Saved places.
+1. Go back to the Labeled section in your Saved places.
 
-- Tap on the three dots next to your home address.
+2. Tap on the three dots next to your home address.
 
-- Select “Change icon” from the menu.
+3. Select “Change icon” from the menu.
 
-- Choose a new icon from the available options.
+4. Choose a new icon from the available options.
 
-- Tap “Save” to confirm your selection.
+5. Tap “Save” to confirm your selection.
 
 This small customization can make your home stand out on the map and add a personal touch to your Google Maps experience.
 
@@ -78,11 +78,11 @@ This small customization can make your home stand out on the map and add a perso
 
 With your home address set, you can now use voice commands to navigate home quickly:
 
-- Activate Google Assistant on your Android device.
+1. Activate Google Assistant on your Android device.
 
-- Say “Navigate home” or “Directions to home.”
+2. Say “Navigate home” or “Directions to home.”
 
-- Google Maps will open and start navigation to your saved home address.
+3. Google Maps will open and start navigation to your saved home address.
 
 This hands-free option is perfect when you’re driving or when your hands are full.
 
@@ -90,13 +90,13 @@ This hands-free option is perfect when you’re driving or when your hands are f
 
 While Google Maps only allows one “Home” label, you can save multiple important addresses:
 
-- Go to the Saved tab in Google Maps.
+1. Go to the Saved tab in Google Maps.
 
-- Tap on “New label” or the “+” icon.
+2. Tap on “New label” or the “+” icon.
 
-- Enter a name for the label (e.g., “Parents’ house” or “Vacation home”).
+3. Enter a name for the label (e.g., “Parents’ house” or “Vacation home”).
 
-- Add the address as you did for your home address.
+4. Add the address as you did for your home address.
 
 This feature is useful for saving addresses you visit frequently but don’t want to label as “Home” or “Work.”
 
@@ -116,33 +116,33 @@ Remember that your home address is private information. Google Maps keeps this d
 
 If you’re having trouble saving your new home address, try these steps:
 
-- Ensure you have a stable internet connection.
+1. Ensure you have a stable internet connection.
 
-- Close the Google Maps app completely and reopen it.
+2. Close the Google Maps app completely and reopen it.
 
-- Check if your Google Maps app is up to date in the Google Play Store.
+3. Check if your Google Maps app is up to date in the Google Play Store.
 
-- Clear the app’s cache in your device settings and try again.
+4. Clear the app’s cache in your device settings and try again.
 
 ### Location Accuracy Problems
 
 If the pin for your home address isn’t precisely where it should be:
 
-- Zoom in as close as possible on the map when setting the location.
+1. Zoom in as close as possible on the map when setting the location.
 
-- Use satellite view to identify your home more accurately.
+2. Use satellite view to identify your home more accurately.
 
-- Manually adjust the pin by long-pressing and dragging it to the correct spot.
+3. Manually adjust the pin by long-pressing and dragging it to the correct spot.
 
 ### Syncing Issues Across Devices
 
 If your updated home address isn’t showing up on other devices:
 
-- Make sure you’re signed in to the same Google account on all devices.
+1. Make sure you’re signed in to the same Google account on all devices.
 
-- Check your internet connection and give it some time to sync.
+2. Check your internet connection and give it some time to sync.
 
-- Force close and reopen the Google Maps app on your other devices.
+3. Force close and reopen the Google Maps app on your other devices.
 
 ## Benefits of Setting Your Home Address
 

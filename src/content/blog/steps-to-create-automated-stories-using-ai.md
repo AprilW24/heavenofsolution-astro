@@ -22,25 +22,25 @@ One cool trick is mixing tools. For instance, you can draft with Squibler and th
 
 ## Step-by-step to make AI automated stories on Android
 
-- Download any AI story generator app from Play Store like CapCut or Story Generator & Maker.
+1. Download any AI story generator app from Play Store like CapCut or Story Generator & Maker.
 
-- Open the app and choose the “AI Story” or “Script Generator” mode.
+2. Open the app and choose the “AI Story” or “Script Generator” mode.
 
-- Pick your story type such as romantic, thriller, inspirational, or sci-fi.
+3. Pick your story type such as romantic, thriller, inspirational, or sci-fi.
 
-- Type your topic or idea in the input box.
+4. Type your topic or idea in the input box.
 
-- Add character names, plot tone, or specific keywords if needed.
+5. Add character names, plot tone, or specific keywords if needed.
 
-- Tap on “Generate” and wait for the AI to write your story draft.
+6. Tap on “Generate” and wait for the AI to write your story draft.
 
-- Review the story, then hit “Edit” or “Regenerate” to tweak details.
+7. Review the story, then hit “Edit” or “Regenerate” to tweak details.
 
-- Add visuals or voice if your app supports story-to-video creation.
+8. Add visuals or voice if your app supports story-to-video creation.
 
-- Save or export the story to share on social media or another editor.
+9. Save or export the story to share on social media or another editor.
 
-- Keep testing new prompts to keep your stories unique and personal.
+10. Keep testing new prompts to keep your stories unique and personal.
 
 ## Prompt ideas to use for story generation
 

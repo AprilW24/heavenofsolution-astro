@@ -68,15 +68,15 @@ Take advantage of Canva’s grid and guide features to ensure precise alignment 
 
 If you have an existing design in pixels and want to know its size in inches, you can use the following method:
 
-- Note the current pixel dimensions of your design.
+1. Note the current pixel dimensions of your design.
 
-- Open the resize tool and select “Custom Size.”
+2. Open the resize tool and select “Custom Size.”
 
-- Change the units to inches.
+3. Change the units to inches.
 
-- Divide the pixel dimensions by 300 (assuming a standard print resolution of 300 DPI).
+4. Divide the pixel dimensions by 300 (assuming a standard print resolution of 300 DPI).
 
-- Enter these calculated values as your new inch dimensions.
+5. Enter these calculated values as your new inch dimensions.
 
 This conversion will give you an approximation of your design’s size in inches while maintaining the original proportions.
 

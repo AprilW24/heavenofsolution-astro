@@ -26,33 +26,33 @@ Now that we understand the benefits, let’s explore how to save your Canva crea
 
 If you’re an Android user, follow these steps to convert your Canva design to a PDF:
 
-- **Open Your Canva Project**: Launch the Canva app on your Android device and open the design you want to save as a PDF.
+1. **Open Your Canva Project**: Launch the Canva app on your Android device and open the design you want to save as a PDF.
 
-- **Tap the Share Button**: Look for the “Share” icon, usually located in the top right corner of your screen. Tap on it to proceed.
+2. **Tap the Share Button**: Look for the “Share” icon, usually located in the top right corner of your screen. Tap on it to proceed.
 
-- **Select Download Option**: In the menu that appears, scroll down until you see the “Download” option. Tap on it to continue.
+3. **Select Download Option**: In the menu that appears, scroll down until you see the “Download” option. Tap on it to continue.
 
-- **Choose PDF Format**: You’ll be presented with various file format options. Select “PDF Standard” for regular use or “PDF Print” if you need a higher quality version for professional printing.
+4. **Choose PDF Format**: You’ll be presented with various file format options. Select “PDF Standard” for regular use or “PDF Print” if you need a higher quality version for professional printing.
 
-- **Initiate Download**: After selecting your preferred PDF option, tap the “Download” button at the bottom of the screen.
+5. **Initiate Download**: After selecting your preferred PDF option, tap the “Download” button at the bottom of the screen.
 
-- **Locate Your File**: Once the download is complete, your PDF will be saved in your device’s default download folder or the location you’ve specified for Canva downloads.
+6. **Locate Your File**: Once the download is complete, your PDF will be saved in your device’s default download folder or the location you’ve specified for Canva downloads.
 
 ## Saving Canva Designs as PDF on iPhone
 
 For iPhone users, the process is similar but with slight variations:
 
-- **Access Your Canva Design**: Open the Canva app on your iPhone and navigate to the project you wish to save.
+1. **Access Your Canva Design**: Open the Canva app on your iPhone and navigate to the project you wish to save.
 
-- **Tap the Share Icon**: Look for the “Share” button, typically located in the upper right corner of the screen. Tap it to proceed.
+2. **Tap the Share Icon**: Look for the “Share” button, typically located in the upper right corner of the screen. Tap it to proceed.
 
-- **Choose Download**: In the menu that appears, find and tap on the “Download” option, usually towards the bottom of the screen.
+3. **Choose Download**: In the menu that appears, find and tap on the “Download” option, usually towards the bottom of the screen.
 
-- **Select PDF Format**: From the dropdown menu of file formats, choose either “PDF Standard” or “PDF Print” based on your needs.
+4. **Select PDF Format**: From the dropdown menu of file formats, choose either “PDF Standard” or “PDF Print” based on your needs.
 
-- **Confirm Download**: Tap the “Download” button at the bottom of the screen to start the conversion and download process.
+5. **Confirm Download**: Tap the “Download” button at the bottom of the screen to start the conversion and download process.
 
-- **Find Your PDF**: Once downloaded, your PDF will be saved in your iPhone’s Files app or the location you’ve designated for downloads.
+6. **Find Your PDF**: Once downloaded, your PDF will be saved in your iPhone’s Files app or the location you’ve designated for downloads.
 
 ## Tips for Optimizing Your Canva PDFs
 

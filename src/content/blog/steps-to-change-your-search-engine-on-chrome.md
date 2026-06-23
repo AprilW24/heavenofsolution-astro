@@ -84,17 +84,17 @@ Each of these search engines has its own strengths and features, so it’s worth
 
 If you don’t see your preferred search engine in the list of options, Chrome for Android allows you to add custom search engines. Here’s how:
 
-- Follow steps 1-4 from the earlier instructions to reach the “Search engine” settings.
+1. Follow steps 1-4 from the earlier instructions to reach the “Search engine” settings.
 
-- Tap on “Manage search engines.”
+2. Tap on “Manage search engines.”
 
-- Scroll to the bottom and tap on “Add search engine.”
+3. Scroll to the bottom and tap on “Add search engine.”
 
-- Enter a name for the search engine, a keyword (which can be used for quick searches), and the search URL.
+4. Enter a name for the search engine, a keyword (which can be used for quick searches), and the search URL.
 
-- Tap “Save” to add your custom search engine.
+5. Tap “Save” to add your custom search engine.
 
-- To set it as your default, tap on the three dots next to the newly added search engine and select “Make default.”
+6. To set it as your default, tap on the three dots next to the newly added search engine and select “Make default.”
 
 This feature is particularly useful if you frequently use specialized search engines for work or hobbies.
 

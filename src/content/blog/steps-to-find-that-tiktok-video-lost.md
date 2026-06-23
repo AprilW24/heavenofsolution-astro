@@ -12,15 +12,15 @@ It’s a familiar scenario for avid TikTok users – you’re watching an intere
 
 The easiest way to find a lost TikTok video is by checking your watch history in the app. TikTok automatically saves videos you’ve watched in the last 7 days. Here’s how to access your watch history:
 
-- Go to the Discover tab and tap the search bar at the top
+1. Go to the Discover tab and tap the search bar at the top
 
-- Type an asterisk (*) into the search bar and hit search
+2. Type an asterisk (*) into the search bar and hit search
 
-- Tap the two lines icon next to the search bar to bring up search filters
+3. Tap the two lines icon next to the search bar to bring up search filters
 
-- Under the **Activity** section, select **Watched videos** and choose **Within last 7 days**
+4. Under the **Activity** section, select **Watched videos** and choose **Within last 7 days**
 
-- Scroll through the results to find the video you’re looking for
+5. Scroll through the results to find the video you’re looking for
 
 The more you can remember about the video, the easier it will be to find. Try searching for relevant keywords from the description, hashtags, sounds used, or the creator’s username to narrow down the results.
 
@@ -32,13 +32,13 @@ If you have the **Save to device** option enabled in your TikTok settings, there
 
 To check if you have auto-saving turned on:
 
-- Tap the + button to record a quick video
+1. Tap the + button to record a quick video
 
-- After recording, tap the checkmark and go to the posting screen
+2. After recording, tap the checkmark and go to the posting screen
 
-- Scroll down and tap **More options**
+3. Scroll down and tap **More options**
 
-- Make sure the **Save to device** toggle is turned on
+4. Make sure the **Save to device** toggle is turned on
 
 Now, to find the video in your phone’s gallery:
 
@@ -54,15 +54,15 @@ What if you accidentally deleted a TikTok video from your own profile? You may s
 
 To see your deleted videos on TikTok:
 
-- Go to your profile and tap the 3-dot menu in the top right
+1. Go to your profile and tap the 3-dot menu in the top right
 
-- Tap **Settings and privacy** then **Manage account**
+2. Tap **Settings and privacy** then **Manage account**
 
-- Select **Deleted videos**
+3. Select **Deleted videos**
 
-- Locate the video you want to recover and tap it
+4. Locate the video you want to recover and tap it
 
-- Tap **Restore** to recover the video back to your profile
+5. Tap **Restore** to recover the video back to your profile
 
 Keep in mind, deleted videos are only available to restore for a limited time. TikTok’s policy is to permanently delete videos after 30 days, so if a video was deleted more than a month ago, it likely can’t be recovered.
 

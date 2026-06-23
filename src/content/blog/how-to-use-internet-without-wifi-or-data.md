@@ -24,35 +24,35 @@ Many popular apps offer offline functionality, allowing you to download content 
 
 **Google Maps**: Google Maps allows you to download entire areas or cities for offline use. To do this:
 
-- Open Google Maps
+1. Open Google Maps
 
-- Search for the area you want to download
+2. Search for the area you want to download
 
-- Tap on the name of the place at the bottom of the screen
+3. Tap on the name of the place at the bottom of the screen
 
-- Select “Download” from the options
+4. Select “Download” from the options
 
-- Choose the area you want to save and tap “Download”
+5. Choose the area you want to save and tap “Download”
 
 Once downloaded, you can access maps, get directions, and even use navigation features without an internet connection.
 
 **YouTube**: YouTube Premium subscribers can download videos for offline viewing:
 
-- Open the YouTube app
+1. Open the YouTube app
 
-- Find the video you want to download
+2. Find the video you want to download
 
-- Tap the “Download” button below the video
+3. Tap the “Download” button below the video
 
-- Choose the quality of the download
+4. Choose the quality of the download
 
 **Netflix**: Netflix also allows downloading of select titles for offline viewing:
 
-- Open the Netflix app
+1. Open the Netflix app
 
-- Find a show or movie with a download icon
+2. Find a show or movie with a download icon
 
-- Tap the download icon to save it to your device
+3. Tap the download icon to save it to your device
 
 By utilizing these offline features, you can access a wealth of information and entertainment without an active internet connection.
 
@@ -76,13 +76,13 @@ While offline methods can be useful, there are times when you genuinely need to 
 
 Many public places offer free WiFi hotspots. While this technically involves using WiFi, it’s a method to access the internet without using your own data plan:
 
-- Go to your Android device’s Settings
+1. Go to your Android device’s Settings
 
-- Tap on “Network & Internet”
+2. Tap on “Network & Internet”
 
-- Select “WiFi”
+3. Select “WiFi”
 
-- Look for available networks and connect to a public WiFi hotspot
+4. Look for available networks and connect to a public WiFi hotspot
 
 Remember to be cautious when using public WiFi and avoid accessing sensitive information or making financial transactions on these networks.
 
@@ -90,11 +90,11 @@ Remember to be cautious when using public WiFi and avoid accessing sensitive inf
 
 If you have access to another device with an internet connection, you can use it as a hotspot to connect your Android device:
 
-- On the device with internet, go to Settings > Network & Internet > Hotspot & Tethering
+1. On the device with internet, go to Settings > Network & Internet > Hotspot & Tethering
 
-- Turn on “WiFi hotspot”
+2. Turn on “WiFi hotspot”
 
-- On your Android device, go to WiFi settings and connect to the hotspot
+3. On your Android device, go to WiFi settings and connect to the hotspot
 
 This method allows you to share an internet connection between devices, which can be particularly useful when traveling with friends or family.
 
@@ -102,13 +102,13 @@ This method allows you to share an internet connection between devices, which ca
 
 Bluetooth tethering is another way to share an internet connection between devices:
 
-- On the device with internet, go to Settings > Network & Internet > Hotspot & Tethering
+1. On the device with internet, go to Settings > Network & Internet > Hotspot & Tethering
 
-- Turn on “Bluetooth tethering”
+2. Turn on “Bluetooth tethering”
 
-- On your Android device, pair with the other device via Bluetooth
+3. On your Android device, pair with the other device via Bluetooth
 
-- Once paired, you should be able to access the internet through the Bluetooth connection
+4. Once paired, you should be able to access the internet through the Bluetooth connection
 
 Bluetooth tethering typically uses less battery than WiFi hotspots, making it a good option for conserving power.
 
@@ -116,11 +116,11 @@ Bluetooth tethering typically uses less battery than WiFi hotspots, making it a 
 
 If you have a computer with an internet connection, you can use USB tethering to share that connection with your Android device:
 
-- Connect your Android device to the computer using a USB cable
+1. Connect your Android device to the computer using a USB cable
 
-- On your Android device, go to Settings > Network & Internet > Hotspot & Tethering
+2. On your Android device, go to Settings > Network & Internet > Hotspot & Tethering
 
-- Turn on “USB tethering”
+3. Turn on “USB tethering”
 
 Your Android device should now be able to access the internet through the computer’s connection.
 

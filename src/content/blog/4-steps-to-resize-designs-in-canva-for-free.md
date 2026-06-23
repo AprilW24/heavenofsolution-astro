@@ -58,15 +58,15 @@ Everything is now copied to your clipboard, ready to paste into your new canvas.
 
 Head back to the blank canvas you created in Step 1. Paste in the elements you just copied and reposition them to fit the new dimensions.
 
-- Click on the blank canvas to make sure it’s selected
+1. Click on the blank canvas to make sure it’s selected
 
-- Press Ctrl+V (Windows) or Cmd+V (Mac) to paste the copied elements
+2. Press Ctrl+V (Windows) or Cmd+V (Mac) to paste the copied elements
 
-- Click and drag the corners of the pasted element group to resize it to fit the new dimensions
+3. Click and drag the corners of the pasted element group to resize it to fit the new dimensions
 
-- Rearrange or resize individual elements as needed
+4. Rearrange or resize individual elements as needed
 
-- If your original design had a background image or color, you’ll need to add that back in separately, as it won’t copy over with the other elements
+5. If your original design had a background image or color, you’ll need to add that back in separately, as it won’t copy over with the other elements
 
 Take time to refine your newly resized design and make sure everything looks right in the new dimensions. You may need to adjust font sizes, move elements around, or even remove some things to make it work.
 
@@ -92,13 +92,13 @@ Resizing designs in Canva is possible, even without a Pro subscription. By creat
 
 The key steps are:
 
-- Create a new design with your desired custom dimensions
+1. Create a new design with your desired custom dimensions
 
-- Copy all elements from the original design
+2. Copy all elements from the original design
 
-- Paste elements into the new canvas and reposition them to fit
+3. Paste elements into the new canvas and reposition them to fit
 
-- Download the resized design
+4. Download the resized design
 
 While this method takes a few extra steps compared to the simple resizing tool in Canva Pro, it gets the job done for free. With a bit of practice, you’ll be whipping up graphics in any size you need.
 

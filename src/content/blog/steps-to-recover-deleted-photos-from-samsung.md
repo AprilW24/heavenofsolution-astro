@@ -24,21 +24,21 @@ If the deleted photos are not in the Recycle Bin or Trash folder, your next opti
 
 Here’s how to use iMyFone D-Back for Android:
 
-- Download and install the software on your computer.
+1. Download and install the software on your computer.
 
-- Connect your Samsung device to the computer using a USB cable.
+2. Connect your Samsung device to the computer using a USB cable.
 
-- Select **Recover Phone Data** from the main interface.
+3. Select **Recover Phone Data** from the main interface.
 
-- Choose the file types you want to recover (in this case, photos) and click **Next**.
+4. Choose the file types you want to recover (in this case, photos) and click **Next**.
 
-- Follow the on-screen instructions to enable USB debugging on your phone.
+5. Follow the on-screen instructions to enable USB debugging on your phone.
 
-- Once your device is detected, click **Next** to begin the scanning process.
+6. Once your device is detected, click **Next** to begin the scanning process.
 
-- After the scan is complete, preview the recoverable photos and select the ones you want to restore.
+7. After the scan is complete, preview the recoverable photos and select the ones you want to restore.
 
-- Click **Recover** to save the selected photos to your computer.
+8. Click **Recover** to save the selected photos to your computer.
 
 ### Step 4: Seek Professional Data Recovery Services
 

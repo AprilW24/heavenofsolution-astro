@@ -14,15 +14,15 @@ Fortunately, **transferring WhatsApp from an old Android phone to a new one is a
 
 The first step is to **create a backup of your WhatsApp data on your old Android phone.** Here’s how:
 
-- Open WhatsApp on your old phone
+1. Open WhatsApp on your old phone
 
-- Tap the three-dot menu icon and select Settings
+2. Tap the three-dot menu icon and select Settings
 
-- Go to Chats > Chat backup
+3. Go to Chats > Chat backup
 
-- Tap the green **Back Up** button to initiate a manual backup to Google Drive
+4. Tap the green **Back Up** button to initiate a manual backup to Google Drive
 
-- Wait for the backup process to complete before proceeding
+5. Wait for the backup process to complete before proceeding
 
 **WhatsApp will automatically back up your chats and media to Google Drive,** as long as you have a Google account linked and enough storage space available. It’s a good idea to connect your phone to Wi-Fi before starting the backup, as it may take some time depending on the size of your chat history.
 

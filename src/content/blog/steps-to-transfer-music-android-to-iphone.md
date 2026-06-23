@@ -16,11 +16,11 @@ Unfortunately, you can’t directly transfer music using Bluetooth between an An
 
 One of the simplest ways is to use a cloud storage service like Google Drive, Dropbox, or OneDrive. Here are the basic steps:
 
-- Install the cloud storage app both on your Android device and iPhone
+1. Install the cloud storage app both on your Android device and iPhone
 
-- Upload the music files from your Android device to the cloud storage
+2. Upload the music files from your Android device to the cloud storage
 
-- Open the cloud storage app on your iPhone and download the music files
+3. Open the cloud storage app on your iPhone and download the music files
 
 This method works seamlessly as long as you have enough free cloud storage space for your music collection. The transfer will occur over Wi-Fi or mobile data.
 
@@ -28,15 +28,15 @@ This method works seamlessly as long as you have enough free cloud storage space
 
 Specialized file transfer apps like SHAREit can transfer music wirelessly between devices via Wi-Fi hotspot. Follow these steps:
 
-- Install SHAREit on both devices
+1. Install SHAREit on both devices
 
-- Select music files on Android device and tap Send
+2. Select music files on Android device and tap Send
 
-- Create a Wi-Fi hotspot on Android and connect iPhone to it
+3. Create a Wi-Fi hotspot on Android and connect iPhone to it
 
-- Open SHAREit on iPhone and tap Receive
+4. Open SHAREit on iPhone and tap Receive
 
-- Music transfers wirelessly over the Wi-Fi hotspot
+5. Music transfers wirelessly over the Wi-Fi hotspot
 
 The benefit of apps like SHAREit is that they are really easy to set up and don’t require an internet connection.
 
@@ -44,13 +44,13 @@ The benefit of apps like SHAREit is that they are really easy to set up and don�
 
 For very large music collections, going through a computer may be easier. You will need a computer with both iTunes (Mac/Windows) or Android File Transfer (Mac) installed.
 
-- Connect Android phone to computer via USB
+1. Connect Android phone to computer via USB
 
-- Locate music folder and copy files over to a folder on the computer
+2. Locate music folder and copy files over to a folder on the computer
 
-- Disconnect Android device and connect iPhone
+3. Disconnect Android device and connect iPhone
 
-- Open iTunes or Finder and sync music files to iPhone
+4. Open iTunes or Finder and sync music files to iPhone
 
 This wired method is relatively fast and stable even for transferring gigabytes of music.
 

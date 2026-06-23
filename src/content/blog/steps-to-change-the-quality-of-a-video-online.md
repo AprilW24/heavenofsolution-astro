@@ -46,13 +46,13 @@ The first step in changing your video’s quality is selecting a reliable online
 
 Once you’ve chosen a platform, follow these steps to upload your video:
 
-- Navigate to the chosen website’s video converter or editor section.
+1. Navigate to the chosen website’s video converter or editor section.
 
-- Look for an **Upload** or **Choose File** button.
+2. Look for an **Upload** or **Choose File** button.
 
-- Select the video file from your device.
+3. Select the video file from your device.
 
-- Wait for the upload to complete. The time required depends on your internet speed and file size.
+4. Wait for the upload to complete. The time required depends on your internet speed and file size.
 
 **Note**: Some platforms may have file size limitations for free users. Check if there are any restrictions before uploading large files.
 
@@ -88,11 +88,11 @@ These options can help you fine-tune your video alongside quality changes.
 
 Before finalizing your video, most platforms allow you to preview the changes:
 
-- Look for a **Preview** or **Play** button to watch a sample of your adjusted video.
+1. Look for a **Preview** or **Play** button to watch a sample of your adjusted video.
 
-- Pay attention to the visual quality, smoothness of playback, and any artifacts.
+2. Pay attention to the visual quality, smoothness of playback, and any artifacts.
 
-- If you’re not satisfied, go back and adjust your settings.
+3. If you’re not satisfied, go back and adjust your settings.
 
 **Tip**: Compare the preview with your original video to ensure you’re happy with the changes.
 
@@ -100,13 +100,13 @@ Before finalizing your video, most platforms allow you to preview the changes:
 
 Once you’re satisfied with the preview:
 
-- Click the **Convert** or **Process** button to apply your changes.
+1. Click the **Convert** or **Process** button to apply your changes.
 
-- Wait for the platform to process your video. This may take a few minutes, depending on the file size and selected options.
+2. Wait for the platform to process your video. This may take a few minutes, depending on the file size and selected options.
 
-- When processing is complete, you’ll see a **Download** button.
+3. When processing is complete, you’ll see a **Download** button.
 
-- Click to save the modified video to your device.
+4. Click to save the modified video to your device.
 
 **Important**: Some free services may add watermarks to processed videos. Check the output carefully and consider upgrading to a paid plan if necessary for watermark-free results.
 
@@ -114,19 +114,19 @@ Once you’re satisfied with the preview:
 
 To ensure you get the best outcome when changing video quality online, keep these tips in mind:
 
-- **Start with high-quality source material**: The better your original video, the better your results will be after adjusting quality.
+1. **Start with high-quality source material**: The better your original video, the better your results will be after adjusting quality.
 
-- **Understand your purpose**: Tailor your quality settings to your intended use. For example, social media platforms often have specific recommended settings.
+2. **Understand your purpose**: Tailor your quality settings to your intended use. For example, social media platforms often have specific recommended settings.
 
-- **Be mindful of file size**: Higher quality usually means larger files. Find a balance that suits your storage and sharing needs.
+3. **Be mindful of file size**: Higher quality usually means larger files. Find a balance that suits your storage and sharing needs.
 
-- **Experiment with different settings**: Don’t be afraid to try various combinations of resolution, bitrate, and frame rate to find the optimal balance.
+4. **Experiment with different settings**: Don’t be afraid to try various combinations of resolution, bitrate, and frame rate to find the optimal balance.
 
-- **Consider the viewing device**: Adjust quality based on where your video will be watched most often (e.g., smartphones, tablets, smart TVs).
+5. **Consider the viewing device**: Adjust quality based on where your video will be watched most often (e.g., smartphones, tablets, smart TVs).
 
-- **Use lossless formats for intermediary steps**: If you plan to edit the video further, use a lossless format to maintain quality through multiple processing steps.
+6. **Use lossless formats for intermediary steps**: If you plan to edit the video further, use a lossless format to maintain quality through multiple processing steps.
 
-- **Back up your original**: Always keep a copy of your original video file in case you need to start over or want to make different adjustments in the future.
+7. **Back up your original**: Always keep a copy of your original video file in case you need to start over or want to make different adjustments in the future.
 
 ## Common Challenges and Solutions
 

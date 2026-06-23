@@ -24,13 +24,13 @@ One of the simplest potential fixes is to quickly toggle your Android’s airpla
 
 ![](/wp-content/uploads/2024/07/HoS_AndroidConnected-2.jpg)
 
-- Swipe down from the top of your screen to access the Quick Settings panel.
+1. Swipe down from the top of your screen to access the Quick Settings panel.
 
-- Tap the Airplane Mode icon to turn it on. Wait a few seconds.
+2. Tap the Airplane Mode icon to turn it on. Wait a few seconds.
 
-- Tap Airplane Mode again to turn it off.
+3. Tap Airplane Mode again to turn it off.
 
-- Check if your internet connection is restored.
+4. Check if your internet connection is restored.
 
 ## 3. Forget and Reconnect to the Wi-Fi Network
 
@@ -38,15 +38,15 @@ Forgetting the Wi-Fi network will clear out any saved settings that could be cau
 
 ![](/wp-content/uploads/2024/07/HoS_AndroidConnected-1.jpg)
 
-- Go to **Settings > Network & internet > Wi-Fi**.
+1. Go to **Settings > Network & internet > Wi-Fi**.
 
-- Tap on the problematic Wi-Fi network name.
+2. Tap on the problematic Wi-Fi network name.
 
-- Select **Forget** to remove the saved network.
+3. Select **Forget** to remove the saved network.
 
-- Tap on the network name again and re-enter the password to reconnect.
+4. Tap on the network name again and re-enter the password to reconnect.
 
-- See if you now have internet access.
+5. See if you now have internet access.
 
 ## 4. Reset Your Android’s Network Settings
 
@@ -54,35 +54,35 @@ Resetting network settings clears all saved Wi-Fi networks, Bluetooth connection
 
 ![](/wp-content/uploads/2024/07/HoS_AndroidConnected.jpg)
 
-- Navigate to **Settings > System > Reset options**.
+1. Navigate to **Settings > System > Reset options**.
 
-- Tap on **Reset Wi-Fi, mobile & Bluetooth**.
+2. Tap on **Reset Wi-Fi, mobile & Bluetooth**.
 
-- Select **Reset settings** to confirm.
+3. Select **Reset settings** to confirm.
 
-- Reconnect to your Wi-Fi network and check your internet connection.
+4. Reconnect to your Wi-Fi network and check your internet connection.
 
 ## 5. Update Your Android System WebView
 
 Android System WebView is a system component that allows Android apps to display web content. Keeping it updated can resolve issues with apps and web pages not loading.
 
-- Open the Google Play Store app.
+1. Open the Google Play Store app.
 
-- Search for **Android System WebView**.
+2. Search for **Android System WebView**.
 
-- If an update is available, tap **Update**.
+3. If an update is available, tap **Update**.
 
-- Restart your device after updating.
+4. Restart your device after updating.
 
 ## 6. Check for Android System Updates
 
 Manufacturers frequently release Android updates to improve performance, fix bugs, and address security issues. Ensuring your device is running the latest available version can help resolve the connected without internet problem.
 
-- Go to **Settings > System > System update**.
+1. Go to **Settings > System > System update**.
 
-- If an update is available, tap **Download and install**.
+2. If an update is available, tap **Download and install**.
 
-- Wait for the update to complete and your device to restart.
+3. Wait for the update to complete and your device to restart.
 
 ## 7. Change Your DNS Server
 
@@ -90,29 +90,29 @@ DNS (Domain Name System) servers translate website names into IP addresses. Usin
 
 ![](/wp-content/uploads/2024/07/HoS_AndroidConnected4.jpg)
 
-- Go to **Settings > Network & internet > Wi-Fi**.
+1. Go to **Settings > Network & internet > Wi-Fi**.
 
-- Long press on your Wi-Fi network and select **Modify network**.
+2. Long press on your Wi-Fi network and select **Modify network**.
 
-- Tap on **Advanced options**.
+3. Tap on **Advanced options**.
 
-- Change **IP settings** from **DHCP **to **Static**.
+4. Change **IP settings** from **DHCP **to **Static**.
 
-- In the **DNS 1** field, enter 8.8.8.8. In the **DNS 2** field, enter 8.8.4.4.
+5. In the **DNS 1** field, enter 8.8.8.8. In the **DNS 2** field, enter 8.8.4.4.
 
-- Tap **Save** and reconnect to the network.
+6. Tap **Save** and reconnect to the network.
 
 ## 8. Factory Reset Your Android Device
 
 If none of the above steps resolve the connected without internet issue, a factory reset may be necessary as a last resort. This will erase all data on your device, so make sure to backup important files first.
 
-- Go to **Settings > System > Reset options**.
+1. Go to **Settings > System > Reset options**.
 
-- Tap **Erase all data (factory reset)**.
+2. Tap **Erase all data (factory reset)**.
 
-- Follow the prompts to complete the reset process.
+3. Follow the prompts to complete the reset process.
 
-- Set up your device and reconnect to the Wi-Fi network.
+4. Set up your device and reconnect to the Wi-Fi network.
 
 ## Conclusion
 

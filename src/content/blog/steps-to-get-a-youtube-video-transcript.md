@@ -28,17 +28,17 @@ One of the most reliable ways to get a transcript of a YouTube video when it’s
 
 **Here’s how to use a third-party transcription service:**
 
-- Choose a reputable transcription service. Some popular options include Rev, Otter.ai, and Trint.
+1. Choose a reputable transcription service. Some popular options include Rev, Otter.ai, and Trint.
 
-- Copy the URL of the YouTube video you want to transcribe.
+2. Copy the URL of the YouTube video you want to transcribe.
 
-- Go to the transcription service’s website and paste the URL into their system.
+3. Go to the transcription service’s website and paste the URL into their system.
 
-- Follow the service’s instructions to initiate the transcription process.
+4. Follow the service’s instructions to initiate the transcription process.
 
-- Wait for the transcription to be completed. The time this takes can vary depending on the length of the video and the service you’re using.
+5. Wait for the transcription to be completed. The time this takes can vary depending on the length of the video and the service you’re using.
 
-- Review and download your transcript.
+6. Review and download your transcript.
 
 Using a third-party service often results in a higher-quality transcript, especially for videos with challenging audio. However, keep in mind that many of these services charge a fee, so this method might not be ideal if you’re on a tight budget or need to transcribe multiple videos.
 
@@ -48,13 +48,13 @@ If you’re looking for a more budget-friendly option, you can use speech-to-tex
 
 **Follow these steps to use speech-to-text software:**
 
-- Download the audio from the YouTube video. You can use various online tools or browser extensions to do this.
+1. Download the audio from the YouTube video. You can use various online tools or browser extensions to do this.
 
-- Choose a speech-to-text software. Options include Google Docs Voice Typing (free), Dragon NaturallySpeaking, or built-in options on your computer like Windows Speech Recognition.
+2. Choose a speech-to-text software. Options include Google Docs Voice Typing (free), Dragon NaturallySpeaking, or built-in options on your computer like Windows Speech Recognition.
 
-- Play the audio file and let the software transcribe it. You may need to speak the words into a microphone as you listen to the audio.
+3. Play the audio file and let the software transcribe it. You may need to speak the words into a microphone as you listen to the audio.
 
-- Review and edit the transcript for accuracy.
+4. Review and edit the transcript for accuracy.
 
 This method can be time-consuming, especially for longer videos, but it gives you more control over the transcription process and can be a good option if you’re transcribing just a few videos.
 
@@ -64,15 +64,15 @@ If accuracy is crucial and you have the time, manual transcription might be your
 
 **Here’s how to manually transcribe a YouTube video:**
 
-- Open the YouTube video in your browser.
+1. Open the YouTube video in your browser.
 
-- Use a text editor or word processor to type out what you hear.
+2. Use a text editor or word processor to type out what you hear.
 
-- Pause and rewind the video as needed to ensure accuracy.
+3. Pause and rewind the video as needed to ensure accuracy.
 
-- Add timestamps if desired for easy reference.
+4. Add timestamps if desired for easy reference.
 
-- Review your transcript for any errors or typos.
+5. Review your transcript for any errors or typos.
 
 Manual transcription is ideal for short videos or when you need to transcribe only specific parts of a longer video. It’s also a good option if the video contains technical terms, accents, or background noise that might confuse automated systems.
 
@@ -82,15 +82,15 @@ If you have a budget but want a more personalized service than automated transcr
 
 **To hire a freelance transcriptionist:**
 
-- Browse freelance platforms like Upwork, Fiverr, or Freelancer.com.
+1. Browse freelance platforms like Upwork, Fiverr, or Freelancer.com.
 
-- Look for transcriptionists with good reviews and relevant experience.
+2. Look for transcriptionists with good reviews and relevant experience.
 
-- Provide them with the YouTube video link and any specific instructions.
+3. Provide them with the YouTube video link and any specific instructions.
 
-- Agree on a price and deadline.
+4. Agree on a price and deadline.
 
-- Review the completed transcript when it’s delivered.
+5. Review the completed transcript when it’s delivered.
 
 Hiring a freelancer can be particularly useful if you have multiple videos to transcribe or if you need transcripts regularly. It allows you to build a relationship with a transcriptionist who understands your specific needs and preferences.
 

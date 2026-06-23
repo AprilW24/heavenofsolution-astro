@@ -16,13 +16,13 @@ The first place to look is the Google Photos Trash folder. When you delete photo
 
 Here’s how to check your Trash folder and restore deleted photos:
 
-- Open the Google Photos app or go to photos.google.com
+1. Open the Google Photos app or go to photos.google.com
 
-- Click on **Trash** in the left sidebar
+2. Click on **Trash** in the left sidebar
 
-- Select the photos you want to restore
+3. Select the photos you want to restore
 
-- Click the **Restore** button at the top
+4. Click the **Restore** button at the top
 
 If your deleted photos are still in the Trash and it’s been less than 60 days, this method should allow you to get them back easily.
 
@@ -32,13 +32,13 @@ If it’s been more than 60 days and your photos are no longer in the Trash, the
 
 To request recovery of permanently deleted photos from Google Support:
 
-- Go to Google Drive Help and click **Contact us**
+1. Go to Google Drive Help and click **Contact us**
 
-- Explain that you need to recover permanently deleted Google Photos
+2. Explain that you need to recover permanently deleted Google Photos
 
-- Provide details on approximately when the photos were deleted
+3. Provide details on approximately when the photos were deleted
 
-- Wait for a response from the Google Support team
+4. Wait for a response from the Google Support team
 
 The key is to act quickly, provide clear details in your request, and hope that Google is able to locate and restore your deleted photos.
 

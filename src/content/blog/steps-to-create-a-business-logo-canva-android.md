@@ -22,25 +22,25 @@ Plus, Canva offers free cloud storage, so your logos are safe. You can go back a
 
 ## Steps to Create a Business Logo on Canva Android
 
-- Open the Canva app and log in with your Google or Facebook account.
+1. Open the Canva app and log in with your Google or Facebook account.
 
-- On the home screen, tap the search bar and type “**logo**.”
+2. On the home screen, tap the search bar and type “**logo**.”
 
-- Pick a template that matches your business vibe.
+3. Pick a template that matches your business vibe.
 
-- Tap on the text to change your business name.
+4. Tap on the text to change your business name.
 
-- Adjust the fonts, color scheme, and size to fit your brand style.
+5. Adjust the fonts, color scheme, and size to fit your brand style.
 
-- Add icons or shapes from the “**Elements**” tab to make it unique.
+6. Add icons or shapes from the “**Elements**” tab to make it unique.
 
-- Try different layouts or background colors to test how it looks.
+7. Try different layouts or background colors to test how it looks.
 
-- Tap the checkmark to save your edits.
+8. Tap the checkmark to save your edits.
 
-- Press the download icon at the top to export your logo.
+9. Press the download icon at the top to export your logo.
 
-- Choose PNG for better quality and tap “**Download**” again to save it in your gallery.
+10. Choose PNG for better quality and tap “**Download**” again to save it in your gallery.
 
 ## Tips to Make Your Business Logo Look Professional
 

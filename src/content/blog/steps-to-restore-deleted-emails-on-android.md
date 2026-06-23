@@ -40,11 +40,11 @@ That’s it! The email will be moved out of the Trash and back into your Inbox. 
 
 The process to move deleted emails from Trash to Inbox is very similar in other popular Android email apps like Outlook, Yahoo Mail, and Samsung Email:
 
-- Open the email app and navigate to the Trash, Bin or Deleted Items folder.
+1. Open the email app and navigate to the Trash, Bin or Deleted Items folder.
 
-- Select the email(s) you want to restore.
+2. Select the email(s) you want to restore.
 
-- Look for a **Move** option and select Inbox as the destination.
+3. Look for a **Move** option and select Inbox as the destination.
 
 The exact steps and menu options may vary slightly between apps, but the overall flow is the same: open the Trash folder, select the emails, and move them to your Inbox.
 

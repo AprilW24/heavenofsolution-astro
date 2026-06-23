@@ -16,15 +16,15 @@ In this guide, we’ll walk through step-by-step how to turn off various types o
 
 Push notifications are the real-time alerts that pop up on your Android device from the Twitter app. While they can be handy for staying on top of important activity as it happens, having them enabled for everything leads to notification overload. Here’s how to turn off push notifications:
 
-- Open the Twitter app on your Android device and tap the **Notifications** tab (the bell icon).
+1. Open the Twitter app on your Android device and tap the **Notifications** tab (the bell icon).
 
-- Tap the gear icon in the top right to access notification settings.
+2. Tap the gear icon in the top right to access notification settings.
 
-- Tap **Preferences** under the Filters section.
+3. Tap **Preferences** under the Filters section.
 
-- Select **Push notifications**. You’ll see a master toggle at the top.
+4. Select **Push notifications**. You’ll see a master toggle at the top.
 
-- Toggle off the switch next to **Push Notifications** to disable all push notifications from Twitter.
+5. Toggle off the switch next to **Push Notifications** to disable all push notifications from Twitter.
 
 That’s it! You will no longer receive any Twitter push notifications on your Android device after completing these steps. If you decide you want push notifications again later, simply follow the same steps and re-enable the toggle.
 
@@ -34,17 +34,17 @@ That’s it! You will no longer receive any Twitter push notifications on your A
 
 By default, Twitter sends email notifications for a variety of events like new followers, retweets, likes, mentions, etc. If your inbox is overflowing with emails from Twitter, you can unsubscribe entirely or pick and choose which types of email notifications to keep. Here’s how:
 
-- Open Twitter in a web browser and click **More** in the left sidebar.
+1. Open Twitter in a web browser and click **More** in the left sidebar.
 
-- Select **Settings and Support** and then **Settings and privacy**.
+2. Select **Settings and Support** and then **Settings and privacy**.
 
-- Click **Notifications** and then **Email notifications** under Preferences.
+3. Click **Notifications** and then **Email notifications** under Preferences.
 
-- To unsubscribe from all email notifications, toggle off the **Email notifications** switch at the top.
+4. To unsubscribe from all email notifications, toggle off the **Email notifications** switch at the top.
 
-- To pick which email notifications to receive, leave the master toggle on and use the checkboxes to select only the notifications you want.
+5. To pick which email notifications to receive, leave the master toggle on and use the checkboxes to select only the notifications you want.
 
-- Click **Save changes** when finished.
+6. Click **Save changes** when finished.
 
 After saving your preferences, your inbox will be much more manageable without an influx of Twitter emails. You can always come back and adjust these settings if your preferences change.
 
@@ -52,13 +52,13 @@ After saving your preferences, your inbox will be much more manageable without a
 
 Sometimes there are certain accounts that tweet way too much or that you simply don’t need to be notified about. Rather than turning off all notifications, you can mute them on a per-account basis. Muting allows you to stay followed without the noise. Here’s how to mute accounts:
 
-- Navigate to the profile page of the account you want to mute.
+1. Navigate to the profile page of the account you want to mute.
 
-- Tap the three dots icon and select **Mute** from the menu that appears.
+2. Tap the three dots icon and select **Mute** from the menu that appears.
 
-- Choose whether to mute for a set time period or indefinitely.
+3. Choose whether to mute for a set time period or indefinitely.
 
-- Tap **Mute** to confirm.
+4. Tap **Mute** to confirm.
 
 Repeat this process for any other accounts you wish to mute. You won’t receive any further notifications from muted accounts, but you’ll still see their tweets in your timeline. To unmute, visit their profile, tap the three dots, and select Unmute.
 
@@ -66,13 +66,13 @@ Repeat this process for any other accounts you wish to mute. You won’t receive
 
 If you connected your phone number to your Twitter account, you may be receiving SMS text notifications in addition to push and email notifications. Getting Twitter notifications via text message is usually overkill for most people. You can turn these off by:
 
-- Open Twitter’s settings and navigate to the **Notifications** section as described earlier.
+1. Open Twitter’s settings and navigate to the **Notifications** section as described earlier.
 
-- Tap **SMS notifications** under Preferences.
+2. Tap **SMS notifications** under Preferences.
 
-- Toggle off the switch at the top to disable all SMS notifications.
+3. Toggle off the switch at the top to disable all SMS notifications.
 
-- Tap **Save changes** to apply the new settings.
+4. Tap **Save changes** to apply the new settings.
 
 No more Twitter notifications blowing up your text messages! As with other notification types, you can re-enable SMS alerts here if you change your mind.
 

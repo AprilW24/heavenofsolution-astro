@@ -14,19 +14,19 @@ Let’s start with changing your display name, which is the simpler of the two p
 
 ## **Changing Your Display Name on Twitter (X) for Android**
 
-- Open the Twitter (X) app on your Android device and ensure you’re logged in to your account.
+1. Open the Twitter (X) app on your Android device and ensure you’re logged in to your account.
 
-- Tap on your profile picture in the top-left corner of the screen to open the main menu.
+2. Tap on your profile picture in the top-left corner of the screen to open the main menu.
 
-- Select “Profile” from the menu options.
+3. Select “Profile” from the menu options.
 
-- On your profile page, tap the “Edit profile” button located near the top of the screen.
+4. On your profile page, tap the “Edit profile” button located near the top of the screen.
 
-- In the editing interface, you’ll see a field labeled “Name.” This is where your current display name appears.
+5. In the editing interface, you’ll see a field labeled “Name.” This is where your current display name appears.
 
-- Tap on the Name field and enter your desired new display name. Remember, you can use up to 50 characters, including spaces and special characters.
+6. Tap on the Name field and enter your desired new display name. Remember, you can use up to 50 characters, including spaces and special characters.
 
-- Once you’re satisfied with your new display name, tap “Save” in the top-right corner of the screen.
+7. Once you’re satisfied with your new display name, tap “Save” in the top-right corner of the screen.
 
 That’s it! Your new display name will now appear on your profile and in your tweets. This change is immediate and doesn’t affect your username or how others mention you in tweets.
 
@@ -34,23 +34,23 @@ Now, let’s move on to the slightly more complex process of changing your usern
 
 ## **Changing Your Username on Twitter (X) for Android**
 
-- Open the Twitter (X) app on your Android device and log in if necessary.
+1. Open the Twitter (X) app on your Android device and log in if necessary.
 
-- Tap your profile picture in the top-left corner to open the main menu.
+2. Tap your profile picture in the top-left corner to open the main menu.
 
-- Scroll down and select “Settings and privacy” from the menu options.
+3. Scroll down and select “Settings and privacy” from the menu options.
 
-- In the Settings menu, tap on “Your account.”
+4. In the Settings menu, tap on “Your account.”
 
-- Select “Account information.” You may be prompted to enter your password for security purposes.
+5. Select “Account information.” You may be prompted to enter your password for security purposes.
 
-- Tap on “Username.” This will display your current username and allow you to change it.
+6. Tap on “Username.” This will display your current username and allow you to change it.
 
-- Enter your desired new username in the field provided. Keep in mind that usernames must be unique across all of Twitter (X), so you may need to try a few options if your first choice is taken.
+7. Enter your desired new username in the field provided. Keep in mind that usernames must be unique across all of Twitter (X), so you may need to try a few options if your first choice is taken.
 
-- If the username is available, you’ll see a green checkmark. If it’s not available, you’ll be prompted to choose a different one.
+8. If the username is available, you’ll see a green checkmark. If it’s not available, you’ll be prompted to choose a different one.
 
-- Once you’ve found an available username that you like, tap “Done” to save your changes.
+9. Once you’ve found an available username that you like, tap “Done” to save your changes.
 
 Your new username is now set! It will be reflected in your profile URL and is what people will use to mention you in tweets or send you direct messages.
 

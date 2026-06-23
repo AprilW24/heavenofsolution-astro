@@ -16,11 +16,11 @@ Before diving into query creation, it’s essential to understand what makes Per
 
 To begin using Perplexity AI on your Android device, follow these steps:
 
-- Download the Perplexity AI app from the Google Play Store
+1. Download the Perplexity AI app from the Google Play Store
 
-- Open the app and create an account (optional, but recommended for a personalized experience)
+2. Open the app and create an account (optional, but recommended for a personalized experience)
 
-- Familiarize yourself with the app’s interface, including the search bar, focus options, and settings
+3. Familiarize yourself with the app’s interface, including the search bar, focus options, and settings
 
 Once you’re set up, you’re ready to start crafting effective queries.
 

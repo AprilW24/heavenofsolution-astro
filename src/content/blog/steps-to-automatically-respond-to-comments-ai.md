@@ -18,25 +18,25 @@ You want to keep your replies sounding personal. A lot of AI tools let you custo
 
 ## Step-by-Step to Setting Up AI Comment Replies On Social Media
 
-- Pick an AI tool that works with your social platforms.
+1. Pick an AI tool that works with your social platforms.
 
-- Connect your *Instagram*, *Facebook*, *YouTube*, or other accounts to the tool.
+2. Connect your *Instagram*, *Facebook*, *YouTube*, or other accounts to the tool.
 
-- Set up an inbox or dashboard to see all your comments.
+3. Set up an inbox or dashboard to see all your comments.
 
-- Choose tone and language settings for replies.
+4. Choose tone and language settings for replies.
 
-- Add keywords that will trigger auto-replies.
+5. Add keywords that will trigger auto-replies.
 
-- Write and save reply templates or adjust existing ones.
+6. Write and save reply templates or adjust existing ones.
 
-- Turn on auto-reply for comments and direct messages.
+7. Turn on auto-reply for comments and direct messages.
 
-- Test the system on a post to check how your responses look.
+8. Test the system on a post to check how your responses look.
 
-- Refine keywords and templates for accuracy.
+9. Refine keywords and templates for accuracy.
 
-- Monitor your replies and adjust settings as needed.
+10. Monitor your replies and adjust settings as needed.
 
 ## Choosing the Best AI Tool for Your Comment Reply Needs
 

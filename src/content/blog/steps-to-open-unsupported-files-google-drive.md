@@ -28,15 +28,15 @@ One of the easiest ways to open an unsupported file on Google Drive is to conver
 
 Here’s how to convert an unsupported file:
 
-- Download the unsupported file from Google Drive to your computer.
+1. Download the unsupported file from Google Drive to your computer.
 
-- Go to an online file conversion site like CloudConvert, Zamzar, or Online-Convert.
+2. Go to an online file conversion site like CloudConvert, Zamzar, or Online-Convert.
 
-- Upload the file you want to convert.
+3. Upload the file you want to convert.
 
-- Choose the output format you want to convert it to. For most files, converting to a standard format like PDF, DOCX, XLSX, etc. will allow you to open it on Google Drive.
+4. Choose the output format you want to convert it to. For most files, converting to a standard format like PDF, DOCX, XLSX, etc. will allow you to open it on Google Drive.
 
-- Download the converted file and re-upload it to Google Drive.
+5. Download the converted file and re-upload it to Google Drive.
 
 The newly converted file should now open without any **unsupported file type** errors. This method works well for document, spreadsheet, and presentation files. Some online converters also support converting less common formats like CAD files, raw images, or archives.
 
@@ -46,15 +46,15 @@ If you don’t want to convert your file or need to edit it in its original form
 
 To open an unsupported file in a third-party app:
 
-- Select the unsupported file in Google Drive.
+1. Select the unsupported file in Google Drive.
 
-- Click the **Open with** button and choose **Connect more apps**.
+2. Click the **Open with** button and choose **Connect more apps**.
 
-- Search for an app that supports your file type, such as AutoCAD for DWG files or Pixlr for PSD files.
+3. Search for an app that supports your file type, such as AutoCAD for DWG files or Pixlr for PSD files.
 
-- Install the app and grant it permission to access your Google Drive files.
+4. Install the app and grant it permission to access your Google Drive files.
 
-- You should now be able to open the file in the third-party app and view, edit, and save your changes.
+5. You should now be able to open the file in the third-party app and view, edit, and save your changes.
 
 Using a third-party app lets you work with unsupported files directly in Google Drive without needing to convert them to a different format. However, some apps may have limited functionality or require a subscription to unlock all features.
 
@@ -76,11 +76,11 @@ If you’re still having trouble opening an unsupported file on Google Drive, yo
 
 Here’s how:
 
-- Select the file in Google Drive and click the **Download** button.
+1. Select the file in Google Drive and click the **Download** button.
 
-- Once the file finishes downloading, open it with the appropriate program. For example, if it’s a Photoshop PSD file, open it with Photoshop.
+2. Once the file finishes downloading, open it with the appropriate program. For example, if it’s a Photoshop PSD file, open it with Photoshop.
 
-- After making your edits, you can re-upload the file to Google Drive if needed.
+3. After making your edits, you can re-upload the file to Google Drive if needed.
 
 This method is a good fallback if the unsupported file is in a very specialized format that online converters and third-party apps don’t handle. However, keep in mind that edits you make to the file won’t be synced with the Google Drive version unless you re-upload it.
 
@@ -104,13 +104,13 @@ Google Drive supports a variety of file formats, but every so often you may enco
 
 To open an unsupported file on Google Drive, try:
 
-- Converting it to a supported format with an online tool
+1. Converting it to a supported format with an online tool
 
-- Opening it with a compatible third-party app
+2. Opening it with a compatible third-party app
 
-- Updating your Google Drive app and browser
+3. Updating your Google Drive app and browser
 
-- Downloading it and opening locally as a last resort
+4. Downloading it and opening locally as a last resort
 
 With these methods, you should be able to access and work with any unsupported file. By sticking to common file formats, converting when needed, and keeping apps updated, you can avoid most file compatibility issues on Google Drive.
 

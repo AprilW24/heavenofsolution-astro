@@ -20,27 +20,27 @@ A phone number means you get verification codes instantly, and you can recover y
 
 ## Step-by-Step Details for Registering Facebook on Phone Without Email
 
-- Grab your phone and install the Facebook app from the Play Store or App Store.
+1. Grab your phone and install the Facebook app from the Play Store or App Store.
 
-- Open the app and tap on “Create New Account.”
+2. Open the app and tap on “Create New Account.”
 
-- Select “Next” and type your first and last names.
+3. Select “Next” and type your first and last names.
 
-- Enter your birthday.
+4. Enter your birthday.
 
-- Pick your gender.
+5. Pick your gender.
 
-- Instead of email, choose “Sign up with mobile number” (*not* with *email*).
+6. Instead of email, choose “Sign up with mobile number” (*not* with *email*).
 
-- Type your phone number in the format with the country code (like +1 for USA).
+7. Type your phone number in the format with the country code (like +1 for USA).
 
-- Set a strong password.
+8. Set a strong password.
 
-- Tap “Sign Up.”
+9. Tap “Sign Up.”
 
-- Wait for Facebook to text you a six-digit code and enter that code in the app.
+10. Wait for Facebook to text you a six-digit code and enter that code in the app.
 
-- Finish any extra details (like uploading a picture) or skip to get started right away.
+11. Finish any extra details (like uploading a picture) or skip to get started right away.
 
 ## Tips and Troubleshooting Registration Issues When Using a Phone Number
 

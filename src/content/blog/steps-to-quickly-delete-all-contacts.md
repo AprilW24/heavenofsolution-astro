@@ -16,13 +16,13 @@ Before we get into the steps to delete all contacts, it’s critical to first **
 
 The best way to back up select contacts is to export them to your Google account or SIM card:
 
-- Open the **Contacts** app on your Android phone
+1. Open the **Contacts** app on your Android phone
 
-- Tap the **three-dot menu** icon and select **Select all**
+2. Tap the **three-dot menu** icon and select **Select all**
 
-- Tap the **three-dot menu** again and choose **Export**
+3. Tap the **three-dot menu** again and choose **Export**
 
-- Select **Export to .VCF file** to save the contacts to your Google Drive, or choose **SIM card** to copy them to your SIM
+4. Select **Export to .VCF file** to save the contacts to your Google Drive, or choose **SIM card** to copy them to your SIM
 
 Repeat this process for any contacts you want to save before proceeding with the steps to delete all contacts below.
 
@@ -30,15 +30,15 @@ Repeat this process for any contacts you want to save before proceeding with the
 
 Now that you’ve backed up any must-save numbers, you’re ready to clear out your Android phone’s entire contact list. Here’s how:
 
-- Open the **Contacts** app on your Android device
+1. Open the **Contacts** app on your Android device
 
-- Tap the **three-dot menu** icon in the upper-right corner
+2. Tap the **three-dot menu** icon in the upper-right corner
 
-- Select **Select all** from the dropdown menu
+3. Select **Select all** from the dropdown menu
 
-- All of your contacts will now be selected. Tap the **trash can** icon at the top
+4. All of your contacts will now be selected. Tap the **trash can** icon at the top
 
-- A popup will appear asking you to confirm the action to delete all contacts. Tap **OK** to proceed.
+5. A popup will appear asking you to confirm the action to delete all contacts. Tap **OK** to proceed.
 
 That’s it! Your phone will now delete every single contact stored in its memory. Depending on how many you have, this process may take a few seconds to a minute to complete.
 
@@ -46,15 +46,15 @@ That’s it! Your phone will now delete every single contact stored in its memor
 
 If for some reason the above steps don’t work on your particular Android phone model or version, there is an alternate way to delete all contacts via the Settings menu:
 
-- Open the **Settings** app on your device
+1. Open the **Settings** app on your device
 
-- Scroll down and tap **Apps & notifications**
+2. Scroll down and tap **Apps & notifications**
 
-- Find and tap the **Contacts** app in the list
+3. Find and tap the **Contacts** app in the list
 
-- Tap **Storage**
+4. Tap **Storage**
 
-- Select **Clear data** and then tap **OK** on the popup to confirm
+5. Select **Clear data** and then tap **OK** on the popup to confirm
 
 This will erase not only your contacts but all data associated with the Contacts app. The end result is the same though – all of your contacts will be deleted.
 
@@ -64,11 +64,11 @@ If you use Google to back up and sync your contacts, it’s important to note th
 
 The next time your phone syncs with Google, it will simply re-download all of those contacts again, reversing the deletion. To prevent this, make sure to unsync Google Contacts before deleting:
 
-- Open **Settings** and go to **Accounts**
+1. Open **Settings** and go to **Accounts**
 
-- Tap your **Google account**
+2. Tap your **Google account**
 
-- Untick the **Contacts** option to turn off contact syncing
+3. Untick the **Contacts** option to turn off contact syncing
 
 Once you’ve deleted contacts on your phone, you can then go to contacts.google.com to delete any old or unwanted contacts from your Google account as well. Then re-enable contact syncing on your phone.
 

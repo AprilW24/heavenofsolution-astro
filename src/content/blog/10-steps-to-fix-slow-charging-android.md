@@ -40,13 +40,13 @@ Over time, lint, dust, and debris can accumulate in your device’s charging por
 
 To clean the charging port:
 
-- Power off your device
+1. Power off your device
 
-- Use a small, soft brush (like a clean toothbrush) or compressed air to gently remove any visible debris
+2. Use a small, soft brush (like a clean toothbrush) or compressed air to gently remove any visible debris
 
-- For stubborn dirt, carefully use a toothpick or plastic dental pick – avoid metal tools that could damage the port
+3. For stubborn dirt, carefully use a toothpick or plastic dental pick – avoid metal tools that could damage the port
 
-- Once clean, try charging your device again
+4. Once clean, try charging your device again
 
 Be extremely careful when cleaning the charging port to avoid damaging the delicate connectors inside.
 
@@ -58,11 +58,11 @@ To update your Android OS:
 
 ![](/wp-content/uploads/2024/08/HoS_FixSlowCharging-2.jpg)
 
-- Go to Settings > System > System Update
+1. Go to Settings > System > System Update
 
-- If an update is available, download and install it
+2. If an update is available, download and install it
 
-- Restart your device and check if charging speed improves
+3. Restart your device and check if charging speed improves
 
 Remember that the exact steps may vary slightly depending on your device manufacturer and Android version.
 
@@ -88,11 +88,11 @@ Some apps can be particularly power-hungry, causing your device to charge slowly
 
 ![](/wp-content/uploads/2024/08/HoS_FixSlowCharging-1.jpg)
 
-- Go to Settings > Battery
+1. Go to Settings > Battery
 
-- Look for the battery usage breakdown by app
+2. Look for the battery usage breakdown by app
 
-- Uninstall or restrict background usage for apps consuming excessive power
+3. Uninstall or restrict background usage for apps consuming excessive power
 
 Consider using built-in battery optimization features or third-party battery saving apps to manage power-hungry applications more effectively.
 
@@ -102,11 +102,11 @@ Many modern Android devices support fast charging, but this feature might not be
 
 To enable fast charging:
 
-- Go to Settings > Battery
+1. Go to Settings > Battery
 
-- Look for an option like **Fast charging** or **Advanced charging**
+2. Look for an option like **Fast charging** or **Advanced charging**
 
-- Toggle it on if it’s available
+3. Toggle it on if it’s available
 
 Note that fast charging requires a compatible charger and cable, so make sure you’re using the appropriate equipment.
 
@@ -114,13 +114,13 @@ Note that fast charging requires a compatible charger and cable, so make sure yo
 
 Sometimes, the Android system may not accurately report the battery level, leading to charging issues. Calibrating your battery can help resolve this:
 
-- Use your device until it shuts down due to low battery
+1. Use your device until it shuts down due to low battery
 
-- Charge it to 100% without interruption
+2. Charge it to 100% without interruption
 
-- Unplug and use the device until it shuts down again
+3. Unplug and use the device until it shuts down again
 
-- Repeat this process 2-3 times
+4. Repeat this process 2-3 times
 
 This process helps recalibrate the battery management system, potentially improving charging performance.
 
@@ -138,13 +138,13 @@ Signs of water damage include:
 
 If you suspect water damage:
 
-- Power off your device immediately
+1. Power off your device immediately
 
-- Remove the battery if possible (for devices with removable batteries)
+2. Remove the battery if possible (for devices with removable batteries)
 
-- Place the device in a bag of uncooked rice or silica gel packets for 24-48 hours
+3. Place the device in a bag of uncooked rice or silica gel packets for 24-48 hours
 
-- After drying, try charging again
+4. After drying, try charging again
 
 For severe cases or if you’re unsure, it’s best to consult a professional repair service.
 
@@ -160,11 +160,11 @@ Before performing a factory reset:
 
 To perform a factory reset:
 
-- Go to Settings > System > Reset options
+1. Go to Settings > System > Reset options
 
-- Select **Erase all data (factory reset)**
+2. Select **Erase all data (factory reset)**
 
-- Follow the on-screen instructions to complete the process
+3. Follow the on-screen instructions to complete the process
 
 ![](/wp-content/uploads/2024/08/HoS_FixSlowCharging.jpg)
 

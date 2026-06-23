@@ -12,13 +12,13 @@ Have you ever accidentally deleted an important video from your Android phone an
 
 The first place to look for your deleted videos is the **Recently Deleted** or **Trash** folder in your Android phone’s Gallery app. When you delete a video, it is moved to this folder and kept for 30 days before being permanently deleted. Here’s how to restore videos from the Recently Deleted folder:
 
-- Open the **Gallery** app on your Android phone.
+1. Open the **Gallery** app on your Android phone.
 
-- Go to the **Albums** tab and scroll down to find the **Recently Deleted** or **Trash** folder.
+2. Go to the **Albums** tab and scroll down to find the **Recently Deleted** or **Trash** folder.
 
-- Tap on the folder to view the deleted videos.
+3. Tap on the folder to view the deleted videos.
 
-- Select the videos you want to recover and tap on the **Restore** button.
+4. Select the videos you want to recover and tap on the **Restore** button.
 
 Your selected videos will be restored to their original location in the Gallery app.
 
@@ -26,15 +26,15 @@ Your selected videos will be restored to their original location in the Gallery 
 
 If you have backed up your videos to **Google Photos** before deleting them, you can easily recover them from there. Google Photos keeps deleted items in the trash for 60 days. Follow these steps to recover videos from Google Photos:
 
-- Open the **Google Photos** app on your Android device.
+1. Open the **Google Photos** app on your Android device.
 
-- Tap on the **Library** tab at the bottom.
+2. Tap on the **Library** tab at the bottom.
 
-- Select the **Trash** folder.
+3. Select the **Trash** folder.
 
-- Find and select the videos you want to recover.
+4. Find and select the videos you want to recover.
 
-- Tap on the **Restore** button to get your videos back.
+5. Tap on the **Restore** button to get your videos back.
 
 The restored videos will reappear in your Google Photos library and Gallery app.
 
@@ -42,13 +42,13 @@ The restored videos will reappear in your Google Photos library and Gallery app.
 
 Another way to recover deleted videos is by using **Google Drive**, provided you have synced your videos to Drive before losing them. Here’s how to retrieve your videos from Google Drive:
 
-- Open the **Google Drive** app on your Android phone.
+1. Open the **Google Drive** app on your Android phone.
 
-- Tap on the **Menu** icon (three horizontal lines) and select **Trash**.
+2. Tap on the **Menu** icon (three horizontal lines) and select **Trash**.
 
-- Locate the deleted videos you want to recover.
+3. Locate the deleted videos you want to recover.
 
-- Select the videos and tap on the **Restore** button.
+4. Select the videos and tap on the **Restore** button.
 
 The videos will be restored to their original location in Google Drive and your phone’s Gallery app.
 

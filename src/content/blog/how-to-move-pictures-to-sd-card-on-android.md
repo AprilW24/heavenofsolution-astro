@@ -26,21 +26,21 @@ Now that we understand the benefits, let’s explore different methods to move p
 
 Most Android devices come with a built-in file manager app. This method is straightforward and doesn’t require any additional app installations.
 
-- Insert your SD card into your Android device if you haven’t already done so.
+1. Insert your SD card into your Android device if you haven’t already done so.
 
-- Open your device’s app drawer and look for the File Manager app. It might be called “My Files,” “Files,” or something similar.
+2. Open your device’s app drawer and look for the File Manager app. It might be called “My Files,” “Files,” or something similar.
 
-- Open the File Manager and navigate to the folder where your photos are stored. This is typically the “DCIM” or “Pictures” folder.
+3. Open the File Manager and navigate to the folder where your photos are stored. This is typically the “DCIM” or “Pictures” folder.
 
-- Select the photos you want to move by long-pressing on them.
+4. Select the photos you want to move by long-pressing on them.
 
-- Once you’ve selected all the desired photos, look for the “Move” or “Copy” option, usually represented by three dots or a menu icon.
+5. Once you’ve selected all the desired photos, look for the “Move” or “Copy” option, usually represented by three dots or a menu icon.
 
-- Choose “Move” or “Copy,” then navigate to your SD card storage.
+6. Choose “Move” or “Copy,” then navigate to your SD card storage.
 
-- Select the destination folder on your SD card or create a new one.
+7. Select the destination folder on your SD card or create a new one.
 
-- Tap “Move here” or “Paste” to complete the transfer.
+8. Tap “Move here” or “Paste” to complete the transfer.
 
 This method is simple and works well for most Android devices. However, the exact steps might vary slightly depending on your device’s manufacturer and Android version.
 
@@ -48,23 +48,23 @@ This method is simple and works well for most Android devices. However, the exac
 
 Files by Google is a popular file management app that offers a user-friendly interface and additional features. Here’s how to use it to move pictures to your SD card:
 
-- If you don’t have Files by Google installed, download it from the Google Play Store.
+1. If you don’t have Files by Google installed, download it from the Google Play Store.
 
-- Open the Files by Google app.
+2. Open the Files by Google app.
 
-- Tap on the “Browse” tab at the bottom of the screen.
+3. Tap on the “Browse” tab at the bottom of the screen.
 
-- Under “Categories,” select “Images.”
+4. Under “Categories,” select “Images.”
 
-- Choose the photos you want to move by tapping and holding on one photo, then tapping additional photos to select multiple.
+5. Choose the photos you want to move by tapping and holding on one photo, then tapping additional photos to select multiple.
 
-- Once you’ve selected all desired photos, tap the three-dot menu in the top-right corner.
+6. Once you’ve selected all desired photos, tap the three-dot menu in the top-right corner.
 
-- Choose “Move to” from the menu.
+7. Choose “Move to” from the menu.
 
-- Navigate to your SD card storage and select the destination folder or create a new one.
+8. Navigate to your SD card storage and select the destination folder or create a new one.
 
-- Tap “Move here” to complete the transfer.
+9. Tap “Move here” to complete the transfer.
 
 Files by Google offers a clean interface and makes it easy to manage your files, including moving photos to your SD card.
 
@@ -72,23 +72,23 @@ Files by Google offers a clean interface and makes it easy to manage your files,
 
 If you’re using a Samsung device, you can use the built-in My Files app to move pictures to your SD card:
 
-- Open the My Files app on your Samsung device.
+1. Open the My Files app on your Samsung device.
 
-- Tap on “Internal storage.”
+2. Tap on “Internal storage.”
 
-- Navigate to the DCIM folder or wherever your photos are stored.
+3. Navigate to the DCIM folder or wherever your photos are stored.
 
-- Select the photos you want to move by tapping and holding one photo, then tapping additional photos.
+4. Select the photos you want to move by tapping and holding one photo, then tapping additional photos.
 
-- Tap the “More” option (three dots) at the bottom of the screen.
+5. Tap the “More” option (three dots) at the bottom of the screen.
 
-- Choose “Move.”
+6. Choose “Move.”
 
-- Navigate to your SD card storage.
+7. Navigate to your SD card storage.
 
-- Select the destination folder or create a new one.
+8. Select the destination folder or create a new one.
 
-- Tap “Move here” to complete the transfer.
+9. Tap “Move here” to complete the transfer.
 
 Samsung’s My Files app provides a straightforward way to manage files on your device, including moving photos to an SD card.
 
@@ -96,21 +96,21 @@ Samsung’s My Files app provides a straightforward way to manage files on your 
 
 If you prefer more advanced features or a different user interface, you can use a third-party file manager app like ES File Explorer or Solid Explorer. The general steps are similar to the built-in file manager method:
 
-- Install your preferred file manager app from the Google Play Store.
+1. Install your preferred file manager app from the Google Play Store.
 
-- Open the app and navigate to your internal storage.
+2. Open the app and navigate to your internal storage.
 
-- Locate the folder containing your photos (usually DCIM or Pictures).
+3. Locate the folder containing your photos (usually DCIM or Pictures).
 
-- Select the photos you want to move.
+4. Select the photos you want to move.
 
-- Look for the “Move” or “Copy” option in the app’s menu.
+5. Look for the “Move” or “Copy” option in the app’s menu.
 
-- Choose your SD card as the destination.
+6. Choose your SD card as the destination.
 
-- Select or create a folder on your SD card.
+7. Select or create a folder on your SD card.
 
-- Confirm the move operation.
+8. Confirm the move operation.
 
 Third-party file managers often offer additional features like cloud storage integration, advanced search options, and more customization choices.
 

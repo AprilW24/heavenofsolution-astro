@@ -24,17 +24,17 @@ Google Photos does have a feature called “identical duplicate detection” tha
 
 The most straightforward way to remove duplicate photos is to go through your Google Photos library and manually delete them. Here’s how:
 
-- Open the **Google Photos** app on your Android phone or tablet
+1. Open the **Google Photos** app on your Android phone or tablet
 
-- Tap on the **Photos** tab at the bottom to view all your backed up photos
+2. Tap on the **Photos** tab at the bottom to view all your backed up photos
 
-- Scroll through your photo feed to look for duplicates
+3. Scroll through your photo feed to look for duplicates
 
-- When you find duplicate photos, tap on one to open it
+4. When you find duplicate photos, tap on one to open it
 
-- Tap the **three-dot menu** in the top right corner
+5. Tap the **three-dot menu** in the top right corner
 
-- Select **Delete from device** to remove that copy of the photo
+6. Select **Delete from device** to remove that copy of the photo
 
 Repeat this process for any other duplicates you find. Keep in mind that deleting a photo will remove it from all your synced devices, so make sure you actually want to delete that copy.
 
@@ -44,17 +44,17 @@ This method works well if you only have a small number of duplicates. But it can
 
 Google has an app called Files by Google that can scan your Android device for duplicate files, including duplicate photos. The app uses machine learning to analyze your files and detect copies. Here’s how to use it to find and delete duplicate photos:
 
-- Download the **Files by Google** app from the Play Store if you don’t already have it
+1. Download the **Files by Google** app from the Play Store if you don’t already have it
 
-- Open the app and tap the **Clean** tab at the bottom
+2. Open the app and tap the **Clean** tab at the bottom
 
-- Look for a card labeled **Duplicate files** – if there are no duplicates, this card will not appear
+3. Look for a card labeled **Duplicate files** – if there are no duplicates, this card will not appear
 
-- Tap the **Select files** button on the card to view the duplicate photos
+4. Tap the **Select files** button on the card to view the duplicate photos
 
-- The app will group the duplicates together – tap the **Original** label to keep that copy and delete the others
+5. The app will group the duplicates together – tap the **Original** label to keep that copy and delete the others
 
-- After selecting which copies to remove, tap the **Delete** button to delete the duplicates
+6. After selecting which copies to remove, tap the **Delete** button to delete the duplicates
 
 The Files app makes it very quick and easy to find and delete batches of duplicate photos. However, it can only find exact duplicates, not photos that are similar but not identical.
 
@@ -70,17 +70,17 @@ There are also many third-party apps available on the Play Store specifically de
 
 The basic process is similar for most of these apps:
 
-- Download and install the duplicate photo finder app of your choice from the Play Store
+1. Download and install the duplicate photo finder app of your choice from the Play Store
 
-- Open the app and grant it permission to access your photos
+2. Open the app and grant it permission to access your photos
 
-- Select which folders or albums you want it to scan for duplicates
+3. Select which folders or albums you want it to scan for duplicates
 
-- Let the app scan your photo library – this may take a few minutes
+4. Let the app scan your photo library – this may take a few minutes
 
-- Once the scan is complete, the app will show you groups of duplicate or similar photos it found
+5. Once the scan is complete, the app will show you groups of duplicate or similar photos it found
 
-- Select which copies you want to delete and tap the delete button to remove them
+6. Select which copies you want to delete and tap the delete button to remove them
 
 Using a dedicated duplicate photo cleaner app is the most thorough way to find and eliminate duplicate photos from your Google Photos library. Just be careful when selecting photos to delete, as the app may flag photos as duplicates that you actually want to keep (such as burst shots or edited versions).
 

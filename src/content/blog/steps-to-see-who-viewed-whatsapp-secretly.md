@@ -12,13 +12,13 @@ Have you ever wondered who’s been secretly checking out your WhatsApp status u
 
 The first step is to check who has viewed your WhatsApp status normally. Here’s how:
 
-- Open WhatsApp and go to the Status tab.
+1. Open WhatsApp and go to the Status tab.
 
-- Tap on **My Status**.
+2. Tap on **My Status**.
 
-- Next to each status update, you’ll see an eye icon with the number of views. Tap on it.
+3. Next to each status update, you’ll see an eye icon with the number of views. Tap on it.
 
-- You’ll see a list of contacts who viewed that particular status update, along with how long ago they viewed it.
+4. You’ll see a list of contacts who viewed that particular status update, along with how long ago they viewed it.
 
 If you don’t see someone on this list who you suspect has seen your status, they might be secretly viewing it with their read receipts turned off.
 
@@ -26,9 +26,9 @@ If you don’t see someone on this list who you suspect has seen your status, th
 
 To see status views, you need to have read receipts enabled in your WhatsApp settings. If you have them turned off, you won’t be able to see who’s viewed your status, and others won’t see if you’ve viewed theirs. Here’s how to check:
 
-- Go to WhatsApp Settings > Account > Privacy.
+1. Go to WhatsApp Settings > Account > Privacy.
 
-- Scroll down to **Read Receipts** and make sure the toggle is turned on.
+2. Scroll down to **Read Receipts** and make sure the toggle is turned on.
 
 Keep in mind that turning on read receipts will allow others to see when you’ve viewed their status updates as well.
 

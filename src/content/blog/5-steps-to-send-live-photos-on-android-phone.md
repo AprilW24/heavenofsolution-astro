@@ -18,13 +18,13 @@ To check if your phone has the feature, open the Camera app and look for a motio
 
 Once you’ve confirmed your Android phone has Live Photo capability, you need to turn on the setting:
 
-- Open the Camera app
+1. Open the Camera app
 
-- Tap the Settings icon (gear symbol)
+2. Tap the Settings icon (gear symbol)
 
-- Scroll down and select the **Motion photo** or **Moving pictures** option
+3. Scroll down and select the **Motion photo** or **Moving pictures** option
 
-- Toggle the switch to the On position
+4. Toggle the switch to the On position
 
 Now when you take photos, your phone will capture a few seconds of motion and sound by default. You can disable the setting later if you want to take regular still photos again.
 
@@ -32,11 +32,11 @@ Now when you take photos, your phone will capture a few seconds of motion and so
 
 With the Live Photo feature enabled, **start snapping some moving images!** The process is the same as taking normal pictures:
 
-- Frame your shot in the Camera viewfinder
+1. Frame your shot in the Camera viewfinder
 
-- Tap the shutter button when ready
+2. Tap the shutter button when ready
 
-- Hold the phone steady for a couple seconds before and after tapping the shutter
+3. Hold the phone steady for a couple seconds before and after tapping the shutter
 
 Your phone will capture a short video clip along with the still frame. You can preview the moving image in the Gallery app. Tap and hold on the photo thumbnail to see it animate.
 
@@ -60,25 +60,25 @@ The built-in texting apps on Pixel and Galaxy phones can send Live Photos to oth
 
 Let’s walk through the steps to send your moving pictures using the Google Photos app:
 
-- Open Google Photos and select the Live Photo you want to share
+1. Open Google Photos and select the Live Photo you want to share
 
-- Tap the Share icon (usually a “<” symbol with dots)
+2. Tap the Share icon (usually a “<” symbol with dots)
 
-- Select the contact or contacts you want to message
+3. Select the contact or contacts you want to message
 
-- Tap the Send button
+4. Tap the Send button
 
 Google Photos will upload your Live Photo and generate a link that gets sent to the recipient. When they open the link, they’ll be able to view the full moving image, not just a still thumbnail.
 
 To share multiple Live Photos at once in Google Photos:
 
-- In the Google Photos app, long-press on a Live Photo to select it
+1. In the Google Photos app, long-press on a Live Photo to select it
 
-- Tap on additional Live Photos you want to include
+2. Tap on additional Live Photos you want to include
 
-- Hit the Share icon
+3. Hit the Share icon
 
-- Choose your contacts and tap Send
+4. Choose your contacts and tap Send
 
 Keep in mind, **Live Photos take up more storage space and data than regular pictures** since they are essentially short video clips. Sending multiple Live Photos, especially over cellular data, may take longer than sharing still images.
 

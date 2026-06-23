@@ -32,15 +32,15 @@ The easiest and most reliable way to retrieve deleted data from a SIM card is by
 
 To use these SIM data recovery tools, you typically need to:
 
-- Download and install the software on your Windows or Mac computer
+1. Download and install the software on your Windows or Mac computer
 
-- Connect your Android phone with the SIM card inserted
+2. Connect your Android phone with the SIM card inserted
 
-- Scan for deleted data on the SIM card
+3. Scan for deleted data on the SIM card
 
-- Preview the recoverable files
+4. Preview the recoverable files
 
-- Select and recover data to your computer
+5. Select and recover data to your computer
 
 Most tools require your Android phone to be rooted in order to access and extract data from the SIM card. So you may need to root your device first.
 
@@ -48,15 +48,15 @@ Most tools require your Android phone to be rooted in order to access and extrac
 
 If you haven’t yet overwritten or deleted data from your SIM card, you may be able to access it directly from your Android phone’s settings. While you can’t recover deleted information this way, it’s worth checking what’s still stored on your SIM. Here’s how:
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap on **Biometrics and Security** (or similar)
+2. Tap on **Biometrics and Security** (or similar)
 
-- Look for the **SIM card manager** option and tap on it
+3. Look for the **SIM card manager** option and tap on it
 
-- Select the SIM card you want to check
+4. Select the SIM card you want to check
 
-- You should see options to view contacts, messages, and numbers stored on that SIM card
+5. You should see options to view contacts, messages, and numbers stored on that SIM card
 
 On some phones, you may need to look under **About Phone** or search for **SIM** in settings to find the SIM card manager. The exact steps can vary depending on your specific device and Android version.
 

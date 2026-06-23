@@ -82,29 +82,29 @@ While most phones come with a selection of alarm tones, you can often use your o
 
 Setting an alarm is one thing, but using it effectively is another. Here are some tips to make the most of your phone’s alarm feature:
 
-- **Consistency is key**: Try to set your alarm for the same time every day, even on weekends. This helps regulate your body’s internal clock.
+1. **Consistency is key**: Try to set your alarm for the same time every day, even on weekends. This helps regulate your body’s internal clock.
 
-- **Avoid the snooze button**: While tempting, repeatedly hitting snooze can disrupt your sleep cycle and make you feel groggier.
+2. **Avoid the snooze button**: While tempting, repeatedly hitting snooze can disrupt your sleep cycle and make you feel groggier.
 
-- **Place your phone away from the bed**: This forces you to get up to turn off the alarm, making it less likely you’ll fall back asleep.
+3. **Place your phone away from the bed**: This forces you to get up to turn off the alarm, making it less likely you’ll fall back asleep.
 
-- **Use gentle sounds**: Harsh, loud alarms can be stressful. Opt for more soothing sounds that gradually increase in volume.
+4. **Use gentle sounds**: Harsh, loud alarms can be stressful. Opt for more soothing sounds that gradually increase in volume.
 
-- **Set multiple alarms**: If you’re a heavy sleeper, setting a series of alarms a few minutes apart can help ensure you wake up.
+5. **Set multiple alarms**: If you’re a heavy sleeper, setting a series of alarms a few minutes apart can help ensure you wake up.
 
-- **Utilize do not disturb**: Most phones allow alarms to sound even when in do not disturb mode, ensuring you wake up without being disturbed by notifications during the night.
+6. **Utilize do not disturb**: Most phones allow alarms to sound even when in do not disturb mode, ensuring you wake up without being disturbed by notifications during the night.
 
 ## Troubleshooting Common Alarm Issues
 
 Even with a reliable smartphone, alarm issues can occur. Here are some common problems and their solutions:
 
-- **Alarm not sounding**: Ensure your phone’s volume is turned up and not set to silent or vibrate mode.
+1. **Alarm not sounding**: Ensure your phone’s volume is turned up and not set to silent or vibrate mode.
 
-- **Alarm sounding at the wrong time**: Double-check your AM/PM settings and ensure your phone’s time and date are set correctly.
+2. **Alarm sounding at the wrong time**: Double-check your AM/PM settings and ensure your phone’s time and date are set correctly.
 
-- **Alarm stopping automatically**: Some phones have a feature that silences alarms after a certain period. Check your settings to extend this time if needed.
+3. **Alarm stopping automatically**: Some phones have a feature that silences alarms after a certain period. Check your settings to extend this time if needed.
 
-- **Alarm not loud enough**: Adjust the alarm volume in your phone’s settings, or consider using a louder ringtone.
+4. **Alarm not loud enough**: Adjust the alarm volume in your phone’s settings, or consider using a louder ringtone.
 
 ## Third-Party Alarm Apps
 

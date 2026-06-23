@@ -12,21 +12,21 @@ If your Android phone’s voicemail inbox is cluttered with old messages you no 
 
 Many Android phones come with a pre-installed Visual Voicemail app that provides a simple interface for managing your voicemails. Here’s how to use it to delete messages:
 
-- Open the **Visual Voicemail** app on your Android phone. The icon typically resembles a tape cassette or audio waveform.
+1. Open the **Visual Voicemail** app on your Android phone. The icon typically resembles a tape cassette or audio waveform.
 
-- Tap on the voicemail message you want to delete to open it.
+2. Tap on the voicemail message you want to delete to open it.
 
-- Tap the **trash can icon** to delete that individual voicemail. You may need to tap an overflow menu icon first (three vertical dots) to see the delete option on some phones.
+3. Tap the **trash can icon** to delete that individual voicemail. You may need to tap an overflow menu icon first (three vertical dots) to see the delete option on some phones.
 
-- Confirm you want to permanently delete the voicemail by tapping **OK** or **Delete** in the pop-up window.
+4. Confirm you want to permanently delete the voicemail by tapping **OK** or **Delete** in the pop-up window.
 
 You can also delete multiple voicemails at once in the Visual Voicemail app:
 
-- In the voicemail inbox, tap the **checkmark icon** to enter selection mode.
+1. In the voicemail inbox, tap the **checkmark icon** to enter selection mode.
 
-- Tap each voicemail you want to delete to select it, or choose **Select All**.
+2. Tap each voicemail you want to delete to select it, or choose **Select All**.
 
-- Tap the **trash can icon** and confirm to delete all selected voicemails.
+3. Tap the **trash can icon** and confirm to delete all selected voicemails.
 
 The selected voicemails will be permanently erased from your phone. Note that the exact icons and menu options may vary slightly depending on your specific Android phone model and carrier’s Visual Voicemail app.
 
@@ -36,45 +36,45 @@ If your Android phone doesn’t have a visual voicemail app, you can also delete
 
 ### Verizon
 
-- Open the Phone app and dial *86
+1. Open the Phone app and dial *86
 
-- Press the phone icon to call voicemail
+2. Press the phone icon to call voicemail
 
-- Enter your voicemail password if prompted
+3. Enter your voicemail password if prompted
 
-- During or after hearing a message, press 7 to delete it
+4. During or after hearing a message, press 7 to delete it
 
 ### AT&T
 
-- Open the Phone app
+1. Open the Phone app
 
-- Press and hold the 1 key to call voicemail
+2. Press and hold the 1 key to call voicemail
 
-- Enter your PIN
+3. Enter your PIN
 
-- Press 7 during or after a voicemail to erase it
+4. Press 7 during or after a voicemail to erase it
 
 ### T-Mobile
 
-- Open the Phone app
+1. Open the Phone app
 
-- Tap and hold 1 to dial voicemail
+2. Tap and hold 1 to dial voicemail
 
-- Enter your password
+3. Enter your password
 
-- Press 7 while listening to a message to delete it
+4. Press 7 while listening to a message to delete it
 
 ### Sprint
 
-- Use the Phone app to dial your own number
+1. Use the Phone app to dial your own number
 
-- Wait for the call to go to voicemail
+2. Wait for the call to go to voicemail
 
-- Press * during the greeting
+3. Press * during the greeting
 
-- Input your voicemail passcode
+4. Input your voicemail passcode
 
-- Press 7 during a message to delete it
+5. Press 7 during a message to delete it
 
 After deleting voicemails over the phone, they are permanently erased and cannot be recovered. Always listen to important voicemails before deciding to delete them.
 
@@ -82,11 +82,11 @@ After deleting voicemails over the phone, they are permanently erased and cannot
 
 To bulk delete voicemails from your phone without a visual voicemail app:
 
-- Call your voicemail using the steps above for your carrier
+1. Call your voicemail using the steps above for your carrier
 
-- Instead of deleting individual messages, keep pressing 7 repeatedly to delete each voicemail as it plays
+2. Instead of deleting individual messages, keep pressing 7 repeatedly to delete each voicemail as it plays
 
-- Hang up when finished and all the voicemails you skipped through will be erased
+3. Hang up when finished and all the voicemails you skipped through will be erased
 
 This method allows you to quickly delete all or many voicemails at once over the phone. Just be careful not to accidentally erase any important messages you haven’t listened to yet.
 

@@ -14,11 +14,11 @@ If you find yourself in this situation, don’t panic. There are a few methods y
 
 The simplest way to recover deleted Instagram messages is to ask the person you were chatting with if they can send you screenshots of the conversation. Here’s how:
 
-- Open the Instagram app and go to your DMs.
+1. Open the Instagram app and go to your DMs.
 
-- Find the person you were chatting with and send them a message explaining that you accidentally deleted the conversation and asking if they can send you screenshots.
+2. Find the person you were chatting with and send them a message explaining that you accidentally deleted the conversation and asking if they can send you screenshots.
 
-- Wait for them to respond. If they still have the messages, they should be able to send you screenshots.
+3. Wait for them to respond. If they still have the messages, they should be able to send you screenshots.
 
 **Keep in mind:** This method relies on the other person still having a copy of the messages and being willing to send you screenshots. There’s a chance they may have also deleted the conversation or simply don’t want to share the messages again.
 

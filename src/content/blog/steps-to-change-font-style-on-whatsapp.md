@@ -18,19 +18,19 @@ If you want to go beyond the basics, like using different fonts or underlining, 
 
 ## 3 Simple Steps to Style Your WhatsApp Text
 
-- Type your message in the WhatsApp chat window.
+1. Type your message in the WhatsApp chat window.
 
-- Add special characters around your text to change the style:
+2. Add special characters around your text to change the style:
 
-For *bold*: Put asterisks on both sides, like **this**.
+- For *bold*: Put asterisks on both sides, like **this**.
 
-- For *italic*: Use underscores, like _*this*_.
+3. For *italic*: Use underscores, like _*this*_.
 
-- For ~strikethrough~: Use tildes, like ~this~.
+4. For ~strikethrough~: Use tildes, like ~this~.
 
-- For monospace: Use three backticks, like this
+5. For monospace: Use three backticks, like this
 
-- Send your message and see the new style in the chat.
+6. Send your message and see the new style in the chat.
 
 ## WhatsApp Formatting Shortcuts Work on Both Android and iPhone
 

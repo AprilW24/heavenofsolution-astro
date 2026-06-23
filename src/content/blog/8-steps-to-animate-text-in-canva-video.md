@@ -32,23 +32,23 @@ Remember to keep your text concise. You don’t want viewers struggling to read 
 
 Now that you have a plan, it’s time to open Canva and start creating:
 
-- Log into your Canva account (or create one if you haven’t already).
+1. Log into your Canva account (or create one if you haven’t already).
 
-- Click on “Create a design” and select “Video” from the options.
+2. Click on “Create a design” and select “Video” from the options.
 
-- Choose a template or start with a blank canvas, depending on your preferences.
+3. Choose a template or start with a blank canvas, depending on your preferences.
 
 ## Step 3: Add Your Text
 
 With your project open, it’s time to add the text you want to animate:
 
-- Click on the “Text” option in the left sidebar.
+1. Click on the “Text” option in the left sidebar.
 
-- Choose a text style or click “Add a heading” to use a basic text box.
+2. Choose a text style or click “Add a heading” to use a basic text box.
 
-- Type or paste your text into the box.
+3. Type or paste your text into the box.
 
-- Adjust the font, size, and color to match your video’s style.
+4. Adjust the font, size, and color to match your video’s style.
 
 **Pro tip**: For better control over your animations, create separate text boxes for each phrase or sentence you want to animate independently.
 
@@ -56,13 +56,13 @@ With your project open, it’s time to add the text you want to animate:
 
 Now comes the fun part – adding animation to your text:
 
-- Select the text box you want to animate.
+1. Select the text box you want to animate.
 
-- Click on the “Animate” button in the top toolbar.
+2. Click on the “Animate” button in the top toolbar.
 
-- Choose from the available animation styles (e.g., Fade, Fly, Pop, Slide).
+3. Choose from the available animation styles (e.g., Fade, Fly, Pop, Slide).
 
-- Adjust the duration of the animation if needed.
+4. Adjust the duration of the animation if needed.
 
 Canva offers various animation styles, so experiment to find the one that best suits your content. Remember, consistency is key – try to stick to one or two animation styles throughout your video for a cohesive look.
 
@@ -70,31 +70,31 @@ Canva offers various animation styles, so experiment to find the one that best s
 
 To create a smooth flow in your video, you’ll need to adjust the timing of your text animations:
 
-- Click on the “Timeline” button at the bottom of the screen.
+1. Click on the “Timeline” button at the bottom of the screen.
 
-- Drag the edges of each text element to adjust when it appears and disappears.
+2. Drag the edges of each text element to adjust when it appears and disappears.
 
-- Use the “+” button to add pauses between elements if needed.
+3. Use the “+” button to add pauses between elements if needed.
 
 For more precise control, you can create separate pages for each text element:
 
-- Duplicate your page.
+1. Duplicate your page.
 
-- On the new page, remove the animation from the previous text and add your next line.
+2. On the new page, remove the animation from the previous text and add your next line.
 
-- Animate only the new line of text.
+3. Animate only the new line of text.
 
-- Repeat this process for each text element.
+4. Repeat this process for each text element.
 
 ## Step 6: Add Background and Music
 
 To enhance your video further:
 
-- Choose a background image or video that complements your text.
+1. Choose a background image or video that complements your text.
 
-- Add background music by clicking on “Audio” in the left sidebar.
+2. Add background music by clicking on “Audio” in the left sidebar.
 
-- Adjust the volume and duration of the music to match your video.
+3. Adjust the volume and duration of the music to match your video.
 
 Canva offers a library of free and premium music tracks. If you’re on a budget, start with the free options before considering an upgrade to Canva Pro.
 
@@ -102,11 +102,11 @@ Canva offers a library of free and premium music tracks. If you’re on a budget
 
 Before finalizing your video:
 
-- Use the preview function to watch your entire video.
+1. Use the preview function to watch your entire video.
 
-- Pay attention to the timing and flow of your text animations.
+2. Pay attention to the timing and flow of your text animations.
 
-- Make any necessary adjustments to ensure smooth transitions.
+3. Make any necessary adjustments to ensure smooth transitions.
 
 Don’t be afraid to iterate. Sometimes small tweaks can make a big difference in the overall impact of your video.
 
@@ -114,11 +114,11 @@ Don’t be afraid to iterate. Sometimes small tweaks can make a big difference i
 
 Once you’re satisfied with your animated text video:
 
-- Click the “Share” button in the top right corner.
+1. Click the “Share” button in the top right corner.
 
-- Select “Download” and choose your preferred video format and quality.
+2. Select “Download” and choose your preferred video format and quality.
 
-- Wait for Canva to process and download your video.
+3. Wait for Canva to process and download your video.
 
 ## Conclusion
 

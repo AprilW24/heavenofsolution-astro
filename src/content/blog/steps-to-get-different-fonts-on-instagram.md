@@ -20,15 +20,15 @@ Before exploring external solutions, it’s essential to familiarize yourself wi
 
 **Steps to change fonts using Instagram’s built-in options:**
 
-- Open the Instagram app and swipe right or tap the camera icon to create a new Story.
+1. Open the Instagram app and swipe right or tap the camera icon to create a new Story.
 
-- Take a photo or video, or select one from your gallery.
+2. Take a photo or video, or select one from your gallery.
 
-- Tap the “Aa” icon at the top of the screen to add text.
+3. Tap the “Aa” icon at the top of the screen to add text.
 
-- Type your desired text.
+4. Type your desired text.
 
-- Tap the font name at the top of the screen to cycle through the available options.
+5. Tap the font name at the top of the screen to cycle through the available options.
 
 Instagram currently offers nine font options:
 
@@ -62,17 +62,17 @@ If you’re looking for more font variety, third-party font generator websites a
 
 **Steps to use a font generator website:**
 
-- Open a web browser on your device and search for “Instagram font generator” or use a popular option like IGFonts.io or Fonts for Instagram.
+1. Open a web browser on your device and search for “Instagram font generator” or use a popular option like IGFonts.io or Fonts for Instagram.
 
-- Type your desired text into the input field on the website.
+2. Type your desired text into the input field on the website.
 
-- Browse through the generated font options.
+3. Browse through the generated font options.
 
-- When you find a font you like, tap or click to copy it.
+4. When you find a font you like, tap or click to copy it.
 
-- Open Instagram and create a new Story.
+5. Open Instagram and create a new Story.
 
-- Tap the “Aa” icon to add text, then paste your copied stylized text.
+6. Tap the “Aa” icon to add text, then paste your copied stylized text.
 
 These font generators typically offer a wide range of styles, from elegant scripts to quirky decorative fonts. Keep in mind that while these fonts may look different, they’re actually using special Unicode characters to create the effect. This means they should work across most devices, but occasionally some characters may not display correctly for all users.
 
@@ -94,21 +94,21 @@ Some popular apps for custom Instagram fonts include:
 
 **Steps to use a third-party font app:**
 
-- Download and install your chosen font app from your device’s app store.
+1. Download and install your chosen font app from your device’s app store.
 
-- Open the app and create a new project or Story.
+2. Open the app and create a new project or Story.
 
-- Select a background or import your own image.
+3. Select a background or import your own image.
 
-- Add text using the app’s text tool.
+4. Add text using the app’s text tool.
 
-- Choose from the app’s font library and customize your text (size, color, effects, etc.).
+5. Choose from the app’s font library and customize your text (size, color, effects, etc.).
 
-- Save your creation to your device.
+6. Save your creation to your device.
 
-- Open Instagram and create a new Story.
+7. Open Instagram and create a new Story.
 
-- Import the saved image from your font app.
+8. Import the saved image from your font app.
 
 These apps often offer more advanced typography options, such as kerning, leading, and the ability to curve or warp text. They may also include design templates, stickers, and other elements to enhance your Stories.
 
@@ -120,15 +120,15 @@ For brands or individuals with a specific font that’s integral to their visual
 
 **Steps to create and use a custom font:**
 
-- Design your custom font characters using a vector graphics program like Adobe Illustrator.
+1. Design your custom font characters using a vector graphics program like Adobe Illustrator.
 
-- Save each character as a separate PNG image with a transparent background.
+2. Save each character as a separate PNG image with a transparent background.
 
-- Create a template in a design app like Canva or Adobe Photoshop with placeholders for your text.
+3. Create a template in a design app like Canva or Adobe Photoshop with placeholders for your text.
 
-- When creating a Story, use your template and manually place the individual character images to spell out your text.
+4. When creating a Story, use your template and manually place the individual character images to spell out your text.
 
-- Save the completed design and upload it to your Instagram Story.
+5. Save the completed design and upload it to your Instagram Story.
 
 This method allows for complete control over your typography but can be time-consuming for longer texts. It’s best suited for headlines, short phrases, or brand names that you use frequently in your Stories.
 

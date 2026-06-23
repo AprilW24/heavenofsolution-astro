@@ -14,23 +14,23 @@ Here’s how you can grab that Facebook link from the Android app without gettin
 
 ## Step-by-step to get your Facebook account URL on Android
 
-- Open the Facebook app on your Android phone.
+1. Open the Facebook app on your Android phone.
 
-- Tap your profile icon in the top of screen to go to your profile.
+2. Tap your profile icon in the top of screen to go to your profile.
 
-- Once you’re on your profile, tap the three dots next to the Edit Profile button.
+3. Once you’re on your profile, tap the three dots next to the Edit Profile button.
 
-- Scroll down until you see the “**Your Profile Link**” option.
+4. Scroll down until you see the “**Your Profile Link**” option.
 
-- Tap “**Copy Link**” to copy your Facebook account URL.
+5. Tap “**Copy Link**” to copy your Facebook account URL.
 
-- You’ll see a quick message saying it’s copied to your clipboard.
+6. You’ll see a quick message saying it’s copied to your clipboard.
 
-- Now, paste it anywhere you want like Messenger, Notes, or your *Instagram* bio.
+7. Now, paste it anywhere you want like Messenger, Notes, or your *Instagram* bio.
 
-- If you want someone else’s link, go to their profile, tap the three dots, and tap “**Copy Link**” the same way.
+8. If you want someone else’s link, go to their profile, tap the three dots, and tap “**Copy Link**” the same way.
 
-- Done! You’ve got your Facebook account URL ready to share. 🎉
+9. Done! You’ve got your Facebook account URL ready to share. 🎉
 
 ## What your Facebook URL looks like
 

@@ -20,19 +20,19 @@ When it comes to designing your poster, the first step is to choose a template o
 
 ![](/wp-content/uploads/2025/02/7-Steps-to-Make-a-Poster-on-Canva-App-Android-1.webp)
 
-- **Search for Poster Templates**: Tap on the “Create a design” button and search for “Poster” to find a variety of templates. Choose one that fits your needs or start from scratch.
+1. **Search for Poster Templates**: Tap on the “Create a design” button and search for “Poster” to find a variety of templates. Choose one that fits your needs or start from scratch.
 
-- **Customize Your Template**: Select elements like text, images, and shapes to personalize your poster. You can change colors, fonts, and add effects.
+2. **Customize Your Template**: Select elements like text, images, and shapes to personalize your poster. You can change colors, fonts, and add effects.
 
-- **Upload Your Own Images**: If you have specific images you want to use, you can upload them directly into Canva.
+3. **Upload Your Own Images**: If you have specific images you want to use, you can upload them directly into Canva.
 
-- **Adjust Colors and Fonts**: Use the toolbar to change colors and select fonts that match your brand or style.
+4. **Adjust Colors and Fonts**: Use the toolbar to change colors and select fonts that match your brand or style.
 
-- **Add Backgrounds**: Choose a solid color or an image from Canva’s library as your background.
+5. **Add Backgrounds**: Choose a solid color or an image from Canva’s library as your background.
 
-- **Use Frames and Grids**: Organize multiple images using frames and grids for a clean look.
+6. **Use Frames and Grids**: Organize multiple images using frames and grids for a clean look.
 
-- **Finalize and Download**: Once satisfied with your design, tap “Share” to download your poster as a PNG or PDF.
+7. **Finalize and Download**: Once satisfied with your design, tap “Share” to download your poster as a PNG or PDF.
 
 ## Tips for Effective Posters
 

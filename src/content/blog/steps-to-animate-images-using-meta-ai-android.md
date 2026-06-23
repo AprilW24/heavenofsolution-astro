@@ -22,25 +22,25 @@ This whole process is powered by Meta’s generative AI. It’s smooth, flexible
 
 ## Steps to Create an Animation from Scratch
 
-- Open WhatsApp, Facebook Messenger, or the Meta AI app on your Android.
+1. Open WhatsApp, Facebook Messenger, or the Meta AI app on your Android.
 
-- Start a chat with Meta AI.
+2. Start a chat with Meta AI.
 
-- Type *imagine* followed by your prompt, like *a robot dog skateboarding on a sunny street*.
+3. Type *imagine* followed by your prompt, like *a robot dog skateboarding on a sunny street*.
 
-- Send the message and wait for the image to generate.
+4. Send the message and wait for the image to generate.
 
-- Review the images Meta AI sends back, tap to select your favorite.
+5. Review the images Meta AI sends back, tap to select your favorite.
 
-- Type *animate it* or tap the *Animate* button, depending on your platform.
+6. Type *animate it* or tap the *Animate* button, depending on your platform.
 
-- Wait a few seconds as Meta AI generates your animated clip.
+7. Wait a few seconds as Meta AI generates your animated clip.
 
-- Preview the animation and decide if it matches your vision.
+8. Preview the animation and decide if it matches your vision.
 
-- Download or save the animated video to your phone.
+9. Download or save the animated video to your phone.
 
-- Share, copy, or remix the animation in your feed or to friends if you want.
+10. Share, copy, or remix the animation in your feed or to friends if you want.
 
 ## Tips for Tweaking Your Prompts and Getting Better Animations
 

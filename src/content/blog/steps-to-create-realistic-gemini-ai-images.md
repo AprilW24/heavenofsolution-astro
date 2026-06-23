@@ -32,25 +32,25 @@ Then you add camera talk to push it toward real world optics. Users and official
 
 ## Steps To Prompt Gemini AI For Photo Real Images Every Time
 
-- Start with “create an image of” plus your main subject and action in one clear sentence
+1. Start with “create an image of” plus your main subject and action in one clear sentence
 
-- Add specific physical details age, clothing, mood, and environment so the subject feels human and grounded
+2. Add specific physical details age, clothing, mood, and environment so the subject feels human and grounded
 
-- Define the setting in real world terms such as a studio, apartment, street, or café at a clear time of day
+3. Define the setting in real world terms such as a studio, apartment, street, or café at a clear time of day
 
-- Choose lighting like golden hour, soft window light, or cinematic low light to match the mood you want
+4. Choose lighting like golden hour, soft window light, or cinematic low light to match the mood you want
 
-- Set the camera framing for example close up portrait, chest up, wide angle street scene, or macro detail
+5. Set the camera framing for example close up portrait, chest up, wide angle street scene, or macro detail
 
-- Mention depth of field like shallow background blur or everything in crisp focus for landscape style shots
+6. Mention depth of field like shallow background blur or everything in crisp focus for landscape style shots
 
-- Pick an aspect ratio 1:1 for profile pics, 9:16 for vertical posts, or 16:9 for cinematic scenes
+7. Pick an aspect ratio 1:1 for profile pics, 9:16 for vertical posts, or 16:9 for cinematic scenes
 
-- Ask for high quality output with phrases like ultra realistic, 4K quality photo, and natural skin texture
+8. Ask for high quality output with phrases like ultra realistic, 4K quality photo, and natural skin texture
 
-- If the first result is off, refine with follow ups like make the lighting warmer or move the camera further back
+9. If the first result is off, refine with follow ups like make the lighting warmer or move the camera further back
 
-- Once you like the base image, do small edits change background, adjust colors, or tweak facial expression instead of fully regenerating
+10. Once you like the base image, do small edits change background, adjust colors, or tweak facial expression instead of fully regenerating
 
 ## Using Composition Lighting And Texture To Make Gemini Images Feel Like Real Photos
 

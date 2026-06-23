@@ -24,25 +24,25 @@ If there are multiple admins in the group, any one of them can do this. But if y
 
 These steps work the same on both Android and iPhone. Just follow them in order and the group will be gone for good 🗑️.
 
-- Open WhatsApp and go to the group chat you want to delete.
+1. Open WhatsApp and go to the group chat you want to delete.
 
-- Tap the group name at the top of the chat to open *Group Info*.
+2. Tap the group name at the top of the chat to open *Group Info*.
 
-- Scroll down to see the list of all group members.
+3. Scroll down to see the list of all group members.
 
-- Tap on a member’s name, then select ***Remove from group*** and confirm.
+4. Tap on a member’s name, then select ***Remove from group*** and confirm.
 
-- Repeat step 4 for every member until you’re the only one left.
+5. Repeat step 4 for every member until you’re the only one left.
 
-- Once all members are removed, tap the group name again to go back to *Group Info*.
+6. Once all members are removed, tap the group name again to go back to *Group Info*.
 
-- Scroll down and tap ***Exit group***.
+7. Scroll down and tap ***Exit group***.
 
-- Confirm by tapping ***Exit group*** again when the pop-up appears.
+8. Confirm by tapping ***Exit group*** again when the pop-up appears.
 
-- After exiting, tap the group name one more time from your chat list.
+9. After exiting, tap the group name one more time from your chat list.
 
-- Tap ***Delete Group***, then confirm by tapping ***Delete Group*** again to permanently remove it.
+10. Tap ***Delete Group***, then confirm by tapping ***Delete Group*** again to permanently remove it.
 
 ## What Actually Happens After You Delete the WhatsApp Group
 

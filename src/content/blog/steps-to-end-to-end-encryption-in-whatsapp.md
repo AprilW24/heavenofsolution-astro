@@ -56,11 +56,11 @@ That’s it! Your WhatsApp chat backup is now secured with end-to-end encryption
 
 To restore an encrypted WhatsApp backup:
 
-- Uninstall and reinstall WhatsApp.
+1. Uninstall and reinstall WhatsApp.
 
-- Verify your number on the activation screen.
+2. Verify your number on the activation screen.
 
-- On the **Restore Chat History** screen, enter your password or encryption key when prompted before tapping **Next**.
+3. On the **Restore Chat History** screen, enter your password or encryption key when prompted before tapping **Next**.
 
 ### Conclusion
 

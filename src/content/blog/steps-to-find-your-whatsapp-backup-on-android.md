@@ -14,9 +14,9 @@ In this article, we’ll guide you through the steps to locate your WhatsApp bac
 
 Before we dive into finding your WhatsApp backup, it’s essential to understand the backup options available on Android:
 
-- **Google Drive Backup**: WhatsApp allows you to automatically back up your chats, photos, and videos to Google Drive. This cloud-based backup ensures that your data is safely stored and can be easily restored when needed.
+1. **Google Drive Backup**: WhatsApp allows you to automatically back up your chats, photos, and videos to Google Drive. This cloud-based backup ensures that your data is safely stored and can be easily restored when needed.
 
-- **Local Backup**: WhatsApp also creates a local backup of your chats on your device’s storage. This backup is stored in a specific folder and can be accessed using a file manager app.
+2. **Local Backup**: WhatsApp also creates a local backup of your chats on your device’s storage. This backup is stored in a specific folder and can be accessed using a file manager app.
 
 Now that you’re familiar with the backup options let’s explore how to find them on your Android device.
 
@@ -40,11 +40,11 @@ Now that you’re familiar with the backup options let’s explore how to find t
 
 ## Steps to Find WhatsApp Local Backup on Android
 
-- Open your device’s **file manager** app. If you don’t have one installed, you can download a free file manager from the Google Play Store.
+1. Open your device’s **file manager** app. If you don’t have one installed, you can download a free file manager from the Google Play Store.
 
-- Navigate to the following path: **Internal Storage** (or **SD Card**) > **WhatsApp** > **Databases**.
+2. Navigate to the following path: **Internal Storage** (or **SD Card**) > **WhatsApp** > **Databases**.
 
-- In the **Databases** folder, you’ll find files named **msgstore.db.crypt12** or **msgstore.db.crypt14**. These are your local WhatsApp backup files.
+3. In the **Databases** folder, you’ll find files named **msgstore.db.crypt12** or **msgstore.db.crypt14**. These are your local WhatsApp backup files.
 
 **Note**: The number at the end of the file name (e.g., crypt12 or crypt14) indicates the encryption protocol used for the backup. Don’t change this number when restoring the backup.
 
@@ -52,19 +52,19 @@ Now that you’re familiar with the backup options let’s explore how to find t
 
 Now that you know where to find your WhatsApp backups, let’s briefly discuss how to restore them:
 
-- Uninstall and reinstall the WhatsApp app on your Android device.
+1. Uninstall and reinstall the WhatsApp app on your Android device.
 
-- Open WhatsApp and verify your phone number.
+2. Open WhatsApp and verify your phone number.
 
-- When prompted, tap **Restore** to restore your chats and media from the Google Drive backup.
+3. When prompted, tap **Restore** to restore your chats and media from the Google Drive backup.
 
 If you want to restore from a local backup instead:
 
-- Rename the local backup file (e.g., msgstore-YYYY-MM-DD.1.db.crypt14) to **msgstore.db.crypt14** (or the appropriate crypt version).
+1. Rename the local backup file (e.g., msgstore-YYYY-MM-DD.1.db.crypt14) to **msgstore.db.crypt14** (or the appropriate crypt version).
 
-- Uninstall and reinstall WhatsApp.
+2. Uninstall and reinstall WhatsApp.
 
-- When prompted, tap **Restore** to restore your chats from the local backup.
+3. When prompted, tap **Restore** to restore your chats from the local backup.
 
 ## Conclusion
 

@@ -14,15 +14,15 @@ In this guide, we’ll walk through the simple steps to download individual Face
 
 If you just need to save a few specific photos from Facebook to your Android phone, here are the steps:
 
-- Open the Facebook app and navigate to the photo you want to save
+1. Open the Facebook app and navigate to the photo you want to save
 
-- Tap the photo to view it full screen
+2. Tap the photo to view it full screen
 
-- Tap the three dot menu icon in the top right corner
+3. Tap the three dot menu icon in the top right corner
 
-- Select **Save to phone** from the menu that appears
+4. Select **Save to phone** from the menu that appears
 
-- The photo will be saved to your Android device’s local storage, typically in the Pictures or Downloads folder
+5. The photo will be saved to your Android device’s local storage, typically in the Pictures or Downloads folder
 
 You can repeat these steps for any other individual Facebook photos you want to download to your Android phone or tablet. It’s a quick and easy process.
 
@@ -30,19 +30,19 @@ You can repeat these steps for any other individual Facebook photos you want to 
 
 What if you want to save a full album of photos from Facebook at once? While the Facebook app doesn’t provide a direct way to download entire albums, you can still do it from the Facebook website in your Android browser:
 
-- Open your web browser app (e.g. Chrome)
+1. Open your web browser app (e.g. Chrome)
 
-- Go to the Facebook website and log in
+2. Go to the Facebook website and log in
 
-- Navigate to the photo album you want to save
+3. Navigate to the photo album you want to save
 
-- Tap the three dot menu icon at the top right of the album
+4. Tap the three dot menu icon at the top right of the album
 
-- Select **Download album**
+5. Select **Download album**
 
-- The album will be saved as a ZIP file in your Android device’s Downloads folder
+6. The album will be saved as a ZIP file in your Android device’s Downloads folder
 
-- Use your Android’s Files app to extract the ZIP and access the photos
+7. Use your Android’s Files app to extract the ZIP and access the photos
 
 This method lets you conveniently download full Facebook photo albums to your Android phone or tablet. It’s useful if you have a lot of photos to save and don’t want to download them one-by-one.
 
@@ -50,17 +50,17 @@ This method lets you conveniently download full Facebook photo albums to your An
 
 For the most comprehensive way to download all your Facebook photos and other data, use the **Download your information** feature:
 
-- Open the Facebook app on your Android device
+1. Open the Facebook app on your Android device
 
-- Tap the three line menu icon and scroll down to Settings & Privacy
+2. Tap the three line menu icon and scroll down to Settings & Privacy
 
-- Tap **Settings** then scroll down and select **Download your information** under **Your Facebook information**
+3. Tap **Settings** then scroll down and select **Download your information** under **Your Facebook information**
 
-- Choose which data to include (make sure **Photos and videos** is selected) and tap **Create file**
+4. Choose which data to include (make sure **Photos and videos** is selected) and tap **Create file**
 
-- You’ll get a notification when the file is ready to download (it may take some time if you have a lot of data)
+5. You’ll get a notification when the file is ready to download (it may take some time if you have a lot of data)
 
-- Tap **Download** when notified, and the file will be saved to your Android phone or tablet
+6. Tap **Download** when notified, and the file will be saved to your Android phone or tablet
 
 This downloads an extensive archive of all your Facebook data, including your photos, videos, posts, messages, and more. It’s a good idea to do this periodically as a complete backup.
 

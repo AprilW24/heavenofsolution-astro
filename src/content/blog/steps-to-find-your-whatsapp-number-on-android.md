@@ -18,15 +18,15 @@ Fortunately, Android users can easily find this information within the app itsel
 
 Before we dive into the steps, let’s briefly discuss why it’s crucial to know your WhatsApp number:
 
-- **Account Verification**: Your phone number is essential for account verification and security purposes.
+1. **Account Verification**: Your phone number is essential for account verification and security purposes.
 
-- **Contact Sharing**: When giving your WhatsApp contact to someone, you’ll need to provide the correct phone number.
+2. **Contact Sharing**: When giving your WhatsApp contact to someone, you’ll need to provide the correct phone number.
 
-- **Account Recovery**: In case you need to recover your account or switch devices, knowing your registered number is crucial.
+3. **Account Recovery**: In case you need to recover your account or switch devices, knowing your registered number is crucial.
 
-- **Multiple Numbers**: If you use multiple phone numbers, it’s important to know which one is linked to your WhatsApp account.
+4. **Multiple Numbers**: If you use multiple phone numbers, it’s important to know which one is linked to your WhatsApp account.
 
-- **Privacy Concerns**: Understanding which number is visible to your contacts helps you manage your privacy settings more effectively.
+5. **Privacy Concerns**: Understanding which number is visible to your contacts helps you manage your privacy settings more effectively.
 
 Now that we understand the importance, let’s explore how to find your WhatsApp number on Android devices.
 
@@ -34,13 +34,13 @@ Now that we understand the importance, let’s explore how to find your WhatsApp
 
 The most straightforward way to find your WhatsApp number is through your profile settings. Here’s how to do it:
 
-- **Open WhatsApp**: Launch the WhatsApp application on your Android device.
+1. **Open WhatsApp**: Launch the WhatsApp application on your Android device.
 
-- **Access Settings**: Tap on the three-dot menu icon in the top-right corner of the screen. From the dropdown menu, select “Settings.”
+2. **Access Settings**: Tap on the three-dot menu icon in the top-right corner of the screen. From the dropdown menu, select “Settings.”
 
-- **View Profile**: At the top of the Settings screen, you’ll see your profile picture and name. Tap on this area to open your profile details.
+3. **View Profile**: At the top of the Settings screen, you’ll see your profile picture and name. Tap on this area to open your profile details.
 
-- **Locate Your Number**: Scroll down slightly, and you’ll see your phone number listed under your name and about section.
+4. **Locate Your Number**: Scroll down slightly, and you’ll see your phone number listed under your name and about section.
 
 This method is quick and easy, providing you instant access to your WhatsApp number without any hassle.
 
@@ -48,13 +48,13 @@ This method is quick and easy, providing you instant access to your WhatsApp num
 
 WhatsApp’s QR code feature, primarily used for adding contacts, can also help you find your number. Here’s how:
 
-- **Open WhatsApp**: Start the WhatsApp app on your Android device.
+1. **Open WhatsApp**: Start the WhatsApp app on your Android device.
 
-- **Access Settings**: Tap the three-dot menu icon and select “Settings.”
+2. **Access Settings**: Tap the three-dot menu icon and select “Settings.”
 
-- **Find QR Code**: Look for the QR code icon next to your name at the top of the Settings screen. Tap on it.
+3. **Find QR Code**: Look for the QR code icon next to your name at the top of the Settings screen. Tap on it.
 
-- **View Your QR Code**: Your personal QR code will be displayed. Below the code, you’ll see your phone number listed.
+4. **View Your QR Code**: Your personal QR code will be displayed. Below the code, you’ll see your phone number listed.
 
 This method not only shows your number but also provides a handy way for others to add you as a contact.
 
@@ -62,13 +62,13 @@ This method not only shows your number but also provides a handy way for others 
 
 For a more detailed view of your account information, including your phone number, follow these steps:
 
-- **Open WhatsApp**: Launch the app on your Android device.
+1. **Open WhatsApp**: Launch the app on your Android device.
 
-- **Go to Settings**: Tap the three-dot menu and select “Settings.”
+2. **Go to Settings**: Tap the three-dot menu and select “Settings.”
 
-- **Access Account Settings**: In the Settings menu, tap on “Account.”
+3. **Access Account Settings**: In the Settings menu, tap on “Account.”
 
-- **View Account Info**: Here, you’ll find various account-related options. Your phone number should be visible at the top of this screen.
+4. **View Account Info**: Here, you’ll find various account-related options. Your phone number should be visible at the top of this screen.
 
 This method provides additional context about your account settings while displaying your WhatsApp number.
 
@@ -88,15 +88,15 @@ Now that you know how to find your WhatsApp number, here are some tips for manag
 
 There may come a time when you need to change the phone number associated with your WhatsApp account. WhatsApp has made this process relatively simple:
 
-- **Go to Settings**: Open WhatsApp and tap on Settings.
+1. **Go to Settings**: Open WhatsApp and tap on Settings.
 
-- **Access Account Settings**: Tap on “Account.”
+2. **Access Account Settings**: Tap on “Account.”
 
-- **Change Number**: Select “Change number” and follow the on-screen instructions.
+3. **Change Number**: Select “Change number” and follow the on-screen instructions.
 
-- **Verify New Number**: You’ll need to verify your new number with a code sent via SMS.
+4. **Verify New Number**: You’ll need to verify your new number with a code sent via SMS.
 
-- **Notify Contacts**: Choose whether to notify your contacts about your new number.
+5. **Notify Contacts**: Choose whether to notify your contacts about your new number.
 
 Remember, changing your WhatsApp number will transfer your account information, groups, and settings, but it may not transfer your chat history. Always back up your chats before changing numbers.
 

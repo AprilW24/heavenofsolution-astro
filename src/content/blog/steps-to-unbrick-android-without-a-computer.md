@@ -14,13 +14,13 @@ The first and easiest thing to try is simply rebooting your phone into safe mode
 
 To boot into safe mode:
 
-- Turn your phone completely off
+1. Turn your phone completely off
 
-- Press and hold the power button until the manufacturer logo appears
+2. Press and hold the power button until the manufacturer logo appears
 
-- Once the logo shows up, press and hold the volume down button until the phone boots up
+3. Once the logo shows up, press and hold the volume down button until the phone boots up
 
-- You should see **Safe mode** in the bottom left corner of the screen
+4. You should see **Safe mode** in the bottom left corner of the screen
 
 If your phone successfully boots into safe mode, try uninstalling any recently downloaded apps that may be causing issues. Then reboot the phone normally.
 
@@ -30,15 +30,15 @@ Wiping the cache partition can resolve issues caused by corrupted temporary syst
 
 To wipe the cache partition:
 
-- Turn your phone off
+1. Turn your phone off
 
-- Press and hold the Volume Down + Power buttons simultaneously until you see the Android logo or feel the phone vibrate, then release
+2. Press and hold the Volume Down + Power buttons simultaneously until you see the Android logo or feel the phone vibrate, then release
 
-- Use the volume buttons to highlight **Recovery mode** and press Power to select it
+3. Use the volume buttons to highlight **Recovery mode** and press Power to select it
 
-- In recovery, use the volume buttons to highlight **Wipe cache partition** and Power to select
+4. In recovery, use the volume buttons to highlight **Wipe cache partition** and Power to select
 
-- Once complete, select **Reboot system now**
+5. Once complete, select **Reboot system now**
 
 Your phone will reboot and hopefully start up normally. If it’s still stuck, move on to the next step.
 
@@ -50,17 +50,17 @@ A factory reset will wipe all data from your phone and restore it to factory def
 
 To perform a factory reset:
 
-- Turn your phone off
+1. Turn your phone off
 
-- Press and hold the Volume Down + Power buttons until you see the Android logo, then release
+2. Press and hold the Volume Down + Power buttons until you see the Android logo, then release
 
-- Use volume buttons to highlight **Recovery mode** and press Power
+3. Use volume buttons to highlight **Recovery mode** and press Power
 
-- In recovery mode, highlight **Wipe data/factory reset** and press Power to select
+4. In recovery mode, highlight **Wipe data/factory reset** and press Power to select
 
-- Scroll down to **Yes – delete all user data** and press Power
+5. Scroll down to **Yes – delete all user data** and press Power
 
-- Once done, select **Reboot system now**
+6. Once done, select **Reboot system now**
 
 Your phone will reset and hopefully boot up fresh. You’ll have to set it up again from scratch.
 

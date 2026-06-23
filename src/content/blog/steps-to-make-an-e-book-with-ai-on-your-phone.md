@@ -12,25 +12,25 @@ AI e-book apps for mobile have really leveled the playing field. You don’t nee
 
 ## Step-by-Step Process to Create an E-Book with AI on Your Mobile
 
-- Download a trusted AI e-book app like *Ebookmaker.ai*, *Jasper.ai*, or *Book Creator*.
+1. Download a trusted AI e-book app like *Ebookmaker.ai*, *Jasper.ai*, or *Book Creator*.
 
-- Open the app and sign in with your email or social media.
+2. Open the app and sign in with your email or social media.
 
-- Pick the “**Create New E-book**” menu.
+3. Pick the “**Create New E-book**” menu.
 
-- Enter your main topic and audience, like cooking tips for beginners or *pet* care for kids.
+4. Enter your main topic and audience, like cooking tips for beginners or *pet* care for kids.
 
-- Choose the AI writing feature inside the app.
+5. Choose the AI writing feature inside the app.
 
-- Fill out prompts or questions about what your e-book will cover.
+6. Fill out prompts or questions about what your e-book will cover.
 
-- Let the app draft your outline and chapters for you.
+7. Let the app draft your outline and chapters for you.
 
-- Review what the AI generates and edit anything you want to change.
+8. Review what the AI generates and edit anything you want to change.
 
-- Add images, tweak fonts, and set up your cover design.
+9. Add images, tweak fonts, and set up your cover design.
 
-- Export in *PDF* or *EPUB* format and get ready to share it.
+10. Export in *PDF* or *EPUB* format and get ready to share it.
 
 ## Where Mobile AI E-Book Tools Shine for Beginners
 

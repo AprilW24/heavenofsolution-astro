@@ -52,13 +52,13 @@ You should now see a list of all the apps you’ve previously downloaded, with t
 
 Once you’ve located the deleted app you want to recover, reinstalling it is just a matter of a few taps:
 
-- **Find the app** you want to reinstall in the **Not installed** list.
+1. **Find the app** you want to reinstall in the **Not installed** list.
 
-- Tap on the app to open its Google Play Store page.
+2. Tap on the app to open its Google Play Store page.
 
-- Tap the **Install** button to begin the installation process.
+3. Tap the **Install** button to begin the installation process.
 
-- Wait for the app to download and install, then tap **Open** to launch it.
+4. Wait for the app to download and install, then tap **Open** to launch it.
 
 If you’ve previously purchased a paid app, you won’t need to buy it again. Simply follow the steps above, and the app will be restored without any additional charges.
 
@@ -68,11 +68,11 @@ While reinstalling a deleted app is easy, recovering its associated data (such a
 
 To check if an app supports data backup and restore:
 
-- Open the app after reinstalling it.
+1. Open the app after reinstalling it.
 
-- Look for a **Login** or **Restore** option within the app’s settings or main menu.
+2. Look for a **Login** or **Restore** option within the app’s settings or main menu.
 
-- If prompted, sign in using the same account you used before deleting the app.
+3. If prompted, sign in using the same account you used before deleting the app.
 
 If the app supports data backup, your previous data should be restored automatically.
 

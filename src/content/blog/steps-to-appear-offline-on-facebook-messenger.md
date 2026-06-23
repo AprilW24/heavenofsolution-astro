@@ -12,11 +12,11 @@ In today’s digital age, staying connected with friends and family through mess
 
 Before we dive into the steps, let’s explore some reasons why you might want to appear offline on Messenger:
 
-- **Privacy**: Sometimes, you may want to keep your online activity private, especially if you’re dealing with personal matters or simply need some alone time.
+1. **Privacy**: Sometimes, you may want to keep your online activity private, especially if you’re dealing with personal matters or simply need some alone time.
 
-- **Avoiding Interruptions**: When you’re busy or need to focus on a task, constant message notifications can be distracting. Appearing offline allows you to work uninterrupted while still being able to check your messages at your convenience.
+2. **Avoiding Interruptions**: When you’re busy or need to focus on a task, constant message notifications can be distracting. Appearing offline allows you to work uninterrupted while still being able to check your messages at your convenience.
 
-- **Managing Expectations**: If you’re not in the mood to chat or need a break from social interactions, appearing offline can help manage the expectations of your contacts, preventing them from assuming you’re available to respond immediately.
+3. **Managing Expectations**: If you’re not in the mood to chat or need a break from social interactions, appearing offline can help manage the expectations of your contacts, preventing them from assuming you’re available to respond immediately.
 
 Now that we understand the benefits of appearing offline, let’s move on to the steps to achieve this on your Android device.
 

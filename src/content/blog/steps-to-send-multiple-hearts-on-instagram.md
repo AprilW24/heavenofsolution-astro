@@ -34,23 +34,23 @@ Start by either taking a new photo or video directly in the Instagram app, or up
 
 Once you have your photo or video ready, it’s time to add a heart sticker:
 
-- Tap the sticker icon (the square smiley face) at the top of the screen.
+1. Tap the sticker icon (the square smiley face) at the top of the screen.
 
-- Scroll through the sticker options until you find the hearts. Instagram offers a few different heart sticker variations.
+2. Scroll through the sticker options until you find the hearts. Instagram offers a few different heart sticker variations.
 
-- Tap on your chosen heart sticker to add it to your story.
+3. Tap on your chosen heart sticker to add it to your story.
 
 ## Step 3: Duplicate the Heart
 
 To send multiple hearts, you’ll need to duplicate the sticker you just added:
 
-- Tap and hold the heart sticker.
+1. Tap and hold the heart sticker.
 
-- From the pop-up menu, select **Copy**.
+2. From the pop-up menu, select **Copy**.
 
-- Tap and hold on a blank area of your story, then select **Paste** from the pop-up menu.
+3. Tap and hold on a blank area of your story, then select **Paste** from the pop-up menu.
 
-- Repeat steps 3-4 until you have your desired number of hearts.
+4. Repeat steps 3-4 until you have your desired number of hearts.
 
 ## Step 4: Arrange the Hearts
 
@@ -82,11 +82,11 @@ Remember, you can use the eraser tool to remove parts of added elements that you
 
 Once you’re happy with your heart-filled creation, it’s time to share:
 
-- Tap **Your Story** in the bottom left to add the story to your story feed.
+1. Tap **Your Story** in the bottom left to add the story to your story feed.
 
-- If your account is set to public, your story will be visible to all your followers for 24 hours.
+2. If your account is set to public, your story will be visible to all your followers for 24 hours.
 
-- If your account is private, your story will only be visible to your approved followers.
+3. If your account is private, your story will only be visible to your approved followers.
 
 You can also choose to send your story directly to individual followers by tapping the **Send To** button and selecting followers from the list.
 
@@ -94,11 +94,11 @@ You can also choose to send your story directly to individual followers by tappi
 
 For an interactive twist on the multiple hearts trend, try using the Questions sticker:
 
-- Add the Questions sticker to your story.
+1. Add the Questions sticker to your story.
 
-- Type a prompt like “Send me a ❤️ and I’ll share a memory of us!” or “❤️ for a compliment!”
+2. Type a prompt like “Send me a ❤️ and I’ll share a memory of us!” or “❤️ for a compliment!”
 
-- As your followers send in hearts, share your responses to each one in subsequent story frames.
+3. As your followers send in hearts, share your responses to each one in subsequent story frames.
 
 This is a fun way to engage with your followers and spread some positivity.
 

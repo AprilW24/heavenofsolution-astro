@@ -36,25 +36,25 @@ All of this, with your data safe and synced, means you’re spending more time s
 
 ## Step-by-Step to Use AI on Your Phone for Product Pricing
 
-- Download an AI pricing app like PriceBot, Minderest, or use *ChatGPT* on mobile.
+1. Download an AI pricing app like PriceBot, Minderest, or use *ChatGPT* on mobile.
 
-- Open the app and start a new analysis or project.
+2. Open the app and start a new analysis or project.
 
-- Enter details about your product such as name, category, cost, and expected profit.
+3. Enter details about your product such as name, category, cost, and expected profit.
 
-- Add competitors, marketplaces, or links you want to compare.
+4. Add competitors, marketplaces, or links you want to compare.
 
-- Use your phone camera to scan barcodes or search for similar listings.
+5. Use your phone camera to scan barcodes or search for similar listings.
 
-- Select your target market or region, like *Tokopedia* Indonesia or *Amazon* US.
+6. Select your target market or region, like *Tokopedia* Indonesia or *Amazon* US.
 
-- Check the generated competitor price reports and trend charts.
+7. Check the generated competitor price reports and trend charts.
 
-- Read through the suggested price ranges and AI insights.
+8. Read through the suggested price ranges and AI insights.
 
-- Adjust your product’s price settings or let the app set prices automatically if your platform supports it.
+9. Adjust your product’s price settings or let the app set prices automatically if your platform supports it.
 
-- Set up alerts for future price drops, spikes, or industry changes.
+10. Set up alerts for future price drops, spikes, or industry changes.
 
 ## AI Prompt for Precise Product Price Analysis
 

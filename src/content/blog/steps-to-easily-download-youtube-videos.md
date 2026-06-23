@@ -14,13 +14,13 @@ In this guide, we’ll walk you through the easiest ways to download YouTube vid
 
 The most straightforward way to download YouTube videos is by subscribing to YouTube Premium. This paid subscription service from Google removes ads, enables background playback, and most importantly, lets you download videos for offline viewing right from within the YouTube Android app. Here’s how:
 
-- Open the YouTube app on your Android phone and find the video you want to download
+1. Open the YouTube app on your Android phone and find the video you want to download
 
-- Tap the **Download** button below the video player. If you don’t see this button, you need to sign up for YouTube Premium first.
+2. Tap the **Download** button below the video player. If you don’t see this button, you need to sign up for YouTube Premium first.
 
-- Select your preferred video quality for the download (360p, 720p, etc). Higher quality takes up more storage space.
+3. Select your preferred video quality for the download (360p, 720p, etc). Higher quality takes up more storage space.
 
-- The video will download. To find your downloaded videos, tap **Library** > **Downloads** in the YouTube app.
+4. The video will download. To find your downloaded videos, tap **Library** > **Downloads** in the YouTube app.
 
 The main limitation is that you can only watch downloaded videos from within the YouTube app itself. You can’t access the actual video files to share or view them in other apps. YouTube Premium costs $11.99/month, but can be worth it if you watch a lot of YouTube and want the convenience of easy downloads and offline access.
 
@@ -28,19 +28,19 @@ The main limitation is that you can only watch downloaded videos from within the
 
 If you don’t want to pay for YouTube Premium, you can work around the official YouTube app’s download restrictions by using YouTube’s mobile website instead. This method lets you download videos as MP4 files that you can watch in any video player app. Here’s how to do it:
 
-- Open a web browser on your Android phone and go to **www.youtube.com**
+1. Open a web browser on your Android phone and go to **www.youtube.com**
 
-- Find the video you want to download and start playing it
+2. Find the video you want to download and start playing it
 
-- Tap the **Share** button below the video, then **Copy link** to copy the video’s URL to your clipboard
+3. Tap the **Share** button below the video, then **Copy link** to copy the video’s URL to your clipboard
 
-- Open a new browser tab and go to a YouTube download site like **yt1s.com**
+4. Open a new browser tab and go to a YouTube download site like **yt1s.com**
 
-- Paste the YouTube video URL into the text box on the site
+5. Paste the YouTube video URL into the text box on the site
 
-- Select **MP4** as the download format and choose a video quality
+6. Select **MP4** as the download format and choose a video quality
 
-- Tap the **Download** button. The video will be saved to your Android phone’s storage, usually in the Downloads folder.
+7. Tap the **Download** button. The video will be saved to your Android phone’s storage, usually in the Downloads folder.
 
 There are many websites like yt1s.com that allow you to paste in a YouTube link and download the video file. They all work similarly. Just be cautious about which site you use and be sure to scan any downloaded files with an antivirus app to be safe.
 
@@ -48,19 +48,19 @@ There are many websites like yt1s.com that allow you to paste in a YouTube link 
 
 Another handy way to download YouTube videos on Android is by using the popular VLC media player app. VLC includes a feature to download videos from YouTube and other sites. Here’s how it works:
 
-- Install the free **VLC app** from the Google Play Store if you don’t have it already
+1. Install the free **VLC app** from the Google Play Store if you don’t have it already
 
-- Open the YouTube app and find the video you want to download
+2. Open the YouTube app and find the video you want to download
 
-- Tap the **Share** button, then choose **Copy link** to copy the video URL
+3. Tap the **Share** button, then choose **Copy link** to copy the video URL
 
-- Open the VLC app and tap the **More** tab at the bottom
+4. Open the VLC app and tap the **More** tab at the bottom
 
-- Select **Download** from the list
+5. Select **Download** from the list
 
-- Tap the **Paste** button at the top to paste in the YouTube video link you copied
+6. Tap the **Paste** button at the top to paste in the YouTube video link you copied
 
-- Tap the arrow icon to start the download. The video will be saved to your phone.
+7. Tap the arrow icon to start the download. The video will be saved to your phone.
 
 To find the video you downloaded, tap **More** > **Downloads** in the VLC app. You can then play the video right in VLC or share the file to other apps.
 

@@ -14,11 +14,11 @@ Before diving into the world of Snapchat filters, make sure you have the app ins
 
 To access Snapchat filters, follow these simple steps:
 
-- Open the Snapchat app and ensure you’re on the camera screen.
+1. Open the Snapchat app and ensure you’re on the camera screen.
 
-- Tap on your face to activate the facial recognition feature. You’ll see a grid appear on your face, indicating that Snapchat has detected it.
+2. Tap on your face to activate the facial recognition feature. You’ll see a grid appear on your face, indicating that Snapchat has detected it.
 
-- Swipe left or right to browse through the available filters. Snapchat offers a wide variety of filters, including beauty filters, animal filters, and themed filters for special occasions.
+3. Swipe left or right to browse through the available filters. Snapchat offers a wide variety of filters, including beauty filters, animal filters, and themed filters for special occasions.
 
 **Tip:** If you don’t see the desired filter, try updating your Snapchat app to access the latest filter options.
 
@@ -26,11 +26,11 @@ To access Snapchat filters, follow these simple steps:
 
 Once you’ve found a filter you like, it’s time to apply it to your photo:
 
-- Position your face within the camera frame, ensuring that the filter aligns properly with your features.
+1. Position your face within the camera frame, ensuring that the filter aligns properly with your features.
 
-- Tap and hold on your face to capture the photo with the selected filter applied.
+2. Tap and hold on your face to capture the photo with the selected filter applied.
 
-- Release your finger to stop recording.
+3. Release your finger to stop recording.
 
 Snapchat filters are designed to work seamlessly with facial features, so make sure your face is clearly visible and well-lit for the best results.
 
@@ -38,11 +38,11 @@ Snapchat filters are designed to work seamlessly with facial features, so make s
 
 Snapchat offers additional tools to further customize your filtered photos:
 
-- After capturing your photo, tap on the **Stickers** icon (the square smiley face) to add stickers, emojis, or Bitmojis to your image.
+1. After capturing your photo, tap on the **Stickers** icon (the square smiley face) to add stickers, emojis, or Bitmojis to your image.
 
-- Use the **Text** icon (the **T** symbol) to add captions or text overlays to your photo. You can change the font style, color, and size to match your preferences.
+2. Use the **Text** icon (the **T** symbol) to add captions or text overlays to your photo. You can change the font style, color, and size to match your preferences.
 
-- Experiment with the **Pencil** icon to draw or doodle on your photo, adding a personal touch to your creation.
+3. Experiment with the **Pencil** icon to draw or doodle on your photo, adding a personal touch to your creation.
 
 **Tip:** Don’t be afraid to mix and match different customization options to create a unique and eye-catching photo.
 
@@ -50,11 +50,11 @@ Snapchat offers additional tools to further customize your filtered photos:
 
 Once you’re satisfied with your edited photo, it’s time to save and share it:
 
-- Tap the **Download** icon (the downward-facing arrow) to save your edited photo to your device’s camera roll.
+1. Tap the **Download** icon (the downward-facing arrow) to save your edited photo to your device’s camera roll.
 
-- To share your photo on Snapchat, tap the **Send** icon (the blue arrow) and select the friends you want to send it to, or add it to your Snapchat story for all your friends to see.
+2. To share your photo on Snapchat, tap the **Send** icon (the blue arrow) and select the friends you want to send it to, or add it to your Snapchat story for all your friends to see.
 
-- You can also share your edited photo on other social media platforms by tapping the **Share** icon (the upward-facing arrow) and selecting the desired platform.
+3. You can also share your edited photo on other social media platforms by tapping the **Share** icon (the upward-facing arrow) and selecting the desired platform.
 
 Remember, Snapchat photos disappear after a set time (usually 24 hours), so make sure to save your edited photos if you want to keep them permanently.
 

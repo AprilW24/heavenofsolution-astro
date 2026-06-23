@@ -18,25 +18,25 @@ If you want to go next level, you could explore apps that offer step-by-step gui
 
 ## Steps for Writing Formal and Informal Speeches with AI
 
-- Open your favorite AI writing app on your phone.
+1. Open your favorite AI writing app on your phone.
 
-- Select the speech or message creation feature.
+2. Select the speech or message creation feature.
 
-- Decide on formal or informal tone before starting.
+3. Decide on formal or informal tone before starting.
 
-- Type in the speech topic or main ideas.
+4. Type in the speech topic or main ideas.
 
-- Add specific details for context, like audience or occasion.
+5. Add specific details for context, like audience or occasion.
 
-- Adjust length if you need a long or short speech.
+6. Adjust length if you need a long or short speech.
 
-- Use advanced options to tweak style, emotion, or delivery instructions.
+7. Use advanced options to tweak style, emotion, or delivery instructions.
 
-- Review the generated draft for accuracy.
+8. Review the generated draft for accuracy.
 
-- Edit or personalize as needed for flow and clarity.
+9. Edit or personalize as needed for flow and clarity.
 
-- Save, copy, or share your speech directly from the app.
+10. Save, copy, or share your speech directly from the app.
 
 ## How to Create Prompts for Formal and Informal Speech Using AI
 

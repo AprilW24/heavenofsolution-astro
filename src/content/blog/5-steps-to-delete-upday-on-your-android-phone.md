@@ -12,15 +12,15 @@ Are you tired of seeing the Upday news app on your Samsung Android phone? While 
 
 Follow these simple steps to get rid of the Upday app:
 
-- Go to your phone’s **Settings** and select **Apps**.
+1. Go to your phone’s **Settings** and select **Apps**.
 
-- Tap the three-dot menu icon in the top right corner.
+2. Tap the three-dot menu icon in the top right corner.
 
-- Select **Show system apps**. This will display all the pre-installed apps, including Upday.
+3. Select **Show system apps**. This will display all the pre-installed apps, including Upday.
 
-- Scroll down and find **Upday**. Tap on it to open the app settings.
+4. Scroll down and find **Upday**. Tap on it to open the app settings.
 
-- Tap **Disable** and confirm by tapping **Disable App** in the pop-up window.
+5. Tap **Disable** and confirm by tapping **Disable App** in the pop-up window.
 
 That’s it! Upday is now disabled and you will no longer receive news notifications from the app. If you ever change your mind, you can always enable Upday again from the same Apps settings menu.
 
@@ -30,11 +30,11 @@ That’s it! Upday is now disabled and you will no longer receive news notificat
 
 In some cases, the **Disable** option may be greyed out, preventing you from disabling Upday. This is because Upday is a system app that is deeply integrated into the Android operating system on Samsung devices. However, you can still stop the notifications:
 
-- Long press on your phone’s home screen and swipe right to access the Upday panel.
+1. Long press on your phone’s home screen and swipe right to access the Upday panel.
 
-- Tap the gear icon to open Upday settings.
+2. Tap the gear icon to open Upday settings.
 
-- Toggle off the **Notifications** option.
+3. Toggle off the **Notifications** option.
 
 While this doesn’t completely remove the Upday app, it will at least stop the annoying notifications from bothering you.
 

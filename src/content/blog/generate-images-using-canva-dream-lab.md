@@ -20,25 +20,25 @@ Dream Lab uses advanced AI technology to generate images based on text descripti
 
 Here are the steps to generate images using Canva Dream Lab:
 
-- **Access Dream Lab**: Open Canva and navigate to the Dream Lab feature. If it’s not visible, visit canva.com/Dream-Lab.
+1. **Access Dream Lab**: Open Canva and navigate to the Dream Lab feature. If it’s not visible, visit canva.com/Dream-Lab.
 
-- **Enter Your Prompt**: In the text box, describe the image you want to create. Use detailed prompts for better results.
+2. **Enter Your Prompt**: In the text box, describe the image you want to create. Use detailed prompts for better results.
 
-- **Select a Style**: Choose from presets like Cinematic, Creative, or Illustration to set the style of your image.
+3. **Select a Style**: Choose from presets like Cinematic, Creative, or Illustration to set the style of your image.
 
-- **Set Dimensions**: Select the desired aspect ratio, such as 1:1, 16:9, or 9:16.
+4. **Set Dimensions**: Select the desired aspect ratio, such as 1:1, 16:9, or 9:16.
 
-- **Generate the Image**: Click “Create” and wait for the AI to process your request.
+5. **Generate the Image**: Click “Create” and wait for the AI to process your request.
 
-- **Review and Choose**: Browse through the generated images and select the one you like best.
+6. **Review and Choose**: Browse through the generated images and select the one you like best.
 
-- **Edit or Use**: You can edit, download, or use the image in a new Canva design.
+7. **Edit or Use**: You can edit, download, or use the image in a new Canva design.
 
-- **Organize Your Images**: Use folders to keep your generated images organized.
+8. **Organize Your Images**: Use folders to keep your generated images organized.
 
-- **Experiment with Different Styles**: Try various styles to see how they change the vibe of your image.
+9. **Experiment with Different Styles**: Try various styles to see how they change the vibe of your image.
 
-- **Refine Your Prompts**: Use tools like ChatGPT to create more detailed prompts for better results.
+10. **Refine Your Prompts**: Use tools like ChatGPT to create more detailed prompts for better results.
 
 ## Tips for Maximizing Dream Lab
 

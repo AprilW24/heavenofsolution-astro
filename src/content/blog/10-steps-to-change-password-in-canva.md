@@ -22,25 +22,25 @@ While Canva doesn’t have a dedicated mobile app for changing passwords, you ca
 
 ![](/wp-content/uploads/2025/03/10-Steps-to-Change-Password-in-Canva-Using-Phone.webp)
 
-- Open a mobile web browser and navigate to Canva.com.
+1. Open a mobile web browser and navigate to Canva.com.
 
-- Sign into your Canva account if you’re not already logged in.
+2. Sign into your Canva account if you’re not already logged in.
 
-- Tap your account name at the top right corner to open the menu.
+3. Tap your account name at the top right corner to open the menu.
 
-- Select “Settings” from the menu.
+4. Select “Settings” from the menu.
 
-- Tap “Login and Security” on the left side of the screen.
+5. Tap “Login and Security” on the left side of the screen.
 
-- Find the password field in the Login section and tap “Update.”
+6. Find the password field in the Login section and tap “Update.”
 
-- Enter your current password to confirm.
+7. Enter your current password to confirm.
 
-- Enter your new password twice, ensuring it’s at least eight characters long and includes a mix of letters, numbers, and symbols.
+8. Enter your new password twice, ensuring it’s at least eight characters long and includes a mix of letters, numbers, and symbols.
 
-- Tap “Save” to update your password.
+9. Tap “Save” to update your password.
 
-- Log back in with your new password to continue using Canva.
+10. Log back in with your new password to continue using Canva.
 
 ## Tips for Strong Passwords
 

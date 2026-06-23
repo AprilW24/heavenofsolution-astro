@@ -24,25 +24,25 @@ Moving threads also helps if you want to share a convo with a different group or
 
 ## Follow these steps to move your thread
 
-- Open the *Space* where the thread you want to move is located.
+1. Open the *Space* where the thread you want to move is located.
 
-- Tap on the thread to open it.
+2. Tap on the thread to open it.
 
-- Hit the three dots at the top right corner of the screen.
+3. Hit the three dots at the top right corner of the screen.
 
-- Tap on ***Swap spaces*** from the menu.
+4. Tap on ***Swap spaces*** from the menu.
 
-- Pick the *Space* you want to move the thread to.
+5. Pick the *Space* you want to move the thread to.
 
-- Confirm your choice if prompted.
+6. Confirm your choice if prompted.
 
-- Wait a second—your thread will move to the new *Space*.
+7. Wait a second—your thread will move to the new *Space*.
 
-- Double-check the new *Space* to make sure your thread is there.
+8. Double-check the new *Space* to make sure your thread is there.
 
-- Keep working or organizing as needed.
+9. Keep working or organizing as needed.
 
-- Done! 🎉
+10. Done! 🎉
 
 ## Keeping Threads Organized After Moving Them Between Spaces
 

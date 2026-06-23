@@ -68,15 +68,15 @@ While the process of unblocking someone on Twitter is relatively simple, there a
 
 Unblocking someone on Twitter can be a positive step towards improving your online interactions. Here are some best practices to consider:
 
-- **Reflect Before Unblocking**: Take a moment to consider why you blocked the person in the first place and whether those reasons are still valid.
+1. **Reflect Before Unblocking**: Take a moment to consider why you blocked the person in the first place and whether those reasons are still valid.
 
-- **Set Boundaries**: If you’re unblocking someone after a conflict, it might be helpful to establish clear boundaries for future interactions.
+2. **Set Boundaries**: If you’re unblocking someone after a conflict, it might be helpful to establish clear boundaries for future interactions.
 
-- **Use Mute Instead of Block**: For less severe cases, consider using Twitter’s mute feature instead of blocking. This allows you to remove someone’s tweets from your timeline without them knowing.
+3. **Use Mute Instead of Block**: For less severe cases, consider using Twitter’s mute feature instead of blocking. This allows you to remove someone’s tweets from your timeline without them knowing.
 
-- **Regularly Review Your Block List**: Periodically review your list of blocked accounts. You might find that some blocks are no longer necessary.
+4. **Regularly Review Your Block List**: Periodically review your list of blocked accounts. You might find that some blocks are no longer necessary.
 
-- **Be Prepared for Renewed Interaction**: Remember that unblocking opens the door for renewed interaction. Be prepared for the possibility of the user following you or engaging with your content again.
+5. **Be Prepared for Renewed Interaction**: Remember that unblocking opens the door for renewed interaction. Be prepared for the possibility of the user following you or engaging with your content again.
 
 ## Conclusion
 

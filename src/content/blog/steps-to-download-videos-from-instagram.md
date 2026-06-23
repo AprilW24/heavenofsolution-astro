@@ -20,29 +20,29 @@ One of the simplest ways to save an Instagram video to your gallery is by using 
 
 **Steps for iOS devices:**
 
-- Open the Control Center by swiping down from the top-right corner of your screen (or up from the bottom on older iPhone models).
+1. Open the Control Center by swiping down from the top-right corner of your screen (or up from the bottom on older iPhone models).
 
-- Tap the Screen Recording button (it looks like a circle inside another circle).
+2. Tap the Screen Recording button (it looks like a circle inside another circle).
 
-- Wait for the three-second countdown, then open Instagram and play the video you want to record.
+3. Wait for the three-second countdown, then open Instagram and play the video you want to record.
 
-- When the video is finished, stop the screen recording by tapping the red status bar at the top of your screen and selecting “Stop.”
+4. When the video is finished, stop the screen recording by tapping the red status bar at the top of your screen and selecting “Stop.”
 
-- The recorded video will automatically save to your Photos app.
+5. The recorded video will automatically save to your Photos app.
 
 **Steps for Android devices:**
 
-- Swipe down twice from the top of your screen to open the Quick Settings panel.
+1. Swipe down twice from the top of your screen to open the Quick Settings panel.
 
-- Look for the Screen Record option. If you don’t see it, you may need to edit your Quick Settings to add this feature.
+2. Look for the Screen Record option. If you don’t see it, you may need to edit your Quick Settings to add this feature.
 
-- Tap Screen Record, then start the recording.
+3. Tap Screen Record, then start the recording.
 
-- Open Instagram and play the video you want to save.
+4. Open Instagram and play the video you want to save.
 
-- When finished, stop the recording by tapping the Screen Record notification.
+5. When finished, stop the recording by tapping the Screen Record notification.
 
-- The video will be saved to your gallery.
+6. The video will be saved to your gallery.
 
 While this method is straightforward, it does have some limitations. The recorded video will include any on-screen elements like buttons or notifications, and the quality may not be as high as the original. Additionally, you’ll need to trim the beginning and end of the recording to remove any unnecessary footage.
 
@@ -90,15 +90,15 @@ If you frequently download Instagram videos, you might find it more convenient t
 
 To use these apps, you typically follow these general steps:
 
-- Install the app from your device’s app store.
+1. Install the app from your device’s app store.
 
-- Open Instagram and find the video you want to download.
+2. Open Instagram and find the video you want to download.
 
-- Copy the video’s URL (as described in Method 2).
+3. Copy the video’s URL (as described in Method 2).
 
-- Open the downloader app and paste the URL.
+4. Open the downloader app and paste the URL.
 
-- Tap the download button to save the video to your gallery.
+5. Tap the download button to save the video to your gallery.
 
 Some apps offer additional features like batch downloading, reposting, and the ability to download stories and IGTV videos. However, be aware that these apps may require access to your Instagram account or other permissions, so review the app’s privacy policy before using it.
 
@@ -108,19 +108,19 @@ If you prefer to work on a larger screen or want to download multiple videos at 
 
 **Here’s how to download Instagram videos using a computer:**
 
-- Visit Instagram.com and log in to your account.
+1. Visit Instagram.com and log in to your account.
 
-- Find the video you want to download and open it.
+2. Find the video you want to download and open it.
 
-- Right-click on the video and select “Inspect” or “Inspect Element” (the exact wording may vary depending on your browser).
+3. Right-click on the video and select “Inspect” or “Inspect Element” (the exact wording may vary depending on your browser).
 
-- In the developer tools panel that opens, search for “video” or “.mp4”.
+4. In the developer tools panel that opens, search for “video” or “.mp4”.
 
-- Look for a URL ending in “.mp4” – this is the direct link to the video file.
+5. Look for a URL ending in “.mp4” – this is the direct link to the video file.
 
-- Copy this URL and paste it into a new browser tab.
+6. Copy this URL and paste it into a new browser tab.
 
-- Right-click on the playing video and select “Save video as” to download it to your computer.
+7. Right-click on the playing video and select “Save video as” to download it to your computer.
 
 This method requires a bit more technical know-how but can be very effective, especially for power users who need to download multiple videos. Once you’ve downloaded the videos to your computer, you can transfer them to your mobile device’s gallery using a USB cable or cloud storage service.
 

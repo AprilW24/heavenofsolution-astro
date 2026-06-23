@@ -20,15 +20,15 @@ When it comes to iPhone, things are a bit more strict, but there are *third-part
 
 Trying these steps out can help get your deleted chats back, even when backup isn’t available. Here’s your guide:
 
-- Download a trusted WhatsApp recovery app on your computer or mobile.
+1. Download a trusted WhatsApp recovery app on your computer or mobile.
 
-- Connect your phone and follow the app’s instructions to scan for lost messages.
+2. Connect your phone and follow the app’s instructions to scan for lost messages.
 
-- Preview the chats found by the recovery tool.
+3. Preview the chats found by the recovery tool.
 
-- Select the WhatsApp messages you need, then hit restore.
+4. Select the WhatsApp messages you need, then hit restore.
 
-- Save the recovered chats to your device or computer.
+5. Save the recovered chats to your device or computer.
 
 ## How Asking Other People Might Help You Get Your Lost Messages
 

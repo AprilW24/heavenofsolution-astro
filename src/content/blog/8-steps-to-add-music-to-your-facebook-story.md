@@ -16,13 +16,13 @@ Before we dive into the steps, let’s briefly discuss what Facebook Stories are
 
 There are several ways you can incorporate music into your Facebook Stories:
 
-- **Music-only stories**: These stories feature just a song with a colorful background or album art.
+1. **Music-only stories**: These stories feature just a song with a colorful background or album art.
 
-- **Photo stories with music**: Add a soundtrack to your still images.
+2. **Photo stories with music**: Add a soundtrack to your still images.
 
-- **Video stories with music**: Enhance your video clips with background music.
+3. **Video stories with music**: Enhance your video clips with background music.
 
-- **Lyric stories**: Display song lyrics along with the music.
+4. **Lyric stories**: Display song lyrics along with the music.
 
 Now, let’s get into the step-by-step process of adding music to your Facebook Story.
 

@@ -58,19 +58,19 @@ This method allows you to create complex rules with multiple criteria and action
 
 While the Gmail app doesn’t have a dedicated rule creation feature, you can use its search function to set up basic filters:
 
-- **Open the Gmail app** on your phone.
+1. **Open the Gmail app** on your phone.
 
-- **Tap the search bar** at the top of the screen.
+2. **Tap the search bar** at the top of the screen.
 
-- **Enter your search criteria** (e.g., sender’s email, subject keywords).
+3. **Enter your search criteria** (e.g., sender’s email, subject keywords).
 
-- **Tap the three-dot menu** in the top-right corner.
+4. **Tap the three-dot menu** in the top-right corner.
 
-- **Select “Create filter”** from the dropdown menu.
+5. **Select “Create filter”** from the dropdown menu.
 
-- **Choose filter actions** as prompted by the app.
+6. **Choose filter actions** as prompted by the app.
 
-- **Tap “Create filter”** to save your rule.
+7. **Tap “Create filter”** to save your rule.
 
 This method is more limited than using the desktop site, but it’s quicker and easier to navigate on a mobile device.
 
@@ -78,19 +78,19 @@ This method is more limited than using the desktop site, but it’s quicker and 
 
 Some third-party add-ons can enhance Gmail’s functionality on mobile devices, including the ability to create rules. Here’s how to use them:
 
-- **Open the Gmail app** on your phone.
+1. **Open the Gmail app** on your phone.
 
-- **Tap the three-line menu** in the top-left corner.
+2. **Tap the three-line menu** in the top-left corner.
 
-- **Scroll down and select “Settings”**.
+3. **Scroll down and select “Settings”**.
 
-- **Choose your Gmail account**.
+4. **Choose your Gmail account**.
 
-- **Scroll down to “Add-ons”** and tap “Get add-ons.”
+5. **Scroll down to “Add-ons”** and tap “Get add-ons.”
 
-- **Search for and install** a rule creation add-on (e.g., “Pocket Filters”).
+6. **Search for and install** a rule creation add-on (e.g., “Pocket Filters”).
 
-- **Follow the add-on’s instructions** to create rules within the Gmail app.
+7. **Follow the add-on’s instructions** to create rules within the Gmail app.
 
 While this method requires installing additional software, it can provide a more native experience for creating rules on your phone.
 

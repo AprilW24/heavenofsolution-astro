@@ -24,15 +24,15 @@ One of the best downloader apps available on the Google Play Store is Advanced D
 
 The first step is to download and install ADM on your Android phone or tablet. Here’s how:
 
-- Open the **Google Play Store** app on your device
+1. Open the **Google Play Store** app on your device
 
-- Search for **Advanced Download Manager** or **ADM**
+2. Search for **Advanced Download Manager** or **ADM**
 
-- Select the app from the search results (it should be the first result)
+3. Select the app from the search results (it should be the first result)
 
-- Tap **Install** to download and install the app
+4. Tap **Install** to download and install the app
 
-- Once installed, tap **Open** to launch ADM
+5. Once installed, tap **Open** to launch ADM
 
 ## Step 2: Grant Necessary Permissions
 
@@ -64,13 +64,13 @@ Feel free to explore the other settings and customize ADM to your liking. Rememb
 
 One of ADM’s handiest features is its ability to intercept download links from your web browser. This lets you download files directly without having to copy/paste URLs. To set this up:
 
-- Open your preferred browser and navigate to a download link
+1. Open your preferred browser and navigate to a download link
 
-- Tap the download link and select **ADM** from the list of apps
+2. Tap the download link and select **ADM** from the list of apps
 
-- Check the **Remember my choice** option to always use ADM
+3. Check the **Remember my choice** option to always use ADM
 
-- Tap **Always** or **Just once** to open the link in ADM
+4. Tap **Always** or **Just once** to open the link in ADM
 
 Now when you click on download links in your browser, the files will automatically open in ADM where you can manage the download.
 

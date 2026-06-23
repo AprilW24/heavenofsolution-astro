@@ -26,25 +26,25 @@ Archiving is a reversible action, which means you can always bring back your arc
 
 Unarchiving a post on Instagram is a straightforward process that can be completed in just a few taps. Here’s how to do it:
 
-- **Open the Instagram app** on your mobile device and ensure you’re logged into the account where you archived the post.
+1. **Open the Instagram app** on your mobile device and ensure you’re logged into the account where you archived the post.
 
-- **Navigate to your profile** by tapping on your profile picture icon in the bottom right corner of the screen.
+2. **Navigate to your profile** by tapping on your profile picture icon in the bottom right corner of the screen.
 
-- **Access the menu** by tapping the three horizontal lines (hamburger menu) in the top right corner of your profile page.
+3. **Access the menu** by tapping the three horizontal lines (hamburger menu) in the top right corner of your profile page.
 
-- **Select “Archive”** from the menu options. This will take you to your archive page.
+4. **Select “Archive”** from the menu options. This will take you to your archive page.
 
-- **Choose “Posts”** from the archive type options at the top of the screen (you may need to tap on the dropdown menu to see this option).
+5. **Choose “Posts”** from the archive type options at the top of the screen (you may need to tap on the dropdown menu to see this option).
 
-- **Locate the post** you want to unarchive by scrolling through your archived posts.
+6. **Locate the post** you want to unarchive by scrolling through your archived posts.
 
-- **Tap on the post** to open it fully.
+7. **Tap on the post** to open it fully.
 
-- **Click the three-dot menu** icon in the top right corner of the post.
+8. **Click the three-dot menu** icon in the top right corner of the post.
 
-- **Select “Show on profile”** from the options that appear.
+9. **Select “Show on profile”** from the options that appear.
 
-- **Confirm your action** if prompted.
+10. **Confirm your action** if prompted.
 
 After completing these steps, the post will immediately reappear on your profile in its original chronological position. All the likes, comments, and other engagement metrics associated with the post will be restored as if it had never been archived.
 

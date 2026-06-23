@@ -22,29 +22,29 @@ For Android, opening special folders in a file manager reveals photos, video cli
 
 ## Step-by-Step for Deleting WhatsApp Hidden Trash
 
-- Open WhatsApp, tap the three vertical dots, and select **Settings**.
+1. Open WhatsApp, tap the three vertical dots, and select **Settings**.
 
-- Tap **Storage and data**, then pick **Manage storage**.
+2. Tap **Storage and data**, then pick **Manage storage**.
 
-- Check which chats and files take up most space.
+3. Check which chats and files take up most space.
 
-- Select big files or items forwarded many times.
+4. Select big files or items forwarded many times.
 
-- Tap and hold to select, or tap **Select all** for everything in a section.
+5. Tap and hold to select, or tap **Select all** for everything in a section.
 
-- Tap the trash bin emoji to clear chosen items.
+6. Tap the trash bin emoji to clear chosen items.
 
-- To catch more, open the phone’s file manager app or *Files by Google.*
+7. To catch more, open the phone’s file manager app or *Files by Google.*
 
-- Look for the WhatsApp folder, then Media.
+8. Look for the WhatsApp folder, then Media.
 
-- Open folders like *WhatsApp Images,* *WhatsApp Video,* and check *Sent* or *Private* folders.
+9. Open folders like *WhatsApp Images,* *WhatsApp Video,* and check *Sent* or *Private* folders.
 
-- Select and delete leftover files inside those folders.
+10. Select and delete leftover files inside those folders.
 
-- Go to the phone’s trash or recently deleted in gallery and empty it.
+11. Go to the phone’s trash or recently deleted in gallery and empty it.
 
-- Restart the phone to make sure everything is gone.
+12. Restart the phone to make sure everything is gone.
 
 ## Protecting Storage in the Future and Keeping WhatsApp Light
 

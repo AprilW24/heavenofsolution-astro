@@ -30,37 +30,37 @@ While Canva doesn’t directly support converting videos into presentations, you
 
 If your Canva video is based on a slideshow, you can start by extracting the individual slides. Here’s how:
 
-- **Open Canva**: Go to your Canva dashboard and open the presentation or video project you want to convert.
+1. **Open Canva**: Go to your Canva dashboard and open the presentation or video project you want to convert.
 
-- **Export as Images**: Download each slide as an image file (e.g., PNG or JPEG). You can do this by selecting each slide and using the download option.
+2. **Export as Images**: Download each slide as an image file (e.g., PNG or JPEG). You can do this by selecting each slide and using the download option.
 
-- **Organize Your Slides**: Keep your images organized in a folder so they’re easy to access later.
+3. **Organize Your Slides**: Keep your images organized in a folder so they’re easy to access later.
 
 #### Step 2: Create a New Presentation
 
 Now, let’s create a new presentation using your extracted slides:
 
-- **Choose a Platform**: Decide whether you want to use PowerPoint, Google Slides, or another presentation software.
+1. **Choose a Platform**: Decide whether you want to use PowerPoint, Google Slides, or another presentation software.
 
-- **Create a New Presentation**: Open your chosen platform and create a new presentation.
+2. **Create a New Presentation**: Open your chosen platform and create a new presentation.
 
-- **Insert Your Slides**: Import the images you downloaded earlier into your presentation. You can do this by inserting each image onto a new slide.
+3. **Insert Your Slides**: Import the images you downloaded earlier into your presentation. You can do this by inserting each image onto a new slide.
 
 #### Step 3: Add Text and Design Elements
 
 Enhance your presentation by adding text and design elements:
 
-- **Add Text**: Use the text tool to add captions, titles, or descriptions to each slide.
+1. **Add Text**: Use the text tool to add captions, titles, or descriptions to each slide.
 
-- **Customize Design**: Use the design tools available in your presentation software to customize fonts, colors, and layouts.
+2. **Customize Design**: Use the design tools available in your presentation software to customize fonts, colors, and layouts.
 
 #### Step 4: Add Audio or Voiceover (Optional)
 
 If you want to include audio or a voiceover in your presentation, you can record it separately and add it to your slides:
 
-- **Record Audio**: Use a voice recorder or audio software to record your voiceover.
+1. **Record Audio**: Use a voice recorder or audio software to record your voiceover.
 
-- **Insert Audio**: Add the recorded audio to your presentation slides.
+2. **Insert Audio**: Add the recorded audio to your presentation slides.
 
 ### Tools for Converting Canva Videos to Presentations
 

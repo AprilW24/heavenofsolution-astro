@@ -20,15 +20,15 @@ One of the most powerful tools at your disposal is Google Image Search. This met
 
 To use Google Image Search on your phone:
 
-- Open the Google app or go to Google.com in your mobile browser.
+1. Open the Google app or go to Google.com in your mobile browser.
 
-- Tap the camera icon in the search bar.
+2. Tap the camera icon in the search bar.
 
-- Choose to either take a photo or upload an existing image from your phone’s gallery.
+3. Choose to either take a photo or upload an existing image from your phone’s gallery.
 
-- Once the image is uploaded, Google will display visually similar images and related web pages.
+4. Once the image is uploaded, Google will display visually similar images and related web pages.
 
-- Look for results that link to Facebook profiles or pages.
+5. Look for results that link to Facebook profiles or pages.
 
 **Pro tip:** To narrow down your search results, you can add “site:facebook.com” to your search query. This will limit the results to only Facebook pages, increasing your chances of finding the person you’re looking for.
 
@@ -46,11 +46,11 @@ Some popular reverse image search apps include:
 
 To use these apps:
 
-- Download and install your chosen app from your device’s app store.
+1. Download and install your chosen app from your device’s app store.
 
-- Open the app and select the option to upload an image or take a new photo.
+2. Open the app and select the option to upload an image or take a new photo.
 
-- Once the image is processed, the app will display search results, including potential Facebook profiles.
+3. Once the image is processed, the app will display search results, including potential Facebook profiles.
 
 ## Step 3: Utilize Facebook’s Own Search Features
 
@@ -58,15 +58,15 @@ While Facebook doesn’t offer a direct image search feature, you can still use 
 
 Here’s how to make the most of Facebook’s search:
 
-- Open the Facebook app on your phone.
+1. Open the Facebook app on your phone.
 
-- Tap the search bar at the top of the screen.
+2. Tap the search bar at the top of the screen.
 
-- Enter any known information about the person (e.g., first name, city, school).
+3. Enter any known information about the person (e.g., first name, city, school).
 
-- Tap the “People” filter to narrow down the results.
+4. Tap the “People” filter to narrow down the results.
 
-- Scroll through the profile pictures to visually identify the person you’re looking for.
+5. Scroll through the profile pictures to visually identify the person you’re looking for.
 
 **Remember:** The more specific information you can provide in your search, the better your chances of finding the right person.
 
@@ -76,13 +76,13 @@ Social Catfish is a powerful online tool that specializes in finding people acro
 
 To use Social Catfish:
 
-- Visit the Social Catfish website on your mobile browser.
+1. Visit the Social Catfish website on your mobile browser.
 
-- Select the “Reverse Image Search” option.
+2. Select the “Reverse Image Search” option.
 
-- Upload the photo you want to search.
+3. Upload the photo you want to search.
 
-- Follow the prompts to complete the search process.
+4. Follow the prompts to complete the search process.
 
 Social Catfish scans multiple online networks, public databases, and search engines to provide detailed information about the person in the photo, potentially including their Facebook profile.
 
@@ -92,11 +92,11 @@ Sometimes, the most effective way to find someone on Facebook is through your ex
 
 Try these steps:
 
-- Share the photo with your Facebook friends, asking if anyone recognizes the person.
+1. Share the photo with your Facebook friends, asking if anyone recognizes the person.
 
-- Post the image in relevant Facebook groups or communities where the person might be known.
+2. Post the image in relevant Facebook groups or communities where the person might be known.
 
-- Use Facebook’s “People You May Know” feature to browse through suggested connections, as the person you’re looking for might appear there.
+3. Use Facebook’s “People You May Know” feature to browse through suggested connections, as the person you’re looking for might appear there.
 
 ## Conclusion
 

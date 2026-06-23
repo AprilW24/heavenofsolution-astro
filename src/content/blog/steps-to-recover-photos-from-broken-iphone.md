@@ -12,13 +12,13 @@ Losing photos stored on your iPhone due to a broken screen or other damage can b
 
 The easiest way is to restore photos from your most recent iTunes backup if you have your iPhone connected to a computer. Here are the steps:
 
-- Connect your broken iPhone to your computer using a USB cable. iTunes should detect the device.
+1. Connect your broken iPhone to your computer using a USB cable. iTunes should detect the device.
 
-- In iTunes, click on your iPhone icon and go to the Summary tab.
+2. In iTunes, click on your iPhone icon and go to the Summary tab.
 
-- Click **Restore Backup** and select the latest backup file that contains your photos.
+3. Click **Restore Backup** and select the latest backup file that contains your photos.
 
-- iTunes will restore data from that backup, including photos, to your iPhone or a new iPhone if replacing the broken one.
+4. iTunes will restore data from that backup, including photos, to your iPhone or a new iPhone if replacing the broken one.
 
 This allows you to recover photos without needing iCloud as long as you have a recent iTunes backup.
 
@@ -26,15 +26,15 @@ This allows you to recover photos without needing iCloud as long as you have a r
 
 If you don’t have an iTunes backup, third-party iPhone data recovery software offers another solution to retrieve photos. Here are the main steps:
 
-- Download and install data recovery software like iSkysoft or EaseUS MobiSaver on your computer.
+1. Download and install data recovery software like iSkysoft or EaseUS MobiSaver on your computer.
 
-- Connect your broken iPhone to the computer using a USB cable.
+2. Connect your broken iPhone to the computer using a USB cable.
 
-- Launch the data recovery software and scan your iPhone for recoverable data.
+3. Launch the data recovery software and scan your iPhone for recoverable data.
 
-- Preview and select the photos you wish to recover.
+4. Preview and select the photos you wish to recover.
 
-- Save the retrieved photos to your computer or external storage.
+5. Save the retrieved photos to your computer or external storage.
 
 The software scans the iPhone’s storage for recoverable data even if the screen is damaged. This is an effective way to restore photos from a broken device without an iTunes or iCloud backup.
 

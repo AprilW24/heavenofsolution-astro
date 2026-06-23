@@ -28,19 +28,19 @@ Now, let’s explore the different methods to add someone to a WhatsApp group on
 
 This is the most straightforward method to add new members to your WhatsApp group. Here’s how to do it:
 
-- **Open WhatsApp** on your Android device.
+1. **Open WhatsApp** on your Android device.
 
-- **Navigate to the group** chat where you want to add new members.
+2. **Navigate to the group** chat where you want to add new members.
 
-- **Tap on the group name** at the top of the screen to open the group info page.
+3. **Tap on the group name** at the top of the screen to open the group info page.
 
-- **Scroll down** and look for the “Add participants” option.
+4. **Scroll down** and look for the “Add participants” option.
 
-- **Tap on “Add participants”** to see your contact list.
+5. **Tap on “Add participants”** to see your contact list.
 
-- **Select the contacts** you want to add to the group. You can choose multiple contacts at once.
+6. **Select the contacts** you want to add to the group. You can choose multiple contacts at once.
 
-- After selecting the contacts, **tap the checkmark** or “Add” button (depending on your Android version) to confirm.
+7. After selecting the contacts, **tap the checkmark** or “Add” button (depending on your Android version) to confirm.
 
 The selected contacts will now be added to the group, and they’ll receive a notification about being added.
 
@@ -70,19 +70,19 @@ When the recipient clicks on the link, they’ll be prompted to join the group. 
 
 If you prefer to browse through your contacts first, you can add members to a group from your main contacts list:
 
-- **Open WhatsApp** and go to the **Chats** tab.
+1. **Open WhatsApp** and go to the **Chats** tab.
 
-- **Tap the New Chat icon** (usually a message bubble with a plus sign).
+2. **Tap the New Chat icon** (usually a message bubble with a plus sign).
 
-- **Select “New group”** from the options that appear.
+3. **Select “New group”** from the options that appear.
 
-- You’ll see your contact list. **Select the contacts** you want to add to the group.
+4. You’ll see your contact list. **Select the contacts** you want to add to the group.
 
-- **Tap the arrow** or “Next” button to proceed.
+5. **Tap the arrow** or “Next” button to proceed.
 
-- **Enter a group name** and optional group icon.
+6. **Enter a group name** and optional group icon.
 
-- **Tap the checkmark** or “Create” to finalize the group creation.
+7. **Tap the checkmark** or “Create” to finalize the group creation.
 
 This method is particularly useful when you’re creating a new group and adding members simultaneously.
 

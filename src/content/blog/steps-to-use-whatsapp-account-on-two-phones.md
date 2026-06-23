@@ -22,25 +22,25 @@ Just remember that while you can link multiple devices, only one phone can be th
 
 Now let’s get to the actual setup. This process takes about 2 minutes max, and you’ll be chatting from both phones in no time.
 
-- Install WhatsApp on your second phone from the Google Play Store (Android) or App Store (iPhone) if you haven’t already.
+1. Install WhatsApp on your second phone from the Google Play Store (Android) or App Store (iPhone) if you haven’t already.
 
-- Open WhatsApp on your second phone and when you see the welcome screen, look for the three-dot menu icon in the top right corner (Android) or tap “Use Existing Account” (iPhone).
+2. Open WhatsApp on your second phone and when you see the welcome screen, look for the three-dot menu icon in the top right corner (Android) or tap “Use Existing Account” (iPhone).
 
-- Select “Link to existing account” or “Link as companion device” to tell WhatsApp you want to link this phone instead of creating a new account.
+3. Select “Link to existing account” or “Link as companion device” to tell WhatsApp you want to link this phone instead of creating a new account.
 
-- Your second phone will now display a QR code scanner screen waiting for you to scan.
+4. Your second phone will now display a QR code scanner screen waiting for you to scan.
 
-- Grab your primary phone (the one with your main WhatsApp account) and open WhatsApp.
+5. Grab your primary phone (the one with your main WhatsApp account) and open WhatsApp.
 
-- Tap the three-dot menu icon in the top right corner, then go to “Linked Devices” in the settings menu.
+6. Tap the three-dot menu icon in the top right corner, then go to “Linked Devices” in the settings menu.
 
-- Tap the green “Link a device” button, which will activate your camera to scan QR codes.
+7. Tap the green “Link a device” button, which will activate your camera to scan QR codes.
 
-- Point your primary phone’s camera at the QR code displayed on your second phone and wait for it to scan (alternatively, you can choose “Link with phone number instead” and enter a one-time passcode).
+8. Point your primary phone’s camera at the QR code displayed on your second phone and wait for it to scan (alternatively, you can choose “Link with phone number instead” and enter a one-time passcode).
 
-- Once scanned successfully, your second phone will start syncing all your chats, contacts, and media automatically.
+9. Once scanned successfully, your second phone will start syncing all your chats, contacts, and media automatically.
 
-- Wait a few moments for the sync to complete, and boom, you’re done! 🎉
+10. Wait a few moments for the sync to complete, and boom, you’re done! 🎉
 
 Both phones will now show your WhatsApp chats, and you can send messages, make calls, and share media from either device. Everything syncs in real time, so messages you send from one phone instantly appear on the other.
 

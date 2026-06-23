@@ -14,15 +14,15 @@ The good news is – with the right steps, you can easily restore your calendar 
 
 If you use the Google Calendar app, it has a trash feature where deleted events are stored for 30 days before being permanently deleted. Here are the steps to restore calendar events from Google Calendar trash:
 
-- Open the Google Calendar app on your Android phone
+1. Open the Google Calendar app on your Android phone
 
-- Tap on the menu icon in the top left corner
+2. Tap on the menu icon in the top left corner
 
-- Select **Trash**
+3. Select **Trash**
 
-- Tap **Edit** and select the calendar events you want to restore
+4. Tap **Edit** and select the calendar events you want to restore
 
-- Tap **Restore** to restore the selected events back to your calendar
+5. Tap **Restore** to restore the selected events back to your calendar
 
 This method allows you to easily restore events within 30 days of deletion.
 
@@ -30,17 +30,17 @@ This method allows you to easily restore events within 30 days of deletion.
 
 If you have Google Drive backup enabled, you can restore calendar data from the backup files:
 
-- Install Google Drive on your computer
+1. Install Google Drive on your computer
 
-- Sign in to your Google Account
+2. Sign in to your Google Account
 
-- Click on **Backups** in the left sidebar
+3. Click on **Backups** in the left sidebar
 
-- Locate the backup when your calendar data was available
+4. Locate the backup when your calendar data was available
 
-- Right click on the backup and choose **Restore**
+5. Right click on the backup and choose **Restore**
 
-- Select the Calendar data and click **Restore**
+6. Select the Calendar data and click **Restore**
 
 This will restore your calendar backup to your Google Account. It may take some time to sync back to your Android phone.
 
@@ -48,13 +48,13 @@ This will restore your calendar backup to your Google Account. It may take some 
 
 If the above methods don’t work, you can use data recovery software like [FoneDog Android Data Recovery](https://www.fonedog.com/android-data-recovery/) to scan your phone’s memory and restore deleted calendar files. The key steps are:
 
-- Connect your Android phone to the computer
+1. Connect your Android phone to the computer
 
-- Select **Calendar** file types to scan
+2. Select **Calendar** file types to scan
 
-- Preview and select the calendar events to recover
+3. Preview and select the calendar events to recover
 
-- Click **Recover** to restore events back to your device
+4. Click **Recover** to restore events back to your device
 
 This method works even if you don’t have backups available.
 
@@ -62,11 +62,11 @@ This method works even if you don’t have backups available.
 
 If you have added your Gmail account in Google Calendar, it automatically syncs calendar events from Gmail. You can enable this sync to restore missing events:
 
-- Open Google Calendar settings
+1. Open Google Calendar settings
 
-- Go to **Events from Gmail**
+2. Go to **Events from Gmail**
 
-- Turn on the feature and sync events from Gmail
+3. Turn on the feature and sync events from Gmail
 
 ### Conclusion
 

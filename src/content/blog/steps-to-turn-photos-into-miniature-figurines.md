@@ -22,21 +22,21 @@ The Nano Banana trend exploded because Gemini makes this accessible to everyone.
 
 ## Steps to Create Your Miniature Figurine in Gemini AI
 
-- Open your browser and go to gemini.google.com or launch the Gemini app on your phone.
+1. Open your browser and go to gemini.google.com or launch the Gemini app on your phone.
 
-- Look for the **Tools** icon and tap it, then select **Create image**.
+2. Look for the **Tools** icon and tap it, then select **Create image**.
 
-- Click plus icon (**+**) and select **Upload files**, then select the photo you want to transform into a miniature (make sure it’s a clear photo where the person is visible).
+3. Click plus icon (**+**) and select **Upload files**, then select the photo you want to transform into a miniature (make sure it’s a clear photo where the person is visible).
 
-- Paste this prompt into the text box, “Using the model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to the computer screen is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations.”
+4. Paste this prompt into the text box, “Using the model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to the computer screen is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations.”
 
-- Hit the send button (usually an arrow icon pointing right) and wait a few seconds while Gemini processes your request.
+5. Hit the send button (usually an arrow icon pointing right) and wait a few seconds while Gemini processes your request.
 
-- Once the image appears, check if you’re happy with the result or if you want to refine it with additional prompts like “make the figurine sharper” or “improve the lighting.”
+6. Once the image appears, check if you’re happy with the result or if you want to refine it with additional prompts like “make the figurine sharper” or “improve the lighting.”
 
-- Download your miniature image by clicking the download icon in the top right corner of the generated photo.
+7. Download your miniature image by clicking the download icon in the top right corner of the generated photo.
 
-- Save it to your device and share it on social media to join the viral trend 📸.
+8. Save it to your device and share it on social media to join the viral trend 📸.
 
 ## Tips for Getting Better Miniature Results
 

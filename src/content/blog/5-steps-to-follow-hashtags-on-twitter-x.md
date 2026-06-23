@@ -26,19 +26,19 @@ Now that we understand the significance of hashtags, let’s explore how to foll
 
 The simplest way to follow hashtags on X for Android is by utilizing the app’s built-in search feature. Here’s how:
 
-- Open the X app on your Android device.
+1. Open the X app on your Android device.
 
-- Tap on the search icon (magnifying glass) at the bottom of the screen.
+2. Tap on the search icon (magnifying glass) at the bottom of the screen.
 
-- In the search bar, type the hashtag you want to follow, including the “#” symbol.
+3. In the search bar, type the hashtag you want to follow, including the “#” symbol.
 
-- Press enter or tap the search button.
+4. Press enter or tap the search button.
 
-- On the results page, you’ll see tweets containing the hashtag.
+5. On the results page, you’ll see tweets containing the hashtag.
 
-- To save this search for easy access later, tap the three dots (…) in the top right corner.
+6. To save this search for easy access later, tap the three dots (…) in the top right corner.
 
-- Select “Save search” from the dropdown menu.
+7. Select “Save search” from the dropdown menu.
 
 Now, whenever you want to check this hashtag, you can simply go to the search tab and find it under your saved searches. While this method doesn’t provide real-time updates, it’s a quick way to check on hashtags you’re interested in.
 
@@ -46,17 +46,17 @@ Now, whenever you want to check this hashtag, you can simply go to the search ta
 
 Another effective way to follow hashtags on X for Android is by creating a List dedicated to that hashtag. Here’s how:
 
-- Perform a search for the hashtag you want to follow.
+1. Perform a search for the hashtag you want to follow.
 
-- Look for accounts that frequently use or are associated with this hashtag.
+2. Look for accounts that frequently use or are associated with this hashtag.
 
-- Tap on an account, then tap the three dots (…) next to the Follow button.
+3. Tap on an account, then tap the three dots (…) next to the Follow button.
 
-- Select “Add/remove from Lists.”
+4. Select “Add/remove from Lists.”
 
-- Create a new List specifically for this hashtag.
+5. Create a new List specifically for this hashtag.
 
-- Repeat this process for several accounts associated with the hashtag.
+6. Repeat this process for several accounts associated with the hashtag.
 
 By creating a List, you’re essentially curating a feed of accounts that frequently use or discuss the hashtag you’re interested in. While this method requires more initial setup, it can provide a more focused and curated experience.
 
@@ -72,11 +72,11 @@ While X doesn’t offer a native way to follow hashtags in real-time on Android,
 
 To use these apps:
 
-- Download and install the app of your choice from the Google Play Store.
+1. Download and install the app of your choice from the Google Play Store.
 
-- Log in with your X account.
+2. Log in with your X account.
 
-- Follow the app-specific instructions to set up hashtag tracking.
+3. Follow the app-specific instructions to set up hashtag tracking.
 
 Remember to review the privacy policies and permissions of any third-party app before granting access to your X account.
 
@@ -84,13 +84,13 @@ Remember to review the privacy policies and permissions of any third-party app b
 
 The Explore tab on X can be a goldmine for discovering and following trending hashtags. Here’s how to make the most of it:
 
-- Open the X app and tap on the Explore tab (magnifying glass icon).
+1. Open the X app and tap on the Explore tab (magnifying glass icon).
 
-- Scroll through the trending topics and hashtags.
+2. Scroll through the trending topics and hashtags.
 
-- Tap on any hashtag that interests you to see related tweets.
+3. Tap on any hashtag that interests you to see related tweets.
 
-- To keep track of a specific hashtag, you can bookmark tweets containing that hashtag for easy access later.
+4. To keep track of a specific hashtag, you can bookmark tweets containing that hashtag for easy access later.
 
 While this method doesn’t allow you to follow hashtags directly, it’s an excellent way to stay on top of current trends and discover new hashtags to follow.
 
@@ -98,11 +98,11 @@ While this method doesn’t allow you to follow hashtags directly, it’s an exc
 
 X’s algorithm takes note of your interactions and tailors your feed accordingly. By actively engaging with tweets containing hashtags you’re interested in, you can indirectly “follow” these hashtags. Here’s how:
 
-- Regularly search for hashtags you’re interested in.
+1. Regularly search for hashtags you’re interested in.
 
-- Like, retweet, and reply to tweets containing these hashtags.
+2. Like, retweet, and reply to tweets containing these hashtags.
 
-- Use these hashtags in your own tweets.
+3. Use these hashtags in your own tweets.
 
 Over time, X’s algorithm will recognize your interest in these topics and may show more related content in your feed, including tweets with those hashtags.
 

@@ -44,11 +44,11 @@ Now that we understand the benefits, let’s explore how to use this feature on 
 
 If you find swiping a bit tricky, there’s an alternative method you can use:
 
-- Instead of swiping, simply **long-press** on the message you want to reply to.
+1. Instead of swiping, simply **long-press** on the message you want to reply to.
 
-- A menu will appear with several options. Look for the **“Reply”** option and tap on it.
+2. A menu will appear with several options. Look for the **“Reply”** option and tap on it.
 
-- The rest of the process remains the same – compose your message and send it.
+3. The rest of the process remains the same – compose your message and send it.
 
 This method can be particularly useful if you’re having trouble with the swiping gesture or if you prefer a more deliberate action.
 
@@ -70,13 +70,13 @@ Now that you know how to reply to specific messages, here are some tips to make 
 
 If you’re having trouble with the reply feature, here are a few things to check:
 
-- **Update your app**: Ensure you’re running the latest version of Instagram. Outdated apps can sometimes lack newer features or have bugs.
+1. **Update your app**: Ensure you’re running the latest version of Instagram. Outdated apps can sometimes lack newer features or have bugs.
 
-- **Check your internet connection**: A stable internet connection is necessary for all Instagram functions, including messaging.
+2. **Check your internet connection**: A stable internet connection is necessary for all Instagram functions, including messaging.
 
-- **Restart the app**: If the feature isn’t working, try closing and reopening the Instagram app.
+3. **Restart the app**: If the feature isn’t working, try closing and reopening the Instagram app.
 
-- **Clear cache**: Go to your Android settings, find the Instagram app, and clear its cache. This can sometimes resolve app issues.
+4. **Clear cache**: Go to your Android settings, find the Instagram app, and clear its cache. This can sometimes resolve app issues.
 
 ## Conclusion
 

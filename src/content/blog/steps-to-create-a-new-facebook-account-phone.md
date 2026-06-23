@@ -32,31 +32,31 @@ If you like, upload a profile pic now or later. Facebook gives the choice to ski
 
 ## Step-by-Step Creating Facebook Account on Phone
 
-- Download the Facebook app from your store.
+1. Download the Facebook app from your store.
 
-- Open the app and tap *Create New Account*.
+2. Open the app and tap *Create New Account*.
 
-- Tap *Get Started* on the first screen.
+3. Tap *Get Started* on the first screen.
 
-- Enter your first and last name and tap *Next*.
+4. Enter your first and last name and tap *Next*.
 
-- Put in your birthday and tap *Next* again.
+5. Put in your birthday and tap *Next* again.
 
-- Select gender or tap *Custom* if you like.
+6. Select gender or tap *Custom* if you like.
 
-- Add your mobile number or email address for sign-up.
+7. Add your mobile number or email address for sign-up.
 
-- Make your password strong and easy to remember for you.
+8. Make your password strong and easy to remember for you.
 
-- Agree to the terms and privacy settings.
+9. Agree to the terms and privacy settings.
 
-- Verify your code sent to email or phone.
+10. Verify your code sent to email or phone.
 
-- Decide if you want to upload a profile picture now or skip.
+11. Decide if you want to upload a profile picture now or skip.
 
-- Finish by tapping *Register* or *Sign Up*.
+12. Finish by tapping *Register* or *Sign Up*.
 
-- You’re logged in and ready to start using Facebook!
+13. You’re logged in and ready to start using Facebook!
 
 ## Troubleshooting Common Issues on Mobile Registration
 

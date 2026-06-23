@@ -18,21 +18,21 @@ The good news is that Instagram provides a feature that allows you to hide your 
 
 Follow these steps to hide your Instagram Story from specific users while keeping your Highlights visible to them:
 
-- **Open the Instagram app**: Start by launching the Instagram app on your mobile device and ensuring you’re logged into your account.
+1. **Open the Instagram app**: Start by launching the Instagram app on your mobile device and ensuring you’re logged into your account.
 
-- **Navigate to your profile**: Tap on your profile picture in the bottom right corner of the screen to access your profile page.
+2. **Navigate to your profile**: Tap on your profile picture in the bottom right corner of the screen to access your profile page.
 
-- **Access Settings**: Look for the hamburger menu (three horizontal lines) in the top right corner of your profile page. Tap on it to open a menu, then select “Settings” at the bottom.
+3. **Access Settings**: Look for the hamburger menu (three horizontal lines) in the top right corner of your profile page. Tap on it to open a menu, then select “Settings” at the bottom.
 
-- **Go to Privacy settings**: In the Settings menu, scroll down until you find “Privacy” and tap on it.
+4. **Go to Privacy settings**: In the Settings menu, scroll down until you find “Privacy” and tap on it.
 
-- **Locate Story settings**: Within the Privacy menu, you’ll see various options. Look for “Story” and tap on it to access Story-specific privacy settings.
+5. **Locate Story settings**: Within the Privacy menu, you’ll see various options. Look for “Story” and tap on it to access Story-specific privacy settings.
 
-- **Hide Story from specific users**: In the Story settings, you’ll find an option called “Hide story from.” Tap on this to see a list of your followers.
+6. **Hide Story from specific users**: In the Story settings, you’ll find an option called “Hide story from.” Tap on this to see a list of your followers.
 
-- **Select users to hide from**: Scroll through your followers list or use the search bar at the top to find specific users. Tap the circle next to each user’s name to select them. A checkmark will appear next to the names of users you’ve chosen to hide your Story from.
+7. **Select users to hide from**: Scroll through your followers list or use the search bar at the top to find specific users. Tap the circle next to each user’s name to select them. A checkmark will appear next to the names of users you’ve chosen to hide your Story from.
 
-- **Confirm your selection**: Once you’ve selected all the users you want to hide your Story from, tap “Done” (on iOS) or the back arrow (on Android) to save your changes.
+8. **Confirm your selection**: Once you’ve selected all the users you want to hide your Story from, tap “Done” (on iOS) or the back arrow (on Android) to save your changes.
 
 By following these steps, you’ve successfully hidden your Instagram Stories from the selected users. They will no longer see your Stories in their feed or at the top of the app when you post new content. However, it’s important to note that this action does not affect their ability to view your Highlights or regular posts on your profile.
 
@@ -54,15 +54,15 @@ While hiding your Story from specific users is a useful feature, there are a few
 
 You might wonder why someone would choose to hide their Stories from certain users while keeping Highlights visible. There are several reasons for this approach:
 
-- **Temporary privacy**: Stories are often more spontaneous and in-the-moment, while Highlights are curated collections. You might want to keep your day-to-day activities private from certain people but still allow them to see your best moments or themed collections in Highlights.
+1. **Temporary privacy**: Stories are often more spontaneous and in-the-moment, while Highlights are curated collections. You might want to keep your day-to-day activities private from certain people but still allow them to see your best moments or themed collections in Highlights.
 
-- **Professional considerations**: If you use Instagram for both personal and professional purposes, you might want to hide personal Stories from colleagues or clients while still allowing them to see work-related Highlights on your profile.
+2. **Professional considerations**: If you use Instagram for both personal and professional purposes, you might want to hide personal Stories from colleagues or clients while still allowing them to see work-related Highlights on your profile.
 
-- **Relationship dynamics**: In some cases, you might want to limit what certain friends or family members see in your daily Stories without completely shutting them out from your Instagram presence.
+3. **Relationship dynamics**: In some cases, you might want to limit what certain friends or family members see in your daily Stories without completely shutting them out from your Instagram presence.
 
-- **Content testing**: You may want to experiment with different types of content in your Stories, visible only to a select audience, before deciding whether to add them to your more permanent Highlights.
+4. **Content testing**: You may want to experiment with different types of content in your Stories, visible only to a select audience, before deciding whether to add them to your more permanent Highlights.
 
-- **Avoiding overwhelm**: If you post Stories frequently, you might choose to hide them from followers who’ve expressed feeling overwhelmed by the volume of content, while still giving them access to your curated Highlights.
+5. **Avoiding overwhelm**: If you post Stories frequently, you might choose to hide them from followers who’ve expressed feeling overwhelmed by the volume of content, while still giving them access to your curated Highlights.
 
 ## Conclusion
 

@@ -20,17 +20,17 @@ Adobe Acrobat Reader DC is a free PDF viewer that most people are familiar with.
 
 **Steps:**
 
-- Download and install Adobe Acrobat Reader DC if you haven’t already.
+1. Download and install Adobe Acrobat Reader DC if you haven’t already.
 
-- Open the PDF file you want to extract text from.
+2. Open the PDF file you want to extract text from.
 
-- Click on the “Select Tool” icon in the toolbar (it looks like a cursor arrow).
+3. Click on the “Select Tool” icon in the toolbar (it looks like a cursor arrow).
 
-- Click and drag to select the text you want to extract.
+4. Click and drag to select the text you want to extract.
 
-- Right-click on the selected text and choose “Copy” or use the keyboard shortcut Ctrl+C (Cmd+C on Mac).
+5. Right-click on the selected text and choose “Copy” or use the keyboard shortcut Ctrl+C (Cmd+C on Mac).
 
-- Paste the copied text into your desired document or text editor.
+6. Paste the copied text into your desired document or text editor.
 
 This method is straightforward but can be time-consuming for large documents or if you need to extract all the text. It’s best suited for small sections of text or when you only need specific portions of the PDF content.
 
@@ -40,15 +40,15 @@ Google Docs offers a surprisingly effective way to extract text from PDFs, and i
 
 **Steps:**
 
-- Go to Google Drive and sign in to your account.
+1. Go to Google Drive and sign in to your account.
 
-- Click on “New” and then “File upload” to upload your PDF to Google Drive.
+2. Click on “New” and then “File upload” to upload your PDF to Google Drive.
 
-- Once uploaded, right-click on the PDF file and select “Open with” > “Google Docs”.
+3. Once uploaded, right-click on the PDF file and select “Open with” > “Google Docs”.
 
-- Google Docs will attempt to convert the PDF into an editable document, extracting the text in the process.
+4. Google Docs will attempt to convert the PDF into an editable document, extracting the text in the process.
 
-- You can now copy the text from the Google Doc or download it in various formats.
+5. You can now copy the text from the Google Doc or download it in various formats.
 
 This method works well for text-based PDFs and can handle multi-page documents. However, it may struggle with complex layouts or image-based PDFs. The formatting may also be affected during the conversion process, so you might need to clean up the extracted text.
 
@@ -58,15 +58,15 @@ There are numerous free online tools available that can convert PDFs to text. Th
 
 **Steps:**
 
-- Search for “free PDF to text converter” in your preferred search engine.
+1. Search for “free PDF to text converter” in your preferred search engine.
 
-- Choose a reputable service (some popular options include PDFtoText.com, PDF2Go, or Smallpdf).
+2. Choose a reputable service (some popular options include PDFtoText.com, PDF2Go, or Smallpdf).
 
-- Upload your PDF file to the website (be cautious with sensitive documents).
+3. Upload your PDF file to the website (be cautious with sensitive documents).
 
-- Wait for the conversion process to complete.
+4. Wait for the conversion process to complete.
 
-- Download the extracted text or copy it directly from the website.
+5. Download the extracted text or copy it directly from the website.
 
 While these online tools are convenient, they often have limitations on file size and the number of conversions you can perform. Additionally, always be wary of uploading sensitive or confidential documents to third-party websites.
 
@@ -76,17 +76,17 @@ For those who prefer a more robust solution or need to work offline, there are f
 
 **Steps:**
 
-- Research and download a free PDF text extraction tool (e.g., Xpdf, pdftotext, or PDF-XChange Viewer).
+1. Research and download a free PDF text extraction tool (e.g., Xpdf, pdftotext, or PDF-XChange Viewer).
 
-- Install the software on your computer.
+2. Install the software on your computer.
 
-- Open the application and load your PDF file.
+3. Open the application and load your PDF file.
 
-- Look for an option like “Extract Text” or “Convert to Text” within the software.
+4. Look for an option like “Extract Text” or “Convert to Text” within the software.
 
-- Choose your output preferences (e.g., plain text, formatted text).
+5. Choose your output preferences (e.g., plain text, formatted text).
 
-- Save the extracted text to your desired location.
+6. Save the extracted text to your desired location.
 
 These tools often provide more advanced features and can handle batch processing of multiple PDFs. However, they may have a steeper learning curve compared to online solutions.
 
@@ -96,15 +96,15 @@ For the more technically inclined, command-line tools can offer powerful and fle
 
 **Steps:**
 
-- Install a command-line PDF tool like pdftotext (part of the Poppler utilities) or xpdf.
+1. Install a command-line PDF tool like pdftotext (part of the Poppler utilities) or xpdf.
 
-- Open your command prompt or terminal.
+2. Open your command prompt or terminal.
 
-- Navigate to the directory containing your PDF file.
+3. Navigate to the directory containing your PDF file.
 
-- Use a command like pdftotext input.pdf output.txt to extract the text.
+4. Use a command like pdftotext input.pdf output.txt to extract the text.
 
-- The extracted text will be saved in the specified output file.
+5. The extracted text will be saved in the specified output file.
 
 Command-line tools are excellent for automation and batch processing but require some familiarity with command-line interfaces.
 

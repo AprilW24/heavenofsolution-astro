@@ -22,25 +22,25 @@ Remember, this part is all about choosing a base that feels right. You can alway
 
 ## Steps to Build Your Brochure Design on Canva Android
 
-- Open the Canva app and log in.
+1. Open the Canva app and log in.
 
-- Tap the search bar and type “**Brochure**.”
+2. Tap the search bar and type “**Brochure**.”
 
-- Scroll through templates and tap one that fits your style.
+3. Scroll through templates and tap one that fits your style.
 
-- Tap “**Customize this template**.”
+4. Tap “**Customize this template**.”
 
-- Change the text by tapping on the existing boxes.
+5. Change the text by tapping on the existing boxes.
 
-- Replace images by uploading from your phone or using Canva’s library.
+6. Replace images by uploading from your phone or using Canva’s library.
 
-- Try new font sizes and colors that match your theme.
+7. Try new font sizes and colors that match your theme.
 
-- Add extra details using the “**Elements**” tab for icons and shapes.
+8. Add extra details using the “**Elements**” tab for icons and shapes.
 
-- Tap the top-right save button once you’re happy.
+9. Tap the top-right save button once you’re happy.
 
-- Download the file in PDF, JPG, or PNG format. 📄
+10. Download the file in PDF, JPG, or PNG format. 📄
 
 ## Making Your Design Look Professional and Shareable
 

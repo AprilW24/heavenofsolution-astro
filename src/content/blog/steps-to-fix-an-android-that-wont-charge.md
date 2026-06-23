@@ -18,25 +18,25 @@ Similarly, check your charging adapter for any signs of damage or malfunction. T
 
 Another common reason why your phone may not be charging is a dirty or clogged charging port. Lint, dust, and debris can accumulate in the port over time, preventing the charging cable from making a proper connection. To clean your charging port, follow these steps:
 
-- **Power off your phone** to avoid any electrical damage.
+1. **Power off your phone** to avoid any electrical damage.
 
-- Use a **flashlight** to inspect the charging port for any visible debris.
+2. Use a **flashlight** to inspect the charging port for any visible debris.
 
-- Gently **blow into the port** to remove any loose particles.
+3. Gently **blow into the port** to remove any loose particles.
 
-- Use a **toothpick or a small, soft-bristled brush** to carefully remove any remaining debris. Be very gentle to avoid damaging the port.
+4. Use a **toothpick or a small, soft-bristled brush** to carefully remove any remaining debris. Be very gentle to avoid damaging the port.
 
-- **Plug in your phone** and see if it charges normally.
+5. **Plug in your phone** and see if it charges normally.
 
 ## Step 3: Restart Your Phone
 
 Sometimes, a simple restart can resolve charging issues. To restart your phone, follow these steps:
 
-- Press and hold the **power button** until the power menu appears.
+1. Press and hold the **power button** until the power menu appears.
 
-- Tap **Restart** or **Reboot.**
+2. Tap **Restart** or **Reboot.**
 
-- Wait for your phone to restart, then try charging it again.
+3. Wait for your phone to restart, then try charging it again.
 
 If your phone is unresponsive and won’t turn on, try holding down the power button for 10-20 seconds to force a restart.
 
@@ -44,11 +44,11 @@ If your phone is unresponsive and won’t turn on, try holding down the power bu
 
 In some cases, software issues can prevent your phone from charging properly. To check for software problems, follow these steps:
 
-- Make sure your phone is **running the latest version** of its operating system. Go to **Settings > System > System Update** to check for any available updates.
+1. Make sure your phone is **running the latest version** of its operating system. Go to **Settings > System > System Update** to check for any available updates.
 
-- **Uninstall any recently installed apps** that may be causing conflicts. Go to **Settings > Apps** and remove any suspicious or unnecessary apps.
+2. **Uninstall any recently installed apps** that may be causing conflicts. Go to **Settings > Apps** and remove any suspicious or unnecessary apps.
 
-- **Boot your phone in safe mode** to see if it charges normally. Safe mode disables all third-party apps and services, allowing you to isolate any software issues. To boot in safe mode, press and hold the power button, then tap and hold **Power Off** until you see the safe mode prompt.
+3. **Boot your phone in safe mode** to see if it charges normally. Safe mode disables all third-party apps and services, allowing you to isolate any software issues. To boot in safe mode, press and hold the power button, then tap and hold **Power Off** until you see the safe mode prompt.
 
 ## Step 5: Consider Hardware Issues
 

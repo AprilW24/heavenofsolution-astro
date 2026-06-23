@@ -26,25 +26,25 @@ These tools can automate messages, drop product suggestions into chats, or flash
 
 ## Step-by-Step to Set AI up for Online Sales from Your Phone
 
-- Download an AI-powered e-commerce or chatbot app on your phone.
+1. Download an AI-powered e-commerce or chatbot app on your phone.
 
-- Sign in with your business account or set up a new online store profile.
+2. Sign in with your business account or set up a new online store profile.
 
-- Connect your store or product listing to the AI tool using your shop’s API or login.
+3. Connect your store or product listing to the AI tool using your shop’s API or login.
 
-- Turn on chatbot features to handle instant customer service replies.
+4. Turn on chatbot features to handle instant customer service replies.
 
-- Activate recommendation engines to suggest products based on browsing and shopping habits.
+5. Activate recommendation engines to suggest products based on browsing and shopping habits.
 
-- Set up push notifications for abandoned carts and special offers.
+6. Set up push notifications for abandoned carts and special offers.
 
-- Create automated replies for top customer questions (shipping, returns, and discounts).
+7. Create automated replies for top customer questions (shipping, returns, and discounts).
 
-- Integrate your tool with SMS or WhatsApp for sending alerts or promos.
+8. Integrate your tool with SMS or WhatsApp for sending alerts or promos.
 
-- Check insights and analytics inside the app for who visits your site and what they buy.
+9. Check insights and analytics inside the app for who visits your site and what they buy.
 
-- Adjust and test your actions based on what’s working, keep the steps flexible as you learn.
+10. Adjust and test your actions based on what’s working, keep the steps flexible as you learn.
 
 ## The Only Prompt You Need to Get Started with AI Sales Chat on Mobile
 

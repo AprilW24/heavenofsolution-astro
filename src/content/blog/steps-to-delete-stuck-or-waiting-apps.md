@@ -22,15 +22,15 @@ Before troubleshooting further, make sure your device has a strong Wi-Fi or cell
 
 Often, you can get a stuck app to start downloading again by canceling and restarting the process:
 
-- Open the **Google Play Store** app
+1. Open the **Google Play Store** app
 
-- Locate the app that is stuck on “Waiting” or “Pending”
+2. Locate the app that is stuck on “Waiting” or “Pending”
 
-- Tap the **X** on the right side of the progress bar to cancel the download
+3. Tap the **X** on the right side of the progress bar to cancel the download
 
-- Once it disappears from the queue, find the app in the Play Store again
+4. Once it disappears from the queue, find the app in the Play Store again
 
-- Tap the **Download** or **Install** button to restart the process
+5. Tap the **Download** or **Install** button to restart the process
 
 If the app gets stuck again, move on to the next steps.
 
@@ -38,13 +38,13 @@ If the app gets stuck again, move on to the next steps.
 
 Accumulated data and cache in the Play Store app can sometimes interfere with downloads. Clearing this out can get things back on track:
 
-- Go to your phone’s **Settings** > **Apps & Notifications**
+1. Go to your phone’s **Settings** > **Apps & Notifications**
 
-- Find and tap on the **Google Play Store** in the app list
+2. Find and tap on the **Google Play Store** in the app list
 
-- Tap **Storage** > **Clear Cache**. Then tap **Clear Data** and confirm.
+3. Tap **Storage** > **Clear Cache**. Then tap **Clear Data** and confirm.
 
-- Re-open the Play Store and retry downloading the app
+4. Re-open the Play Store and retry downloading the app
 
 Clearing data will remove your Play Store preferences, but should fix most app download issues.
 
@@ -66,31 +66,31 @@ Install any available updates, then try downloading your stuck app again.
 
 An issue with your Google account data can cause the Play Store to misbehave. Try removing and re-adding the account:
 
-- Go to **Settings** > **Accounts** and tap on your Google account
+1. Go to **Settings** > **Accounts** and tap on your Google account
 
-- Tap **Remove Account** and confirm. Your phone will remove the account.
+2. Tap **Remove Account** and confirm. Your phone will remove the account.
 
-- Restart your Android device
+3. Restart your Android device
 
-- Go back to **Settings** > **Accounts** > **Add Account** > **Google**
+4. Go back to **Settings** > **Accounts** > **Add Account** > **Google**
 
-- Sign in with your account credentials
+5. Sign in with your account credentials
 
-- Open the Play Store and try downloading the app once more
+6. Open the Play Store and try downloading the app once more
 
 ## 6. Uninstall Play Store Updates
 
 If the Play Store app itself has a bug, you may need to uninstall its updates and revert to the factory version:
 
-- Go to **Settings** > **Apps & Notifications** > **Google Play Store**
+1. Go to **Settings** > **Apps & Notifications** > **Google Play Store**
 
-- Tap the three-dot menu and select **Uninstall Updates**
+2. Tap the three-dot menu and select **Uninstall Updates**
 
-- The Play Store will now be reverted to its original version
+3. The Play Store will now be reverted to its original version
 
-- Open the Play Store and it should prompt you to update it again
+4. Open the Play Store and it should prompt you to update it again
 
-- Once updated, try downloading your problem app again
+5. Once updated, try downloading your problem app again
 
 ## Conclusion
 

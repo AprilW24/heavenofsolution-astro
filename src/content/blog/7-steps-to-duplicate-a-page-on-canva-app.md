@@ -18,19 +18,19 @@ Duplicating pages in Canva is useful when you want to create multiple pages with
 
 ![](/wp-content/uploads/2025/02/7-Steps-to-Duplicate-a-Page-on-Canva-App-Android.webp)
 
-- **Open the Canva App**: Start by opening the Canva app on your Android device.
+1. **Open the Canva App**: Start by opening the Canva app on your Android device.
 
-- **Select Your Design**: Choose the design from which you want to duplicate a page.
+2. **Select Your Design**: Choose the design from which you want to duplicate a page.
 
-- **Access the Pages Menu**: Tap on the “Pages” button, usually located at the bottom left corner of the screen.
+3. **Access the Pages Menu**: Tap on the “Pages” button, usually located at the bottom left corner of the screen.
 
-- **Select the Page to Duplicate**: Tap on the page you want to duplicate.
+4. **Select the Page to Duplicate**: Tap on the page you want to duplicate.
 
-- **Duplicate the Page**: Tap on the three dots (⋯) in the top right corner and select “Duplicate” from the options.
+5. **Duplicate the Page**: Tap on the three dots (⋯) in the top right corner and select “Duplicate” from the options.
 
-- **Edit the Duplicated Page**: Once duplicated, you can edit the new page as needed.
+6. **Edit the Duplicated Page**: Once duplicated, you can edit the new page as needed.
 
-- **Save Your Design**: Save your changes and share or download your design.
+7. **Save Your Design**: Save your changes and share or download your design.
 
 ## Tips for Efficient Designing
 

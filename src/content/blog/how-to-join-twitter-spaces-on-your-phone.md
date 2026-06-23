@@ -82,15 +82,15 @@ Don’t limit yourself to Spaces hosted by people you follow. Explore different 
 
 Participating in Twitter Spaces offers several advantages:
 
-- **Real-time Engagement**: Spaces allow for live, interactive discussions on topics you care about.
+1. **Real-time Engagement**: Spaces allow for live, interactive discussions on topics you care about.
 
-- **Networking Opportunities**: You can connect with like-minded individuals and industry experts.
+2. **Networking Opportunities**: You can connect with like-minded individuals and industry experts.
 
-- **Stay Informed**: Many Spaces cover current events and trending topics, helping you stay up-to-date.
+3. **Stay Informed**: Many Spaces cover current events and trending topics, helping you stay up-to-date.
 
-- **Share Your Voice**: If you’re granted speaking privileges, you can share your thoughts and opinions with a wider audience.
+4. **Share Your Voice**: If you’re granted speaking privileges, you can share your thoughts and opinions with a wider audience.
 
-- **Learn from Experts**: Many Spaces feature knowledgeable hosts and speakers, providing valuable insights on various subjects.
+5. **Learn from Experts**: Many Spaces feature knowledgeable hosts and speakers, providing valuable insights on various subjects.
 
 ## Hosting Your Own Space
 

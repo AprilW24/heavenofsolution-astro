@@ -66,9 +66,9 @@ All of these methods will take you to the Chrome apps page where you can view, l
 
 On the Chrome apps page, you’ll see icons for all the apps you have installed. To open an app:
 
-- Locate the app you want to launch
+1. Locate the app you want to launch
 
-- Click the app icon
+2. Click the app icon
 
 The app will open in a new window. Some apps open in full-screen mode by default, while others open in smaller windows that you can resize and move around.
 
@@ -78,15 +78,15 @@ The app will open in a new window. Some apps open in full-screen mode by default
 
 If you don’t have the app you need, you can easily install it from the Chrome Web Store:
 
-- Visit the Chrome Web Store at https://chrome.google.com/webstore/category/apps
+1. Visit the Chrome Web Store at https://chrome.google.com/webstore/category/apps
 
-- Browse apps by category or use the search bar to find a specific app
+2. Browse apps by category or use the search bar to find a specific app
 
-- Click on an app to view details, screenshots, and reviews
+3. Click on an app to view details, screenshots, and reviews
 
-- Click the **Add to Chrome** button
+4. Click the **Add to Chrome** button
 
-- Confirm by clicking **Add app** in the dialog box
+5. Confirm by clicking **Add app** in the dialog box
 
 The new app icon will appear on the Chrome apps page and be ready to launch.
 
@@ -94,11 +94,11 @@ The new app icon will appear on the Chrome apps page and be ready to launch.
 
 To manage your installed apps, uninstall unwanted ones, or control app permissions:
 
-- Open the Chrome apps page using one of the methods from Step 2
+1. Open the Chrome apps page using one of the methods from Step 2
 
-- Right-click an app icon
+2. Right-click an app icon
 
-- Select **Remove from Chrome** to uninstall the app, or **App info** to adjust permissions
+3. Select **Remove from Chrome** to uninstall the app, or **App info** to adjust permissions
 
 In the app info page, you can control whether the app can:
 
@@ -132,14 +132,14 @@ Chrome apps extend the functionality of the Chrome browser and can help you be m
 
 To recap, the key steps are:
 
-- Open Google Chrome
+1. Open Google Chrome
 
-- Access the Chrome apps page
+2. Access the Chrome apps page
 
-- Click an app icon to launch it
+3. Click an app icon to launch it
 
-- Install new apps from the Chrome Web Store
+4. Install new apps from the Chrome Web Store
 
-- Manage apps and permissions from the apps page
+5. Manage apps and permissions from the apps page
 
 By following this guide, you’ll be able to take full advantage of the wide selection of Chrome apps available. Experiment with different apps to find the ones that best suit your needs and workflow. With the power of Chrome apps at your fingertips, you can work smarter and faster right in your browser.

@@ -24,15 +24,15 @@ Keep in mind that disabling your Google account on Android will impact many feat
 
 Follow these steps to turn off your Google account on an Android phone:
 
-- **Open the Settings app.** You can find the Settings app in your app drawer or by tapping the gear icon in the notification shade.
+1. **Open the Settings app.** You can find the Settings app in your app drawer or by tapping the gear icon in the notification shade.
 
-- **Tap “Accounts.”** On some phones, this may be listed as **Users & Accounts** or **Accounts and Backup**.
+2. **Tap “Accounts.”** On some phones, this may be listed as **Users & Accounts** or **Accounts and Backup**.
 
-- **Select your Google account.** If you have multiple accounts added, make sure to choose the one you want to remove.
+3. **Select your Google account.** If you have multiple accounts added, make sure to choose the one you want to remove.
 
-- **Tap “Remove Account.”** This will be at the bottom of the account details page.
+4. **Tap “Remove Account.”** This will be at the bottom of the account details page.
 
-- **Confirm the account removal.** You’ll see a warning that removing the account will delete all its messages, contacts and other data from the phone. If you’re sure you want to proceed, tap **Remove Account** again.
+5. **Confirm the account removal.** You’ll see a warning that removing the account will delete all its messages, contacts and other data from the phone. If you’re sure you want to proceed, tap **Remove Account** again.
 
 And that’s it! Your Google account will now be disabled on your Android device. If you change your mind, you can always add your account back by going to Settings > Accounts > Add Account and following the prompts.
 

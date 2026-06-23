@@ -12,15 +12,15 @@ Switching to a new Android phone is exciting, but the thought of manually transf
 
 The easiest way to transfer contacts between Android phones is by syncing them with your Google account. Most Android devices automatically sync contacts with your Google account by default. Here’s how to check and enable contact syncing:
 
-- On your old Android phone, open the **Settings** app
+1. On your old Android phone, open the **Settings** app
 
-- Tap **Accounts**, then select your **Google account**
+2. Tap **Accounts**, then select your **Google account**
 
-- Make sure **Contacts** is enabled for syncing
+3. Make sure **Contacts** is enabled for syncing
 
-- Open the **Contacts** app and tap the **Menu** button
+4. Open the **Contacts** app and tap the **Menu** button
 
-- Tap **Manage contacts** > **Export** to back up your contacts to your Google account
+5. Tap **Manage contacts** > **Export** to back up your contacts to your Google account
 
 Now, when you sign into your Google account on your new Android phone, your contacts will automatically sync and appear in the Contacts app.
 
@@ -28,17 +28,17 @@ Now, when you sign into your Google account on your new Android phone, your cont
 
 If you don’t use a Google account or prefer to transfer contacts directly between devices, you can use a third-party app. There are many contact transfer apps available on the Google Play Store. One reliable option is **Send Anywhere**:
 
-- On both your old and new Android phones, download and install the free **Send Anywhere** app from the Google Play Store
+1. On both your old and new Android phones, download and install the free **Send Anywhere** app from the Google Play Store
 
-- Open Send Anywhere on your old phone and tap the **Plus (+)** button
+2. Open Send Anywhere on your old phone and tap the **Plus (+)** button
 
-- Select **Contacts** and choose which contacts to transfer, then tap **Done**
+3. Select **Contacts** and choose which contacts to transfer, then tap **Done**
 
-- Tap **Send** which will generate a 6-digit code
+4. Tap **Send** which will generate a 6-digit code
 
-- On your new phone, open Send Anywhere and tap **Receive**
+5. On your new phone, open Send Anywhere and tap **Receive**
 
-- Enter the 6-digit code from your old phone and the contacts will transfer
+6. Enter the 6-digit code from your old phone and the contacts will transfer
 
 Send Anywhere uses Wi-Fi Direct to transfer contacts between devices, so both phones need to be connected to the same Wi-Fi network. The app works even if you don’t have a Google account or internet access.
 
@@ -46,17 +46,17 @@ Send Anywhere uses Wi-Fi Direct to transfer contacts between devices, so both ph
 
 As a last resort, you can also copy contacts to your SIM card on your old phone, then insert that SIM into your new phone. Keep in mind that SIM cards have limited storage space. Here’s how:
 
-- On your old Android phone, open the **Contacts** app
+1. On your old Android phone, open the **Contacts** app
 
-- Tap the **Menu** button and select **Manage Contacts** > **Import/Export contacts**
+2. Tap the **Menu** button and select **Manage Contacts** > **Import/Export contacts**
 
-- Tap **Export** > **SIM card** and select which contacts to copy
+3. Tap **Export** > **SIM card** and select which contacts to copy
 
-- Remove the SIM card from your old phone and insert it into your new Android phone
+4. Remove the SIM card from your old phone and insert it into your new Android phone
 
-- On the new phone, open Contacts and tap **Menu** > **Manage Contacts** > **Import/Export**
+5. On the new phone, open Contacts and tap **Menu** > **Manage Contacts** > **Import/Export**
 
-- Tap **Import from SIM card** to copy those contacts to your new device
+6. Tap **Import from SIM card** to copy those contacts to your new device
 
 Note that contacts copied to a SIM card will only transfer names and phone numbers, no other details. But this method works even if you don’t have Wi-Fi access to use the other transfer options.
 

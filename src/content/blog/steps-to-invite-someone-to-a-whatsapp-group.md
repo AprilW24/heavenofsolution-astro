@@ -70,11 +70,11 @@ Simply copy the link and paste it wherever you want to share it for people to jo
 
 To join a WhatsApp group using a shared invite link:
 
-- Click on the link when you receive it
+1. Click on the link when you receive it
 
-- A popup will appear confirming if you want to join the group
+2. A popup will appear confirming if you want to join the group
 
-- Tap **Join** to be added to the group
+3. Tap **Join** to be added to the group
 
 It’s that simple! The link lets you join a WhatsApp group instantly without needing any admin approval.
 

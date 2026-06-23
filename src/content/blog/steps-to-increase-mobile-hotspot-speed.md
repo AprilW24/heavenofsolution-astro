@@ -34,13 +34,13 @@ By taking the time to find an optimal location, you can significantly enhance yo
 
 Keeping your Android device up-to-date is crucial for maintaining optimal performance, including hotspot functionality. Software updates often include bug fixes, performance improvements, and optimizations that can directly impact your hotspot speed. To check for and install updates:
 
-- Open your device’s **Settings** app.
+1. Open your device’s **Settings** app.
 
-- Scroll down and tap on **System** or **Software Update**.
+2. Scroll down and tap on **System** or **Software Update**.
 
-- Tap **Check for updates**.
+3. Tap **Check for updates**.
 
-- If an update is available, follow the prompts to download and install it.
+4. If an update is available, follow the prompts to download and install it.
 
 Regularly updating your device ensures that you have the latest optimizations and improvements for your mobile hotspot feature.
 
@@ -48,13 +48,13 @@ Regularly updating your device ensures that you have the latest optimizations an
 
 Android devices offer various settings that can be tweaked to enhance hotspot performance. One key setting to consider is the Wi-Fi band. Many modern Android phones support both 2.4 GHz and 5 GHz bands for hotspot connections. While 5 GHz generally offers faster speeds, it has a shorter range. Here’s how to adjust this setting:
 
-- Go to **Settings** > **Network & Internet** > **Hotspot & Tethering** > **Wi-Fi Hotspot**.
+1. Go to **Settings** > **Network & Internet** > **Hotspot & Tethering** > **Wi-Fi Hotspot**.
 
-- Tap on **Advanced** or **Configure Hotspot**.
+2. Tap on **Advanced** or **Configure Hotspot**.
 
-- Look for an option like **AP Band** or **Wi-Fi Band**.
+3. Look for an option like **AP Band** or **Wi-Fi Band**.
 
-- Select the appropriate band based on your needs (5 GHz for speed, 2.4 GHz for range).
+4. Select the appropriate band based on your needs (5 GHz for speed, 2.4 GHz for range).
 
 Additionally, you can experiment with other settings such as the Wi-Fi standard (e.g., 802.11ac for faster speeds) and security type to find the optimal configuration for your specific situation.
 
@@ -74,11 +74,11 @@ By managing the number of connected devices, you can ensure that each device rec
 
 Over time, accumulated cache and background processes can slow down your Android device, indirectly affecting hotspot performance. Regularly clearing cache and optimizing your device can help maintain peak performance:
 
-- Go to **Settings** > **Storage** > **Cached data** and tap to clear it.
+1. Go to **Settings** > **Storage** > **Cached data** and tap to clear it.
 
-- Use built-in optimization tools like **Device Care** or **Battery & performance** (names may vary depending on your Android version and manufacturer).
+2. Use built-in optimization tools like **Device Care** or **Battery & performance** (names may vary depending on your Android version and manufacturer).
 
-- Close unnecessary background apps to free up system resources.
+3. Close unnecessary background apps to free up system resources.
 
 These maintenance tasks can help ensure that your device allocates sufficient resources to maintain a stable and fast hotspot connection.
 
@@ -86,13 +86,13 @@ These maintenance tasks can help ensure that your device allocates sufficient re
 
 Wi-Fi analyzer apps can help you identify the least congested Wi-Fi channels in your area. By selecting a less crowded channel for your hotspot, you can reduce interference and potentially improve speeds. Here’s how to use a Wi-Fi analyzer app:
 
-- Download a reputable Wi-Fi analyzer app from the Google Play Store.
+1. Download a reputable Wi-Fi analyzer app from the Google Play Store.
 
-- Open the app and scan for nearby Wi-Fi networks.
+2. Open the app and scan for nearby Wi-Fi networks.
 
-- Identify the least congested channels.
+3. Identify the least congested channels.
 
-- In your hotspot settings, manually select the channel with the least interference.
+4. In your hotspot settings, manually select the channel with the least interference.
 
 This step can be particularly helpful in densely populated areas where many Wi-Fi networks are competing for bandwidth.
 
@@ -128,11 +128,11 @@ Maintaining optimal operating temperatures can help ensure consistent performanc
 
 If you’ve tried other methods without success, resetting your device’s network settings can sometimes resolve persistent hotspot issues. This process will clear all saved Wi-Fi networks, Bluetooth connections, and cellular settings, potentially fixing any configuration issues that may be affecting your hotspot speed. To reset network settings:
 
-- Go to **Settings** > **System** > **Reset options**.
+1. Go to **Settings** > **System** > **Reset options**.
 
-- Tap **Reset Wi-Fi, mobile & Bluetooth**.
+2. Tap **Reset Wi-Fi, mobile & Bluetooth**.
 
-- Confirm the action and restart your device.
+3. Confirm the action and restart your device.
 
 After resetting, reconfigure your hotspot settings and test the speed to see if there’s an improvement.
 

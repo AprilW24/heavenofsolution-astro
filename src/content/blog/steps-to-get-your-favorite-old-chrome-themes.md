@@ -26,13 +26,13 @@ Now that we’ve established the benefits of using a Chrome theme, let’s explo
 
 First, look in your Chrome settings to see if the theme is still available in your browser profile:
 
-- Open the Chrome browser
+1. Open the Chrome browser
 
-- Click the three-dot menu icon in the upper right corner
+2. Click the three-dot menu icon in the upper right corner
 
-- Go to Settings > Appearance
+3. Go to Settings > Appearance
 
-- Look under **Themes** to see if your old theme is listed
+4. Look under **Themes** to see if your old theme is listed
 
 If you find the theme there, simply click on it to reactivate it. Problem solved!
 
@@ -40,11 +40,11 @@ If you find the theme there, simply click on it to reactivate it. Problem solved
 
 If the theme isn’t in your profile, head to the Chrome Web Store to search for it:
 
-- Go to the Chrome Web Store themes section: https://chrome.google.com/webstore/category/themes
+1. Go to the Chrome Web Store themes section: https://chrome.google.com/webstore/category/themes
 
-- Use the search bar to look for the theme by name
+2. Use the search bar to look for the theme by name
 
-- If you find it, click **Add to Chrome** to install the theme
+3. If you find it, click **Add to Chrome** to install the theme
 
 Can’t remember the exact name of the theme? Try searching for key terms like the color scheme or general style. With any luck, you’ll spot your old favorite.
 
@@ -52,15 +52,15 @@ Can’t remember the exact name of the theme? Try searching for key terms like t
 
 Still no success? See if you can find the theme developer’s website. Some developers maintain archives of their old themes even if they’re no longer in the Chrome store.
 
-- Search for the theme developer’s name plus **website** or **Chrome themes**
+1. Search for the theme developer’s name plus **website** or **Chrome themes**
 
-- Visit their website to look for a themes section or archive
+2. Visit their website to look for a themes section or archive
 
-- Download the theme file if available
+3. Download the theme file if available
 
-- In Chrome, go to Settings > Appearance > Themes
+4. In Chrome, go to Settings > Appearance > Themes
 
-- Click the **Add Theme** button and select the downloaded file
+5. Click the **Add Theme** button and select the downloaded file
 
 The developer may even have an updated version of the theme with new features or compatibility.
 

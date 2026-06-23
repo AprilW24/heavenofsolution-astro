@@ -64,15 +64,15 @@ If you have many posts to delete, you may need to repeat steps 6 and 7 multiple 
 
 While deleting saved posts is straightforward, here are some additional tips to help you manage your saved content more effectively:
 
-- **Regularly review your saved posts**: Set aside time periodically to go through your saved posts and remove anything that’s no longer relevant or interesting to you.
+1. **Regularly review your saved posts**: Set aside time periodically to go through your saved posts and remove anything that’s no longer relevant or interesting to you.
 
-- **Use collections**: Organize your saved posts into collections based on themes or topics. This makes it easier to find specific posts later and to identify which posts you might want to delete.
+2. **Use collections**: Organize your saved posts into collections based on themes or topics. This makes it easier to find specific posts later and to identify which posts you might want to delete.
 
-- **Be selective about saving**: Before saving a post, ask yourself if you’ll truly revisit it later. Being more discerning about what you save can prevent clutter in the first place.
+3. **Be selective about saving**: Before saving a post, ask yourself if you’ll truly revisit it later. Being more discerning about what you save can prevent clutter in the first place.
 
-- **Consider archiving**: If you’re unsure about deleting a post, remember that you can always archive your own posts instead. This removes them from your profile but keeps them accessible to you.
+4. **Consider archiving**: If you’re unsure about deleting a post, remember that you can always archive your own posts instead. This removes them from your profile but keeps them accessible to you.
 
-- **Use third-party apps cautiously**: While there are apps that claim to help manage Instagram saved posts, be cautious about granting access to your account. Stick to official Instagram features when possible.
+5. **Use third-party apps cautiously**: While there are apps that claim to help manage Instagram saved posts, be cautious about granting access to your account. Stick to official Instagram features when possible.
 
 ## Conclusion
 

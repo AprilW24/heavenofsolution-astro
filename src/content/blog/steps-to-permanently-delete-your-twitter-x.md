@@ -28,19 +28,19 @@ Before proceeding with the deletion process, it’s important to note that deact
 
 Here are the steps to delete your twitter or X account use Android and iOS device:
 
-- Open the Twitter app on your Android or iOS device.
+1. Open the Twitter app on your Android or iOS device.
 
-- Tap your **account icon** in the top-left corner.
+2. Tap your **account icon** in the top-left corner.
 
-- Go to **Settings and support** > **Settings and privacy**.
+3. Go to **Settings and support** > **Settings and privacy**.
 
-- Tap **Your account** > **Deactivate your account**.
+4. Tap **Your account** > **Deactivate your account**.
 
-- Read the account deactivation information, then tap **Deactivate**.
+5. Read the account deactivation information, then tap **Deactivate**.
 
-- Enter your password when prompted and tap **Deactivate**.
+6. Enter your password when prompted and tap **Deactivate**.
 
-- Confirm your decision by tapping **Yes, deactivate**.
+7. Confirm your decision by tapping **Yes, deactivate**.
 
 After completing these steps, your account will be deactivated. However, to permanently delete your account, you must refrain from logging in for 30 days. If you log in during this period, your account will be reactivated, and you’ll need to start the process again.
 
@@ -48,13 +48,13 @@ After completing these steps, your account will be deactivated. However, to perm
 
 Before deleting your account, you may want to download an archive of your Twitter data. Here’s how to request a backup:
 
-- Tap your **account icon** in the top-left corner.
+1. Tap your **account icon** in the top-left corner.
 
-- Go to **Settings and support** > **Settings and privacy** > **Your account** > **Download an archive of your data**.
+2. Go to **Settings and support** > **Settings and privacy** > **Your account** > **Download an archive of your data**.
 
-- Enter your password.
+3. Enter your password.
 
-- Tap **Send code**, enter the code you receive, and tap **Request archive**.
+4. Tap **Send code**, enter the code you receive, and tap **Request archive**.
 
 Once your data is ready, you’ll receive a notification with a download link.
 

@@ -58,18 +58,18 @@ By following these 7 steps, you’ll be well on your way to crafting an Instagra
 
 To recap, here are the key takeaways for centering your Instagram bio aesthetic:
 
-- Define your personal brand aesthetic
+1. Define your personal brand aesthetic
 
-- Keep your bio short and sweet
+2. Keep your bio short and sweet
 
-- Showcase your unique personality
+3. Showcase your unique personality
 
-- Use emojis strategically
+4. Use emojis strategically
 
-- Incorporate relevant keywords and hashtags
+5. Incorporate relevant keywords and hashtags
 
-- Highlight your skills and passions
+6. Highlight your skills and passions
 
-- Include a clear call-to-action
+7. Include a clear call-to-action
 
 With a little creativity and strategic thinking, you can create an Instagram bio that not only looks great, but also helps you attract your ideal audience and grow your following. So go ahead and put these tips into action – your perfect aesthetic bio awaits!

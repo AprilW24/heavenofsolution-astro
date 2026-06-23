@@ -14,17 +14,17 @@ Canva is a versatile tool that allows you to create a wide range of visual conte
 
 Rotating a video in Canva is straightforward. Here are the steps:
 
-- **Log in to Canva**: Start by logging into your Canva account. If you don’t have one, you can sign up for free.
+1. **Log in to Canva**: Start by logging into your Canva account. If you don’t have one, you can sign up for free.
 
-- **Create a New Project**: Click on “Create a design” and choose “Custom dimensions” or select a pre-set template that suits your needs. For video, you might want to choose a template like “YouTube video” or “Social media video.”
+2. **Create a New Project**: Click on “Create a design” and choose “Custom dimensions” or select a pre-set template that suits your needs. For video, you might want to choose a template like “YouTube video” or “Social media video.”
 
-- **Upload Your Video**: Click on “Uploads” in the left sidebar and select “Upload your own images or videos.” Choose the video file you want to rotate.
+3. **Upload Your Video**: Click on “Uploads” in the left sidebar and select “Upload your own images or videos.” Choose the video file you want to rotate.
 
-- **Add the Video to Your Design**: Once uploaded, drag and drop the video onto your design canvas.
+4. **Add the Video to Your Design**: Once uploaded, drag and drop the video onto your design canvas.
 
-- **Rotate the Video**: To rotate the video, click on it to select it. You’ll see a rotate icon (a circular arrow) in the top toolbar. Click this icon to rotate your video 90 degrees at a time. You can also use the keyboard shortcuts Ctrl + [(Windows) or Command + [ (Mac) to rotate counterclockwise, and Ctrl + ] (Windows) or Command +](/steps-to-rotate-a-canva-video-online-for-free/Mac) to rotate clockwise.
+5. **Rotate the Video**: To rotate the video, click on it to select it. You’ll see a rotate icon (a circular arrow) in the top toolbar. Click this icon to rotate your video 90 degrees at a time. You can also use the keyboard shortcuts Ctrl + [(Windows) or Command + [ (Mac) to rotate counterclockwise, and Ctrl + ] (Windows) or Command +](/steps-to-rotate-a-canva-video-online-for-free/Mac) to rotate clockwise.
 
-- **Adjust and Download**: After rotating your video, you can adjust its position or add other elements like text or images. Once you’re satisfied, click on “Download” and choose the video format you prefer.
+6. **Adjust and Download**: After rotating your video, you can adjust its position or add other elements like text or images. Once you’re satisfied, click on “Download” and choose the video format you prefer.
 
 ### Tips for Working with Videos in Canva
 

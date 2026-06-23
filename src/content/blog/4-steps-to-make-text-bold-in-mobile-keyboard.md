@@ -20,15 +20,15 @@ Now, let’s explore the various methods to make your text bold on a mobile keyb
 
 Many modern mobile keyboards come with built-in formatting options, including the ability to make text bold. Here’s how you can utilize this feature:
 
-- **Open your messaging app or any text input field** where you want to type bold text.
+1. **Open your messaging app or any text input field** where you want to type bold text.
 
-- **Locate the formatting options** on your keyboard. This is often represented by a “B” icon or found within a menu accessed by tapping a button with three dots (…) or a gear icon.
+2. **Locate the formatting options** on your keyboard. This is often represented by a “B” icon or found within a menu accessed by tapping a button with three dots (…) or a gear icon.
 
-- **Tap the bold option** before you start typing. On some keyboards, you may need to tap and hold the “B” icon to activate bold formatting.
+3. **Tap the bold option** before you start typing. On some keyboards, you may need to tap and hold the “B” icon to activate bold formatting.
 
-- **Type your text** as usual. You should see it appear in bold as you type.
+4. **Type your text** as usual. You should see it appear in bold as you type.
 
-- **Deactivate bold formatting** by tapping the bold option again when you’re done.
+5. **Deactivate bold formatting** by tapping the bold option again when you’re done.
 
 It’s important to note that this method may not work in all apps or on all devices. Some apps have their own formatting options that override keyboard-level formatting. In such cases, you’ll need to use app-specific methods, which we’ll cover next.
 
@@ -40,35 +40,35 @@ Many popular messaging and social media apps have their own built-in formatting 
 
 WhatsApp uses a simple markdown-style formatting system:
 
-- **Type an asterisk (*)** before and after the text you want to make bold.
+1. **Type an asterisk (*)** before and after the text you want to make bold.
 
-- For example, type “*Hello*” to make “Hello” appear in bold.
+2. For example, type “*Hello*” to make “Hello” appear in bold.
 
 ### Facebook Messenger
 
 Facebook Messenger also uses a markdown-style system:
 
-- **Type two asterisks (**)** before and after the text you want to make bold.
+1. **Type two asterisks (**)** before and after the text you want to make bold.
 
-- For example, type “**Hello**” to make “Hello” appear in bold.
+2. For example, type “**Hello**” to make “Hello” appear in bold.
 
 ### Slack
 
 Slack uses a similar markdown-style system:
 
-- **Type two asterisks (**)** before and after the text you want to make bold.
+1. **Type two asterisks (**)** before and after the text you want to make bold.
 
-- For example, type “**Hello**” to make “Hello” appear in bold.
+2. For example, type “**Hello**” to make “Hello” appear in bold.
 
 ### Gmail
 
 In the Gmail mobile app:
 
-- **Select the text** you want to make bold.
+1. **Select the text** you want to make bold.
 
-- **Tap the formatting options** (usually represented by an “A” with a line under it).
+2. **Tap the formatting options** (usually represented by an “A” with a line under it).
 
-- **Tap the “B” icon** to make the selected text bold.
+3. **Tap the “B” icon** to make the selected text bold.
 
 Remember that these methods are specific to each app and may not work in other contexts. Always check the app’s documentation or help section for the most up-to-date formatting instructions.
 
@@ -76,13 +76,13 @@ Remember that these methods are specific to each app and may not work in other c
 
 If you’re using an app or platform that doesn’t support traditional bold formatting, you can use Unicode bold characters as a workaround. This method involves replacing regular characters with their bold Unicode equivalents:
 
-- **Copy the text** you want to make bold.
+1. **Copy the text** you want to make bold.
 
-- **Visit a Unicode bold text converter** website or use a dedicated app.
+2. **Visit a Unicode bold text converter** website or use a dedicated app.
 
-- **Paste your text** into the converter.
+3. **Paste your text** into the converter.
 
-- **Copy the converted bold text** and paste it back into your message.
+4. **Copy the converted bold text** and paste it back into your message.
 
 While this method works universally across different apps and platforms, it’s important to note that the resulting text is not actually formatted as bold. Instead, it uses special Unicode characters that look similar to bold text. This means that the text may not be recognized as bold by screen readers or other accessibility tools.
 
@@ -98,13 +98,13 @@ If your default keyboard doesn’t offer bold formatting options, you can consid
 
 To use a third-party keyboard:
 
-- **Download and install** the keyboard app from your device’s app store.
+1. **Download and install** the keyboard app from your device’s app store.
 
-- **Enable the keyboard** in your device’s settings.
+2. **Enable the keyboard** in your device’s settings.
 
-- **Switch to the new keyboard** when typing.
+3. **Switch to the new keyboard** when typing.
 
-- **Use the keyboard’s built-in formatting options** to make text bold.
+4. **Use the keyboard’s built-in formatting options** to make text bold.
 
 Remember to review the privacy policies of third-party keyboard apps before installation, as they may collect data about your typing habits.
 
@@ -112,15 +112,15 @@ Remember to review the privacy policies of third-party keyboard apps before inst
 
 Now that you know how to make text bold on your mobile keyboard, here are some tips for using this formatting effectively:
 
-- **Use bold sparingly**: Overusing bold text can make your message look cluttered and reduce its impact. Reserve bold formatting for the most important parts of your message.
+1. **Use bold sparingly**: Overusing bold text can make your message look cluttered and reduce its impact. Reserve bold formatting for the most important parts of your message.
 
-- **Combine with other formatting**: For maximum impact, consider combining bold text with other formatting options like italics or underlining. However, be careful not to overdo it.
+2. **Combine with other formatting**: For maximum impact, consider combining bold text with other formatting options like italics or underlining. However, be careful not to overdo it.
 
-- **Be consistent**: If you’re using bold text for headings or subheadings, make sure to apply it consistently throughout your message.
+3. **Be consistent**: If you’re using bold text for headings or subheadings, make sure to apply it consistently throughout your message.
 
-- **Consider context**: Bold text may be more appropriate in some contexts than others. For example, it’s generally more acceptable in casual messages than in formal business communications.
+4. **Consider context**: Bold text may be more appropriate in some contexts than others. For example, it’s generally more acceptable in casual messages than in formal business communications.
 
-- **Check readability**: Always review your formatted text to ensure it’s easy to read. Some fonts or background colors may make bold text difficult to distinguish.
+5. **Check readability**: Always review your formatted text to ensure it’s easy to read. Some fonts or background colors may make bold text difficult to distinguish.
 
 ## Conclusion
 

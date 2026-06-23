@@ -54,23 +54,23 @@ To get a broader understanding of your video performance, it’s helpful to comp
 
 Instagram Reels, the platform’s short-form video feature, has a slightly different process for viewing metrics:
 
-- Go to your profile and tap on the Reels tab.
+1. Go to your profile and tap on the Reels tab.
 
-- Select the Reel you want to check.
+2. Select the Reel you want to check.
 
-- The view count is displayed prominently below the Reel.
+3. The view count is displayed prominently below the Reel.
 
-- For more detailed insights (on business and creator accounts), tap the three-dot menu and select “View Insights.”
+4. For more detailed insights (on business and creator accounts), tap the three-dot menu and select “View Insights.”
 
 ## Understanding Instagram Stories Views
 
 While this article focuses primarily on regular video posts and Reels, it’s worth mentioning that Instagram Stories have a more transparent view tracking system:
 
-- Open your active Story.
+1. Open your active Story.
 
-- Swipe up from the bottom of the screen.
+2. Swipe up from the bottom of the screen.
 
-- You’ll see a list of all the accounts that have viewed your Story.
+3. You’ll see a list of all the accounts that have viewed your Story.
 
 This feature allows for more direct engagement with your audience and can be particularly useful for businesses and influencers looking to build relationships with their followers.
 

@@ -26,15 +26,15 @@ Now that we understand the value of drafts, let’s explore how to find them on 
 
 Finding your drafts on TikTok is a simple process that requires just a few taps. Follow these steps to access your saved drafts:
 
-- **Open the TikTok app** on your Android device. Ensure you’re logged into your account.
+1. **Open the TikTok app** on your Android device. Ensure you’re logged into your account.
 
-- **Tap on the “Me” icon** located at the bottom right corner of the screen. This will take you to your profile page.
+2. **Tap on the “Me” icon** located at the bottom right corner of the screen. This will take you to your profile page.
 
-- **Look for the “Drafts” section** on your profile. It should be visible near the top of your content, typically next to your posted videos.
+3. **Look for the “Drafts” section** on your profile. It should be visible near the top of your content, typically next to your posted videos.
 
-- **Tap on the “Drafts” folder**. This will open up all the draft videos you’ve saved.
+4. **Tap on the “Drafts” folder**. This will open up all the draft videos you’ve saved.
 
-- **Browse your drafts** by scrolling through the thumbnails. You can tap on any draft to preview, edit, or post it.
+5. **Browse your drafts** by scrolling through the thumbnails. You can tap on any draft to preview, edit, or post it.
 
 It’s worth noting that if you don’t see a “Drafts” folder, it likely means you haven’t saved any drafts yet. In this case, you’ll need to create a draft first, which we’ll cover in the next section.
 
@@ -42,15 +42,15 @@ It’s worth noting that if you don’t see a “Drafts” folder, it likely mea
 
 If you’re new to using drafts or haven’t created one before, here’s how you can save a video as a draft:
 
-- **Start creating a video** as you normally would by tapping the “+” icon at the bottom of the TikTok home screen.
+1. **Start creating a video** as you normally would by tapping the “+” icon at the bottom of the TikTok home screen.
 
-- **Record or upload your video content**.
+2. **Record or upload your video content**.
 
-- **Edit your video** with effects, filters, text, or other features as desired.
+3. **Edit your video** with effects, filters, text, or other features as desired.
 
-- **Tap “Next”** when you’re done editing.
+4. **Tap “Next”** when you’re done editing.
 
-- **Instead of posting, tap “Drafts”** at the bottom left corner of the screen.
+5. **Instead of posting, tap “Drafts”** at the bottom left corner of the screen.
 
 Your video will now be saved as a draft, and you can find it later using the steps outlined in the previous section.
 

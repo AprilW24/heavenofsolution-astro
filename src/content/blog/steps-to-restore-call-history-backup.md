@@ -12,11 +12,11 @@ Have you ever accidentally deleted your call history on your Android phone and w
 
 Before we dive into the restoration process, let’s discuss why backing up your call history to Google Drive is important:
 
-- **Data loss prevention**: Regularly backing up your call logs ensures you don’t lose this data if your phone is lost, stolen, or damaged.
+1. **Data loss prevention**: Regularly backing up your call logs ensures you don’t lose this data if your phone is lost, stolen, or damaged.
 
-- **Easy transfer**: When switching to a new Android device, you can quickly restore your call history from Google Drive, making the transition seamless.
+2. **Easy transfer**: When switching to a new Android device, you can quickly restore your call history from Google Drive, making the transition seamless.
 
-- **Accessibility**: With your call logs backed up to the cloud, you can access them from any device, including your PC.
+3. **Accessibility**: With your call logs backed up to the cloud, you can access them from any device, including your PC.
 
 ## Steps to Restore Call History Backup from Google Drive to PC
 
@@ -40,41 +40,41 @@ Follow these simple steps to restore your call history backup from Google Drive 
 
 ### Step 2: Download Call History Backup
 
-- Go to the **Google Drive** website on your PC and sign in with the same account linked to your Android device.
+1. Go to the **Google Drive** website on your PC and sign in with the same account linked to your Android device.
 
-- Click on the **gear icon** in the top-right corner and select **Settings**.
+2. Click on the **gear icon** in the top-right corner and select **Settings**.
 
-- Scroll down to the **Download your data** section and click on **Create an archive**.
+3. Scroll down to the **Download your data** section and click on **Create an archive**.
 
-- In the **Select data to include** section, deselect all options except for **Drive**.
+4. In the **Select data to include** section, deselect all options except for **Drive**.
 
-- Click on the **Down arrow** next to **Drive** and select **Backups**.
+5. Click on the **Down arrow** next to **Drive** and select **Backups**.
 
-- Click on **Next step** and choose your preferred file type, frequency, and delivery method.
+6. Click on **Next step** and choose your preferred file type, frequency, and delivery method.
 
-- Click on **Create archive**. Google will start creating your backup archive, which may take some time depending on the size of your data.
+7. Click on **Create archive**. Google will start creating your backup archive, which may take some time depending on the size of your data.
 
 ### Step 3: Extract Call History Data
 
-- Once the archive is created, you will receive an email with a download link. Click on the link to download the archive to your PC.
+1. Once the archive is created, you will receive an email with a download link. Click on the link to download the archive to your PC.
 
-- **Extract** the downloaded archive using a file extraction tool like WinRAR or 7-Zip.
+2. **Extract** the downloaded archive using a file extraction tool like WinRAR or 7-Zip.
 
-- Open the extracted folder and navigate to the **Takeout** folder.
+3. Open the extracted folder and navigate to the **Takeout** folder.
 
-- Inside the **Takeout** folder, locate the **Drive** folder and open it.
+4. Inside the **Takeout** folder, locate the **Drive** folder and open it.
 
-- Find the folder with your device’s name and open it. This folder contains your call history backup.
+5. Find the folder with your device’s name and open it. This folder contains your call history backup.
 
 ### Step 4: View and Save Call History
 
-- Inside your device’s folder, look for a file named **Call History.json** or similar.
+1. Inside your device’s folder, look for a file named **Call History.json** or similar.
 
-- Open this file using a text editor like Notepad or a JSON viewer for better readability.
+2. Open this file using a text editor like Notepad or a JSON viewer for better readability.
 
-- You can now view your call history, including details like phone numbers, call types (incoming, outgoing, or missed), and timestamps.
+3. You can now view your call history, including details like phone numbers, call types (incoming, outgoing, or missed), and timestamps.
 
-- To save the call history data, click on **File** and then **Save As**. Choose a location on your PC where you want to store the file and click **Save**.
+4. To save the call history data, click on **File** and then **Save As**. Choose a location on your PC where you want to store the file and click **Save**.
 
 ## Conclusion
 

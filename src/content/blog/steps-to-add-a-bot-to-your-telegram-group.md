@@ -40,17 +40,17 @@ Once you’ve found a bot you like, take note of its username (e.g., @weatherbot
 
 Now that you’ve found a bot, it’s time to add it to your group. Here’s how:
 
-- Open the Telegram app on your phone and navigate to your group.
+1. Open the Telegram app on your phone and navigate to your group.
 
-- Tap the group name at the top of the screen to open the group info page.
+2. Tap the group name at the top of the screen to open the group info page.
 
-- Tap **Add Members** or the person icon with a plus sign.
+3. Tap **Add Members** or the person icon with a plus sign.
 
-- In the search bar, type the username of the bot you want to add (e.g., @weatherbot).
+4. In the search bar, type the username of the bot you want to add (e.g., @weatherbot).
 
-- Tap the bot in the search results to select it.
+5. Tap the bot in the search results to select it.
 
-- Tap **Add** to add the bot to your group.
+6. Tap **Add** to add the bot to your group.
 
 The bot should now appear in your group member list.
 
@@ -72,13 +72,13 @@ By default, bots added to a group have the same permissions as regular members. 
 
 Here’s how to change a bot’s permissions:
 
-- Open the group info page and tap **Edit**.
+1. Open the group info page and tap **Edit**.
 
-- Tap **Administrators** to view the current admin list.
+2. Tap **Administrators** to view the current admin list.
 
-- Tap **Add Administrator** and select the bot from the list.
+3. Tap **Add Administrator** and select the bot from the list.
 
-- Choose the permissions you want to grant the bot and tap **Save**.
+4. Choose the permissions you want to grant the bot and tap **Save**.
 
 Keep in mind that not all bots require admin permissions, so only grant these if necessary.
 

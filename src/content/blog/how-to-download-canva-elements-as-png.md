@@ -54,19 +54,19 @@ To get the best results when downloading Canva elements as PNG files, keep these
 
 Now that you know how to download Canva elements as PNG files, let’s explore some creative ways to use them:
 
-- **Custom Logo Creation**: Combine multiple elements to create a unique logo for your brand or project.
+1. **Custom Logo Creation**: Combine multiple elements to create a unique logo for your brand or project.
 
-- **Social Media Graphics**: Use downloaded elements to enhance your social media posts, stories, or profile pictures.
+2. **Social Media Graphics**: Use downloaded elements to enhance your social media posts, stories, or profile pictures.
 
-- **Presentation Enhancements**: Add visual interest to your presentations by incorporating Canva elements into your slides.
+3. **Presentation Enhancements**: Add visual interest to your presentations by incorporating Canva elements into your slides.
 
-- **Website Design**: Use transparent PNG elements to add flair to your website without compromising load times.
+4. **Website Design**: Use transparent PNG elements to add flair to your website without compromising load times.
 
-- **Print Materials**: Incorporate elements into flyers, business cards, or other printed materials for a professional touch.
+5. **Print Materials**: Incorporate elements into flyers, business cards, or other printed materials for a professional touch.
 
-- **Digital Product Creation**: Use elements as part of digital products like e-book covers, course materials, or digital planners.
+6. **Digital Product Creation**: Use elements as part of digital products like e-book covers, course materials, or digital planners.
 
-- **Email Marketing**: Enhance your email newsletters with eye-catching graphics and icons.
+7. **Email Marketing**: Enhance your email newsletters with eye-catching graphics and icons.
 
 Remember, the key to using these elements effectively is to maintain consistency in your design choices. Don’t overload your projects with too many different elements; instead, choose a few that complement your overall design aesthetic.
 

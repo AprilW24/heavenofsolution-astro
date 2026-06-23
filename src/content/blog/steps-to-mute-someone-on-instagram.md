@@ -68,23 +68,23 @@ While the above method is the most straightforward way to mute someone on Instag
 
 If you come across a post from the user you want to mute while scrolling through your feed, you can:
 
-- Tap the three dots (…) in the top right corner of their post
+1. Tap the three dots (…) in the top right corner of their post
 
-- Select “Mute” from the options that appear
+2. Select “Mute” from the options that appear
 
-- Choose whether to mute posts, stories, or both
+3. Choose whether to mute posts, stories, or both
 
 ### Muting from Stories
 
 To mute someone directly from their story:
 
-- Open their story
+1. Open their story
 
-- Tap the three dots (…) in the top right corner
+2. Tap the three dots (…) in the top right corner
 
-- Select “Mute” from the options
+3. Select “Mute” from the options
 
-- Choose to mute their story, posts, or both
+4. Choose to mute their story, posts, or both
 
 ## What Happens After You Mute Someone?
 
@@ -102,25 +102,25 @@ Once you’ve muted someone on Instagram, here’s what you can expect:
 
 If you decide you want to start seeing someone’s content again, unmuting them is just as easy as muting:
 
-- Go to the user’s profile
+1. Go to the user’s profile
 
-- Tap the “Following” button
+2. Tap the “Following” button
 
-- Select “Mute”
+3. Select “Mute”
 
-- Toggle off the switches for Posts, Stories, or Notes that you previously muted
+4. Toggle off the switches for Posts, Stories, or Notes that you previously muted
 
 Alternatively, you can unmute someone by visiting the “Muted Accounts” section in your Instagram settings:
 
-- Go to your profile and tap the menu icon
+1. Go to your profile and tap the menu icon
 
-- Select “Settings”
+2. Select “Settings”
 
-- Tap “Privacy”
+3. Tap “Privacy”
 
-- Scroll down and select “Muted accounts”
+4. Scroll down and select “Muted accounts”
 
-- Find the account you want to unmute and tap “Unmute”
+5. Find the account you want to unmute and tap “Unmute”
 
 ## Benefits of Muting vs. Unfollowing
 

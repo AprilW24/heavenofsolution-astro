@@ -16,21 +16,21 @@ Before we dive into the specific steps, it’s important to understand that TikT
 
 If you’ve linked an email address to your TikTok account, this is the easiest way to change your password without a phone number. Here’s how to do it:
 
-- Open the TikTok app on your device and tap on the “Me” icon in the bottom right corner.
+1. Open the TikTok app on your device and tap on the “Me” icon in the bottom right corner.
 
-- Tap the three-dot menu icon in the top right corner to access your settings.
+2. Tap the three-dot menu icon in the top right corner to access your settings.
 
-- Scroll down and select “Password.”
+3. Scroll down and select “Password.”
 
-- Choose the “Reset via email” option.
+4. Choose the “Reset via email” option.
 
-- Enter the email address associated with your TikTok account.
+5. Enter the email address associated with your TikTok account.
 
-- Check your email inbox for a password reset link from TikTok.
+6. Check your email inbox for a password reset link from TikTok.
 
-- Click on the link and follow the prompts to create a new password.
+7. Click on the link and follow the prompts to create a new password.
 
-- Once you’ve set your new password, log back into your TikTok account to confirm the changes.
+8. Once you’ve set your new password, log back into your TikTok account to confirm the changes.
 
 **Remember:** Your new password should be strong and unique. Consider using a combination of uppercase and lowercase letters, numbers, and special characters to enhance security.
 
@@ -56,17 +56,17 @@ If you can’t access the email address linked to your TikTok account, don’t p
 
 Another option is to use TikTok’s in-app support feature to request assistance with changing your password:
 
-- Open the TikTok app and go to your profile.
+1. Open the TikTok app and go to your profile.
 
-- Tap the three-dot menu icon and select “Settings and privacy.”
+2. Tap the three-dot menu icon and select “Settings and privacy.”
 
-- Scroll down to find “Report a problem” under the Support section.
+3. Scroll down to find “Report a problem” under the Support section.
 
-- Choose “Account and Profile” > “Password” > “Change password.”
+4. Choose “Account and Profile” > “Password” > “Change password.”
 
-- Explain your situation in detail, mentioning that you don’t have access to your registered phone number.
+5. Explain your situation in detail, mentioning that you don’t have access to your registered phone number.
 
-- Submit your request and wait for TikTok’s support team to respond with further instructions.
+6. Submit your request and wait for TikTok’s support team to respond with further instructions.
 
 ## Preventive Measures for Future Security
 

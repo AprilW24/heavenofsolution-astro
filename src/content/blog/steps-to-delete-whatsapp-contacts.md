@@ -18,13 +18,13 @@ Before diving into the deletion process, it’s essential to understand how What
 
 One of the most straightforward ways to remove a contact from your WhatsApp without deleting them from your phone is by blocking them. Here’s how:
 
-- Open WhatsApp and go to the chat with the contact you want to remove.
+1. Open WhatsApp and go to the chat with the contact you want to remove.
 
-- Tap on the contact’s name at the top of the chat screen.
+2. Tap on the contact’s name at the top of the chat screen.
 
-- Scroll down and tap on “Block.”
+3. Scroll down and tap on “Block.”
 
-- Confirm by tapping “Block” again in the pop-up window.
+4. Confirm by tapping “Block” again in the pop-up window.
 
 **Note:** Blocking a contact will prevent them from sending you messages or seeing your online status, last seen, or profile picture updates. They won’t be notified that you’ve blocked them, but they won’t be able to contact you on WhatsApp unless you unblock them.
 
@@ -32,15 +32,15 @@ One of the most straightforward ways to remove a contact from your WhatsApp with
 
 If you don’t want to block the contact but still want to remove them from your WhatsApp, you can delete the chat:
 
-- Go to the Chats tab in WhatsApp.
+1. Go to the Chats tab in WhatsApp.
 
-- Find the chat with the contact you want to remove.
+2. Find the chat with the contact you want to remove.
 
-- Long-press on the chat.
+3. Long-press on the chat.
 
-- Tap on the trash can icon at the top of the screen.
+4. Tap on the trash can icon at the top of the screen.
 
-- Choose whether to delete media as well, then confirm the deletion.
+5. Choose whether to delete media as well, then confirm the deletion.
 
 **Note:** This method will remove the chat history with the contact, but it won’t prevent them from messaging you again in the future.
 
@@ -48,13 +48,13 @@ If you don’t want to block the contact but still want to remove them from your
 
 For a more drastic approach, you can clear all chats, which will remove all conversations, including those with contacts not in your address book:
 
-- Go to WhatsApp Settings.
+1. Go to WhatsApp Settings.
 
-- Tap on “Chats.”
+2. Tap on “Chats.”
 
-- Scroll down and tap on “Clear All Chats.”
+3. Scroll down and tap on “Clear All Chats.”
 
-- Confirm your action.
+4. Confirm your action.
 
 **Be cautious with this method**, as it will delete all your chat histories. Make sure to back up any important conversations before proceeding.
 
@@ -72,13 +72,13 @@ For a more drastic approach, you can clear all chats, which will remove all conv
 
 Maintaining a clean and organized contact list on WhatsApp is crucial for several reasons:
 
-- **Privacy:** By removing unwanted contacts, you can better control who has access to your information and status updates.
+1. **Privacy:** By removing unwanted contacts, you can better control who has access to your information and status updates.
 
-- **Efficiency:** A streamlined contact list makes it easier to find and communicate with the people who matter most to you.
+2. **Efficiency:** A streamlined contact list makes it easier to find and communicate with the people who matter most to you.
 
-- **Mental clarity:** Reducing digital clutter, including unnecessary contacts, can help reduce stress and improve your overall digital well-being.
+3. **Mental clarity:** Reducing digital clutter, including unnecessary contacts, can help reduce stress and improve your overall digital well-being.
 
-- **Security:** Limiting your contacts to those you trust can help protect you from potential scams or unwanted messages.
+4. **Security:** Limiting your contacts to those you trust can help protect you from potential scams or unwanted messages.
 
 ## Conclusion
 

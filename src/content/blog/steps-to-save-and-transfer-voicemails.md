@@ -12,15 +12,15 @@ Have you ever received an important voicemail on your Android phone that you wan
 
 Most Android phones come with a built-in visual voicemail app that allows you to view, listen to, and manage your voicemails. Here’s how to save a voicemail using this app:
 
-- Open the **Phone** app on your Android device
+1. Open the **Phone** app on your Android device
 
-- Tap on the **Voicemail** tab
+2. Tap on the **Voicemail** tab
 
-- Find the voicemail you want to save and tap on it to open it
+3. Find the voicemail you want to save and tap on it to open it
 
-- Tap the **three dots** icon in the upper right to bring up more options
+4. Tap the **three dots** icon in the upper right to bring up more options
 
-- Select **Save** to download the voicemail file to your phone
+5. Select **Save** to download the voicemail file to your phone
 
 The exact steps may vary slightly depending on your specific Android phone model and voicemail app. But in general, you’ll be able to easily save any voicemail to your device in just a few taps.
 
@@ -32,17 +32,17 @@ Once you’ve saved a voicemail on your Android phone, you can transfer it to an
 
 One option is to directly share the saved voicemail audio file:
 
-- Open your phone’s **file manager** app
+1. Open your phone’s **file manager** app
 
-- Navigate to the folder where your voicemails are saved (often called **Voicemail**)
+2. Navigate to the folder where your voicemails are saved (often called **Voicemail**)
 
-- Find the voicemail file you want to share and tap and hold on it
+3. Find the voicemail file you want to share and tap and hold on it
 
-- When the options menu pops up, select **Share**
+4. When the options menu pops up, select **Share**
 
-- Choose how you want to share the file (email, messaging app, cloud storage, etc.)
+5. Choose how you want to share the file (email, messaging app, cloud storage, etc.)
 
-- Select the contact or destination and hit send
+6. Select the contact or destination and hit send
 
 This allows you to send the raw audio file to anyone via your preferred communication or file sharing method. They’ll be able to save and listen to it on their own device.
 
@@ -50,13 +50,13 @@ This allows you to send the raw audio file to anyone via your preferred communic
 
 Some visual voicemail apps also have a forward option built-in:
 
-- Open the voicemail you want to forward
+1. Open the voicemail you want to forward
 
-- Look for a **Forward** or **Share** button
+2. Look for a **Forward** or **Share** button
 
-- Enter the phone number or email address you want to send it to
+3. Enter the phone number or email address you want to send it to
 
-- Tap **Send** to forward the voicemail
+4. Tap **Send** to forward the voicemail
 
 Check if your voicemail app supports this to easily forward voicemails to other numbers or email addresses without having to deal with the audio file itself.
 
@@ -64,17 +64,17 @@ Check if your voicemail app supports this to easily forward voicemails to other 
 
 Finally, for the most protection, you can upload your saved voicemails to a cloud storage service like Google Drive, Dropbox, or iCloud. This way they’ll be backed up off your device.
 
-- Save the voicemail file on your Android phone first
+1. Save the voicemail file on your Android phone first
 
-- Open your cloud storage app of choice
+2. Open your cloud storage app of choice
 
-- Navigate to the folder where you want to save the voicemail
+3. Navigate to the folder where you want to save the voicemail
 
-- Tap the **+** or **Upload** button
+4. Tap the **+** or **Upload** button
 
-- Select the voicemail file from your phone’s storage
+5. Select the voicemail file from your phone’s storage
 
-- Wait for it to finish uploading to the cloud
+6. Wait for it to finish uploading to the cloud
 
 Now your voicemail will be securely backed up and accessible from anywhere. You can share a link to the cloud file with others as needed.
 

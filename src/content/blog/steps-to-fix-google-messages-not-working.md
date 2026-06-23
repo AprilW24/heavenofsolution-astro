@@ -90,16 +90,16 @@ Contact your carrier’s customer support and explain the troubleshooting you’
 
 While Google Messages is generally reliable, it’s not uncommon to encounter the occasional hiccup. Following this step-by-step troubleshooting process will resolve most issues:
 
-- Check your internet connection
+1. Check your internet connection
 
-- Update the Google Messages app
+2. Update the Google Messages app
 
-- Verify your RCS settings
+3. Verify your RCS settings
 
-- Clear app cache and data
+4. Clear app cache and data
 
-- Verify your phone number
+5. Verify your phone number
 
-- Contact your carrier support
+6. Contact your carrier support
 
 By methodically ruling out each potential cause, you can get Google Messages back up and running in no time. If one fix doesn’t work, simply move on to the next until you find a solution. With a bit of patience and persistence, you’ll be able to enjoy the convenient features of Google Messages without interruption.

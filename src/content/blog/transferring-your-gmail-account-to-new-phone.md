@@ -26,13 +26,13 @@ Now that we understand the importance, let’s get started with the transfer pro
 
 Before you begin the actual transfer, there are a few things you should do to ensure a smooth process:
 
-- **Backup your old phone**: While not directly related to Gmail, it’s always a good idea to back up your old phone before making any significant changes.
+1. **Backup your old phone**: While not directly related to Gmail, it’s always a good idea to back up your old phone before making any significant changes.
 
-- **Charge both phones**: Ensure both your old and new phones have sufficient battery life. The last thing you want is for either device to die mid-transfer!
+2. **Charge both phones**: Ensure both your old and new phones have sufficient battery life. The last thing you want is for either device to die mid-transfer!
 
-- **Connect to Wi-Fi**: To avoid using up your mobile data, connect both phones to a stable Wi-Fi network.
+3. **Connect to Wi-Fi**: To avoid using up your mobile data, connect both phones to a stable Wi-Fi network.
 
-- **Update Gmail app**: Make sure the Gmail app on your new phone is up-to-date to avoid any compatibility issues.
+4. **Update Gmail app**: Make sure the Gmail app on your new phone is up-to-date to avoid any compatibility issues.
 
 With these preparations complete, you’re ready to start the transfer process.
 
@@ -40,15 +40,15 @@ With these preparations complete, you’re ready to start the transfer process.
 
 The first step is to set up your new phone. This process will vary slightly depending on whether you’re using an Android or iOS device, but the general steps are similar:
 
-- Turn on your new phone and follow the initial setup prompts.
+1. Turn on your new phone and follow the initial setup prompts.
 
-- When asked to sign in or add an account, choose “Google” or “Gmail.”
+2. When asked to sign in or add an account, choose “Google” or “Gmail.”
 
-- Enter your Gmail email address and password.
+3. Enter your Gmail email address and password.
 
-- If you have two-factor authentication enabled (which you should!), verify your identity using your preferred method.
+4. If you have two-factor authentication enabled (which you should!), verify your identity using your preferred method.
 
-- Agree to the terms and conditions.
+5. Agree to the terms and conditions.
 
 At this point, your Gmail account is technically set up on your new phone. However, there are a few more steps to ensure all your data is properly synced.
 
@@ -56,17 +56,17 @@ At this point, your Gmail account is technically set up on your new phone. Howev
 
 Now that your account is set up, it’s time to make sure all your email data is synced:
 
-- Open the Gmail app on your new phone.
+1. Open the Gmail app on your new phone.
 
-- Tap the menu icon (three horizontal lines) in the top-left corner.
+2. Tap the menu icon (three horizontal lines) in the top-left corner.
 
-- Scroll down and tap on “Settings.”
+3. Scroll down and tap on “Settings.”
 
-- Tap on your Gmail account.
+4. Tap on your Gmail account.
 
-- Ensure that “Sync Gmail” is turned on.
+5. Ensure that “Sync Gmail” is turned on.
 
-- You can also choose which labels to sync by tapping on “Manage labels” and selecting the ones you want.
+6. You can also choose which labels to sync by tapping on “Manage labels” and selecting the ones you want.
 
 Remember, depending on how much email data you have, the initial sync might take a while. Be patient and keep your phone connected to Wi-Fi during this process.
 
@@ -74,13 +74,13 @@ Remember, depending on how much email data you have, the initial sync might take
 
 Your Gmail account isn’t just about emails. It also includes your Google Calendar and Contacts. Here’s how to make sure they’re syncing:
 
-- Open the Settings app on your new phone.
+1. Open the Settings app on your new phone.
 
-- Scroll down and tap on “Accounts” or “Users & accounts.”
+2. Scroll down and tap on “Accounts” or “Users & accounts.”
 
-- Tap on your Google account.
+3. Tap on your Google account.
 
-- Ensure that “Calendar” and “Contacts” are toggled on.
+4. Ensure that “Calendar” and “Contacts” are toggled on.
 
 If they’re not syncing automatically, you can manually sync by tapping the three dots in the top-right corner and selecting “Sync now.”
 
@@ -88,15 +88,15 @@ If they’re not syncing automatically, you can manually sync by tapping the thr
 
 Now that your data is syncing, let’s make sure you’re getting notified about new emails:
 
-- Open the Gmail app.
+1. Open the Gmail app.
 
-- Tap the menu icon and go to “Settings.”
+2. Tap the menu icon and go to “Settings.”
 
-- Tap on your account.
+3. Tap on your account.
 
-- Scroll down to “Notifications” and tap on it.
+4. Scroll down to “Notifications” and tap on it.
 
-- Choose your preferred notification settings.
+5. Choose your preferred notification settings.
 
 You can set different notification sounds for different labels, which is great for distinguishing between work and personal emails.
 
@@ -104,13 +104,13 @@ You can set different notification sounds for different labels, which is great f
 
 Your Gmail is now set up and functioning on your new phone, but why not take a moment to customize it to your liking? Here are a few options you might want to explore:
 
-- **Conversation view**: Decide whether you want your emails grouped into conversations or displayed individually.
+1. **Conversation view**: Decide whether you want your emails grouped into conversations or displayed individually.
 
-- **Swipe actions**: Customize what happens when you swipe left or right on an email.
+2. **Swipe actions**: Customize what happens when you swipe left or right on an email.
 
-- **Signature**: Set up a mobile email signature if you’d like one.
+3. **Signature**: Set up a mobile email signature if you’d like one.
 
-- **Vacation responder**: If you’re setting this up while on vacation, don’t forget to turn on your out-of-office message!
+4. **Vacation responder**: If you’re setting this up while on vacation, don’t forget to turn on your out-of-office message!
 
 To access these settings, go to the Gmail app, tap the menu icon, select “Settings,” and then tap on your account.
 
@@ -118,11 +118,11 @@ To access these settings, go to the Gmail app, tap the menu icon, select “Sett
 
 With your Gmail account now active on a new device, it’s a good time to review your security settings:
 
-- Go to myaccount.google.com on your new phone.
+1. Go to myaccount.google.com on your new phone.
 
-- Tap on “Security” in the menu.
+2. Tap on “Security” in the menu.
 
-- Review your security settings, paying particular attention to:
+3. Review your security settings, paying particular attention to:
 
 - Two-factor authentication
 
@@ -150,13 +150,13 @@ All of these will automatically connect to your Gmail account, giving you a full
 
 Even with a straightforward process like this, you might encounter some hiccups. Here are solutions to common problems:
 
-- **Emails not syncing**: Check your internet connection and make sure sync is enabled in your account settings.
+1. **Emails not syncing**: Check your internet connection and make sure sync is enabled in your account settings.
 
-- **Can’t add account**: Ensure you’re entering the correct password. If you’ve forgotten it, use the “Forgot password” option on the login screen.
+2. **Can’t add account**: Ensure you’re entering the correct password. If you’ve forgotten it, use the “Forgot password” option on the login screen.
 
-- **Two-factor authentication issues**: Make sure you have access to your backup codes or an alternative verification method.
+3. **Two-factor authentication issues**: Make sure you have access to your backup codes or an alternative verification method.
 
-- **App crashing**: Try force-stopping the app and clearing its cache. If that doesn’t work, uninstall and reinstall the app.
+4. **App crashing**: Try force-stopping the app and clearing its cache. If that doesn’t work, uninstall and reinstall the app.
 
 Remember, if you’re still having trouble, Google’s support pages are an excellent resource for more detailed troubleshooting steps.
 

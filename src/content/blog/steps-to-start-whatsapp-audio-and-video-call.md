@@ -12,49 +12,49 @@ Tons of messaging apps let you send texts, but WhatsApp stands out by offering f
 
 ## Steps to Make a WhatsApp Audio Call on Android
 
-- Tap WhatsApp to open it.
+1. Tap WhatsApp to open it.
 
-- Go to *Chats* or *Calls* tab.
+2. Go to *Chats* or *Calls* tab.
 
-- Pick a contact you want to call.
+3. Pick a contact you want to call.
 
-- Tap on their name to open a chat.
+4. Tap on their name to open a chat.
 
-- Tap the phone icon in the top right.
+5. Tap the phone icon in the top right.
 
-- Wait for the contact to answer.
+6. Wait for the contact to answer.
 
-- If needed, tap the microphone to mute yourself.
+7. If needed, tap the microphone to mute yourself.
 
-- Hang up by tapping the red phone icon when you’re done.
+8. Hang up by tapping the red phone icon when you’re done.
 
-- Check your *Calls* tab for recent call history.
+9. Check your *Calls* tab for recent call history.
 
-- Repeat any time you want to start a new call.
+10. Repeat any time you want to start a new call.
 
 ## Steps to Make a WhatsApp Video Call on Android
 
 If you want to see the person you’re calling, video calls are handy. The steps are super similar, and the camera icon is your friend.
 
-- Open WhatsApp.
+1. Open WhatsApp.
 
-- Go to *Chats* or *Calls* tab.
+2. Go to *Chats* or *Calls* tab.
 
-- Select the contact.
+3. Select the contact.
 
-- Tap on their chat.
+4. Tap on their chat.
 
-- Tap the camera icon at the top.
+5. Tap the camera icon at the top.
 
-- Wait for the contact to pick up.
+6. Wait for the contact to pick up.
 
-- Use the camera button to turn video off/on.
+7. Use the camera button to turn video off/on.
 
-- Mute your audio with the microphone if needed.
+8. Mute your audio with the microphone if needed.
 
-- Finish your video call by tapping the red phone icon.
+9. Finish your video call by tapping the red phone icon.
 
-- See your video calls in your *Calls* tab.
+10. See your video calls in your *Calls* tab.
 
 ## What to Do When WhatsApp Calling Doesn’t Work
 

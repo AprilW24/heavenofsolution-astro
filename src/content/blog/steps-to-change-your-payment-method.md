@@ -26,21 +26,21 @@ Regardless of your reason, updating your payment information is crucial to maint
 
 Follow these simple steps to change your payment method on the YouTube app:
 
-- Open the YouTube app on your mobile device and ensure you’re signed in to the correct account.
+1. Open the YouTube app on your mobile device and ensure you’re signed in to the correct account.
 
-- Tap on your profile icon in the top right corner of the screen to access the menu.
+2. Tap on your profile icon in the top right corner of the screen to access the menu.
 
-- Select **Purchases and memberships** from the list of options.
+3. Select **Purchases and memberships** from the list of options.
 
-- Find the membership you want to update (YouTube Premium or YouTube TV) and tap on **Manage membership**.
+4. Find the membership you want to update (YouTube Premium or YouTube TV) and tap on **Manage membership**.
 
-- Under the **Payment & Billing** section, tap on **Edit** next to your current payment method.
+5. Under the **Payment & Billing** section, tap on **Edit** next to your current payment method.
 
-- Choose a new payment method from the list of saved options, or tap on **Add credit or debit card** to enter new card details.
+6. Choose a new payment method from the list of saved options, or tap on **Add credit or debit card** to enter new card details.
 
-- If adding a new card, enter your card information (card number, expiration date, and CVC) and tap **Submit**.
+7. If adding a new card, enter your card information (card number, expiration date, and CVC) and tap **Submit**.
 
-- Confirm the changes by tapping **Update** or **Save** to set the new payment method as your default.
+8. Confirm the changes by tapping **Update** or **Save** to set the new payment method as your default.
 
 That’s it! Your payment method has now been successfully updated, and your subscription will continue without any disruptions.
 

@@ -22,13 +22,13 @@ Now, let’s explore the step-by-step process of adding stickers to your TikTok 
 
 Before you start adding stickers, you need to set up your TikTok Live stream:
 
-- Open the TikTok app and tap the “+” icon at the bottom of the screen.
+1. Open the TikTok app and tap the “+” icon at the bottom of the screen.
 
-- Swipe to select “LIVE” from the options at the bottom.
+2. Swipe to select “LIVE” from the options at the bottom.
 
-- Choose a title for your live stream that accurately describes what you’ll be doing or discussing.
+3. Choose a title for your live stream that accurately describes what you’ll be doing or discussing.
 
-- Select any additional settings, such as allowing comments or filters.
+4. Select any additional settings, such as allowing comments or filters.
 
 **Pro tip:** Before going live, make sure you have a stable internet connection and are in a well-lit area with minimal background noise. This will ensure the best quality for your viewers.
 
@@ -36,19 +36,19 @@ Before you start adding stickers, you need to set up your TikTok Live stream:
 
 Once you’ve set up your live stream, it’s time to add stickers:
 
-- On the live stream setup screen, look for the “Effects” button, usually located near the bottom of the screen.
+1. On the live stream setup screen, look for the “Effects” button, usually located near the bottom of the screen.
 
-- Tap on the “Effects” button to open the effects menu.
+2. Tap on the “Effects” button to open the effects menu.
 
-- Look for the sticker icon, which often resembles a small flag or tag.
+3. Look for the sticker icon, which often resembles a small flag or tag.
 
 ### Step 3: Choose Your Sticker
 
 TikTok offers a variety of sticker options for live streams:
 
-- Browse through the available sticker categories. These may include interactive stickers, decorative stickers, and informational stickers.
+1. Browse through the available sticker categories. These may include interactive stickers, decorative stickers, and informational stickers.
 
-- Tap on the sticker you want to use to select it.
+2. Tap on the sticker you want to use to select it.
 
 **Remember:** Different stickers serve different purposes. Some are purely decorative, while others, like the Countdown sticker, can be used to create anticipation or urgency.
 
@@ -56,21 +56,21 @@ TikTok offers a variety of sticker options for live streams:
 
 Many stickers allow for customization:
 
-- If the sticker is customizable, you’ll usually see options to edit text or change colors.
+1. If the sticker is customizable, you’ll usually see options to edit text or change colors.
 
-- For text-based stickers, tap on the text field to enter your desired message.
+2. For text-based stickers, tap on the text field to enter your desired message.
 
-- Use the color options to make your sticker stand out or match your brand colors.
+3. Use the color options to make your sticker stand out or match your brand colors.
 
 ### Step 5: Position Your Sticker
 
 Once you’ve selected and customized your sticker, it’s time to place it on your live stream:
 
-- Use your finger to drag the sticker to your desired location on the screen.
+1. Use your finger to drag the sticker to your desired location on the screen.
 
-- Pinch or spread two fingers on the sticker to resize it as needed.
+2. Pinch or spread two fingers on the sticker to resize it as needed.
 
-- Some stickers may allow rotation. If so, use two fingers to rotate the sticker to your preferred angle.
+3. Some stickers may allow rotation. If so, use two fingers to rotate the sticker to your preferred angle.
 
 **Important:** Be mindful of where you place your stickers. Ensure they don’t obstruct important elements of your stream, such as your face or any products you’re showcasing.
 
@@ -78,17 +78,17 @@ Once you’ve selected and customized your sticker, it’s time to place it on y
 
 You’re not limited to just one sticker:
 
-- Repeat steps 2-5 to add additional stickers to your live stream.
+1. Repeat steps 2-5 to add additional stickers to your live stream.
 
-- Be careful not to overcrowd your screen. Too many stickers can be distracting and take away from your content.
+2. Be careful not to overcrowd your screen. Too many stickers can be distracting and take away from your content.
 
 ### Step 7: Go Live
 
 Once you’re satisfied with your sticker setup:
 
-- Double-check all your live stream settings.
+1. Double-check all your live stream settings.
 
-- When you’re ready, tap the “Go Live” button to start your stream.
+2. When you’re ready, tap the “Go Live” button to start your stream.
 
 Remember, you can add or remove stickers during your live stream as well. This flexibility allows you to adapt to your audience’s reactions and keep your content dynamic.
 
@@ -96,15 +96,15 @@ Remember, you can add or remove stickers during your live stream as well. This f
 
 TikTok offers a variety of stickers that can enhance your live stream experience. Here are some popular types and how to use them effectively:
 
-- **Countdown Sticker:** This sticker is perfect for creating anticipation. Use it to count down to a big reveal, a special announcement, or the end of a limited-time offer.
+1. **Countdown Sticker:** This sticker is perfect for creating anticipation. Use it to count down to a big reveal, a special announcement, or the end of a limited-time offer.
 
-- **Q&A Sticker:** Encourage audience interaction by using the Q&A sticker. This allows viewers to submit questions that you can answer during your live stream.
+2. **Q&A Sticker:** Encourage audience interaction by using the Q&A sticker. This allows viewers to submit questions that you can answer during your live stream.
 
-- **Poll Sticker:** Engage your audience by asking for their opinions. Use poll stickers to get instant feedback or to make decisions based on viewer preferences.
+3. **Poll Sticker:** Engage your audience by asking for their opinions. Use poll stickers to get instant feedback or to make decisions based on viewer preferences.
 
-- **Donation Sticker:** If you’re raising money for a cause, the donation sticker allows viewers to contribute directly through the live stream.
+4. **Donation Sticker:** If you’re raising money for a cause, the donation sticker allows viewers to contribute directly through the live stream.
 
-- **Custom Stickers:** You can create your own stickers to add a personal touch to your live streams. These can include your logo, catchphrases, or any other branded elements.
+5. **Custom Stickers:** You can create your own stickers to add a personal touch to your live streams. These can include your logo, catchphrases, or any other branded elements.
 
 ## Best Practices for Using Stickers on TikTok Live
 

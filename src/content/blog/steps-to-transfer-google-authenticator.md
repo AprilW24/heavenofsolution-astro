@@ -18,9 +18,9 @@ The app works by using a secret key to generate these time-based codes. This key
 
 There are two primary methods to transfer Google Authenticator to a new phone:
 
-- **Automatic sync using your Google account**
+1. **Automatic sync using your Google account**
 
-- **Manual transfer using QR codes**
+2. **Manual transfer using QR codes**
 
 Let’s explore each method in detail.
 

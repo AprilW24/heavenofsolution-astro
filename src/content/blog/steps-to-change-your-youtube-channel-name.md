@@ -28,19 +28,19 @@ Whatever your reason, it’s important to approach the name change thoughtfully,
 
 Now, let’s get to the heart of the matter. Here’s a detailed guide on how to change your YouTube channel name using your smartphone:
 
-- **Open the YouTube app**: Start by launching the YouTube app on your phone. Make sure you’re signed in to the account associated with the channel you want to rename.
+1. **Open the YouTube app**: Start by launching the YouTube app on your phone. Make sure you’re signed in to the account associated with the channel you want to rename.
 
-- **Access your channel**: Tap on your profile picture in the top right corner of the screen. This will open a menu. From here, select “Your channel” to go to your channel page.
+2. **Access your channel**: Tap on your profile picture in the top right corner of the screen. This will open a menu. From here, select “Your channel” to go to your channel page.
 
-- **Enter edit mode**: On your channel page, look for the “Edit channel” option. It’s usually represented by a pencil icon. Tap on this to enter the editing mode for your channel.
+3. **Enter edit mode**: On your channel page, look for the “Edit channel” option. It’s usually represented by a pencil icon. Tap on this to enter the editing mode for your channel.
 
-- **Change your name**: In the editing interface, you should see your current channel name. Tap on it to bring up the text input field. Here, you can type in your new desired channel name.
+4. **Change your name**: In the editing interface, you should see your current channel name. Tap on it to bring up the text input field. Here, you can type in your new desired channel name.
 
-- **Review and confirm**: Take a moment to double-check your new name for any typos or errors. Remember, this name will represent your brand across YouTube, so make sure it’s exactly how you want it.
+5. **Review and confirm**: Take a moment to double-check your new name for any typos or errors. Remember, this name will represent your brand across YouTube, so make sure it’s exactly how you want it.
 
-- **Save your changes**: Once you’re satisfied with your new name, look for a “Save” or “Confirm” button, usually located in the top right corner of the screen. Tap this to apply your changes.
+6. **Save your changes**: Once you’re satisfied with your new name, look for a “Save” or “Confirm” button, usually located in the top right corner of the screen. Tap this to apply your changes.
 
-- **Wait for the update**: After saving, it may take a little time for your new name to appear across all of YouTube. Be patient – the change should be visible within a few minutes to a few hours.
+7. **Wait for the update**: After saving, it may take a little time for your new name to appear across all of YouTube. Be patient – the change should be visible within a few minutes to a few hours.
 
 It’s worth noting that while this process is straightforward, YouTube does have some restrictions on name changes. For instance, you can only change your name a limited number of times within a certain period, so make sure you’re confident about your new name before making the switch.
 

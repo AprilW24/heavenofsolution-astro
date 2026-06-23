@@ -24,19 +24,19 @@ Now, let’s walk through the process of downloading albums.
 
 Unfortunately, the Google Photos app on Android doesn’t have a direct option to download entire albums. However, you can still accomplish this by using the Google Photos website in your Android web browser. Here’s how:
 
-- Open a web browser on your Android device and go to **photos.google.com**. Sign in with your Google account if prompted.
+1. Open a web browser on your Android device and go to **photos.google.com**. Sign in with your Google account if prompted.
 
-- Tap the **Albums** tab at the bottom of the screen to view your album list.
+2. Tap the **Albums** tab at the bottom of the screen to view your album list.
 
-- Open the album you want to download by tapping on its thumbnail.
+3. Open the album you want to download by tapping on its thumbnail.
 
-- Tap the **three-dot menu** icon in the top right corner of the screen.
+4. Tap the **three-dot menu** icon in the top right corner of the screen.
 
-- Select **Download all** from the menu options.
+5. Select **Download all** from the menu options.
 
-- The album will be compressed into a ZIP file. Choose a location on your Android device to save the ZIP file when prompted.
+6. The album will be compressed into a ZIP file. Choose a location on your Android device to save the ZIP file when prompted.
 
-- Once the download is complete, use your Android’s file manager app to locate the ZIP file and extract the album contents.
+7. Once the download is complete, use your Android’s file manager app to locate the ZIP file and extract the album contents.
 
 That’s it! You now have a local copy of your Google Photos album saved on your Android device.
 
@@ -52,9 +52,9 @@ That’s it! You now have a local copy of your Google Photos album saved on your
 
 If you find the web browser method cumbersome, here are a couple alternative approaches to try:
 
-- **Google Takeout**: Use Google’s data export service (takeout.google.com) to download your entire Google Photos library, including albums, to your Android device.
+1. **Google Takeout**: Use Google’s data export service (takeout.google.com) to download your entire Google Photos library, including albums, to your Android device.
 
-- **Third-Party Apps**: Some third-party gallery apps, like “PhotoSync” or “Autosync for Google Photos,” offer features to sync and download albums from Google Photos to your Android device.
+2. **Third-Party Apps**: Some third-party gallery apps, like “PhotoSync” or “Autosync for Google Photos,” offer features to sync and download albums from Google Photos to your Android device.
 
 ## Conclusion
 

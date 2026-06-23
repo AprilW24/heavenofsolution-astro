@@ -22,15 +22,15 @@ The first thing you need to do is download the TikTok app on your mobile device.
 
 **To download TikTok:**
 
-- Open the App Store (for iOS devices) or Google Play Store (for Android devices) on your mobile device.
+1. Open the App Store (for iOS devices) or Google Play Store (for Android devices) on your mobile device.
 
-- In the search bar, type “TikTok” and press search.
+2. In the search bar, type “TikTok” and press search.
 
-- Look for the official TikTok app in the search results. It should be the top result and have the TikTok logo (a black music note on a white background).
+3. Look for the official TikTok app in the search results. It should be the top result and have the TikTok logo (a black music note on a white background).
 
-- Tap “Get” (iOS) or “Install” (Android) to download and install the app.
+4. Tap “Get” (iOS) or “Install” (Android) to download and install the app.
 
-- Wait for the app to finish downloading and installing on your device.
+5. Wait for the app to finish downloading and installing on your device.
 
 Once the app is installed, you’ll see the TikTok icon on your device’s home screen or app drawer.
 
@@ -40,9 +40,9 @@ After installing the app, it’s time to open it and begin the account creation 
 
 **To start the sign-up process:**
 
-- Tap the “Me” icon in the bottom right corner of the screen.
+1. Tap the “Me” icon in the bottom right corner of the screen.
 
-- You’ll see options to sign up. Tap on “Sign up”.
+2. You’ll see options to sign up. Tap on “Sign up”.
 
 TikTok offers several methods to create an account:
 
@@ -66,21 +66,21 @@ If you chose to sign up with your phone number or email address, you’ll need t
 
 **For phone number sign-up:**
 
-- Enter your phone number.
+1. Enter your phone number.
 
-- You’ll receive a verification code via SMS. Enter this code in the app.
+2. You’ll receive a verification code via SMS. Enter this code in the app.
 
-- Create a password for your account. Make sure it’s secure but memorable.
+3. Create a password for your account. Make sure it’s secure but memorable.
 
-- Enter your date of birth. TikTok requires users to be at least 13 years old.
+4. Enter your date of birth. TikTok requires users to be at least 13 years old.
 
 **For email sign-up:**
 
-- Enter your email address.
+1. Enter your email address.
 
-- Create a password for your account.
+2. Create a password for your account.
 
-- Enter your date of birth.
+3. Enter your date of birth.
 
 After entering this information, tap “Sign up” to create your account.
 
@@ -90,17 +90,17 @@ Now that your account is created, it’s time to personalize your profile. This 
 
 **To customize your profile:**
 
-- Tap the “Me” icon in the bottom right corner to access your profile.
+1. Tap the “Me” icon in the bottom right corner to access your profile.
 
-- Tap “Edit profile” at the top of the screen.
+2. Tap “Edit profile” at the top of the screen.
 
-- Add a profile photo or video. You can either take a new photo/video or choose one from your device’s gallery.
+3. Add a profile photo or video. You can either take a new photo/video or choose one from your device’s gallery.
 
-- Set a username. This will be your unique identifier on TikTok, so choose wisely. If the username you want is taken, try adding numbers or underscores.
+4. Set a username. This will be your unique identifier on TikTok, so choose wisely. If the username you want is taken, try adding numbers or underscores.
 
-- Write a bio. This is a short description that appears on your profile. Use it to tell others about yourself or your brand.
+5. Write a bio. This is a short description that appears on your profile. Use it to tell others about yourself or your brand.
 
-- If applicable, add a link to your website or other social media profiles.
+6. If applicable, add a link to your website or other social media profiles.
 
 Remember, your profile is your TikTok identity. Make it reflect who you are or what your brand represents. A well-crafted profile can help attract followers and make your content more discoverable.
 
@@ -110,11 +110,11 @@ TikTok offers various privacy settings that allow you to control who can see you
 
 **To access privacy settings:**
 
-- Go to your profile by tapping the “Me” icon.
+1. Go to your profile by tapping the “Me” icon.
 
-- Tap the three dots in the top right corner to open the settings menu.
+2. Tap the three dots in the top right corner to open the settings menu.
 
-- Tap “Privacy” to access privacy settings.
+3. Tap “Privacy” to access privacy settings.
 
 Here, you can adjust settings such as:
 
@@ -146,17 +146,17 @@ With your account set up and customized, you’re ready to start exploring TikTo
 
 To create your first TikTok:
 
-- Tap the “+” button.
+1. Tap the “+” button.
 
-- Allow TikTok to access your camera and microphone if prompted.
+2. Allow TikTok to access your camera and microphone if prompted.
 
-- You can either record a video directly in the app or upload one from your device.
+3. You can either record a video directly in the app or upload one from your device.
 
-- Add music, effects, text, or filters to your video.
+4. Add music, effects, text, or filters to your video.
 
-- Write a caption, add hashtags, and adjust your privacy settings for this specific video.
+5. Write a caption, add hashtags, and adjust your privacy settings for this specific video.
 
-- Tap “Post” to share your TikTok with the world!
+6. Tap “Post” to share your TikTok with the world!
 
 ## Conclusion
 

@@ -38,17 +38,17 @@ Now that we understand these concepts, let’s move on to the steps for automati
 
 The first step in automatically sorting your emails is to create labels for different categories of messages. Here’s how to do it:
 
-- Open Gmail in your web browser.
+1. Open Gmail in your web browser.
 
-- On the left sidebar, scroll down and click on “More” to expand the options.
+2. On the left sidebar, scroll down and click on “More” to expand the options.
 
-- Click on “Create new label” at the bottom of the expanded list.
+3. Click on “Create new label” at the bottom of the expanded list.
 
-- Enter a name for your new label (e.g., “Work,” “Personal,” “Newsletters,” etc.).
+4. Enter a name for your new label (e.g., “Work,” “Personal,” “Newsletters,” etc.).
 
-- If you want to create a sublabel within an existing label, check the box next to “Nest label under” and select the parent label.
+5. If you want to create a sublabel within an existing label, check the box next to “Nest label under” and select the parent label.
 
-- Click “Create” to finalize the label creation.
+6. Click “Create” to finalize the label creation.
 
 Repeat this process to create all the labels you need for organizing your emails. Remember, you can always add, edit, or delete labels later as your needs change.
 
@@ -86,11 +86,11 @@ Repeat this process for each type of email you want to automatically sort. You c
 
 After setting up your filters, it’s crucial to test them to ensure they’re working as intended. Here’s how you can do this:
 
-- Send yourself a test email that matches the criteria of one of your filters.
+1. Send yourself a test email that matches the criteria of one of your filters.
 
-- Check if the email is correctly labeled and sorted as per your filter settings.
+2. Check if the email is correctly labeled and sorted as per your filter settings.
 
-- If the filter doesn’t work as expected, go back to your filter settings and adjust the criteria or actions as needed.
+3. If the filter doesn’t work as expected, go back to your filter settings and adjust the criteria or actions as needed.
 
 Remember, it may take a few minutes for new filters to take effect, so be patient if you don’t see immediate results.
 
@@ -98,27 +98,27 @@ Remember, it may take a few minutes for new filters to take effect, so be patien
 
 To make the most of Gmail’s automatic sorting feature, consider these best practices:
 
-- **Be specific with your filters**: The more specific your filter criteria, the more accurately Gmail will sort your emails. For example, instead of filtering all emails containing the word “invoice,” you might filter emails from specific sender addresses that contain “invoice” in the subject line.
+1. **Be specific with your filters**: The more specific your filter criteria, the more accurately Gmail will sort your emails. For example, instead of filtering all emails containing the word “invoice,” you might filter emails from specific sender addresses that contain “invoice” in the subject line.
 
-- **Use nested labels**: For more complex organization, create sublabels within main labels. For instance, under a “Work” label, you might have sublabels for different projects or departments.
+2. **Use nested labels**: For more complex organization, create sublabels within main labels. For instance, under a “Work” label, you might have sublabels for different projects or departments.
 
-- **Regularly review and update your filters**: As your email habits and needs change, review your filters periodically to ensure they’re still relevant and effective.
+3. **Regularly review and update your filters**: As your email habits and needs change, review your filters periodically to ensure they’re still relevant and effective.
 
-- **Combine filters with other Gmail features**: Use automatic sorting in conjunction with other Gmail features like Priority Inbox or Importance Markers for even more effective email management.
+4. **Combine filters with other Gmail features**: Use automatic sorting in conjunction with other Gmail features like Priority Inbox or Importance Markers for even more effective email management.
 
-- **Don’t over-complicate**: Start with a few basic labels and filters, and gradually add more as you become comfortable with the system. Too many labels can become counterproductive.
+5. **Don’t over-complicate**: Start with a few basic labels and filters, and gradually add more as you become comfortable with the system. Too many labels can become counterproductive.
 
 ## Advanced Tips for Power Users
 
 Once you’re comfortable with basic automatic sorting, consider these advanced techniques:
 
-- **Use search operators in filters**: Gmail’s search operators can create more powerful and precise filters. For example, “larger:5M” will filter emails with attachments larger than 5 MB.
+1. **Use search operators in filters**: Gmail’s search operators can create more powerful and precise filters. For example, “larger:5M” will filter emails with attachments larger than 5 MB.
 
-- **Create filters for outgoing messages**: You can create filters that automatically label or archive messages you send, helping to keep your sent items organized.
+2. **Create filters for outgoing messages**: You can create filters that automatically label or archive messages you send, helping to keep your sent items organized.
 
-- **Use filters to automate responses**: Combine filters with Gmail’s canned responses feature to automatically reply to certain types of emails.
+3. **Use filters to automate responses**: Combine filters with Gmail’s canned responses feature to automatically reply to certain types of emails.
 
-- **Leverage Google Scripts**: For even more advanced automation, learn to use Google Scripts to create custom functions for your Gmail.
+4. **Leverage Google Scripts**: For even more advanced automation, learn to use Google Scripts to create custom functions for your Gmail.
 
 ## Conclusion
 

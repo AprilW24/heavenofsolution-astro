@@ -24,13 +24,13 @@ Whether you’re a long-time Android user or just getting started, it’s worth 
 
 The first step is to make sure Google Messages is set as your default SMS app, if it isn’t already. Here’s how:
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap **Apps & notifications** > **Default apps**
+2. Tap **Apps & notifications** > **Default apps**
 
-- Tap **SMS app**
+3. Tap **SMS app**
 
-- Select **Messages** as your default SMS app
+4. Select **Messages** as your default SMS app
 
 Now when you receive a text message, it will open in Google Messages automatically. You’re ready to start using the app.
 
@@ -38,13 +38,13 @@ Now when you receive a text message, it will open in Google Messages automatical
 
 Next, take a moment to review and customize your Google Messages settings to fit your preferences:
 
-- Open the **Messages** app
+1. Open the **Messages** app
 
-- Tap the **three-dot menu** in the upper-right corner
+2. Tap the **three-dot menu** in the upper-right corner
 
-- Tap **Settings** to see all options
+3. Tap **Settings** to see all options
 
-- Review settings and make any desired changes, such as:
+4. Review settings and make any desired changes, such as:
 
 - Toggle on **Dark mode** for easier nighttime viewing
 
@@ -58,15 +58,15 @@ Feel free to explore the other settings as well to see what’s available. You c
 
 Sending a message with Google Messages is a snap:
 
-- From the main Messages screen, tap **Start chat** to begin a new message
+1. From the main Messages screen, tap **Start chat** to begin a new message
 
-- Enter the **recipient’s name or phone number** in the **To** field
+2. Enter the **recipient’s name or phone number** in the **To** field
 
 - You can also tap the **contacts icon** to the right to select someone from your contacts list
 
-- Tap the **text entry field** and type your message
+1. Tap the **text entry field** and type your message
 
-- When ready, tap the **arrow icon** to send your message
+2. When ready, tap the **arrow icon** to send your message
 
 The message will be delivered to the recipient almost instantly in most cases. You’ll see a **Sent** confirmation under the message when it goes through.
 
@@ -88,17 +88,17 @@ With these conversation management tools, it’s easy to keep your messages orga
 
 One of the best features of Google Messages is the ability to access your conversations on other devices by signing in with your Google account. Here’s how:
 
-- On your computer, open a web browser and go to [messages.google.com](https://messages.google.com/)
+1. On your computer, open a web browser and go to [messages.google.com](https://messages.google.com/)
 
-- On your phone, open the **Messages** app
+2. On your phone, open the **Messages** app
 
-- Tap the **three-dot menu** > **Device pairing**
+3. Tap the **three-dot menu** > **Device pairing**
 
-- Tap **QR code scanner**
+4. Tap **QR code scanner**
 
-- Scan the QR code shown on the Messages website with your phone
+5. Scan the QR code shown on the Messages website with your phone
 
-- Once paired, your conversations will appear on the website, synced with your phone
+6. Once paired, your conversations will appear on the website, synced with your phone
 
 Now you can send and receive messages seamlessly between your Android device and computer. It’s great for when you’re working at your desk with your computer.
 

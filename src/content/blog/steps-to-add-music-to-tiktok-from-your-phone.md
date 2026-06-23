@@ -16,19 +16,19 @@ TikTok’s popularity stems from its user-friendly interface and the creative po
 
 The easiest and most straightforward way to add music to your TikTok video is by using the app’s extensive built-in sound library. Here’s how to do it:
 
-- **Open the TikTok app** on your phone and tap the “+” icon at the bottom of the screen to start creating a new video.
+1. **Open the TikTok app** on your phone and tap the “+” icon at the bottom of the screen to start creating a new video.
 
-- **Tap “Add sound”** at the top of the screen. This will open TikTok’s sound library.
+2. **Tap “Add sound”** at the top of the screen. This will open TikTok’s sound library.
 
-- **Browse or search for music**. You can explore trending sounds, use the search bar to find specific songs, or browse through different categories.
+3. **Browse or search for music**. You can explore trending sounds, use the search bar to find specific songs, or browse through different categories.
 
-- Once you’ve found a song you like, **tap on it to preview** the audio. You can listen to different parts of the song by sliding the waveform at the bottom of the screen.
+4. Once you’ve found a song you like, **tap on it to preview** the audio. You can listen to different parts of the song by sliding the waveform at the bottom of the screen.
 
-- When you’re happy with your selection, **tap the checkmark** to add the sound to your video.
+5. When you’re happy with your selection, **tap the checkmark** to add the sound to your video.
 
-- **Adjust the portion of the song** you want to use by tapping on the sound icon above your video and using the slider to select the specific part of the track you want.
+6. **Adjust the portion of the song** you want to use by tapping on the sound icon above your video and using the slider to select the specific part of the track you want.
 
-- **Record your video** or upload existing footage, then proceed with editing and posting as usual.
+7. **Record your video** or upload existing footage, then proceed with editing and posting as usual.
 
 This method is great for using popular songs and trending sounds, which can help your video gain more visibility on the platform.
 
@@ -38,13 +38,13 @@ If you want to use your own music or a song that’s not available in TikTok’s
 
 ### Option A: Upload a Video with Audio
 
-- **Create a video** with your desired music playing in the background using another app or by simply playing the music out loud while recording.
+1. **Create a video** with your desired music playing in the background using another app or by simply playing the music out loud while recording.
 
-- **Open TikTok** and tap the “+” icon to create a new video.
+2. **Open TikTok** and tap the “+” icon to create a new video.
 
-- Instead of recording, **tap “Upload”** and select the video you created with the music.
+3. Instead of recording, **tap “Upload”** and select the video you created with the music.
 
-- **Edit your video** as desired and post it.
+4. **Edit your video** as desired and post it.
 
 This method works well, but keep in mind that the audio quality might not be as good as using TikTok’s built-in sounds.
 
@@ -52,17 +52,17 @@ This method works well, but keep in mind that the audio quality might not be as 
 
 TikTok allows users to upload their own sounds, which can then be used in videos. Here’s how:
 
-- **Create a video** using the song you want to add as a sound.
+1. **Create a video** using the song you want to add as a sound.
 
-- **Post the video** to your TikTok account.
+2. **Post the video** to your TikTok account.
 
-- Go to your profile and **find the video** you just posted.
+3. Go to your profile and **find the video** you just posted.
 
-- **Tap on the spinning record** icon at the bottom right of the video.
+4. **Tap on the spinning record** icon at the bottom right of the video.
 
-- **Tap “Use this sound”** to add it to your sounds library.
+5. **Tap “Use this sound”** to add it to your sounds library.
 
-- You can now use this sound in future videos by selecting it from your sounds library when creating new content.
+6. You can now use this sound in future videos by selecting it from your sounds library when creating new content.
 
 This method is useful for creating original sounds or using music that you have the rights to use.
 
@@ -70,13 +70,13 @@ This method is useful for creating original sounds or using music that you have 
 
 If you want more control over your audio or need to edit the music before adding it to your TikTok video, you can use third-party video editing apps. Here’s a general process:
 
-- **Choose a video editing app** that allows you to add music to videos. Popular options include InShot, CapCut, or Videoshop.
+1. **Choose a video editing app** that allows you to add music to videos. Popular options include InShot, CapCut, or Videoshop.
 
-- **Edit your video and add the desired music** within the third-party app.
+2. **Edit your video and add the desired music** within the third-party app.
 
-- **Export the video** with the added music.
+3. **Export the video** with the added music.
 
-- **Open TikTok** and upload the edited video as described in Method 2, Option A.
+4. **Open TikTok** and upload the edited video as described in Method 2, Option A.
 
 Using third-party apps gives you more flexibility in terms of editing and mixing audio, but it requires an extra step in the creation process.
 

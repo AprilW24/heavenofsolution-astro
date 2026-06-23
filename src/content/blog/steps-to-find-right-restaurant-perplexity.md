@@ -22,25 +22,25 @@ What I really like is how smart it is about context. Say you’re planning dinne
 
 Here’s how I get the best results every time:
 
-- Open Perplexity on your phone or browser.
+1. Open Perplexity on your phone or browser.
 
-- Go to the main chat interface.
+2. Go to the main chat interface.
 
-- Type or use voice to ask for restaurant recommendations.
+3. Type or use voice to ask for restaurant recommendations.
 
-- Be specific—mention location, cuisine, vibe, dietary needs, and group size.
+4. Be specific—mention location, cuisine, vibe, dietary needs, and group size.
 
-- Include details about date and time if you want to book right away.
+5. Include details about date and time if you want to book right away.
 
-- Review the restaurant options it suggests, check for menu tags and reviews.
+6. Review the restaurant options it suggests, check for menu tags and reviews.
 
-- Ask follow-up questions if needed to refine the list.
+7. Ask follow-up questions if needed to refine the list.
 
-- Click “Reserve” next to your chosen restaurant if you’re ready.
+8. Click “Reserve” next to your chosen restaurant if you’re ready.
 
-- Confirm booking details (date, time, party size).
+9. Confirm booking details (date, time, party size).
 
-- Save the confirmation or share it with your friends.
+10. Save the confirmation or share it with your friends.
 
 ## Prompt That Gets Personal Recommendations Fast
 

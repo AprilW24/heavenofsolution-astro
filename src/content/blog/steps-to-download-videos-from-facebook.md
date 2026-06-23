@@ -14,55 +14,55 @@ The process of downloading videos from Messenger is quite similar for both iOS a
 
 **For iOS (iPhone and iPad):**
 
-- Open the Facebook Messenger app on your iOS device.
+1. Open the Facebook Messenger app on your iOS device.
 
-- Navigate to the conversation containing the video you want to download.
+2. Navigate to the conversation containing the video you want to download.
 
-- Locate the video in the chat history.
+3. Locate the video in the chat history.
 
-- Tap and hold the video thumbnail until a menu appears.
+4. Tap and hold the video thumbnail until a menu appears.
 
-- From the options presented, tap “Save.”
+5. From the options presented, tap “Save.”
 
 The video will now be saved to your device’s Photos app, where you can access it anytime, even without an internet connection.
 
 **For Android:**
 
-- Launch the Facebook Messenger app on your Android device.
+1. Launch the Facebook Messenger app on your Android device.
 
-- Find the conversation with the video you wish to download.
+2. Find the conversation with the video you wish to download.
 
-- Scroll to the video in the chat.
+3. Scroll to the video in the chat.
 
-- Long-press on the video to bring up the options menu.
+4. Long-press on the video to bring up the options menu.
 
-- Tap “Save video” from the available choices.
+5. Tap “Save video” from the available choices.
 
 Once downloaded, the video will be stored in your device’s gallery or the default downloads folder, depending on your phone’s settings.
 
 It’s worth noting that for both iOS and Android, there’s an alternative method if the video is currently playing:
 
-- Tap the video to open it in full-screen mode.
+1. Tap the video to open it in full-screen mode.
 
-- Look for the download icon (usually a downward-pointing arrow) in the top right corner of the screen.
+2. Look for the download icon (usually a downward-pointing arrow) in the top right corner of the screen.
 
-- Tap this icon to initiate the download.
+3. Tap this icon to initiate the download.
 
 ## Downloading Videos on Desktop
 
 If you prefer using Messenger on your computer, the process is equally straightforward:
 
-- Open your preferred web browser and go to Facebook.com.
+1. Open your preferred web browser and go to Facebook.com.
 
-- Click on the Messenger icon in the top right corner of the page.
+2. Click on the Messenger icon in the top right corner of the page.
 
-- Find the conversation containing the video you want to download.
+3. Find the conversation containing the video you want to download.
 
-- Click on the video to open it in full-screen mode.
+4. Click on the video to open it in full-screen mode.
 
-- Look for the download icon (typically a downward-pointing arrow) in the top right corner of the video player.
+5. Look for the download icon (typically a downward-pointing arrow) in the top right corner of the video player.
 
-- Click on this icon to start the download.
+6. Click on this icon to start the download.
 
 The video will be saved to your computer’s default downloads folder unless you’ve specified a different location for downloaded files in your browser settings.
 
@@ -72,17 +72,17 @@ While the native methods described above work well for most situations, there mi
 
 One popular option is SaveFrom.net:
 
-- Open the Messenger conversation on your computer’s web browser.
+1. Open the Messenger conversation on your computer’s web browser.
 
-- Right-click on the video and select “Copy video URL at current time.”
+2. Right-click on the video and select “Copy video URL at current time.”
 
-- Visit SaveFrom.net in a new tab.
+3. Visit SaveFrom.net in a new tab.
 
-- Paste the copied URL into the input field on SaveFrom.net.
+4. Paste the copied URL into the input field on SaveFrom.net.
 
-- Click the “Download” button.
+5. Click the “Download” button.
 
-- Choose your preferred video quality and download the file.
+6. Choose your preferred video quality and download the file.
 
 Remember to exercise caution when using third-party services and ensure they are reputable to avoid potential security risks.
 
@@ -102,15 +102,15 @@ Before you start downloading videos from Messenger, keep these points in mind:
 
 If you’re having trouble downloading videos from Messenger, try these troubleshooting steps:
 
-- **Check your internet connection:** Ensure you have a stable internet connection, as poor connectivity can interfere with downloads.
+1. **Check your internet connection:** Ensure you have a stable internet connection, as poor connectivity can interfere with downloads.
 
-- **Update the app:** Make sure you’re using the latest version of the Messenger app, as older versions may have bugs or lack certain features.
+2. **Update the app:** Make sure you’re using the latest version of the Messenger app, as older versions may have bugs or lack certain features.
 
-- **Clear cache:** If you’re experiencing issues on a mobile device, try clearing the app’s cache in your device settings.
+3. **Clear cache:** If you’re experiencing issues on a mobile device, try clearing the app’s cache in your device settings.
 
-- **Restart the app or device:** Sometimes, a simple restart of the app or your device can resolve minor glitches.
+4. **Restart the app or device:** Sometimes, a simple restart of the app or your device can resolve minor glitches.
 
-- **Check permissions:** Ensure that Messenger has the necessary permissions to save files to your device’s storage.
+5. **Check permissions:** Ensure that Messenger has the necessary permissions to save files to your device’s storage.
 
 ## Conclusion
 

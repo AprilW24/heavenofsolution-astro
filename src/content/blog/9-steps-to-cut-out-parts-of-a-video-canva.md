@@ -20,33 +20,33 @@ Canva offers a user-friendly interface that allows you to trim, split, and custo
 
 Before you start cutting out parts of your video, ensure you have the Canva app installed on your Android device. Here are some steps to get started:
 
-- **Open the Canva App**: Launch the Canva app on your Android device.
+1. **Open the Canva App**: Launch the Canva app on your Android device.
 
-- **Create a New Project**: Tap on “Create a design” and choose a template or start from scratch.
+2. **Create a New Project**: Tap on “Create a design” and choose a template or start from scratch.
 
-- **Upload Your Video**: Go to the “Uploads” tab, select “Upload files,” and choose the video you want to edit.
+3. **Upload Your Video**: Go to the “Uploads” tab, select “Upload files,” and choose the video you want to edit.
 
 ## Steps to Cut Out Parts of a Video
 
 Here’s a step-by-step guide on how to cut out parts of a video using Canva on Android:
 
-- **Select the Video**: Tap on the video you uploaded to select it.
+1. **Select the Video**: Tap on the video you uploaded to select it.
 
-- **Access Trimming Tool**: Look for the scissor icon or drag the handles on the video timeline to access the trimming tool.
+2. **Access Trimming Tool**: Look for the scissor icon or drag the handles on the video timeline to access the trimming tool.
 
-- **Trim the Video**: Drag the start or end handles to set the in-point and out-point where you want to cut the video.
+3. **Trim the Video**: Drag the start or end handles to set the in-point and out-point where you want to cut the video.
 
-- **Apply Changes**: Tap “Done” or “Apply” to save your trimmed video.
+4. **Apply Changes**: Tap “Done” or “Apply” to save your trimmed video.
 
-- **Split the Video (Optional)**: If you need to remove a section in the middle, use the split tool by dragging the playhead to the desired point and tapping the split button.
+5. **Split the Video (Optional)**: If you need to remove a section in the middle, use the split tool by dragging the playhead to the desired point and tapping the split button.
 
-- **Delete Unwanted Sections**: After splitting, you can delete the unwanted parts by selecting them and tapping the delete icon.
+6. **Delete Unwanted Sections**: After splitting, you can delete the unwanted parts by selecting them and tapping the delete icon.
 
-- **Add Transitions (Optional)**: Use Canva’s transitions to smoothly connect different parts of your video.
+7. **Add Transitions (Optional)**: Use Canva’s transitions to smoothly connect different parts of your video.
 
-- **Add Audio or Effects (Optional)**: Enhance your video with background music or sound effects from Canva’s library.
+8. **Add Audio or Effects (Optional)**: Enhance your video with background music or sound effects from Canva’s library.
 
-- **Save or Download**: Tap the “Share” button and choose to download your edited video in MP4 format.
+9. **Save or Download**: Tap the “Share” button and choose to download your edited video in MP4 format.
 
 ## Customizing Your Video Further
 

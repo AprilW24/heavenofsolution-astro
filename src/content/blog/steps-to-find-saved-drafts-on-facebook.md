@@ -18,17 +18,17 @@ It’s important to note that Facebook treats drafts differently depending on th
 
 Now, let’s get to the heart of the matter. Here’s a step-by-step guide to help you locate your saved drafts on the Facebook Android app:
 
-- **Open the Facebook App**: Start by launching the Facebook app on your Android device. Ensure that you’re logged into your account.
+1. **Open the Facebook App**: Start by launching the Facebook app on your Android device. Ensure that you’re logged into your account.
 
-- **Create a New Post**: Tap on the “What’s on your mind?” box at the top of your news feed, as if you were going to create a new post. This action will open the post creation screen.
+2. **Create a New Post**: Tap on the “What’s on your mind?” box at the top of your news feed, as if you were going to create a new post. This action will open the post creation screen.
 
-- **Check for Existing Drafts**: Once you’re on the post creation screen, look for a “Drafts” section. This may appear as a small notification or a separate tab within the post creation interface. If you have any saved drafts, they should be visible here.
+3. **Check for Existing Drafts**: Once you’re on the post creation screen, look for a “Drafts” section. This may appear as a small notification or a separate tab within the post creation interface. If you have any saved drafts, they should be visible here.
 
-- **Access Your Drafts**: If you see the “Drafts” option, tap on it to view your saved drafts. You should now see a list of all the posts you’ve saved as drafts.
+4. **Access Your Drafts**: If you see the “Drafts” option, tap on it to view your saved drafts. You should now see a list of all the posts you’ve saved as drafts.
 
-- **Select and Edit Your Draft**: Choose the draft you want to work on by tapping it. This will open the draft in the post editor, allowing you to continue where you left off.
+5. **Select and Edit Your Draft**: Choose the draft you want to work on by tapping it. This will open the draft in the post editor, allowing you to continue where you left off.
 
-- **Publish or Save Again**: Once you’ve finished editing your draft, you can either publish it immediately or save it as a draft again if you need more time.
+6. **Publish or Save Again**: Once you’ve finished editing your draft, you can either publish it immediately or save it as a draft again if you need more time.
 
 If you don’t see the “Drafts” option or can’t find your saved drafts using the above method, don’t worry. Facebook sometimes changes the location of features, or your app might need updating. Here are some alternative steps you can try:
 

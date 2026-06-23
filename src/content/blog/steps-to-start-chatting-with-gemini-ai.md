@@ -32,23 +32,23 @@ On iPhone and iPad you can open the Gemini app and either type your prompt, talk
 
 ## Steps To Create An Account And Start Chatting With Gemini On Laptop
 
-- Open a modern browser on your laptop like Chrome or another updated browser.
+1. Open a modern browser on your laptop like Chrome or another updated browser.
 
-- Make sure you are signed in with the Google account you want to use or sign in if you are not.
+2. Make sure you are signed in with the Google account you want to use or sign in if you are not.
 
-- Search for the Gemini web app using your browser’s search bar and open the official Gemini page.
+3. Search for the Gemini web app using your browser’s search bar and open the official Gemini page.
 
-- Click the sign in button you see on the top right area of the Gemini page.
+4. Click the sign in button you see on the top right area of the Gemini page.
 
-- Pick your Google account from the list or add a new one if you want a different login.
+5. Pick your Google account from the list or add a new one if you want a different login.
 
-- Accept any terms or age confirmations that appear the first time you use Gemini.
+6. Accept any terms or age confirmations that appear the first time you use Gemini.
 
-- Wait for the main Gemini chat screen to load with the big text box at the bottom.
+7. Wait for the main Gemini chat screen to load with the big text box at the bottom.
 
-- Click in the chat box and type your first question or request then hit enter.
+8. Click in the chat box and type your first question or request then hit enter.
 
-- Check the response and use follow up questions to refine or correct what Gemini gives you.
+9. Check the response and use follow up questions to refine or correct what Gemini gives you.
 
 ## Why You Do Not Need A Separate Gemini Account
 
@@ -58,25 +58,25 @@ If you do not have a Google account yet, you will need to create one before gett
 
 ## Steps To Start Chatting With Gemini On Your Phone
 
-- Open the app store on your phone so you can search for new apps.
+1. Open the app store on your phone so you can search for new apps.
 
-- Search for the official Gemini app and install it on your device.
+2. Search for the official Gemini app and install it on your device.
 
-- Open the Gemini app once it finishes downloading and installing.
+3. Open the Gemini app once it finishes downloading and installing.
 
-- Sign in with your Google account inside the app or confirm the account already shown.
+4. Sign in with your Google account inside the app or confirm the account already shown.
 
-- Allow any basic permissions the app asks for like microphone if you want to use voice.
+5. Allow any basic permissions the app asks for like microphone if you want to use voice.
 
-- On iPhone or iPad choose whether to chat with typing, voice, or live conversation.
+6. On iPhone or iPad choose whether to chat with typing, voice, or live conversation.
 
-- On Android check if the Gemini app can connect with your system assistant for easier access.
+7. On Android check if the Gemini app can connect with your system assistant for easier access.
 
-- Tap the chat box or microphone button and share your first question or task.
+8. Tap the chat box or microphone button and share your first question or task.
 
-- Read the reply and then keep the conversation going by asking more specific follow ups.
+9. Read the reply and then keep the conversation going by asking more specific follow ups.
 
-- Use different prompts for planning, learning, writing, or just testing what Gemini can do.
+10. Use different prompts for planning, learning, writing, or just testing what Gemini can do.
 
 ## How To Get The Most Out Of Your First Gemini Chats Without Getting Overwhelmed
 

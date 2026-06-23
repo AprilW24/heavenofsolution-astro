@@ -30,25 +30,25 @@ Think of this step as housekeeping. You’re not deleting your messages, you’r
 
 ## Steps to fine-tune your Android smart notification app
 
-- Open Settings and open Notifications.
+1. Open Settings and open Notifications.
 
-- Tap App notifications and check the list of apps sending alerts.
+2. Tap App notifications and check the list of apps sending alerts.
 
-- Turn off or silence ones that spam you often.
+3. Turn off or silence ones that spam you often.
 
-- Tap on important apps and use “**notification categories**” to separate message types.
+4. Tap on important apps and use “**notification categories**” to separate message types.
 
-- Go into your smart notification app settings and allow only relevant priority apps.
+5. Go into your smart notification app settings and allow only relevant priority apps.
 
-- Adjust time-based alerts so they fit your daily schedule.
+6. Adjust time-based alerts so they fit your daily schedule.
 
-- Add custom tones or vibrations for top contacts.
+7. Add custom tones or vibrations for top contacts.
 
-- Enable notification dots or badges for quick glances.
+8. Enable notification dots or badges for quick glances.
 
-- Keep “**snooze notifications**” active for manageable breaks.
+9. Keep “**snooze notifications**” active for manageable breaks.
 
-- Review weekly to spot apps trying to sneak alerts back on.
+10. Review weekly to spot apps trying to sneak alerts back on.
 
 ## Make timing and presentation your secret weapon
 

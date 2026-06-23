@@ -32,23 +32,23 @@ Once you’ve considered these factors and decided to proceed with deletion, you
 
 Deleting a YouTube video on your Android device is a straightforward process. Here’s a detailed guide to help you through each step:
 
-- **Open the YouTube app**: Locate the YouTube app on your Android device and tap to open it.
+1. **Open the YouTube app**: Locate the YouTube app on your Android device and tap to open it.
 
-- **Sign in to your account**: If you’re not already signed in, tap on your profile picture in the top right corner and sign in to your YouTube account.
+2. **Sign in to your account**: If you’re not already signed in, tap on your profile picture in the top right corner and sign in to your YouTube account.
 
-- **Access your channel**: Once signed in, tap on your profile picture again and select “Your channel” from the dropdown menu.
+3. **Access your channel**: Once signed in, tap on your profile picture again and select “Your channel” from the dropdown menu.
 
-- **Navigate to your videos**: On your channel page, tap on the “Videos” tab to see a list of all the videos you’ve uploaded.
+4. **Navigate to your videos**: On your channel page, tap on the “Videos” tab to see a list of all the videos you’ve uploaded.
 
-- **Find the video to delete**: Scroll through your videos to find the one you want to delete.
+5. **Find the video to delete**: Scroll through your videos to find the one you want to delete.
 
-- **Open the video options**: To the right of the video thumbnail and title, you’ll see three vertical dots. Tap on these dots to open the options menu for that video.
+6. **Open the video options**: To the right of the video thumbnail and title, you’ll see three vertical dots. Tap on these dots to open the options menu for that video.
 
-- **Select “Delete”**: In the options menu, you should see a “Delete” option. Tap on this.
+7. **Select “Delete”**: In the options menu, you should see a “Delete” option. Tap on this.
 
-- **Confirm deletion**: YouTube will ask you to confirm that you want to delete the video. This is your last chance to change your mind. If you’re sure, tap “Delete” again to confirm.
+8. **Confirm deletion**: YouTube will ask you to confirm that you want to delete the video. This is your last chance to change your mind. If you’re sure, tap “Delete” again to confirm.
 
-- **Wait for confirmation**: The app will process your request, and you should see a confirmation message once the video has been successfully deleted.
+9. **Wait for confirmation**: The app will process your request, and you should see a confirmation message once the video has been successfully deleted.
 
 It’s worth noting that the deletion process is irreversible. Once you confirm the deletion, the video will be permanently removed from your channel and cannot be recovered.
 
@@ -56,19 +56,19 @@ It’s worth noting that the deletion process is irreversible. Once you confirm 
 
 For those who prefer a more comprehensive approach to managing their YouTube content, the YouTube Studio app offers an alternative method for deleting videos:
 
-- **Download YouTube Studio**: If you haven’t already, download the YouTube Studio app from the Google Play Store.
+1. **Download YouTube Studio**: If you haven’t already, download the YouTube Studio app from the Google Play Store.
 
-- **Open YouTube Studio**: Launch the app and sign in to your YouTube account.
+2. **Open YouTube Studio**: Launch the app and sign in to your YouTube account.
 
-- **Navigate to your videos**: From the dashboard, tap on “Videos” in the bottom navigation bar.
+3. **Navigate to your videos**: From the dashboard, tap on “Videos” in the bottom navigation bar.
 
-- **Select the video**: Find the video you want to delete and tap on it to open the video details page.
+4. **Select the video**: Find the video you want to delete and tap on it to open the video details page.
 
-- **Access edit options**: Tap on the pencil icon at the top of the screen to enter edit mode.
+5. **Access edit options**: Tap on the pencil icon at the top of the screen to enter edit mode.
 
-- **Find the delete option**: Swipe to the “Advanced” tab and scroll to the bottom of the page.
+6. **Find the delete option**: Swipe to the “Advanced” tab and scroll to the bottom of the page.
 
-- **Delete the video**: Tap on “Delete video” and confirm your choice when prompted.
+7. **Delete the video**: Tap on “Delete video” and confirm your choice when prompted.
 
 This method provides a more detailed view of your video’s performance and settings before deletion, which can be helpful if you’re managing multiple videos or need to review a video’s stats one last time before removing it.
 

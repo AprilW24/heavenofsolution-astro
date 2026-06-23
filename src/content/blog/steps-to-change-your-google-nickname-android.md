@@ -26,33 +26,33 @@ Whatever your reason, changing your Google nickname is a straightforward process
 
 ### Step 1: Access Your Google Account Settings
 
-- Open your device’s **Settings** app.
+1. Open your device’s **Settings** app.
 
-- Scroll down and tap on **Google**.
+2. Scroll down and tap on **Google**.
 
-- At the top of the screen, tap **Manage your Google Account**.
+3. At the top of the screen, tap **Manage your Google Account**.
 
 This will take you to your Google Account dashboard, where you can manage various aspects of your account.
 
 ### Step 2: Navigate to Personal Info
 
-- In your Google Account dashboard, tap on the **Personal info** tab at the top of the screen.
+1. In your Google Account dashboard, tap on the **Personal info** tab at the top of the screen.
 
-- Scroll down until you see the **Name** section.
+2. Scroll down until you see the **Name** section.
 
 Here, you’ll see your current name settings, including your first name, last name, and nickname if you’ve set one previously.
 
 ### Step 3: Edit Your Nickname
 
-- Tap on **Name** to open the name settings.
+1. Tap on **Name** to open the name settings.
 
-- Look for the **Nickname** field. If you haven’t set a nickname before, it might say **Add nickname**.
+2. Look for the **Nickname** field. If you haven’t set a nickname before, it might say **Add nickname**.
 
-- Tap on the pencil icon next to the Nickname field.
+3. Tap on the pencil icon next to the Nickname field.
 
-- Enter your desired nickname in the text box that appears.
+4. Enter your desired nickname in the text box that appears.
 
-- Tap **Save** to confirm your changes.
+5. Tap **Save** to confirm your changes.
 
 ### Step 4: Choose How Your Name Displays
 
@@ -76,11 +76,11 @@ After setting your nickname, you can choose how you want it to appear across Goo
 
 To ensure your changes have been applied:
 
-- Go back to the main Google Account page.
+1. Go back to the main Google Account page.
 
-- Check the top of the screen where your account information is displayed.
+2. Check the top of the screen where your account information is displayed.
 
-- You should see your new nickname or display name preference reflected here.
+3. You should see your new nickname or display name preference reflected here.
 
 Remember, it may take some time for the changes to propagate across all Google services.
 
@@ -100,13 +100,13 @@ While changing your Google nickname is relatively simple, there are a few things
 
 If you encounter any issues while trying to change your Google nickname, try these troubleshooting steps:
 
-- **Clear cache and cookies**: Sometimes, old data stored in your browser can prevent changes from appearing. Clear your cache and cookies, then try again.
+1. **Clear cache and cookies**: Sometimes, old data stored in your browser can prevent changes from appearing. Clear your cache and cookies, then try again.
 
-- **Update the Google app**: Ensure you’re using the latest version of the Google app on your Android device.
+2. **Update the Google app**: Ensure you’re using the latest version of the Google app on your Android device.
 
-- **Restart your device**: A simple restart can often resolve minor glitches.
+3. **Restart your device**: A simple restart can often resolve minor glitches.
 
-- **Check account restrictions**: If you’re using a Google account provided by your work or school, there may be restrictions on changing your name or nickname.
+4. **Check account restrictions**: If you’re using a Google account provided by your work or school, there may be restrictions on changing your name or nickname.
 
 ## Conclusion
 

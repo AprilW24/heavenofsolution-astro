@@ -34,11 +34,11 @@ Boot your Android phone in safe mode, which loads without third party apps. If t
 
 To enter safe mode:
 
-- Press and hold the power button
+1. Press and hold the power button
 
-- Long press **Power off** option
+2. Long press **Power off** option
 
-- Tap **Safe mode**
+3. Tap **Safe mode**
 
 #### 3. Check Problematic Apps
 

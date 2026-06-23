@@ -32,13 +32,13 @@ Now that we understand the benefits of using Telegram, let’s focus on how to a
 
 Before you can add contacts, you need to have Telegram installed and set up on your device. If you haven’t done so already, follow these steps:
 
-- Download Telegram from your device’s app store (App Store for iOS or Google Play Store for Android).
+1. Download Telegram from your device’s app store (App Store for iOS or Google Play Store for Android).
 
-- Open the app and enter your phone number to create an account.
+2. Open the app and enter your phone number to create an account.
 
-- Verify your number by entering the code sent to you via SMS.
+3. Verify your number by entering the code sent to you via SMS.
 
-- Set up your profile by adding a profile picture and username (optional).
+4. Set up your profile by adding a profile picture and username (optional).
 
 ### Step 2: Access Your Contacts List
 
@@ -46,31 +46,31 @@ Once you have Telegram set up, you can start adding contacts. Here’s how to ac
 
 **For iOS users:**
 
-- Tap the “Contacts” icon at the bottom of the screen.
+1. Tap the “Contacts” icon at the bottom of the screen.
 
-- Tap the “+” icon in the top right corner.
+2. Tap the “+” icon in the top right corner.
 
 **For Android users:**
 
-- Tap the circular pencil icon in the chat list.
+1. Tap the circular pencil icon in the chat list.
 
-- Select “New Contact” from the menu.
+2. Select “New Contact” from the menu.
 
 **For Telegram Desktop:**
 
-- Click the menu button in the top left corner.
+1. Click the menu button in the top left corner.
 
-- Select “New Contact” from the dropdown menu.
+2. Select “New Contact” from the dropdown menu.
 
 ### Step 3: Enter the Contact’s Information
 
 Now that you’ve accessed the “Add Contact” screen, it’s time to enter the person’s information:
 
-- Type in the person’s phone number, including the country code.
+1. Type in the person’s phone number, including the country code.
 
-- Enter their first name (required) and last name (optional).
+2. Enter their first name (required) and last name (optional).
 
-- If you want, you can also add a nickname or additional information in the appropriate fields.
+3. If you want, you can also add a nickname or additional information in the appropriate fields.
 
 ### Step 4: Save the Contact
 
@@ -80,11 +80,11 @@ After entering the contact’s information, simply tap or click the “Save” o
 
 Once you’ve added the contact, you can immediately start a conversation with them:
 
-- Find the newly added contact in your contacts list.
+1. Find the newly added contact in your contacts list.
 
-- Tap or click on their name to open a chat window.
+2. Tap or click on their name to open a chat window.
 
-- Type your message and hit send!
+3. Type your message and hit send!
 
 ## Additional Tips and Information
 
@@ -100,17 +100,17 @@ Telegram offers the unique feature of usernames, which allows users to find and 
 
 While adding contacts by phone number is convenient, it’s essential to be mindful of privacy. Telegram offers various privacy settings that allow you to control who can see your phone number, last seen status, and profile photo. To adjust these settings:
 
-- Go to Settings > Privacy and Security.
+1. Go to Settings > Privacy and Security.
 
-- Review and adjust the options according to your preferences.
+2. Review and adjust the options according to your preferences.
 
 ### Syncing Contacts
 
 Telegram can automatically sync with your device’s address book to find contacts who are already using the app. However, you can control this feature:
 
-- Go to Settings > Privacy and Security > Data Settings.
+1. Go to Settings > Privacy and Security > Data Settings.
 
-- Toggle the “Sync Contacts” option on or off as desired.
+2. Toggle the “Sync Contacts” option on or off as desired.
 
 ### Creating Groups
 
@@ -118,31 +118,31 @@ Once you’ve added contacts, you might want to create a group chat. Telegram al
 
 **For iOS:**
 
-- Start a new message (tap the icon in the top right corner in Chats).
+1. Start a new message (tap the icon in the top right corner in Chats).
 
-- Select “New Group.”
+2. Select “New Group.”
 
 **For Android:**
 
-- Tap the circular pencil icon in the chat list.
+1. Tap the circular pencil icon in the chat list.
 
-- Choose “New Group.”
+2. Choose “New Group.”
 
 **For Telegram Desktop:**
 
-- Click the menu button in the top left corner.
+1. Click the menu button in the top left corner.
 
-- Select “New Group.”
+2. Select “New Group.”
 
 ### Using Invite Links
 
 If you want to add multiple people to a group or channel at once, you can create an invite link:
 
-- Go to the group or channel info.
+1. Go to the group or channel info.
 
-- Select “Add Member.”
+2. Select “Add Member.”
 
-- Choose “Invite to Group via Link.”
+3. Choose “Invite to Group via Link.”
 
 This link can be shared with anyone, and they’ll be able to join the group or channel by clicking it.
 

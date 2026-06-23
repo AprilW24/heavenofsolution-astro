@@ -24,69 +24,69 @@ Friend lists provide several benefits:
 
 Before you can edit a custom list, you’ll need to create one:
 
-- Open the Facebook app and tap the **three-line menu** icon
+1. Open the Facebook app and tap the **three-line menu** icon
 
-- Scroll down and expand the **See More** section
+2. Scroll down and expand the **See More** section
 
-- Tap **Friends** to view your existing friend lists
+3. Tap **Friends** to view your existing friend lists
 
-- Tap the **Add** button in the top-right corner
+4. Tap the **Add** button in the top-right corner
 
-- Enter a name for your new custom list
+5. Enter a name for your new custom list
 
-- Tap **Next** and select friends to add to the list
+6. Tap **Next** and select friends to add to the list
 
-- Tap **Done** to finish creating the list
+7. Tap **Done** to finish creating the list
 
 ### 2. Viewing Your Custom Friend Lists
 
 To view and manage the custom lists you’ve created:
 
-- Go to the **Friends** tab using the steps above
+1. Go to the **Friends** tab using the steps above
 
-- Locate the **Friend Lists** section
+2. Locate the **Friend Lists** section
 
-- Tap **See All** to view your full list of custom friend lists
+3. Tap **See All** to view your full list of custom friend lists
 
-- Tap on a specific list name to view the friends it contains
+4. Tap on a specific list name to view the friends it contains
 
 ### 3. Adding or Removing Friends from a Custom List
 
 Once you’ve created a custom list, you can easily edit its members:
 
-- Select the custom list you want to modify
+1. Select the custom list you want to modify
 
-- Tap the **three-dot menu** icon in the top-right corner
+2. Tap the **three-dot menu** icon in the top-right corner
 
-- Choose **Edit List** from the popup menu
+3. Choose **Edit List** from the popup menu
 
-- The current list members will be shown with checkmarks
+4. The current list members will be shown with checkmarks
 
-- Tap on a friend to toggle their list membership on/off
+5. Tap on a friend to toggle their list membership on/off
 
-- Tap **Save** to confirm the changes to the list
+6. Tap **Save** to confirm the changes to the list
 
 Alternatively, you can add or remove friends via their profiles:
 
-- Go to a friend’s profile page
+1. Go to a friend’s profile page
 
-- Tap the **Friends** button under their name
+2. Tap the **Friends** button under their name
 
-- Select **Edit Friend List** from the menu
+3. Select **Edit Friend List** from the menu
 
-- Check/uncheck the custom lists you want to add them to or remove them from
+4. Check/uncheck the custom lists you want to add them to or remove them from
 
 ### 4. Posting to a Custom Friend List
 
 To share a post so that only people on a certain list can see it:
 
-- Begin creating a post as you normally would
+1. Begin creating a post as you normally would
 
-- Tap the **Audience Selector** (default is Public)
+2. Tap the **Audience Selector** (default is Public)
 
-- Choose the custom friend list you want to use
+3. Choose the custom friend list you want to use
 
-- Finish your post and tap **Share** to post to that list
+4. Finish your post and tap **Share** to post to that list
 
 Only the friends on that specific list will be able to view the post on Facebook.
 
@@ -94,13 +94,13 @@ Only the friends on that specific list will be able to view the post on Facebook
 
 Friend lists also allow you to filter your News Feed to only see posts from certain people:
 
-- From the News Feed, tap the **three-line menu** icon
+1. From the News Feed, tap the **three-line menu** icon
 
-- Scroll down to the **Feeds** section
+2. Scroll down to the **Feeds** section
 
-- Tap **See More**
+3. Tap **See More**
 
-- Select a custom list to only view posts from those friends
+4. Select a custom list to only view posts from those friends
 
 This is a great way to catch up with important friends without other posts cluttering your Feed.
 

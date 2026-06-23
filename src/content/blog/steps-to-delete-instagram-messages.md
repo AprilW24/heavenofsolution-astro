@@ -12,9 +12,9 @@ In today’s digital age, privacy is a top concern for many social media users. 
 
 Before diving into the specific steps, it’s important to understand the different ways you can delete messages on Instagram. The platform offers two primary methods:
 
-- **Unsending messages**: This option allows you to remove a message from both your side and the recipient’s side of the conversation.
+1. **Unsending messages**: This option allows you to remove a message from both your side and the recipient’s side of the conversation.
 
-- **Deleting entire conversations**: This method removes the conversation from your inbox but doesn’t affect the recipient’s view.
+2. **Deleting entire conversations**: This method removes the conversation from your inbox but doesn’t affect the recipient’s view.
 
 Additionally, Instagram has introduced features like Vanish Mode, which automatically deletes messages once they’re viewed and the chat is closed. Let’s explore each of these methods in detail.
 
@@ -22,19 +22,19 @@ Additionally, Instagram has introduced features like Vanish Mode, which automati
 
 Unsending a message is the most effective way to delete an Instagram message without the other person knowing. Here’s how to do it:
 
-- **Open the Instagram app** on your mobile device.
+1. **Open the Instagram app** on your mobile device.
 
-- **Navigate to your Direct Messages** by tapping the paper airplane icon in the top right corner of your feed.
+2. **Navigate to your Direct Messages** by tapping the paper airplane icon in the top right corner of your feed.
 
-- **Open the conversation** containing the message you want to delete.
+3. **Open the conversation** containing the message you want to delete.
 
-- **Locate the specific message** you wish to remove.
+4. **Locate the specific message** you wish to remove.
 
-- **Press and hold the message** until a menu appears.
+5. **Press and hold the message** until a menu appears.
 
-- **Select “Unsend”** from the options.
+6. **Select “Unsend”** from the options.
 
-- **Confirm your choice** when prompted.
+7. **Confirm your choice** when prompted.
 
 Once you’ve completed these steps, the message will disappear from both your chat and the recipient’s chat. It’s important to note that while this method is effective, it’s not foolproof. If the recipient has already seen the message or if they have notifications enabled, they might have caught a glimpse of your message before you unsent it.
 
@@ -42,13 +42,13 @@ Once you’ve completed these steps, the message will disappear from both your c
 
 If you want to remove an entire conversation from your Instagram inbox, you can do so without affecting the other person’s view of the chat. Here’s how:
 
-- **Open Instagram** and go to your Direct Messages.
+1. **Open Instagram** and go to your Direct Messages.
 
-- **Find the conversation** you want to delete.
+2. **Find the conversation** you want to delete.
 
-- **For iOS users**: Swipe left on the conversation and tap “Delete”.**For Android users**: Long-press the conversation and select “Delete” from the menu.
+3. **For iOS users**: Swipe left on the conversation and tap “Delete”.**For Android users**: Long-press the conversation and select “Delete” from the menu.
 
-- **Confirm the deletion** when prompted.
+4. **Confirm the deletion** when prompted.
 
 This method is useful for cleaning up your inbox, but remember that it only removes the conversation from your side. The other person will still have access to all the messages in the chat.
 
@@ -56,13 +56,13 @@ This method is useful for cleaning up your inbox, but remember that it only remo
 
 Instagram’s Vanish Mode is a feature that automatically deletes messages once they’re viewed and the chat is closed. This can be a great option if you want to have a conversation that leaves no trace. Here’s how to use it:
 
-- **Open a chat** in Instagram Direct Messages.
+1. **Open a chat** in Instagram Direct Messages.
 
-- **Swipe up** from the bottom of the chat screen to activate Vanish Mode.
+2. **Swipe up** from the bottom of the chat screen to activate Vanish Mode.
 
-- **Send your messages** as usual.
+3. **Send your messages** as usual.
 
-- **When you’re done**, close the chat or swipe up again to deactivate Vanish Mode.
+4. **When you’re done**, close the chat or swipe up again to deactivate Vanish Mode.
 
 All messages sent in Vanish Mode will disappear once both parties have viewed them and left the chat. This feature ensures that sensitive conversations don’t leave a permanent record.
 

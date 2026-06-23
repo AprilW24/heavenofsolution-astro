@@ -16,15 +16,15 @@ Before we dive into the process, it’s crucial to understand that Instagram has
 
 The safest and most straightforward method to unfollow users on Instagram is to do it manually. While this approach can be time-consuming, it ensures that you stay within Instagram’s guidelines and avoid any potential account issues. Here’s how to unfollow users manually on your Android device:
 
-- Open the Instagram app on your Android smartphone.
+1. Open the Instagram app on your Android smartphone.
 
-- Tap on your profile icon in the bottom right corner.
+2. Tap on your profile icon in the bottom right corner.
 
-- At the top of your profile, you’ll see your following count. Tap on it to view the list of accounts you’re following.
+3. At the top of your profile, you’ll see your following count. Tap on it to view the list of accounts you’re following.
 
-- Scroll through the list and tap the “Following” button next to each account you want to unfollow.
+4. Scroll through the list and tap the “Following” button next to each account you want to unfollow.
 
-- Confirm your action when prompted.
+5. Confirm your action when prompted.
 
 Remember to pace yourself and avoid unfollowing too many accounts in quick succession. It’s recommended to spread out your unfollowing activity over several days or weeks to stay within Instagram’s limits.
 
@@ -34,13 +34,13 @@ For those looking to unfollow everyone on Instagram more quickly, third-party ap
 
 One popular app for mass unfollowing on Android is **Unfollow Users**. Here’s how to use it:
 
-- Download and install the Unfollow Users app from the Google Play Store.
+1. Download and install the Unfollow Users app from the Google Play Store.
 
-- Open the app and sign in with your Instagram credentials.
+2. Open the app and sign in with your Instagram credentials.
 
-- Once logged in, tap on the “Unfollow” button.
+3. Once logged in, tap on the “Unfollow” button.
 
-- The app will automatically start unfollowing accounts from your list.
+4. The app will automatically start unfollowing accounts from your list.
 
 While this method is faster than manual unfollowing, it’s crucial to exercise caution. Set limits within the app to unfollow only a certain number of accounts per hour, and avoid using it for extended periods.
 
@@ -48,15 +48,15 @@ While this method is faster than manual unfollowing, it’s crucial to exercise 
 
 If you’re not ready to unfollow everyone but still want to clean up your feed, Instagram offers a built-in feature to help you identify accounts you interact with least. This can be a great middle ground for decluttering your following list without starting from scratch. Here’s how to use this feature:
 
-- Open Instagram and go to your profile.
+1. Open Instagram and go to your profile.
 
-- Tap on “Following” to view your list of followed accounts.
+2. Tap on “Following” to view your list of followed accounts.
 
-- At the top, you’ll see a “Categories” section. Tap on “Least Interacted With.”
+3. At the top, you’ll see a “Categories” section. Tap on “Least Interacted With.”
 
-- Instagram will show you a list of accounts you’ve had the least interaction with over the past 90 days.
+4. Instagram will show you a list of accounts you’ve had the least interaction with over the past 90 days.
 
-- You can then go through this list and unfollow accounts as desired.
+5. You can then go through this list and unfollow accounts as desired.
 
 This method allows you to make more informed decisions about which accounts to unfollow based on your actual engagement with their content.
 

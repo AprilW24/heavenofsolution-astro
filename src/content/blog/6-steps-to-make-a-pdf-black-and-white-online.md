@@ -50,13 +50,13 @@ When choosing a converter, consider factors such as:
 
 Once you’ve selected your preferred online converter, the next step is to upload your PDF file. This process is typically straightforward:
 
-- Look for an “Upload” or “Choose File” button on the converter’s homepage.
+1. Look for an “Upload” or “Choose File” button on the converter’s homepage.
 
-- Click this button to open your computer’s file explorer.
+2. Click this button to open your computer’s file explorer.
 
-- Navigate to the location of your PDF file.
+3. Navigate to the location of your PDF file.
 
-- Select the file and click “Open” or “Upload.”
+4. Select the file and click “Open” or “Upload.”
 
 Alternatively, many converters allow you to drag and drop your file directly onto the webpage. This can be a quicker method if you already have your file readily accessible.
 

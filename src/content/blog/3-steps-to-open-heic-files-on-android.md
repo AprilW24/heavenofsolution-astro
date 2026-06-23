@@ -24,11 +24,11 @@ The easiest way to open HEIC files on Android is by installing a dedicated HEIC 
 
 To install:
 
-- Open the Play Store on your Android device.
+1. Open the Play Store on your Android device.
 
-- Search for **heic viewer** or one of the app names above.
+2. Search for **heic viewer** or one of the app names above.
 
-- Tap **Install** to download and install the HEIC app.
+3. Tap **Install** to download and install the HEIC app.
 
 Once installed, open the app and you will be able to view any HEIC images stored on your device.
 
@@ -38,13 +38,13 @@ Google Photos is another easy way to open HEIC files, as it has native support.
 
 To view HEIC files using Google Photos:
 
-- Make sure Google Photos is installed on your Android device.
+1. Make sure Google Photos is installed on your Android device.
 
-- Launch the app and tap on **Library**.
+2. Launch the app and tap on **Library**.
 
-- Navigate to the folder containing your HEIC images.
+3. Navigate to the folder containing your HEIC images.
 
-- Select the HEIC image you want to open.
+4. Select the HEIC image you want to open.
 
 The image will now open within the Google Photos app.
 
@@ -52,13 +52,13 @@ The image will now open within the Google Photos app.
 
 If the above options don’t work or you want to permanently convert the images, you can use an app to convert from HEIC to the more compatible JPG format:
 
-- Install a HEIC to JPG converter app from Play Store, like **Luma Converter**.
+1. Install a HEIC to JPG converter app from Play Store, like **Luma Converter**.
 
-- Launch the app and select your HEIC images.
+2. Launch the app and select your HEIC images.
 
-- Tap **Convert** to convert them to JPG.
+3. Tap **Convert** to convert them to JPG.
 
-- The JPG files can now be viewed in your gallery or other apps.
+4. The JPG files can now be viewed in your gallery or other apps.
 
 Converting to JPG will allow the images to be viewed across more apps and devices, however some image quality or data may be lost.
 

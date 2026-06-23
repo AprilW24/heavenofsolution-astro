@@ -26,15 +26,15 @@ Whatever the reason, removing a reaction on Messenger is a quick and easy proces
 
 Follow these simple steps to remove a reaction you sent on Messenger using the Android app:
 
-- **Open the Messenger app** on your Android device and navigate to the conversation containing the message you reacted to.
+1. **Open the Messenger app** on your Android device and navigate to the conversation containing the message you reacted to.
 
-- **Locate the message with the reaction** you want to remove. Reactions appear as small emoji icons below the message.
+2. **Locate the message with the reaction** you want to remove. Reactions appear as small emoji icons below the message.
 
-- **Tap and hold on the message** until the reaction emoji options pop up above the message. Make sure you press the message itself, not the reactions below it.
+3. **Tap and hold on the message** until the reaction emoji options pop up above the message. Make sure you press the message itself, not the reactions below it.
 
-- **Tap the same reaction emoji** you originally selected. For example, if you reacted with a ❤️ the first time, tap the ❤️ icon again.
+4. **Tap the same reaction emoji** you originally selected. For example, if you reacted with a ❤️ the first time, tap the ❤️ icon again.
 
-- **Your reaction will be removed** from the message instantly. The emoji will disappear and the message will go back to having no reaction from you.
+5. **Your reaction will be removed** from the message instantly. The emoji will disappear and the message will go back to having no reaction from you.
 
 That’s it! You’ve now deleted your reaction on Messenger. If you want, you can tap and hold the message again to bring up the reaction options and select a different emoji to replace your original reaction.
 
@@ -42,11 +42,11 @@ That’s it! You’ve now deleted your reaction on Messenger. If you want, you c
 
 In the steps above, tapping the same emoji reaction you already sent will remove the reaction entirely. However, if you want to change your reaction to a different emoji, you can do that too:
 
-- Tap and hold the message to bring up the reaction emoji options
+1. Tap and hold the message to bring up the reaction emoji options
 
-- Tap a **different **emoji than the one you originally reacted with
+2. Tap a **different **emoji than the one you originally reacted with
 
-- Your original reaction will be replaced by the new emoji reaction you selected
+3. Your original reaction will be replaced by the new emoji reaction you selected
 
 So tapping the **same** emoji deletes your reaction, while tapping a **different** emoji changes your reaction to the new selection. Keep this in mind as you manage your reactions.
 
@@ -80,13 +80,13 @@ If reactions still aren’t deleting after trying these troubleshooting steps, t
 
 Sending the wrong reaction on Facebook Messenger can be embarrassing, but fortunately it’s an easy mistake to fix. Just follow these simple steps to delete a reaction on Messenger for Android:
 
-- Open the conversation and find the message you reacted to
+1. Open the conversation and find the message you reacted to
 
-- Tap and hold the message until the reaction emojis appear
+2. Tap and hold the message until the reaction emojis appear
 
-- Tap the same emoji you originally reacted with
+3. Tap the same emoji you originally reacted with
 
-- The reaction will be instantly deleted
+4. The reaction will be instantly deleted
 
 Remember, tapping the same reaction removes it entirely, while tapping a different emoji changes your reaction to the new selection. These steps work the same in both one-on-one and group conversations, although you can only delete your own reactions.
 

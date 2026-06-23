@@ -42,29 +42,29 @@ The exact steps to turn off delivered notifications may vary depending on your d
 
 ### On Android
 
-- Open your default messaging app (usually called **Messages**)
+1. Open your default messaging app (usually called **Messages**)
 
-- Tap the three-dot menu icon in the top right corner
+2. Tap the three-dot menu icon in the top right corner
 
-- Select **Settings** or **More settings**
+3. Select **Settings** or **More settings**
 
-- Look for an option called **Text messages**, **SMS**, or **Advanced**
+4. Look for an option called **Text messages**, **SMS**, or **Advanced**
 
-- Find a toggle or checkbox for **Delivery reports**, **Delivery confirmation**, or **Get SMS delivery reports**
+5. Find a toggle or checkbox for **Delivery reports**, **Delivery confirmation**, or **Get SMS delivery reports**
 
-- Turn this option off
+6. Turn this option off
 
 ### On iPhone
 
-- Open the Settings app
+1. Open the Settings app
 
-- Scroll down and tap on **Messages**
+2. Scroll down and tap on **Messages**
 
-- Under the **SMS/MMS** section, toggle off **Send Read Receipts**
+3. Under the **SMS/MMS** section, toggle off **Send Read Receipts**
 
-- This will disable both delivered and read notifications for regular text messages (green bubbles)
+4. This will disable both delivered and read notifications for regular text messages (green bubbles)
 
-- For iMessages (blue bubbles), there is no built-in way to turn off delivered notifications, but you can turn off read receipts by going to Settings > Messages and toggling off **Send Read Receipts**
+5. For iMessages (blue bubbles), there is no built-in way to turn off delivered notifications, but you can turn off read receipts by going to Settings > Messages and toggling off **Send Read Receipts**
 
 ### On Third-Party Apps
 

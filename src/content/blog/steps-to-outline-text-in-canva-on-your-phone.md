@@ -26,19 +26,19 @@ Whether you’re creating social media posts, flyers, invitations or any other t
 
 Follow these simple steps to add an outline to your text in the Canva mobile app:
 
-- **Open your Canva design**Open the Canva app on your phone and either open an existing design or create a new one.
+1. **Open your Canva design**Open the Canva app on your phone and either open an existing design or create a new one.
 
-- **Add your text**Tap the **Text** button at the bottom of the screen and either select a preset text style or tap **Add a heading** to type your own text. Adjust the font, size and color of your text as desired.
+2. **Add your text**Tap the **Text** button at the bottom of the screen and either select a preset text style or tap **Add a heading** to type your own text. Adjust the font, size and color of your text as desired.
 
-- **Select your text box**Tap on the text box you want to outline to bring up the text editing menu.
+3. **Select your text box**Tap on the text box you want to outline to bring up the text editing menu.
 
-- **Open the Effects menu**In the text editing menu, look for the **Effects** option (the star icon) and tap it to open the Effects menu.
+4. **Open the Effects menu**In the text editing menu, look for the **Effects** option (the star icon) and tap it to open the Effects menu.
 
-- **Choose the Outline effect**Scroll through the various text effects until you find the **Outline** option. Tap it to apply the outline effect to your selected text.
+5. **Choose the Outline effect**Scroll through the various text effects until you find the **Outline** option. Tap it to apply the outline effect to your selected text.
 
-- **Adjust the outline thickness**After applying the outline effect, you’ll see a slider appear below your text. Drag the slider left or right to decrease or increase the thickness of the outline.
+6. **Adjust the outline thickness**After applying the outline effect, you’ll see a slider appear below your text. Drag the slider left or right to decrease or increase the thickness of the outline.
 
-- **Change the outline color (optional)**If you want to change the color of the outline, simply tap the color selector in the text editing menu and choose a new color for your outline.
+7. **Change the outline color (optional)**If you want to change the color of the outline, simply tap the color selector in the text editing menu and choose a new color for your outline.
 
 That’s it! With just a few taps, you’ve added a stylish outline effect to your text that will help it stand out in your design. Feel free to experiment with different outline thicknesses and colors to get the look you want.
 
@@ -88,19 +88,19 @@ With a little creativity and exploration, you can create stunning Canva designs 
 
 Outlining text is a quick and easy way to make words stand out in your Canva designs. With the Canva mobile app, you can add outline effects to your text in just a few simple steps:
 
-- Open your design
+1. Open your design
 
-- Add your text
+2. Add your text
 
-- Select the text box
+3. Select the text box
 
-- Open the Effects menu
+4. Open the Effects menu
 
-- Choose the Outline effect
+5. Choose the Outline effect
 
-- Adjust the outline thickness
+6. Adjust the outline thickness
 
-- Change the outline color (optional)
+7. Change the outline color (optional)
 
 By strategically applying outline text effects and following best practices like keeping it legible and using it sparingly, you can create eye-catching, professional looking designs right from your phone.
 

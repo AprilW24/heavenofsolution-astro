@@ -18,11 +18,11 @@ The simplest and most straightforward method to find background music in a YouTu
 
 **How to check the video description:**
 
-- Scroll down below the video player.
+1. Scroll down below the video player.
 
-- Look for a “SHOW MORE” or “…more” button and click it to expand the full description.
+2. Look for a “SHOW MORE” or “…more” button and click it to expand the full description.
 
-- Scan the description for any mentions of music, songs, or a dedicated “Music” section.
+3. Scan the description for any mentions of music, songs, or a dedicated “Music” section.
 
 Content creators may format this information in various ways, such as:
 
@@ -40,11 +40,11 @@ YouTube has recently introduced a music recognition feature that can identify so
 
 **To use YouTube’s music recognition feature:**
 
-- Play the video and look for a music note icon in the bottom-right corner of the video player.
+1. Play the video and look for a music note icon in the bottom-right corner of the video player.
 
-- Click on the music note icon to see information about the song currently playing.
+2. Click on the music note icon to see information about the song currently playing.
 
-- If available, you’ll see the song title, artist name, and sometimes even a link to listen to the full track on YouTube Music or other platforms.
+3. If available, you’ll see the song title, artist name, and sometimes even a link to listen to the full track on YouTube Music or other platforms.
 
 This feature is particularly useful for videos that use popular or commercially licensed music. However, it may not work for custom-made or lesser-known tracks.
 
@@ -62,15 +62,15 @@ If the video description doesn’t provide the information you’re looking for,
 
 **Using Shazam to identify YouTube video music:**
 
-- Open the Shazam app on your smartphone.
+1. Open the Shazam app on your smartphone.
 
-- Play the YouTube video on your computer or another device.
+2. Play the YouTube video on your computer or another device.
 
-- Tap the Shazam button in the app to start listening.
+3. Tap the Shazam button in the app to start listening.
 
-- Hold your phone close to the audio source.
+4. Hold your phone close to the audio source.
 
-- Wait for Shazam to analyze the audio and provide the song information[2].
+5. Wait for Shazam to analyze the audio and provide the song information[2].
 
 For browser-based solutions, the AHA Music Chrome extension is an excellent option. It can automatically detect and identify music playing in your browser, including YouTube videos.
 
@@ -80,11 +80,11 @@ Sometimes, other viewers may have already asked about the background music, and 
 
 **To check video comments:**
 
-- Scroll down to the comments section below the video.
+1. Scroll down to the comments section below the video.
 
-- Look for comments asking about the background music.
+2. Look for comments asking about the background music.
 
-- Check for replies from the video creator or other viewers providing song information.
+3. Check for replies from the video creator or other viewers providing song information.
 
 While this method isn’t guaranteed to work, it’s often worth a quick scan through the top comments to see if anyone has already identified the music.
 
@@ -94,13 +94,13 @@ Several online services allow you to identify music in YouTube videos by simply 
 
 **One such service is Audiotag.info:**
 
-- Copy the URL of the YouTube video containing the music you want to identify.
+1. Copy the URL of the YouTube video containing the music you want to identify.
 
-- Visit Audiotag.info in your web browser.
+2. Visit Audiotag.info in your web browser.
 
-- Paste the YouTube video URL into the provided field.
+3. Paste the YouTube video URL into the provided field.
 
-- Click “Start Recognition” and wait for the results.
+4. Click “Start Recognition” and wait for the results.
 
 This service uses audio fingerprinting technology to analyze the video’s audio and match it against its database of songs.
 
@@ -124,15 +124,15 @@ If you can remember the melody of the background music, you can try using Google
 
 **To use Google’s “Hum to Search”:**
 
-- Open the Google app on your smartphone.
+1. Open the Google app on your smartphone.
 
-- Tap the microphone icon in the search bar.
+2. Tap the microphone icon in the search bar.
 
-- Say “What’s this song?” or tap the “Search a song” button.
+3. Say “What’s this song?” or tap the “Search a song” button.
 
-- Hum, whistle, or sing the melody for about 10-15 seconds.
+4. Hum, whistle, or sing the melody for about 10-15 seconds.
 
-- Wait for Google to analyze and provide potential matches.
+5. Wait for Google to analyze and provide potential matches.
 
 While this method may not always be accurate, especially for instrumental tracks, it can be a fun and effective way to identify catchy tunes stuck in your head after watching a YouTube video.
 

@@ -18,13 +18,13 @@ While this feature is designed with your privacy in mind, it can sometimes feel 
 
 Before we begin the process of removing location sharing notifications, it’s crucial to take a few preparatory steps. These will ensure that you’re making informed decisions about your device’s settings and that you understand the potential implications of modifying them.
 
-- **Review Your Current Location Sharing Settings**: Take a moment to check which apps and contacts currently have access to your location. This information can typically be found in your device’s Settings app under the “Location” or “Privacy” sections.
+1. **Review Your Current Location Sharing Settings**: Take a moment to check which apps and contacts currently have access to your location. This information can typically be found in your device’s Settings app under the “Location” or “Privacy” sections.
 
-- **Consider Your Privacy Needs**: Think about why you initially set up location sharing and whether those reasons are still valid. This reflection will help you decide if you want to simply remove the notifications or stop location sharing altogether.
+2. **Consider Your Privacy Needs**: Think about why you initially set up location sharing and whether those reasons are still valid. This reflection will help you decide if you want to simply remove the notifications or stop location sharing altogether.
 
-- **Backup Your Device**: While the steps we’ll be discussing shouldn’t affect your device’s data, it’s always a good practice to backup your important information before making any system changes.
+3. **Backup Your Device**: While the steps we’ll be discussing shouldn’t affect your device’s data, it’s always a good practice to backup your important information before making any system changes.
 
-- **Ensure Your Device is Up to Date**: Make sure your Android device is running the latest available version of its operating system. This will ensure you have access to the most recent features and security updates.
+4. **Ensure Your Device is Up to Date**: Make sure your Android device is running the latest available version of its operating system. This will ensure you have access to the most recent features and security updates.
 
 With these preparations complete, you’re ready to tackle those pesky location sharing notifications. Let’s explore the various methods you can use to manage or remove them entirely.
 
@@ -32,15 +32,15 @@ With these preparations complete, you’re ready to tackle those pesky location 
 
 One of the most straightforward ways to deal with location sharing notifications is to disable them for specific apps. This method allows you to maintain location sharing functionality while eliminating the constant reminders. Here’s how to do it:
 
-- Open your device’s **Settings** app.
+1. Open your device’s **Settings** app.
 
-- Scroll down and tap on **Apps & notifications** (the exact wording may vary depending on your Android version).
+2. Scroll down and tap on **Apps & notifications** (the exact wording may vary depending on your Android version).
 
-- Find and select the app that’s sending location sharing notifications.
+3. Find and select the app that’s sending location sharing notifications.
 
-- Tap on **Notifications**.
+4. Tap on **Notifications**.
 
-- Look for an option related to location sharing or persistent notifications and toggle it off.
+5. Look for an option related to location sharing or persistent notifications and toggle it off.
 
 It’s important to note that the exact steps may vary slightly depending on your device manufacturer and Android version. If you can’t find the exact options mentioned, look for similar settings or use your device’s search function within the Settings app.
 
@@ -48,13 +48,13 @@ It’s important to note that the exact steps may vary slightly depending on you
 
 If you want a temporary solution or prefer to silence all notifications during certain times, Android’s Do Not Disturb mode can be a powerful tool. Here’s how to use it effectively:
 
-- Swipe down from the top of your screen to open the Quick Settings panel.
+1. Swipe down from the top of your screen to open the Quick Settings panel.
 
-- Tap on the **Do Not Disturb** icon (usually represented by a circle with a horizontal line through it).
+2. Tap on the **Do Not Disturb** icon (usually represented by a circle with a horizontal line through it).
 
-- To customize Do Not Disturb settings, long-press the icon or navigate to **Settings** > **Sound** > **Do Not Disturb**.
+3. To customize Do Not Disturb settings, long-press the icon or navigate to **Settings** > **Sound** > **Do Not Disturb**.
 
-- Here, you can set schedules, allow exceptions, and fine-tune which notifications can break through the Do Not Disturb barrier.
+4. Here, you can set schedules, allow exceptions, and fine-tune which notifications can break through the Do Not Disturb barrier.
 
 While this method doesn’t specifically target location sharing notifications, it can provide a broader solution for managing all types of alerts on your device.
 
@@ -62,13 +62,13 @@ While this method doesn’t specifically target location sharing notifications, 
 
 For a more comprehensive approach, you might consider adjusting your device’s system-wide location settings. This method can help reduce the frequency of location sharing notifications across all apps. Here’s how:
 
-- Open your device’s **Settings** app.
+1. Open your device’s **Settings** app.
 
-- Scroll down and tap on **Location**.
+2. Scroll down and tap on **Location**.
 
-- Here, you’ll find various options to control how your device uses and shares location data.
+3. Here, you’ll find various options to control how your device uses and shares location data.
 
-- Consider toggling off “Location History” or “Google Location Accuracy” to reduce the frequency of location-related notifications.
+4. Consider toggling off “Location History” or “Google Location Accuracy” to reduce the frequency of location-related notifications.
 
 Remember that modifying these settings may impact the functionality of apps that rely on precise location data. Weigh the pros and cons before making significant changes to your location settings.
 
@@ -90,13 +90,13 @@ When using third-party apps, always be cautious and download only from reputable
 
 If you find that you no longer need certain apps to access your location, the most effective way to stop location sharing notifications is to revoke their location permissions entirely. Here’s how:
 
-- Open your device’s **Settings** app.
+1. Open your device’s **Settings** app.
 
-- Tap on **Privacy** > **Permission manager** > **Location**.
+2. Tap on **Privacy** > **Permission manager** > **Location**.
 
-- You’ll see a list of apps that have access to your location. Tap on any app you want to modify.
+3. You’ll see a list of apps that have access to your location. Tap on any app you want to modify.
 
-- Choose “Don’t allow” or “Allow only while using the app” to restrict the app’s access to your location.
+4. Choose “Don’t allow” or “Allow only while using the app” to restrict the app’s access to your location.
 
 By revoking location permissions, you not only stop the notifications but also enhance your privacy by limiting which apps can track your whereabouts.
 

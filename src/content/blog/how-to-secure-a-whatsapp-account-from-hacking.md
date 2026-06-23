@@ -24,21 +24,21 @@ I always check my *linked devices* to make sure nobody else is logged in, and I 
 
 ## 8 Simple Steps to Secure Your WhatsApp Account
 
-- Turn on *two-step verification* in WhatsApp settings and pick a strong PIN.
+1. Turn on *two-step verification* in WhatsApp settings and pick a strong PIN.
 
-- Add your email for account recovery in case you lose access.
+2. Add your email for account recovery in case you lose access.
 
-- Set up *app lock* or use fingerprint/face ID to open WhatsApp.
+3. Set up *app lock* or use fingerprint/face ID to open WhatsApp.
 
-- Regularly check *linked devices* and log out of anything you don’t recognize.
+4. Regularly check *linked devices* and log out of anything you don’t recognize.
 
-- Never share your verification codes or PIN with anyone.
+5. Never share your verification codes or PIN with anyone.
 
-- Don’t click on links or download files from unknown contacts.
+6. Don’t click on links or download files from unknown contacts.
 
-- Keep your app updated and only download from the official store.
+7. Keep your app updated and only download from the official store.
 
-- Limit app permissions and review what WhatsApp can access on your phone.
+8. Limit app permissions and review what WhatsApp can access on your phone.
 
 ## Keeping Your Chats Private and Avoiding Sneaky Attacks
 

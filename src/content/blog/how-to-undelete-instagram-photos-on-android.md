@@ -12,19 +12,19 @@ Instagram has become an integral part of our lives, serving as a digital album f
 
 Instagram has a built-in feature called **Recently Deleted** that temporarily stores deleted photos and videos for up to 30 days. Here’s how you can access it:
 
-- Open the Instagram app on your Android device and go to your profile.
+1. Open the Instagram app on your Android device and go to your profile.
 
-- Tap the three horizontal lines in the top-right corner to access the menu.
+2. Tap the three horizontal lines in the top-right corner to access the menu.
 
-- Select **Settings** and then tap on **Account**.
+3. Select **Settings** and then tap on **Account**.
 
-- Scroll down and choose **Recently Deleted**.
+4. Scroll down and choose **Recently Deleted**.
 
-- Here, you’ll find all the photos and videos you’ve deleted within the last 30 days.
+5. Here, you’ll find all the photos and videos you’ve deleted within the last 30 days.
 
-- Select the photo you want to restore and tap on the three dots in the top-right corner.
+6. Select the photo you want to restore and tap on the three dots in the top-right corner.
 
-- Choose **Restore** to recover the deleted photo.
+7. Choose **Restore** to recover the deleted photo.
 
 **Note:** If the photo was deleted more than 30 days ago, it won’t appear in the Recently Deleted folder.
 
@@ -32,15 +32,15 @@ Instagram has a built-in feature called **Recently Deleted** that temporarily st
 
 If you have enabled the Google Photos backup feature on your Android device, there’s a good chance that your deleted Instagram photos are safely stored in the cloud. Follow these steps to restore them:
 
-- Open the Google Photos app on your Android device.
+1. Open the Google Photos app on your Android device.
 
-- Tap on the **Library** tab at the bottom.
+2. Tap on the **Library** tab at the bottom.
 
-- Select **Trash** from the menu.
+3. Select **Trash** from the menu.
 
-- Find the deleted Instagram photo you want to recover.
+4. Find the deleted Instagram photo you want to recover.
 
-- Tap on the photo and select **Restore**.
+5. Tap on the photo and select **Restore**.
 
 The photo will be restored to your Google Photos library, and you can then re-upload it to your Instagram account.
 
@@ -48,19 +48,19 @@ The photo will be restored to your Google Photos library, and you can then re-up
 
 If the above methods don’t work, you can try using a third-party data recovery app to retrieve your deleted Instagram photos. There are several reliable apps available on the Google Play Store, such as DiskDigger and EaseUS MobiSaver. Here’s how to use them:
 
-- Download and install a data recovery app on your Android device.
+1. Download and install a data recovery app on your Android device.
 
-- Launch the app and grant it the necessary permissions to access your device’s storage.
+2. Launch the app and grant it the necessary permissions to access your device’s storage.
 
-- Select the type of files you want to recover (in this case, photos).
+3. Select the type of files you want to recover (in this case, photos).
 
-- Choose the location where your Instagram photos were stored (usually the **Pictures** folder).
+4. Choose the location where your Instagram photos were stored (usually the **Pictures** folder).
 
-- Scan your device for deleted files.
+5. Scan your device for deleted files.
 
-- Once the scan is complete, preview the recoverable photos and select the ones you want to restore.
+6. Once the scan is complete, preview the recoverable photos and select the ones you want to restore.
 
-- Tap on the **Recover** button to save the selected photos back to your device.
+7. Tap on the **Recover** button to save the selected photos back to your device.
 
 **Note:** The success of this method depends on whether the deleted photos have been overwritten by new data. It’s best to stop using your device and avoid taking new photos until you’ve recovered the deleted ones.
 

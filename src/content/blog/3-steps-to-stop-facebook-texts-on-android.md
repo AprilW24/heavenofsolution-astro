@@ -36,17 +36,17 @@ Now, let’s get into the nitty-gritty of how to put an end to these unwanted te
 
 This is often the most straightforward method and allows for the most granular control over your notifications.
 
-- **Open the Facebook app** on your Android device.
+1. **Open the Facebook app** on your Android device.
 
-- **Tap the menu icon** (usually three horizontal lines) in the top right corner of the screen.
+2. **Tap the menu icon** (usually three horizontal lines) in the top right corner of the screen.
 
-- **Scroll down and tap “Settings & Privacy”**, then select “Settings”.
+3. **Scroll down and tap “Settings & Privacy”**, then select “Settings”.
 
-- **Under the “Notifications” section**, tap on “Notification Settings”.
+4. **Under the “Notifications” section**, tap on “Notification Settings”.
 
-- **Scroll down to find “Text Message”** and tap on it.
+5. **Scroll down to find “Text Message”** and tap on it.
 
-- **Toggle off “Text Message Notifications”** to stop all Facebook texts.
+6. **Toggle off “Text Message Notifications”** to stop all Facebook texts.
 
 If you prefer to receive some text notifications but not others, you can customize your settings further by tapping on individual notification types and adjusting them as needed.
 
@@ -54,15 +54,15 @@ If you prefer to receive some text notifications but not others, you can customi
 
 If you prefer a more nuclear option or find that the Facebook app settings aren’t working for you, you can use your Android device settings to block notifications.
 
-- **Open your Android device’s “Settings” app**.
+1. **Open your Android device’s “Settings” app**.
 
-- **Tap on “Apps & notifications”** or “Application Manager” (the exact wording may vary depending on your Android version).
+2. **Tap on “Apps & notifications”** or “Application Manager” (the exact wording may vary depending on your Android version).
 
-- **Find and tap on “Facebook”** in the list of apps.
+3. **Find and tap on “Facebook”** in the list of apps.
 
-- **Tap on “Notifications”**.
+4. **Tap on “Notifications”**.
 
-- **Toggle off “Allow notifications”** to stop all notifications from Facebook, including texts.
+5. **Toggle off “Allow notifications”** to stop all notifications from Facebook, including texts.
 
 Keep in mind that this method will stop all notifications from Facebook, not just texts. If you still want to receive other types of notifications, you might prefer to use the Facebook app settings method instead.
 
@@ -70,9 +70,9 @@ Keep in mind that this method will stop all notifications from Facebook, not jus
 
 Facebook also offers a simple way to stop text notifications directly through SMS:
 
-- **When you receive a Facebook text**, reply with “STOP”.
+1. **When you receive a Facebook text**, reply with “STOP”.
 
-- **Facebook should confirm** that you’ve been unsubscribed from text notifications.
+2. **Facebook should confirm** that you’ve been unsubscribed from text notifications.
 
 This method is quick and easy but may not always be permanent. If you log into Facebook from a new device or change certain settings, you might need to repeat this process.
 
@@ -92,13 +92,13 @@ While stopping text notifications is a great start, there are other steps you ca
 
 Sometimes, you might find that Facebook texts continue even after you’ve followed these steps. Here are a few troubleshooting tips:
 
-- **Check for app updates**: Ensure your Facebook app is up to date, as older versions might have bugs that affect notification settings.
+1. **Check for app updates**: Ensure your Facebook app is up to date, as older versions might have bugs that affect notification settings.
 
-- **Clear app cache**: Go to your Android settings, find the Facebook app, and clear its cache. This can sometimes resolve persistent notification issues.
+2. **Clear app cache**: Go to your Android settings, find the Facebook app, and clear its cache. This can sometimes resolve persistent notification issues.
 
-- **Unlink your phone number**: If all else fails, you can unlink your phone number from your Facebook account. Go to Facebook settings, then “Mobile” and remove your phone number.
+3. **Unlink your phone number**: If all else fails, you can unlink your phone number from your Facebook account. Go to Facebook settings, then “Mobile” and remove your phone number.
 
-- **Contact Facebook support**: If you’ve tried everything and still can’t stop the texts, it might be time to reach out to Facebook’s support team for assistance.
+4. **Contact Facebook support**: If you’ve tried everything and still can’t stop the texts, it might be time to reach out to Facebook’s support team for assistance.
 
 ## Conclusion
 

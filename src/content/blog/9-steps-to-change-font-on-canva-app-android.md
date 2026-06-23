@@ -16,23 +16,23 @@ Canva offers a wide range of fonts for both free and Pro users. While free users
 
 Here are the steps to change fonts in the Canva mobile app:
 
-- **Open Your Design**: Start by opening your project in the Canva app.
+1. **Open Your Design**: Start by opening your project in the Canva app.
 
-- **Select the Text Box**: Tap on the text box you want to modify.
+2. **Select the Text Box**: Tap on the text box you want to modify.
 
-- **Access Font Options**: At the bottom of the screen, you’ll see a toolbar. Tap on the “Font” option.
+3. **Access Font Options**: At the bottom of the screen, you’ll see a toolbar. Tap on the “Font” option.
 
-- **Choose a Font**: Browse through the available fonts or search for a specific one using keywords.
+4. **Choose a Font**: Browse through the available fonts or search for a specific one using keywords.
 
-- **Apply the Font**: Once you’ve selected a font, it will automatically apply to your text.
+5. **Apply the Font**: Once you’ve selected a font, it will automatically apply to your text.
 
-- **Adjust Font Size**: Use the size slider to adjust the font size to your liking.
+6. **Adjust Font Size**: Use the size slider to adjust the font size to your liking.
 
-- **Change Font Color**: Tap on the color palette icon to change the font color.
+7. **Change Font Color**: Tap on the color palette icon to change the font color.
 
-- **Upload Custom Fonts (Pro Users)**: If you have Canva Pro, you can upload custom fonts via the Brand Kit. Go to the menu, select “Brand,” then navigate to “Fonts” and tap the “+” icon to upload a new font.
+8. **Upload Custom Fonts (Pro Users)**: If you have Canva Pro, you can upload custom fonts via the Brand Kit. Go to the menu, select “Brand,” then navigate to “Fonts” and tap the “+” icon to upload a new font.
 
-- **Save Your Design**: Once you’re satisfied with your changes, save your design.
+9. **Save Your Design**: Once you’re satisfied with your changes, save your design.
 
 ## Tips for Effective Font Use
 

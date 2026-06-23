@@ -18,11 +18,11 @@ While in safe mode, you can uninstall problematic apps and use your phone’s co
 
 The simplest way to turn off safe mode is to restart your device:
 
-- Press and hold the **Power** button.
+1. Press and hold the **Power** button.
 
-- Tap **Restart** or **Reboot** in the menu that appears. On some devices you may need to tap **Power off** or **Shut Down**.
+2. Tap **Restart** or **Reboot** in the menu that appears. On some devices you may need to tap **Power off** or **Shut Down**.
 
-- Wait for your device to fully power off and back on. It should restart in normal mode.
+3. Wait for your device to fully power off and back on. It should restart in normal mode.
 
 If your device restarts in safe mode again, there may be a problem with one of your apps, or rarely, a stuck button. Let’s explore some other options.
 
@@ -30,13 +30,13 @@ If your device restarts in safe mode again, there may be a problem with one of y
 
 Some devices allow you to exit safe mode from the notification panel:
 
-- Swipe down from the top of your screen to open the notification panel.
+1. Swipe down from the top of your screen to open the notification panel.
 
-- Look for a notification that says something like **Safe mode is on**.
+2. Look for a notification that says something like **Safe mode is on**.
 
-- Tap this notification, then tap **Turn Off** or **Disable**.
+3. Tap this notification, then tap **Turn Off** or **Disable**.
 
-- Your device should restart in normal mode.
+4. Your device should restart in normal mode.
 
 If you don’t see this notification, try one of the other methods listed here.
 
@@ -44,23 +44,23 @@ If you don’t see this notification, try one of the other methods listed here.
 
 This method works for some devices, particularly older models:
 
-- Turn your device completely off.
+1. Turn your device completely off.
 
-- Press and hold the **Power** button until the manufacturer logo appears.
+2. Press and hold the **Power** button until the manufacturer logo appears.
 
-- As soon as the logo appears, press and hold the **Volume Down** button. Keep holding it until the device finishes restarting.
+3. As soon as the logo appears, press and hold the **Volume Down** button. Keep holding it until the device finishes restarting.
 
-- You should see **Safe mode** disappear from the bottom left corner, indicating you’re no longer in safe mode.
+4. You should see **Safe mode** disappear from the bottom left corner, indicating you’re no longer in safe mode.
 
 ## Troubleshooting Problematic Apps
 
 If your phone keeps restarting in safe mode, an app may be causing the problem. To figure out which one:
 
-- Uninstall any recently downloaded apps one by one. After each uninstall, restart your phone and see if the problem goes away.
+1. Uninstall any recently downloaded apps one by one. After each uninstall, restart your phone and see if the problem goes away.
 
-- If uninstalling doesn’t help, the app may have corrupted data or cache. Go to **Settings > Apps** and select the problematic app.
+2. If uninstalling doesn’t help, the app may have corrupted data or cache. Go to **Settings > Apps** and select the problematic app.
 
-- Tap **Storage**, then **Clear data** and **Clear cache**. Restart your device and see if it boots up normally.
+3. Tap **Storage**, then **Clear data** and **Clear cache**. Restart your device and see if it boots up normally.
 
 In rare cases, a malfunctioning button could cause your device to think it’s being told to enter safe mode. Check each button to make sure it’s not stuck. If a button is broken, you may need to get your device repaired.
 

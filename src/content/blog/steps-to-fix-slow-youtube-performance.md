@@ -16,11 +16,11 @@ One of the simplest yet most effective solutions is to ensure you’re using the
 
 **To update Chrome:**
 
-- Click the three dots in the top-right corner
+1. Click the three dots in the top-right corner
 
-- Go to Help > About Google Chrome
+2. Go to Help > About Google Chrome
 
-- Chrome will automatically check for updates and install them if available
+3. Chrome will automatically check for updates and install them if available
 
 Keeping your browser up-to-date ensures you have the latest performance improvements and bug fixes.
 
@@ -30,13 +30,13 @@ Accumulated cache and cookies can sometimes interfere with YouTube’s performan
 
 **To clear cache and cookies:**
 
-- Click the three dots > More tools > Clear browsing data
+1. Click the three dots > More tools > Clear browsing data
 
-- Select **Cookies and other site data** and **Cached images and files**
+2. Select **Cookies and other site data** and **Cached images and files**
 
-- Choose **All time** for the time range
+3. Choose **All time** for the time range
 
-- Click **Clear data**
+4. Click **Clear data**
 
 This process can help resolve loading issues and improve overall browser performance.
 
@@ -46,13 +46,13 @@ Browser extensions can sometimes conflict with YouTube or consume excessive reso
 
 **To disable extensions:**
 
-- Type chrome://extensions/ in the address bar
+1. Type chrome://extensions/ in the address bar
 
-- Toggle off all extensions
+2. Toggle off all extensions
 
-- Test YouTube performance
+3. Test YouTube performance
 
-- Re-enable extensions one by one to identify any problematic ones
+4. Re-enable extensions one by one to identify any problematic ones
 
 If YouTube works better with extensions disabled, consider removing or updating the conflicting extensions.
 
@@ -62,13 +62,13 @@ Hardware acceleration can improve video playback performance by utilizing your c
 
 **To enable hardware acceleration:**
 
-- Click the three dots > Settings
+1. Click the three dots > Settings
 
-- Scroll down and click on **Advanced**
+2. Scroll down and click on **Advanced**
 
-- Under **System**, toggle on **Use hardware acceleration when available**
+3. Under **System**, toggle on **Use hardware acceleration when available**
 
-- Restart Chrome
+4. Restart Chrome
 
 This setting can significantly improve video playback smoothness.
 
@@ -78,11 +78,11 @@ If your internet connection is slow, lowering the video quality can help reduce 
 
 **To change video quality:**
 
-- Click the gear icon on the YouTube video player
+1. Click the gear icon on the YouTube video player
 
-- Select **Quality**
+2. Select **Quality**
 
-- Choose a lower resolution
+3. Choose a lower resolution
 
 You can also let YouTube automatically adjust the quality based on your connection by selecting **Auto**.
 
@@ -92,11 +92,11 @@ Sometimes, the issue may be with your internet connection rather than Chrome or 
 
 **To check your connection:**
 
-- Run a speed test (e.g., at speedtest.net)
+1. Run a speed test (e.g., at speedtest.net)
 
-- If speeds are lower than expected, try resetting your router
+2. If speeds are lower than expected, try resetting your router
 
-- Consider contacting your ISP if problems persist
+3. Consider contacting your ISP if problems persist
 
 A stable and fast internet connection is crucial for smooth YouTube playback.
 
@@ -106,11 +106,11 @@ YouTube has a built-in troubleshooting tool that can help identify and resolve p
 
 **To use the troubleshooting tool:**
 
-- Go to https://www.youtube.com/testtube
+1. Go to https://www.youtube.com/testtube
 
-- Click on **Stats for nerds**
+2. Click on **Stats for nerds**
 
-- Play a video and analyze the displayed information
+3. Play a video and analyze the displayed information
 
 This tool can provide insights into connection issues, video format problems, and more.
 
@@ -120,11 +120,11 @@ In some cases, hardware acceleration can actually cause problems.
 
 **To disable hardware acceleration:**
 
-- Follow the same steps as enabling it
+1. Follow the same steps as enabling it
 
-- Toggle off **Use hardware acceleration when available**
+2. Toggle off **Use hardware acceleration when available**
 
-- Restart Chrome
+3. Restart Chrome
 
 Try this if enabling hardware acceleration didn’t improve performance or caused new issues.
 
@@ -134,13 +134,13 @@ If none of the above steps work, resetting Chrome to its default settings might 
 
 **To reset Chrome:**
 
-- Click the three dots > Settings
+1. Click the three dots > Settings
 
-- Click **Advanced** on the left
+2. Click **Advanced** on the left
 
-- Scroll down and click **Reset settings**
+3. Scroll down and click **Reset settings**
 
-- Confirm by clicking **Reset settings** again
+4. Confirm by clicking **Reset settings** again
 
 Note that this will disable all extensions and clear temporary data.
 
@@ -150,9 +150,9 @@ Incognito mode disables extensions and uses a fresh cache, which can help identi
 
 **To use Incognito mode:**
 
-- Click the three dots > New Incognito window
+1. Click the three dots > New Incognito window
 
-- Try watching YouTube in this mode
+2. Try watching YouTube in this mode
 
 If YouTube works well in Incognito, the issue likely lies with an extension or your browser data.
 

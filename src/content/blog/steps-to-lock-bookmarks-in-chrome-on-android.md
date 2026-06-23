@@ -28,21 +28,21 @@ While Chrome doesn’t offer direct bookmark locking, you can add an extra layer
 
 **Steps to set up a sync passphrase:**
 
-- Open Chrome on your Android device.
+1. Open Chrome on your Android device.
 
-- Tap the three-dot menu icon in the top-right corner.
+2. Tap the three-dot menu icon in the top-right corner.
 
-- Select **Settings** from the dropdown menu.
+3. Select **Settings** from the dropdown menu.
 
-- Tap on your Google account at the top of the settings page.
+4. Tap on your Google account at the top of the settings page.
 
-- Select **Sync** from the options.
+5. Select **Sync** from the options.
 
-- Scroll down and tap on **Encryption options**.
+6. Scroll down and tap on **Encryption options**.
 
-- Choose **Encrypt synced data with your own sync passphrase**.
+7. Choose **Encrypt synced data with your own sync passphrase**.
 
-- Create and confirm your passphrase.
+8. Create and confirm your passphrase.
 
 **Note**: Once you set a passphrase, you’ll need to enter it on all devices where you use Chrome and want to access your synced data.
 
@@ -60,13 +60,13 @@ Several Chrome extensions offer bookmark management with password protection fea
 
 To use these on Android:
 
-- Install the extension on your desktop Chrome browser.
+1. Install the extension on your desktop Chrome browser.
 
-- Set up password protection for your bookmarks as per the extension’s instructions.
+2. Set up password protection for your bookmarks as per the extension’s instructions.
 
-- Ensure Chrome sync is enabled on both your desktop and Android device.
+3. Ensure Chrome sync is enabled on both your desktop and Android device.
 
-- The protected bookmarks should now be accessible (and remain protected) on your Android device.
+4. The protected bookmarks should now be accessible (and remain protected) on your Android device.
 
 **Caution**: Third-party extensions may have access to your browsing data. Always review the privacy policy and permissions before installing.
 
@@ -76,15 +76,15 @@ Chrome for Android allows you to create multiple user profiles, which can be a w
 
 **Steps to create a new profile:**
 
-- Open Chrome on your Android device.
+1. Open Chrome on your Android device.
 
-- Tap the profile icon next to the address bar.
+2. Tap the profile icon next to the address bar.
 
-- Select **Add** to create a new profile.
+3. Select **Add** to create a new profile.
 
-- Set up the new profile with a separate Google account.
+4. Set up the new profile with a separate Google account.
 
-- Use this profile for your private bookmarks.
+5. Use this profile for your private bookmarks.
 
 While this method doesn’t provide password protection, it does separate your bookmarks into different profiles, adding a layer of privacy.
 
@@ -94,13 +94,13 @@ If you’re looking for a simple solution, consider using a secure notes app to 
 
 **Steps:**
 
-- Choose a reputable notes app with password protection (e.g., Google Keep, Evernote, or OneNote).
+1. Choose a reputable notes app with password protection (e.g., Google Keep, Evernote, or OneNote).
 
-- Create a new note for your private bookmarks.
+2. Create a new note for your private bookmarks.
 
-- Copy and paste the URLs of your important bookmarks into this note.
+3. Copy and paste the URLs of your important bookmarks into this note.
 
-- Enable password protection for the note or the entire app.
+4. Enable password protection for the note or the entire app.
 
 This method allows you to keep a separate, secure list of your most sensitive bookmarks without relying on Chrome’s bookmark system.
 
@@ -110,11 +110,11 @@ If you’re using a Samsung device, you can take advantage of the Secure Folder 
 
 **Steps:**
 
-- Set up Secure Folder on your Samsung device if you haven’t already.
+1. Set up Secure Folder on your Samsung device if you haven’t already.
 
-- Install a separate instance of Chrome within the Secure Folder.
+2. Install a separate instance of Chrome within the Secure Folder.
 
-- Use this protected version of Chrome for your private bookmarks.
+3. Use this protected version of Chrome for your private bookmarks.
 
 This method provides a high level of security, as the Secure Folder is protected by your device’s security measures (PIN, pattern, fingerprint, or iris scan).
 

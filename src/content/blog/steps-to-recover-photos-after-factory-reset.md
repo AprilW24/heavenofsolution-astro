@@ -34,15 +34,15 @@ If your photos are not visible in the device’s internal storage, you may need 
 
 **Steps to Use Data Recovery Software:**
 
-- Download and install the data recovery software of your choice on your computer.
+1. Download and install the data recovery software of your choice on your computer.
 
-- Connect your Android device to the computer using a USB cable.
+2. Connect your Android device to the computer using a USB cable.
 
-- Follow the software’s instructions to scan your device for lost or deleted photos.
+3. Follow the software’s instructions to scan your device for lost or deleted photos.
 
-- Preview the recovered photos and select the ones you want to restore.
+4. Preview the recovered photos and select the ones you want to restore.
 
-- Save the recovered photos to a location on your computer or an external storage device.
+5. Save the recovered photos to a location on your computer or an external storage device.
 
 It’s important to note that the success of data recovery software can vary depending on the extent of data overwriting that has occurred on your device.
 
@@ -52,13 +52,13 @@ If you had previously synced your photos with Google Photos, you may be able to 
 
 **Steps to Retrieve Photos from Google Photos:**
 
-- Open the Google Photos app or visit photos.google.com on your computer.
+1. Open the Google Photos app or visit photos.google.com on your computer.
 
-- Sign in with the same Google account that was synced with your Android device.
+2. Sign in with the same Google account that was synced with your Android device.
 
-- Navigate to the **Library** or **Photos** section to view your synced photos.
+3. Navigate to the **Library** or **Photos** section to view your synced photos.
 
-- Select the photos you want to recover and download them to your computer or another device.
+4. Select the photos you want to recover and download them to your computer or another device.
 
 ### 4. Check Cloud Storage Services
 
@@ -66,11 +66,11 @@ If you had previously uploaded your photos to cloud storage services like Google
 
 **Steps to Retrieve Photos from Cloud Storage Services:**
 
-- Sign in to your cloud storage account on a computer or another device.
+1. Sign in to your cloud storage account on a computer or another device.
 
-- Navigate to the folder or location where you had stored your photos.
+2. Navigate to the folder or location where you had stored your photos.
 
-- Select the photos you want to recover and download them to your computer or another device.
+3. Select the photos you want to recover and download them to your computer or another device.
 
 ### 5. Seek Professional Data Recovery Services
 

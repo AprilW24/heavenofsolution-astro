@@ -38,15 +38,15 @@ Once you’ve located the APK files you want to remove, you can move on to the n
 
 Now that you’ve found the APK files, it’s time to delete them. The exact process may vary slightly depending on your Android version and file manager app, but the general steps are:
 
-- **Open the file manager app** on your Android device.
+1. **Open the file manager app** on your Android device.
 
-- **Navigate to the folder** containing the APK files you want to delete.
+2. **Navigate to the folder** containing the APK files you want to delete.
 
-- **Tap and hold on an APK file** until it is selected. You can also tap the **Select** button and then tap each APK file you want to remove.
+3. **Tap and hold on an APK file** until it is selected. You can also tap the **Select** button and then tap each APK file you want to remove.
 
-- **Tap the “Delete” button**, which often looks like a trash can icon.
+4. **Tap the “Delete” button**, which often looks like a trash can icon.
 
-- **Confirm the deletion** when prompted.
+5. **Confirm the deletion** when prompted.
 
 The selected APK files will now be deleted from your phone. Repeat this process for any other folders containing unwanted APKs.
 

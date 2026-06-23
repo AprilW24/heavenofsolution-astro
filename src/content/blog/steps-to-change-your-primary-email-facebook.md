@@ -14,13 +14,13 @@ Before we dive into the steps, it’s important to note that having an accurate 
 
 The first step in changing your primary email on Facebook mobile is to access your account settings. Here’s how you can do it:
 
-- Open the Facebook app on your mobile device and log in if you haven’t already.
+1. Open the Facebook app on your mobile device and log in if you haven’t already.
 
-- Tap on the three horizontal lines (hamburger menu) located at the bottom right corner of the screen for iOS devices or the top right corner for Android devices.
+2. Tap on the three horizontal lines (hamburger menu) located at the bottom right corner of the screen for iOS devices or the top right corner for Android devices.
 
-- Scroll down the menu and tap on **“Settings & Privacy”**.
+3. Scroll down the menu and tap on **“Settings & Privacy”**.
 
-- From the expanded menu, select **“Settings”**.
+4. From the expanded menu, select **“Settings”**.
 
 Now that you’re in the Settings section, you’re ready to proceed with updating your email address.
 
@@ -28,15 +28,15 @@ Now that you’re in the Settings section, you’re ready to proceed with updati
 
 Before you can change your primary email, you’ll need to add a new email address to your Facebook account. Follow these steps:
 
-- In the Settings menu, scroll down and tap on **“Personal and Account Information”**.
+1. In the Settings menu, scroll down and tap on **“Personal and Account Information”**.
 
-- Select **“Contact Info”** from the list of options.
+2. Select **“Contact Info”** from the list of options.
 
-- On the Contact Info page, you’ll see your current email addresses and phone numbers associated with your account. Tap on **“Add Email Address”**.
+3. On the Contact Info page, you’ll see your current email addresses and phone numbers associated with your account. Tap on **“Add Email Address”**.
 
-- Enter your new email address in the provided field.
+4. Enter your new email address in the provided field.
 
-- Facebook will ask you to enter your password to confirm the change. Type in your current Facebook password and tap **“Add Email”**.
+5. Facebook will ask you to enter your password to confirm the change. Type in your current Facebook password and tap **“Add Email”**.
 
 At this point, Facebook will send a confirmation email to the new address you’ve just added. It’s crucial to verify this new email before you can set it as your primary contact.
 
@@ -44,13 +44,13 @@ At this point, Facebook will send a confirmation email to the new address you’
 
 Verification is an important security step that ensures you have access to the email address you’re adding to your Facebook account. Here’s what you need to do:
 
-- Open your email app or web browser and access the inbox of the new email address you’ve added to Facebook.
+1. Open your email app or web browser and access the inbox of the new email address you’ve added to Facebook.
 
-- Look for an email from Facebook with the subject line “Confirm your new email address” or something similar.
+2. Look for an email from Facebook with the subject line “Confirm your new email address” or something similar.
 
-- Open the email and click on the **“Confirm Email”** button or link provided.
+3. Open the email and click on the **“Confirm Email”** button or link provided.
 
-- You may be redirected to Facebook or asked to enter a confirmation code. Follow the instructions to complete the verification process.
+4. You may be redirected to Facebook or asked to enter a confirmation code. Follow the instructions to complete the verification process.
 
 Once you’ve verified your new email address, you can return to the Facebook app to set it as your primary email.
 
@@ -58,15 +58,15 @@ Once you’ve verified your new email address, you can return to the Facebook ap
 
 Now that your new email is verified, you can make it your primary contact on Facebook. Here’s how:
 
-- Go back to the Facebook app and navigate to **Settings > Personal and Account Information > Contact Info** as you did earlier.
+1. Go back to the Facebook app and navigate to **Settings > Personal and Account Information > Contact Info** as you did earlier.
 
-- You should now see your newly added and verified email address listed along with any other contact information.
+2. You should now see your newly added and verified email address listed along with any other contact information.
 
-- Tap on the new email address you want to set as primary.
+3. Tap on the new email address you want to set as primary.
 
-- Select **“Make Primary”** from the options that appear.
+4. Select **“Make Primary”** from the options that appear.
 
-- Confirm your choice if prompted.
+5. Confirm your choice if prompted.
 
 Congratulations! You’ve successfully changed your primary email address on Facebook using your mobile device. From now on, Facebook will use this email as the main contact for your account.
 

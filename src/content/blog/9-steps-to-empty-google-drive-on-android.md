@@ -24,11 +24,11 @@ The first step in emptying your Google Drive on Android is to open the Google Dr
 
 Before you start deleting files, it’s crucial to understand how much storage you’re currently using and which types of files are taking up the most space. To do this:
 
-- Tap on the menu icon (three horizontal lines) in the top-left corner of the app.
+1. Tap on the menu icon (three horizontal lines) in the top-left corner of the app.
 
-- Scroll down and tap on “Storage” or “Settings,” depending on your app version.
+2. Scroll down and tap on “Storage” or “Settings,” depending on your app version.
 
-- Here, you’ll see a breakdown of your storage usage across Google Drive, Gmail, and Google Photos.
+3. Here, you’ll see a breakdown of your storage usage across Google Drive, Gmail, and Google Photos.
 
 This overview will help you identify which areas need the most attention and guide your cleanup efforts.
 
@@ -36,13 +36,13 @@ This overview will help you identify which areas need the most attention and gui
 
 Now that you have an idea of your storage situation, it’s time to start removing unnecessary files:
 
-- Return to the main Google Drive interface.
+1. Return to the main Google Drive interface.
 
-- Browse through your files and folders.
+2. Browse through your files and folders.
 
-- To delete a single item, tap and hold on the file or folder, then tap the trash can icon that appears at the top of the screen.
+3. To delete a single item, tap and hold on the file or folder, then tap the trash can icon that appears at the top of the screen.
 
-- For multiple items, tap and hold one item, then tap additional items to select them before tapping the trash can icon.
+4. For multiple items, tap and hold one item, then tap additional items to select them before tapping the trash can icon.
 
 **Remember:** Deleting files from Google Drive doesn’t immediately free up space. The files are moved to the Trash folder, where they’ll remain for 30 days before being automatically deleted. During this time, they still count towards your storage quota.
 
@@ -50,15 +50,15 @@ Now that you have an idea of your storage situation, it’s time to start removi
 
 To permanently delete files and reclaim storage space:
 
-- Tap on the menu icon in the top-left corner.
+1. Tap on the menu icon in the top-left corner.
 
-- Select “Trash” from the menu.
+2. Select “Trash” from the menu.
 
-- In the Trash folder, tap the three-dot menu icon in the top-right corner.
+3. In the Trash folder, tap the three-dot menu icon in the top-right corner.
 
-- Select “Empty trash” from the dropdown menu.
+4. Select “Empty trash” from the dropdown menu.
 
-- Confirm your action when prompted.
+5. Confirm your action when prompted.
 
 **Caution:** Once you empty the trash, these files cannot be recovered, so ensure you’ve carefully reviewed the contents before proceeding.
 
@@ -66,41 +66,41 @@ To permanently delete files and reclaim storage space:
 
 Google Docs, Sheets, and Slides files don’t count towards your storage quota. Consider converting compatible files to these formats to save space:
 
-- Locate a file you want to convert (e.g., a Microsoft Word document).
+1. Locate a file you want to convert (e.g., a Microsoft Word document).
 
-- Tap the three-dot menu next to the file.
+2. Tap the three-dot menu next to the file.
 
-- Select “Open with” and choose the appropriate Google app (Docs, Sheets, or Slides).
+3. Select “Open with” and choose the appropriate Google app (Docs, Sheets, or Slides).
 
-- The file will open in the selected app. It will automatically save as a Google format file.
+4. The file will open in the selected app. It will automatically save as a Google format file.
 
-- You can then delete the original file to save space.
+5. You can then delete the original file to save space.
 
 ### 6. Manage Google Photos
 
 Since Google Photos shares storage with Google Drive, managing your photos can significantly impact your available space:
 
-- Open the Google Photos app on your Android device.
+1. Open the Google Photos app on your Android device.
 
-- Tap your profile picture in the top-right corner and select “Photos settings.”
+2. Tap your profile picture in the top-right corner and select “Photos settings.”
 
-- Tap on “Back up & sync” and ensure it’s turned on.
+3. Tap on “Back up & sync” and ensure it’s turned on.
 
-- Choose “Storage saver” or “Original quality” based on your preferences. “Storage saver” compresses photos and videos to save space.
+4. Choose “Storage saver” or “Original quality” based on your preferences. “Storage saver” compresses photos and videos to save space.
 
-- In the main Photos interface, review and delete any unnecessary photos or videos.
+5. In the main Photos interface, review and delete any unnecessary photos or videos.
 
 ### 7. Clear Cache and Data
 
 Clearing the Google Drive app’s cache and data can help free up some space on your device, though it won’t directly affect your cloud storage:
 
-- Go to your Android device’s Settings.
+1. Go to your Android device’s Settings.
 
-- Tap on “Apps” or “Application Manager.”
+2. Tap on “Apps” or “Application Manager.”
 
-- Find and tap on “Google Drive” in the list of apps.
+3. Find and tap on “Google Drive” in the list of apps.
 
-- Tap on “Storage” and then “Clear Cache” and “Clear Data.”
+4. Tap on “Storage” and then “Clear Cache” and “Clear Data.”
 
 **Note:** Clearing data will sign you out of the app, so you’ll need to sign in again afterward.
 
@@ -108,23 +108,23 @@ Clearing the Google Drive app’s cache and data can help free up some space on 
 
 Google provides a handy Storage Manager tool to help you identify and remove large or unnecessary files:
 
-- In the Google Drive app, tap the menu icon and select “Storage.”
+1. In the Google Drive app, tap the menu icon and select “Storage.”
 
-- Tap on “Manage Storage” or visit storage.google.com in your mobile browser.
+2. Tap on “Manage Storage” or visit storage.google.com in your mobile browser.
 
-- Here, you’ll find suggestions for large files to delete, emails with large attachments, and other items taking up significant space.
+3. Here, you’ll find suggestions for large files to delete, emails with large attachments, and other items taking up significant space.
 
-- Review the suggestions and delete items as needed.
+4. Review the suggestions and delete items as needed.
 
 ### 9. Consider Upgrading Your Storage Plan
 
 If you’ve followed all these steps and still need more space, you might want to consider upgrading to a paid Google One plan:
 
-- In the Google Drive app, tap the menu icon and select “Storage.”
+1. In the Google Drive app, tap the menu icon and select “Storage.”
 
-- Tap on “Upgrade storage” or visit one.google.com.
+2. Tap on “Upgrade storage” or visit one.google.com.
 
-- Review the available plans and choose one that fits your needs.
+3. Review the available plans and choose one that fits your needs.
 
 Paid plans start at 100GB and go up to 30TB, providing ample space for most users’ needs.
 

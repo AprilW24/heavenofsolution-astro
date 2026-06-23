@@ -14,11 +14,11 @@ Instead, they will go to your primary inbox where you can then filter and organi
 
 The first step is to access the settings menu in the Gmail app:
 
-- Open the Gmail app on your Android device
+1. Open the Gmail app on your Android device
 
-- Tap the **hamburger menu** icon in the top left corner (it looks like three horizontal lines)
+2. Tap the **hamburger menu** icon in the top left corner (it looks like three horizontal lines)
 
-- Scroll down and tap **Settings**
+3. Scroll down and tap **Settings**
 
 This will open up the settings page where you can customize different aspects of Gmail.
 
@@ -26,9 +26,9 @@ This will open up the settings page where you can customize different aspects of
 
 Next, go to the inbox categories section:
 
-- Tap on your email under the **Accounts** header
+1. Tap on your email under the **Accounts** header
 
-- Scroll down and tap **Inbox categories**
+2. Scroll down and tap **Inbox categories**
 
 This section handles how Gmail divides up your emails into different tabs or categories.
 
@@ -36,11 +36,11 @@ This section handles how Gmail divides up your emails into different tabs or cat
 
 Now you can turn off the Promotions category:
 
-- Find **Promotions** in the list of categories
+1. Find **Promotions** in the list of categories
 
-- Toggle the switch off to the left of Promotions so it is gray and displays **Off**
+2. Toggle the switch off to the left of Promotions so it is gray and displays **Off**
 
-- Tap **Done** in the top right corner
+3. Tap **Done** in the top right corner
 
 With this setting disabled, emails that would normally go to the Promotions tab will now go to your primary inbox instead.
 
@@ -48,19 +48,19 @@ With this setting disabled, emails that would normally go to the Promotions tab 
 
 Since promotional emails will now appear in your main inbox, you may want to set up filters to automatically label, archive, or delete them:
 
-- Open the Gmail app and tap the hamburger menu
+1. Open the Gmail app and tap the hamburger menu
 
-- Choose **Settings**
+2. Choose **Settings**
 
-- Tap on your email > **Manage labels**
+3. Tap on your email > **Manage labels**
 
-- Tap **Create new label** (name it something like **Promotions**)
+4. Tap **Create new label** (name it something like **Promotions**)
 
-- Go back and tap on your email > **Manage filters**
+5. Go back and tap on your email > **Manage filters**
 
-- Tap **Create a new filter**
+6. Tap **Create a new filter**
 
-- Set up a filter to identify and label promotional emails
+7. Set up a filter to identify and label promotional emails
 
 Now marketing emails will be marked with your custom Promotions label so you can find or organize them more easily. You can also set filters to auto-archive or delete promotions.
 

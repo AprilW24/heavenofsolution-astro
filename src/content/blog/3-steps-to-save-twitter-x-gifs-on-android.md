@@ -18,21 +18,21 @@ One of the most popular and user-friendly methods to save Twitter/X GIFs on Andr
 
 **Here’s how to use Tweet2gif:**
 
-- **Download and install** the Tweet2gif app from the Google Play Store.
+1. **Download and install** the Tweet2gif app from the Google Play Store.
 
-- Open the Twitter/X app and find the GIF you want to save.
+2. Open the Twitter/X app and find the GIF you want to save.
 
-- Tap the **share icon** beneath the post containing the GIF.
+3. Tap the **share icon** beneath the post containing the GIF.
 
-- Select **“Copy Link”** to copy the post’s URL to your clipboard.
+4. Select **“Copy Link”** to copy the post’s URL to your clipboard.
 
-- Open the Tweet2gif app and paste the copied link into the URL box.
+5. Open the Tweet2gif app and paste the copied link into the URL box.
 
-- Tap the **“Download GIF”** button.
+6. Tap the **“Download GIF”** button.
 
-- Wait for the app to process and download the GIF.
+7. Wait for the app to process and download the GIF.
 
-- Once downloaded, the GIF will be saved to your device’s photo gallery.
+8. Once downloaded, the GIF will be saved to your device’s photo gallery.
 
 Tweet2gif is straightforward and efficient, making it an excellent choice for most users. However, like many free apps, it does contain ads, which some users might find intrusive.
 
@@ -42,21 +42,21 @@ For those who prefer an open-source solution without ads, TwittaSave is an excel
 
 **Follow these steps to use TwittaSave:**
 
-- Visit Emmanuel Kehinde’s GitHub page and download the **TwittaSave APK** file.
+1. Visit Emmanuel Kehinde’s GitHub page and download the **TwittaSave APK** file.
 
-- Enable installation from unknown sources in your Android settings if you haven’t already.
+2. Enable installation from unknown sources in your Android settings if you haven’t already.
 
-- Install the TwittaSave APK on your device.
+3. Install the TwittaSave APK on your device.
 
-- Open Twitter/X and find the GIF you want to save.
+4. Open Twitter/X and find the GIF you want to save.
 
-- Tap the share icon and copy the link to the post.
+5. Tap the share icon and copy the link to the post.
 
-- Open TwittaSave and paste the copied link into the app.
+6. Open TwittaSave and paste the copied link into the app.
 
-- Tap **“Download Video/Gif”**.
+7. Tap **“Download Video/Gif”**.
 
-- The GIF will be saved to your device in seconds.
+8. The GIF will be saved to your device in seconds.
 
 TwittaSave is a great option for more tech-savvy users who are comfortable installing apps from outside the Play Store. Its open-source nature and lack of ads make it a favorite among many Android users.
 
@@ -66,19 +66,19 @@ If you prefer not to install additional apps on your device, you can use online 
 
 **Here’s how to use an online GIF downloader:**
 
-- Open Twitter/X in your Android browser and find the GIF you want to save.
+1. Open Twitter/X in your Android browser and find the GIF you want to save.
 
-- Tap the share icon and copy the link to the post.
+2. Tap the share icon and copy the link to the post.
 
-- Open a new tab and go to a GIF downloader website like RedKetchup.io or the Small SEO Tools Twitter GIF Downloader.
+3. Open a new tab and go to a GIF downloader website like RedKetchup.io or the Small SEO Tools Twitter GIF Downloader.
 
-- Paste the copied URL into the provided field on the website.
+4. Paste the copied URL into the provided field on the website.
 
-- Click the download button (usually marked with the Twitter/X logo).
+5. Click the download button (usually marked with the Twitter/X logo).
 
-- Select the GIF format from the download options.
+6. Select the GIF format from the download options.
 
-- Tap “Download” to save the GIF to your device.
+7. Tap “Download” to save the GIF to your device.
 
 This method is convenient as it doesn’t require any app installations. However, it may be slightly more time-consuming and less integrated with your Twitter/X browsing experience compared to dedicated apps.
 

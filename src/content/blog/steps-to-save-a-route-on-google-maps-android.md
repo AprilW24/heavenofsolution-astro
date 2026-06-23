@@ -16,17 +16,17 @@ Before we dive into the specifics, it’s important to understand what “saving
 
 The most straightforward way to save a route in Google Maps for Android is by using the “pin” feature. Here’s how to do it:
 
-- Open the Google Maps app on your Android device.
+1. Open the Google Maps app on your Android device.
 
-- Tap the “Directions” icon (usually a blue arrow or car icon).
+2. Tap the “Directions” icon (usually a blue arrow or car icon).
 
-- Enter your starting point and destination. By default, your current location will be used as the starting point, but you can change this if needed.
+3. Enter your starting point and destination. By default, your current location will be used as the starting point, but you can change this if needed.
 
-- Choose your preferred mode of transportation (driving, public transit, walking, or cycling).
+4. Choose your preferred mode of transportation (driving, public transit, walking, or cycling).
 
-- Once the route is displayed, look for the “Pin” option at the bottom of the screen.
+5. Once the route is displayed, look for the “Pin” option at the bottom of the screen.
 
-- Tap “Pin” to save the route.
+6. Tap “Pin” to save the route.
 
 **Important note**: You can only pin driving and public transit routes. Walking and cycling routes cannot be pinned at this time.
 
@@ -36,15 +36,15 @@ Once you’ve pinned a route, you can easily access it by tapping the “Go” t
 
 For even quicker access to your favorite routes, Android users have the unique option of adding a route shortcut directly to their home screen. Here’s how:
 
-- Open Google Maps and search for your destination.
+1. Open Google Maps and search for your destination.
 
-- Tap “Directions” and set up your route as desired.
+2. Tap “Directions” and set up your route as desired.
 
-- On the directions screen, tap the three-dot menu in the top-right corner.
+3. On the directions screen, tap the three-dot menu in the top-right corner.
 
-- Select “Add route to Home screen” from the menu.
+4. Select “Add route to Home screen” from the menu.
 
-- You’ll be prompted to add the shortcut. You can either drag and drop it to your desired location or tap “Add Automatically” to let Android place it for you.
+5. You’ll be prompted to add the shortcut. You can either drag and drop it to your desired location or tap “Add Automatically” to let Android place it for you.
 
 This method creates a one-tap shortcut that opens Google Maps directly to your saved route, making it incredibly convenient for frequently used directions.
 
@@ -52,19 +52,19 @@ This method creates a one-tap shortcut that opens Google Maps directly to your s
 
 While pinning routes and adding shortcuts are great for quick access, they still require an internet connection to work. If you want to ensure you can access your routes without data, you’ll need to save them for offline use. Here’s how:
 
-- Open Google Maps and search for your destination.
+1. Open Google Maps and search for your destination.
 
-- Tap “Directions” and set up your route.
+2. Tap “Directions” and set up your route.
 
-- Tap your profile picture or initial in the top-right corner.
+3. Tap your profile picture or initial in the top-right corner.
 
-- Select “Offline maps” from the menu.
+4. Select “Offline maps” from the menu.
 
-- Tap “Select your own map.”
+5. Tap “Select your own map.”
 
-- Adjust the map area to include both your starting point and destination, as well as any areas along the route you want to have available offline.
+6. Adjust the map area to include both your starting point and destination, as well as any areas along the route you want to have available offline.
 
-- Tap “Download” to save the offline map.
+7. Tap “Download” to save the offline map.
 
 Remember that offline maps have size limitations, so for very long routes, you may need to download multiple map sections.
 

@@ -18,25 +18,25 @@ Sometimes, the voice playback feature (where you tap an earphone or play icon to
 
 ## Step-by-Step Listening to Perplexity Answers on Android
 
-- Open the Perplexity app on your Android device.
+1. Open the Perplexity app on your Android device.
 
-- Tap on the library icon to see your past questions and answers.
+2. Tap on the library icon to see your past questions and answers.
 
-- Choose the answer you want to hear by tapping on it.
+3. Choose the answer you want to hear by tapping on it.
 
-- If you want a new answer, type or speak your question in the app.
+4. If you want a new answer, type or speak your question in the app.
 
-- Wait for Perplexity to generate the answer.
+5. Wait for Perplexity to generate the answer.
 
-- Scroll down the answer on the screen.
+6. Scroll down the answer on the screen.
 
-- Look for an earphone or play icon near the answer.
+7. Look for an earphone or play icon near the answer.
 
-- Tap the earphone or play icon to start listening.
+8. Tap the earphone or play icon to start listening.
 
-- Use pause and play buttons to control playback as you listen.
+9. Use pause and play buttons to control playback as you listen.
 
-- Close the audio player or tap the X when you’re done.
+10. Close the audio player or tap the X when you’re done.
 
 This process lets you hear answers out loud, making it easy to multitask or just relax while you listen.
 

@@ -32,51 +32,51 @@ Now that we understand the power of Perplexity AI, let’s get it installed on y
 
 The process of downloading Perplexity AI on your Android device is straightforward. Follow these steps to get started:
 
-- **Open Google Play Store**: Locate and tap the Google Play Store icon on your Android device’s home screen or app drawer.
+1. **Open Google Play Store**: Locate and tap the Google Play Store icon on your Android device’s home screen or app drawer.
 
-- **Search for Perplexity**: In the search bar at the top of the Play Store, type “Perplexity AI” or “Perplexity – Ask Anything” and press the search button.
+2. **Search for Perplexity**: In the search bar at the top of the Play Store, type “Perplexity AI” or “Perplexity – Ask Anything” and press the search button.
 
-- **Locate the Official App**: In the search results, look for the official Perplexity app. It should be titled “Perplexity – Ask Anything” and developed by Perplexity AI.
+3. **Locate the Official App**: In the search results, look for the official Perplexity app. It should be titled “Perplexity – Ask Anything” and developed by Perplexity AI.
 
-- **Install the App**: Tap on the “Install” button next to the app. If you’re prompted to accept any permissions, review them and tap “Accept” if you agree.
+4. **Install the App**: Tap on the “Install” button next to the app. If you’re prompted to accept any permissions, review them and tap “Accept” if you agree.
 
-- **Wait for Installation**: The app will now download and install automatically. This process usually takes just a few moments, depending on your internet connection speed.
+5. **Wait for Installation**: The app will now download and install automatically. This process usually takes just a few moments, depending on your internet connection speed.
 
-- **Open the App**: Once the installation is complete, you can tap “Open” directly from the Play Store, or find the Perplexity icon on your home screen or app drawer to launch it.
+6. **Open the App**: Once the installation is complete, you can tap “Open” directly from the Play Store, or find the Perplexity icon on your home screen or app drawer to launch it.
 
 ## Setting Up Your Perplexity Account
 
 After successfully installing the Perplexity app, you’ll need to set up your account to start using the service. Here’s how:
 
-- **Launch the App**: Open the Perplexity app by tapping its icon on your home screen or app drawer.
+1. **Launch the App**: Open the Perplexity app by tapping its icon on your home screen or app drawer.
 
-- **Sign Up or Log In**: You’ll be presented with options to sign up or log in. If you’re a new user, choose the sign-up option.
+2. **Sign Up or Log In**: You’ll be presented with options to sign up or log in. If you’re a new user, choose the sign-up option.
 
-- **Choose Sign-Up Method**: Perplexity typically offers multiple sign-up methods, including using your Google account or creating an account with your email address.
+3. **Choose Sign-Up Method**: Perplexity typically offers multiple sign-up methods, including using your Google account or creating an account with your email address.
 
-- **Complete Profile**: Follow the on-screen prompts to complete your profile. This may include setting a username, adding a profile picture, or selecting topics of interest.
+4. **Complete Profile**: Follow the on-screen prompts to complete your profile. This may include setting a username, adding a profile picture, or selecting topics of interest.
 
-- **Agree to Terms**: Review and accept the app’s terms of service and privacy policy.
+5. **Agree to Terms**: Review and accept the app’s terms of service and privacy policy.
 
-- **Customize Settings**: Take a moment to customize your app settings, such as notification preferences or language options.
+6. **Customize Settings**: Take a moment to customize your app settings, such as notification preferences or language options.
 
 ## Using Perplexity AI on Your Android Phone
 
 Now that you have Perplexity AI installed and set up on your Android device, it’s time to start using this powerful tool. Here’s how to make the most of Perplexity:
 
-- **Ask a Question**: On the main screen, you’ll see a search bar. Tap it and type your question or topic of interest. Remember, you can phrase your query in natural language.
+1. **Ask a Question**: On the main screen, you’ll see a search bar. Tap it and type your question or topic of interest. Remember, you can phrase your query in natural language.
 
-- **Voice Input**: If you prefer, tap the microphone icon next to the search bar to use voice input for your question.
+2. **Voice Input**: If you prefer, tap the microphone icon next to the search bar to use voice input for your question.
 
-- **Review the Answer**: Perplexity will quickly generate an answer based on the most up-to-date information available. The response will include cited sources, which you can tap to view the original content.
+3. **Review the Answer**: Perplexity will quickly generate an answer based on the most up-to-date information available. The response will include cited sources, which you can tap to view the original content.
 
-- **Follow-up Questions**: If you need more information or want to explore a related topic, simply ask a follow-up question. Perplexity will maintain the context of your previous query.
+4. **Follow-up Questions**: If you need more information or want to explore a related topic, simply ask a follow-up question. Perplexity will maintain the context of your previous query.
 
-- **Save and Share**: Found something interesting? Use the save feature to keep the information for later, or share it directly from the app with friends or colleagues.
+5. **Save and Share**: Found something interesting? Use the save feature to keep the information for later, or share it directly from the app with friends or colleagues.
 
-- **Explore Discover Feed**: When you’re not searching for specific information, browse the Discover feed to learn about trending topics and popular questions.
+6. **Explore Discover Feed**: When you’re not searching for specific information, browse the Discover feed to learn about trending topics and popular questions.
 
-- **Check Your Library**: Access your search history and saved items in the Library section, making it easy to revisit important information.
+7. **Check Your Library**: Access your search history and saved items in the Library section, making it easy to revisit important information.
 
 ## Tips for Getting the Most Out of Perplexity AI
 

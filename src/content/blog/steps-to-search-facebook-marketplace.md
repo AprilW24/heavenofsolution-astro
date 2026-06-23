@@ -60,15 +60,15 @@ If you want to streamline your browsing experience and skip the initial steps, y
 
 While it’s possible to search and browse Facebook Marketplace without an account, there are some significant limitations to be aware of:
 
-- **No communication with sellers**: The most notable restriction is the inability to contact sellers directly. Without a Facebook account, you can’t use Facebook Messenger to inquire about items or arrange purchases.
+1. **No communication with sellers**: The most notable restriction is the inability to contact sellers directly. Without a Facebook account, you can’t use Facebook Messenger to inquire about items or arrange purchases.
 
-- **Unable to save listings or create alerts**: You won’t be able to save interesting listings for later or set up alerts for specific items you’re looking for.
+2. **Unable to save listings or create alerts**: You won’t be able to save interesting listings for later or set up alerts for specific items you’re looking for.
 
-- **Limited search and filter options**: Some advanced search features and filters may be unavailable to users who are not logged in.
+3. **Limited search and filter options**: Some advanced search features and filters may be unavailable to users who are not logged in.
 
-- **No buying or selling**: To actually make a purchase or list an item for sale, you’ll need to create a Facebook account.
+4. **No buying or selling**: To actually make a purchase or list an item for sale, you’ll need to create a Facebook account.
 
-- **Potential for login prompts**: Facebook may occasionally display login prompts that can’t be dismissed, requiring you to clear your browser cache and cookies to continue browsing anonymously.
+5. **Potential for login prompts**: Facebook may occasionally display login prompts that can’t be dismissed, requiring you to clear your browser cache and cookies to continue browsing anonymously.
 
 ## Alternatives to Facebook Marketplace
 

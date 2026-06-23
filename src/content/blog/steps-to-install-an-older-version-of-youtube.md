@@ -26,13 +26,13 @@ Whatever your reason, follow the steps below to get an older YouTube app on your
 
 By default, Android blocks installing apps from outside the Google Play Store for security. To install an older YouTube APK, you need to enable a setting to allow this:
 
-- Go to your Android Settings
+1. Go to your Android Settings
 
-- Tap on Security or Applications (varies by device)
+2. Tap on Security or Applications (varies by device)
 
-- Enable the option for **Unknown sources** or **Install unknown apps**
+3. Enable the option for **Unknown sources** or **Install unknown apps**
 
-- Confirm the warning prompt
+4. Confirm the warning prompt
 
 Your phone will now allow you to install the older YouTube app in the following steps.
 
@@ -40,13 +40,13 @@ Your phone will now allow you to install the older YouTube app in the following 
 
 APK files are the package format used to distribute and install Android apps. To get an older version of YouTube:
 
-- On your Android device, open a web browser and go to a trusted APK site like APKMirror.com
+1. On your Android device, open a web browser and go to a trusted APK site like APKMirror.com
 
-- Search for **YouTube** on the site
+2. Search for **YouTube** on the site
 
-- Browse the list of available older versions and select one (e.g. v15.x)
+3. Browse the list of available older versions and select one (e.g. v15.x)
 
-- Tap the Download APK button and wait for the APK file to download completely
+4. Tap the Download APK button and wait for the APK file to download completely
 
 Be very careful to only download YouTube APKs from reputable sources to avoid malware. Do not download random APK files from forums or file sharing sites.
 
@@ -54,13 +54,13 @@ Be very careful to only download YouTube APKs from reputable sources to avoid ma
 
 Before installing the old version, you need to uninstall the current YouTube app on your phone first:
 
-- Go to Android Settings > Apps & notifications
+1. Go to Android Settings > Apps & notifications
 
-- Find and tap on YouTube in the app list
+2. Find and tap on YouTube in the app list
 
-- Tap Uninstall and confirm
+3. Tap Uninstall and confirm
 
-- The current YouTube app will be completely removed
+4. The current YouTube app will be completely removed
 
 This step is important, as Android will block downgrading to an older APK version if the app is already installed.
 
@@ -68,15 +68,15 @@ This step is important, as Android will block downgrading to an older APK versio
 
 Now you can install the older version of YouTube you downloaded earlier:
 
-- Open the Files app on your Android device
+1. Open the Files app on your Android device
 
-- Browse to the folder where you downloaded the YouTube APK (usually the Downloads folder)
+2. Browse to the folder where you downloaded the YouTube APK (usually the Downloads folder)
 
-- Tap on the APK file to start the installation
+3. Tap on the APK file to start the installation
 
-- Confirm the installation prompt
+4. Confirm the installation prompt
 
-- Wait for the old YouTube app to install
+5. Wait for the old YouTube app to install
 
 Once installed, you’ll see the older YouTube app on your home screen and app drawer, ready to use!
 
@@ -84,13 +84,13 @@ Once installed, you’ll see the older YouTube app on your home screen and app d
 
 To prevent your older YouTube app from automatically updating itself to the latest version again:
 
-- Open the Google Play Store app
+1. Open the Google Play Store app
 
-- Search for YouTube
+2. Search for YouTube
 
-- Tap on the three-dots menu icon
+3. Tap on the three-dots menu icon
 
-- Uncheck the **Enable auto-update** option
+4. Uncheck the **Enable auto-update** option
 
 ![](/wp-content/uploads/2024/04/HoS-12.jpg)
 

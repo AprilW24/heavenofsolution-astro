@@ -24,25 +24,25 @@ The best part is that once you build your sticker packs, they stay saved in your
 
 This is the fastest way to get your first custom sticker made, and you don’t need to download anything extra. WhatsApp has had this feature for a while now, but a lot of people still don’t know it’s there. Here’s how to do it step by step 👇
 
-- Open WhatsApp and go into any chat, whether it’s a personal chat or a group.
+1. Open WhatsApp and go into any chat, whether it’s a personal chat or a group.
 
-- Tap the emoji icon at the bottom left of the text input bar.
+2. Tap the emoji icon at the bottom left of the text input bar.
 
-- Swipe to the sticker tab, which looks like a small square sticker icon.
+3. Swipe to the sticker tab, which looks like a small square sticker icon.
 
-- Tap the “+” or “**Create**” button that appears at the top or bottom of the sticker panel.
+4. Tap the “+” or “**Create**” button that appears at the top or bottom of the sticker panel.
 
-- WhatsApp will open your photo gallery so you can pick any image you want to turn into a sticker.
+5. WhatsApp will open your photo gallery so you can pick any image you want to turn into a sticker.
 
-- Select the photo you want to use, such as a selfie, a picture of your pet, or a funny screenshot.
+6. Select the photo you want to use, such as a selfie, a picture of your pet, or a funny screenshot.
 
-- WhatsApp will automatically cut out the main subject from the background using its built-in *AI* detection.
+7. WhatsApp will automatically cut out the main subject from the background using its built-in *AI* detection.
 
-- Adjust the cutout if needed by pinching, zooming, or repositioning the subject on the sticker canvas.
+8. Adjust the cutout if needed by pinching, zooming, or repositioning the subject on the sticker canvas.
 
-- Add text, doodles, or emojis on top of the image using the editing tools on screen.
+9. Add text, doodles, or emojis on top of the image using the editing tools on screen.
 
-- Tap “**Done**” or “**Add to Pack**” to save your sticker, then send it right away or store it for later use.
+10. Tap “**Done**” or “**Add to Pack**” to save your sticker, then send it right away or store it for later use.
 
 ## Best Third-Party Apps That Give You More Control Over Your Stickers 🛠️
 

@@ -12,11 +12,11 @@ The default new tab page in Google Chrome displays the Google search box, your m
 
 Chrome has built-in options that allow you to personalize the appearance and content of the new tab page without installing any extensions. Here’s how to access these settings:
 
-- Open a new tab in Chrome
+1. Open a new tab in Chrome
 
-- Click the **Customize Chrome** button (pencil icon) in the bottom right corner
+2. Click the **Customize Chrome** button (pencil icon) in the bottom right corner
 
-- Use the options in the **Customize** sidebar to make your desired changes
+3. Use the options in the **Customize** sidebar to make your desired changes
 
 ### 1. Change the Background
 
@@ -24,11 +24,11 @@ The background is the first thing you see when you open a new tab. Chrome lets y
 
 To change the new tab background:
 
-- In the **Customize** sidebar, click **Background**
+1. In the **Customize** sidebar, click **Background**
 
-- Select a background from the available categories, or click **Upload from device** to use your own image
+2. Select a background from the available categories, or click **Upload from device** to use your own image
 
-- Adjust the **Daily refresh** toggle if you want the background to change to a new image each day
+3. Adjust the **Daily refresh** toggle if you want the background to change to a new image each day
 
 ### 2. Customize Shortcuts
 
@@ -36,15 +36,15 @@ The shortcuts that appear below the search box are links to your most visited we
 
 To customize the new tab shortcuts:
 
-- In the **Customize** sidebar, click **Shortcuts**
+1. In the **Customize** sidebar, click **Shortcuts**
 
-- Select either **My shortcuts** to set your own custom shortcuts, or **Most visited sites** to auto-populate with your frequently visited pages
+2. Select either **My shortcuts** to set your own custom shortcuts, or **Most visited sites** to auto-populate with your frequently visited pages
 
-- To hide shortcuts completely, turn off the **Show shortcuts** toggle
+3. To hide shortcuts completely, turn off the **Show shortcuts** toggle
 
-- If using custom shortcuts, click **Add shortcut** and enter a name and URL to create a new shortcut
+4. If using custom shortcuts, click **Add shortcut** and enter a name and URL to create a new shortcut
 
-- To edit or delete a shortcut, hover over it and click the **three dot menu**
+5. To edit or delete a shortcut, hover over it and click the **three dot menu**
 
 ### 3. Customize the Chrome Theme Color
 
@@ -52,11 +52,11 @@ Chrome allows you to personalize the browser theme color to match your style. Th
 
 To customize the Chrome theme color:
 
-- In the **Customize** sidebar, click **Color and theme**
+1. In the **Customize** sidebar, click **Color and theme**
 
-- Select a color from the preset options, or click the **custom color picker** to choose any color you want
+2. Select a color from the preset options, or click the **custom color picker** to choose any color you want
 
-- The theme color will update immediately to preview the change
+3. The theme color will update immediately to preview the change
 
 ## Use Chrome Extensions to Fully Customize the New Tab Page
 
@@ -68,15 +68,15 @@ Momentum replaces your new tab page with a personal dashboard featuring a to-do 
 
 To install Momentum:
 
-- Visit the [Chrome Web Store page for Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
+1. Visit the [Chrome Web Store page for Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
 
-- Click **Add to Chrome**
+2. Click **Add to Chrome**
 
-- Click **Add extension** to confirm
+3. Click **Add extension** to confirm
 
-- Open a new tab to see the Momentum dashboard
+4. Open a new tab to see the Momentum dashboard
 
-- Use the settings menu to customize the dashboard widgets, background, and more
+5. Use the settings menu to customize the dashboard widgets, background, and more
 
 ### 2. Infinity New Tab
 
@@ -84,17 +84,17 @@ Infinity New Tab is a highly customizable new tab extension that lets you add an
 
 To set up Infinity New Tab:
 
-- Go to the [Infinity New Tab page on the Chrome Web Store](https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg?hl=en)
+1. Go to the [Infinity New Tab page on the Chrome Web Store](https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg?hl=en)
 
-- Click **Add to Chrome**, then **Add extension**
+2. Click **Add to Chrome**, then **Add extension**
 
-- Click the **Infinity** icon to the right of the address bar
+3. Click the **Infinity** icon to the right of the address bar
 
-- Click the **gear icon** to open the settings
+4. Click the **gear icon** to open the settings
 
-- Scroll down and enter the URL you want for your new tab page
+5. Scroll down and enter the URL you want for your new tab page
 
-- Click **Save** and open a new tab to see the change
+6. Click **Save** and open a new tab to see the change
 
 There are tons of other great extensions for customizing your new tab page. Some other popular ones include:
 

@@ -20,13 +20,13 @@ If you need more space, you can upgrade to a paid Google One plan starting at $1
 
 Next, we’ll turn on the automatic backup feature in Android’s settings. Here’s how:
 
-- Open the **Settings** app on your Android device
+1. Open the **Settings** app on your Android device
 
-- Tap on **System** > **Backup**
+2. Tap on **System** > **Backup**
 
-- Make sure the toggle for **Back up to Google Drive** is turned on
+3. Make sure the toggle for **Back up to Google Drive** is turned on
 
-- Under **Backup details**, you can select which data you want to include in your backups, such as:
+4. Under **Backup details**, you can select which data you want to include in your backups, such as:
 
 - Apps
 
@@ -60,9 +60,9 @@ Choose an automatic backup frequency that makes sense for you. **Daily** is reco
 
 After enabling automatic backups, it’s a good idea to perform a manual backup to start protecting your data immediately. Here’s how:
 
-- Go to **Settings** > **System** > **Backup**
+1. Go to **Settings** > **System** > **Backup**
 
-- Tap **Back up now**
+2. Tap **Back up now**
 
 Your device will begin backing up to Google Drive. You’ll see a persistent notification showing the backup progress. Depending on how much data you have, the backup process may take several minutes.
 
@@ -70,11 +70,11 @@ Your device will begin backing up to Google Drive. You’ll see a persistent not
 
 Once the backup completes, verify it finished successfully and see when the last backup occurred:
 
-- Go to **Settings** > **System** > **Backup**
+1. Go to **Settings** > **System** > **Backup**
 
-- Look for **Backup complete** under the **Back up to Google Drive** section
+2. Look for **Backup complete** under the **Back up to Google Drive** section
 
-- Check the **Last backup** time and date
+3. Check the **Last backup** time and date
 
 You can also view your backups in the Google Drive app or at drive.google.com. Look for a folder called **Device Folders** which contains your backups organized by device.
 

@@ -44,17 +44,17 @@ Before uploading, take some time to prepare your images:
 
 The exact steps for uploading will vary depending on the platform you’ve chosen, but here’s a general guide:
 
-- Open the app or mobile website for your chosen platform.
+1. Open the app or mobile website for your chosen platform.
 
-- Look for an “Upload,” “Add Photo,” or “+” button.
+2. Look for an “Upload,” “Add Photo,” or “+” button.
 
-- Select the photo(s) you want to upload from your phone’s gallery.
+3. Select the photo(s) you want to upload from your phone’s gallery.
 
-- Add a title, description, and any relevant tags or categories.
+4. Add a title, description, and any relevant tags or categories.
 
-- Adjust privacy settings if applicable (ensure your photos are set to public if you want them to appear in Google Images).
+5. Adjust privacy settings if applicable (ensure your photos are set to public if you want them to appear in Google Images).
 
-- Publish or post your photos.
+6. Publish or post your photos.
 
 ### 4. Optimize Your Images for Search
 
@@ -86,11 +86,11 @@ After you’ve uploaded and optimized your photos, it may take some time for Goo
 
 To check if your images are appearing in Google Images:
 
-- Open the Google Images search page on your mobile browser.
+1. Open the Google Images search page on your mobile browser.
 
-- Enter relevant keywords related to your image or use the site: operator followed by your website’s URL (e.g., site:example.com) to see all indexed images from your site.
+2. Enter relevant keywords related to your image or use the site: operator followed by your website’s URL (e.g., site:example.com) to see all indexed images from your site.
 
-- Browse the results to find your uploaded images.
+3. Browse the results to find your uploaded images.
 
 If you don’t see your images immediately, don’t worry. It may take some time for them to appear in search results.
 

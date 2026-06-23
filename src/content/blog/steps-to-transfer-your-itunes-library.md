@@ -18,19 +18,19 @@ However, many people have built up extensive MP3 libraries in iTunes over the ye
 
 The most straightforward way to get your iTunes music onto Android is to manually copy the audio files from your computer to your Android device storage:
 
-- Connect your Android phone to your PC or Mac via USB cable. Make sure your phone is set to **File Transfer** mode.
+1. Connect your Android phone to your PC or Mac via USB cable. Make sure your phone is set to **File Transfer** mode.
 
-- Open iTunes on your computer and go to your Music library.
+2. Open iTunes on your computer and go to your Music library.
 
-- Select the songs or playlists you want to transfer. You can select multiple tracks by holding Ctrl (Windows) or Command (Mac) and clicking.
+3. Select the songs or playlists you want to transfer. You can select multiple tracks by holding Ctrl (Windows) or Command (Mac) and clicking.
 
-- Drag and drop the selected music files to a folder on your computer, such as the Desktop.
+4. Drag and drop the selected music files to a folder on your computer, such as the Desktop.
 
-- Open the folder on your Android device storage where you want to copy the music, such as **Music**.
+5. Open the folder on your Android device storage where you want to copy the music, such as **Music**.
 
-- Drag and drop the music files from your computer to the Android device folder.
+6. Drag and drop the music files from your computer to the Android device folder.
 
-- Disconnect your Android phone. You should now be able to play the transferred music using any music player app on Android.
+7. Disconnect your Android phone. You should now be able to play the transferred music using any music player app on Android.
 
 **Pro tip:** You can also use Windows Explorer (PC) or Android File Transfer (Mac) to browse your phone storage and copy over the music files, instead of dragging and dropping.
 
@@ -40,19 +40,19 @@ This method works well if you only want to transfer some of your iTunes music, o
 
 If you want to transfer your entire iTunes library, including playlists and metadata, Google Play Music provides a handy solution:
 
-- Download and install the Google Play Music Manager app on your computer.
+1. Download and install the Google Play Music Manager app on your computer.
 
-- Open the Music Manager and log in with your Google account.
+2. Open the Music Manager and log in with your Google account.
 
-- Select **Upload songs to Google Play** and then **iTunes**.
+3. Select **Upload songs to Google Play** and then **iTunes**.
 
-- Choose whether to upload your entire iTunes library or selected playlists.
+4. Choose whether to upload your entire iTunes library or selected playlists.
 
-- The Music Manager will upload your songs and playlists to the cloud.
+5. The Music Manager will upload your songs and playlists to the cloud.
 
-- On your Android phone, open the Google Play Music app and log in with the same Google account.
+6. On your Android phone, open the Google Play Music app and log in with the same Google account.
 
-- Go to **Library** and select **Music from this device**. Your uploaded iTunes music will appear here, ready to stream or download.
+7. Go to **Library** and select **Music from this device**. Your uploaded iTunes music will appear here, ready to stream or download.
 
 Google Play Music allows you to upload up to 50,000 songs from your computer for free. The upload process may take a while depending on your library size and internet speed. But once it’s done, you’ll have access to your iTunes library on any device with the Google Play Music app.
 

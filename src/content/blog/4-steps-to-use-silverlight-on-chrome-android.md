@@ -26,11 +26,11 @@ While Chrome for Android doesn’t support Silverlight, some other browsers migh
 
 If you need to access Silverlight content regularly, consider using a remote desktop solution:
 
-- Set up a Windows PC or virtual machine with Silverlight installed.
+1. Set up a Windows PC or virtual machine with Silverlight installed.
 
-- Use a remote desktop app on your Android device to connect to the Windows machine.
+2. Use a remote desktop app on your Android device to connect to the Windows machine.
 
-- Access the Silverlight content through the remote desktop connection.
+3. Access the Silverlight content through the remote desktop connection.
 
 This method allows you to view Silverlight content, albeit indirectly, on your Android device.
 
@@ -38,21 +38,21 @@ This method allows you to view Silverlight content, albeit indirectly, on your A
 
 Many websites that previously used Silverlight have moved to more modern, mobile-friendly technologies. If you’re trying to access specific content:
 
-- Contact the website or service provider.
+1. Contact the website or service provider.
 
-- Ask if they offer an alternative way to access the content on Android devices.
+2. Ask if they offer an alternative way to access the content on Android devices.
 
-- Many providers now have dedicated mobile apps or use HTML5 for video streaming instead of Silverlight.
+3. Many providers now have dedicated mobile apps or use HTML5 for video streaming instead of Silverlight.
 
 ### 4. Use a PC or Mac
 
 For critical Silverlight content that you absolutely must access:
 
-- Use a desktop or laptop computer with a supported browser.
+1. Use a desktop or laptop computer with a supported browser.
 
-- Install Silverlight on this machine.
+2. Install Silverlight on this machine.
 
-- Access the content as needed.
+3. Access the content as needed.
 
 While not ideal for mobile use, this ensures you can view the Silverlight content when necessary.
 

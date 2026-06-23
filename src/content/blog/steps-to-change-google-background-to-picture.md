@@ -96,15 +96,15 @@ Selecting the right image for your Google background can make a big difference i
 
 Personalizing your Google background offers several benefits:
 
-- **Improved mood**: Starting your browsing session with an image that makes you happy can positively impact your mood throughout the day.
+1. **Improved mood**: Starting your browsing session with an image that makes you happy can positively impact your mood throughout the day.
 
-- **Increased productivity**: A well-chosen background can serve as a source of inspiration or motivation, potentially boosting your productivity.
+2. **Increased productivity**: A well-chosen background can serve as a source of inspiration or motivation, potentially boosting your productivity.
 
-- **Personal touch**: Customizing your background adds a personal touch to your digital workspace, making it feel more like your own.
+3. **Personal touch**: Customizing your background adds a personal touch to your digital workspace, making it feel more like your own.
 
-- **Easy access to favorite images**: By setting a cherished photo as your background, you get to see it every time you open a new tab.
+4. **Easy access to favorite images**: By setting a cherished photo as your background, you get to see it every time you open a new tab.
 
-- **Conversation starter**: If you’re sharing your screen during a video call, your unique background can be an interesting conversation piece.
+5. **Conversation starter**: If you’re sharing your screen during a video call, your unique background can be an interesting conversation piece.
 
 ## Troubleshooting Common Issues
 

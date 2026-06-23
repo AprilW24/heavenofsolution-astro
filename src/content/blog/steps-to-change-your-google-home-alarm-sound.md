@@ -12,11 +12,11 @@ Waking up to the same boring alarm sound every morning can get old fast. Luckily
 
 To wake up to a specific song, artist, genre or playlist, start by linking your preferred music service to your Google account in the Home app. Then follow these steps:
 
-- Say “Hey Google, set a [song/artist/genre/playlist] alarm for [time] tomorrow.” For example, “Hey Google, set a Beatles alarm for 7am tomorrow.”
+1. Say “Hey Google, set a [song/artist/genre/playlist] alarm for [time] tomorrow.” For example, “Hey Google, set a Beatles alarm for 7am tomorrow.”
 
-- Google will confirm the alarm and pull the audio from your default linked music service.
+2. Google will confirm the alarm and pull the audio from your default linked music service.
 
-- When the alarm goes off, your chosen music will play instead of the standard alarm tone.
+3. When the alarm goes off, your chosen music will play instead of the standard alarm tone.
 
 Some other examples of music alarm commands:
 
@@ -50,25 +50,25 @@ Google may add or remove available characters over time, so check their support 
 
 In addition to setting alarms with voice commands, you can view, edit and delete your existing alarms in the Google Home app:
 
-- Open the Google Home app and tap on your speaker/display.
+1. Open the Google Home app and tap on your speaker/display.
 
-- Tap the Settings cog, then go to Audio > Alarms & timers.
+2. Tap the Settings cog, then go to Audio > Alarms & timers.
 
-- From here you’ll see a list of all active alarms on that device.
+3. From here you’ll see a list of all active alarms on that device.
 
-- To delete an alarm, tap the **X** next to it. There’s no way to edit an existing alarm, but you can always delete it and create a new one.
+4. To delete an alarm, tap the **X** next to it. There’s no way to edit an existing alarm, but you can always delete it and create a new one.
 
 **Adjusting Alarm Volume**
 
 If you need to make your alarm quieter or louder, you can adjust the alarm volume separately from your normal speaker volume. Here’s how:
 
-- Open the Google Home app and select your device.
+1. Open the Google Home app and select your device.
 
-- Tap Settings > Audio > Alarms & timers.
+2. Tap Settings > Audio > Alarms & timers.
 
-- Use the slider to turn the volume up or down.
+3. Use the slider to turn the volume up or down.
 
-- Close the app. Your new alarm volume will take effect immediately.
+4. Close the app. Your new alarm volume will take effect immediately.
 
 ### 4. Canceling an Alarm
 

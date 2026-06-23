@@ -20,31 +20,31 @@ Canva offers a user-friendly interface for rotating images. The rotation handle 
 
 Here’s how you can rotate a picture in Canva:
 
-- **Open Canva**: Launch the Canva app or website and create a new design or open an existing one.
+1. **Open Canva**: Launch the Canva app or website and create a new design or open an existing one.
 
-- **Select Your Image**: Click or tap on the image you want to rotate.
+2. **Select Your Image**: Click or tap on the image you want to rotate.
 
-- **Find the Rotation Handle**: Look for the rotation handle at the bottom of the image. It looks like two arrows in a circle.
+3. **Find the Rotation Handle**: Look for the rotation handle at the bottom of the image. It looks like two arrows in a circle.
 
-- **Rotate the Image**: Click and drag the handle left or right to rotate the image to your desired angle.
+4. **Rotate the Image**: Click and drag the handle left or right to rotate the image to your desired angle.
 
-- **Use Precise Rotation**: If needed, go to the “Position” menu and enter a specific degree of rotation.
+5. **Use Precise Rotation**: If needed, go to the “Position” menu and enter a specific degree of rotation.
 
-- **Flip the Image**: If you want to flip the image, use the flip options in the toolbar.
+6. **Flip the Image**: If you want to flip the image, use the flip options in the toolbar.
 
-- **Save Your Design**: Once satisfied with the rotation, save your design.
+7. **Save Your Design**: Once satisfied with the rotation, save your design.
 
 For mobile users, the process is similar:
 
-- **Open the Canva App**: Start the app on your mobile device.
+1. **Open the Canva App**: Start the app on your mobile device.
 
-- **Create or Open a Design**: Tap the plus sign to create a new design or select an existing one.
+2. **Create or Open a Design**: Tap the plus sign to create a new design or select an existing one.
 
-- **Add or Select the Image**: Tap on the image you want to rotate.
+3. **Add or Select the Image**: Tap on the image you want to rotate.
 
-- **Rotate the Image**: Tap and hold the rotation handle, then drag it to your desired angle.
+4. **Rotate the Image**: Tap and hold the rotation handle, then drag it to your desired angle.
 
-- **Use the Slider**: Alternatively, use the slider in the “Crop” or “Rotate” menu to adjust the angle.
+5. **Use the Slider**: Alternatively, use the slider in the “Crop” or “Rotate” menu to adjust the angle.
 
 ## Tips for Effective Image Rotation
 

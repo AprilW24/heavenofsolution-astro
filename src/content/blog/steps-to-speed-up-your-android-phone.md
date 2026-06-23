@@ -12,11 +12,11 @@ Is your Android phone feeling sluggish and unresponsive? Do you find yourself wa
 
 One of the most effective ways to speed up your Android phone is by clearing the cache. Over time, apps accumulate cache data, which can slow down your device. Here’s how to clear your cache:
 
-- Go to **Settings** > **Storage**
+1. Go to **Settings** > **Storage**
 
-- Tap on **Cached data**
+2. Tap on **Cached data**
 
-- Confirm by tapping **OK**
+3. Confirm by tapping **OK**
 
 Clearing the cache will free up valuable storage space and improve your phone’s performance.
 
@@ -24,13 +24,13 @@ Clearing the cache will free up valuable storage space and improve your phone’
 
 While animations can add visual appeal to your Android experience, they can also consume resources and slow down your device. To disable unnecessary animations:
 
-- Go to **Settings** > **Developer options**
+1. Go to **Settings** > **Developer options**
 
 - If Developer options isn’t visible, go to **About phone** and tap **Build number** seven times to enable it
 
-- Scroll down and locate the **Drawing** section
+1. Scroll down and locate the **Drawing** section
 
-- Turn off **Window animation scale**, **Transition animation scale**, and **Animator duration scale**
+2. Turn off **Window animation scale**, **Transition animation scale**, and **Animator duration scale**
 
 Disabling these animations will result in a snappier and more responsive user interface.
 
@@ -38,13 +38,13 @@ Disabling these animations will result in a snappier and more responsive user in
 
 We often install apps that we rarely use, and these apps can take up valuable storage space and run in the background, draining resources. Take a moment to review your installed apps:
 
-- Go to **Settings** > **Apps & notifications**
+1. Go to **Settings** > **Apps & notifications**
 
-- Scroll through the list of installed apps
+2. Scroll through the list of installed apps
 
-- Identify apps you no longer need and tap on them
+3. Identify apps you no longer need and tap on them
 
-- Select **Uninstall** to remove the app from your device
+4. Select **Uninstall** to remove the app from your device
 
 By uninstalling unused apps, you’ll free up storage space and reduce background processes, leading to a faster phone.
 
@@ -52,11 +52,11 @@ By uninstalling unused apps, you’ll free up storage space and reduce backgroun
 
 Auto-sync is a feature that keeps your apps synchronized with their online counterparts, such as email and social media accounts. While convenient, constant syncing can consume resources and slow down your phone. To disable auto-sync:
 
-- Go to **Settings** > **Accounts**
+1. Go to **Settings** > **Accounts**
 
-- Tap on the account you want to modify
+2. Tap on the account you want to modify
 
-- Toggle off the **Auto-sync data** option
+3. Toggle off the **Auto-sync data** option
 
 You can still manually sync your accounts when needed, but disabling auto-sync will help conserve resources and improve performance.
 
@@ -64,15 +64,15 @@ You can still manually sync your accounts when needed, but disabling auto-sync w
 
 Keeping your apps and operating system up to date is crucial for optimal performance and security. App developers regularly release updates that include bug fixes, performance improvements, and new features. Similarly, Android operating system updates often bring performance enhancements and security patches. To update your apps and operating system:
 
-- Open the **Google Play Store** app
+1. Open the **Google Play Store** app
 
-- Tap on the **Menu** icon (three horizontal lines) and select **My apps & games**
+2. Tap on the **Menu** icon (three horizontal lines) and select **My apps & games**
 
-- Review the list of available updates and tap **Update** next to each app
+3. Review the list of available updates and tap **Update** next to each app
 
-- For system updates, go to **Settings** > **System** > **System update**
+4. For system updates, go to **Settings** > **System** > **System update**
 
-- If an update is available, follow the on-screen instructions to download and install it
+5. If an update is available, follow the on-screen instructions to download and install it
 
 By keeping your apps and operating system up to date, you’ll ensure that your phone is running at its best.
 

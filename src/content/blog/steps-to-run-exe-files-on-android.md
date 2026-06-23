@@ -50,15 +50,15 @@ ExaGear is an emulator that can run x86 Windows programs on ARM-based Android de
 
 To use it:
 
-- Download the ExaGear APK from their website (it’s not on the Play Store).
+1. Download the ExaGear APK from their website (it’s not on the Play Store).
 
-- Install the APK (you may need to enable installing from unknown sources in Android settings).
+2. Install the APK (you may need to enable installing from unknown sources in Android settings).
 
-- Create a new virtual machine in ExaGear.
+3. Create a new virtual machine in ExaGear.
 
-- Point it to the folder where you extracted the EXE program files.
+4. Point it to the folder where you extracted the EXE program files.
 
-- The program should then launch inside ExaGear.
+5. The program should then launch inside ExaGear.
 
 **Option 2: Wine Compatibility Layer**
 
