@@ -24,7 +24,7 @@ If your shots disappeared recently, most Android phones have built-in safety net
 
 ## Checking Google Photos for Deleted Images Saved in the Cloud
 
-Lots of people use Google Photos for backups, and sometimes those deleted files stick around for a while. I’ve fixed this for friends who thought their shots were gone forever. When you delete a photo, Google Photos moves it to the *Trash* for about 30–60 days. So even if it’s missing from your gallery, you might still find it in *Google Photos*.
+Lots of people use Google Photos for backups, and sometimes those deleted files stick around for a while. I’ve fixed this for friends who thought their shots were gone forever. When you delete a photo, Google Photos moves it to the *Trash* for about 30, 60 days. So even if it’s missing from your gallery, you might still find it in *Google Photos*.
 
 Just open Google Photos, tap the *Library*, then *Trash*, and peek at what’s inside. If the photo is there, select it and hit Restore. It’ll bounce back to your library, albums, and your device’s gallery without much fuss.
 
@@ -42,7 +42,7 @@ So next time you lose a shot, don’t sweat it right away. Tapping through galle
 
 ### How long do deleted photos stay in the bin?
 
-Most bins keep them for 30–60 days before saying goodbye for good.
+Most bins keep them for 30, 60 days before saying goodbye for good.
 
 ### Can I recover photos after emptying the trash?
 

@@ -12,11 +12,11 @@ The Google Play Store is the main hub for downloading apps, games, movies, books
 
 There are a few key reasons to change your Google Play Store password every once in a while:
 
-- **Security** – Using the same password for a long time makes your account more vulnerable if that password is ever leaked or stolen. Changing it regularly helps protect your account.
+- **Security**, Using the same password for a long time makes your account more vulnerable if that password is ever leaked or stolen. Changing it regularly helps protect your account.
 
-- **Forgot password** – If you forgot your current Play Store password, you’ll need to reset it in order to regain access to your account and make purchases.
+- **Forgot password**, If you forgot your current Play Store password, you’ll need to reset it in order to regain access to your account and make purchases.
 
-- **Suspicious activity** – If you notice any suspicious activity or unauthorized purchases on your Play Store account, changing your password immediately can help prevent further unauthorized access.
+- **Suspicious activity**, If you notice any suspicious activity or unauthorized purchases on your Play Store account, changing your password immediately can help prevent further unauthorized access.
 
 Changing your password only takes a minute and provides valuable security and peace of mind for your Play Store account. Here’s how to do it.
 

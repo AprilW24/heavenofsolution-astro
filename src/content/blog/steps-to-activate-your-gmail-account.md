@@ -58,19 +58,19 @@ Next, you’ll be asked if you want to back up your phone’s data (like contact
 
 ### Step 8: Your Gmail Account is Now Active!
 
-Congratulations – you’ve successfully activated your Gmail account on your mobile device! You should now see your Gmail inbox, with any existing emails loaded into the app. You can start sending and receiving emails right away.
+Congratulations, you’ve successfully activated your Gmail account on your mobile device! You should now see your Gmail inbox, with any existing emails loaded into the app. You can start sending and receiving emails right away.
 
 ## Tips for Using Gmail on Mobile
 
 Now that your Gmail account is up and running on your phone or tablet, here are a few tips to help you make the most of the mobile app:
 
-- **Customize your notifications** – You can choose whether you want to be notified for every new email, or only for important messages. Go to the Gmail app settings to adjust your preferences.
+- **Customize your notifications**, You can choose whether you want to be notified for every new email, or only for important messages. Go to the Gmail app settings to adjust your preferences.
 
-- **Use labels to organize your inbox** – Gmail allows you to create custom labels to categorize your emails. This can help you quickly find specific messages and keep your inbox tidy.
+- **Use labels to organize your inbox**, Gmail allows you to create custom labels to categorize your emails. This can help you quickly find specific messages and keep your inbox tidy.
 
-- **Enable offline access** – If you’ll be without internet access for a period of time, you can enable Gmail’s offline mode to read, reply to, and search your emails.
+- **Enable offline access**, If you’ll be without internet access for a period of time, you can enable Gmail’s offline mode to read, reply to, and search your emails.
 
-- **Take advantage of Google integrations** – With Gmail, you can easily save email attachments to Google Drive, or add events from your emails to Google Calendar. Explore these integrations to streamline your workflow.
+- **Take advantage of Google integrations**, With Gmail, you can easily save email attachments to Google Drive, or add events from your emails to Google Calendar. Explore these integrations to streamline your workflow.
 
 ## Conclusion
 

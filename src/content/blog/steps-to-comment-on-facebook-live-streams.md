@@ -40,7 +40,7 @@ To add your voice to the conversation:
 
 1. Tap the comment box at the bottom of the video that says **Write a comment**
 
-2. A keyboard will pop up – type your comment or question
+2. A keyboard will pop up, type your comment or question
 
 3. Tap the blue **Send** arrow button to post your comment
 

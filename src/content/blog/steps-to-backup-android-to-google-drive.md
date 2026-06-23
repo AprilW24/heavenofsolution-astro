@@ -46,13 +46,13 @@ Choose which data is most important to you. You can leave everything selected to
 
 Under the **Back up to Google Drive** section in Settings, you can choose how frequently your device will automatically back up to Google Drive:
 
-- **Daily** – Backs up your device once per day when connected to Wi-Fi and charging
+- **Daily**, Backs up your device once per day when connected to Wi-Fi and charging
 
-- **Weekly** – Backs up your device once per week when connected to Wi-Fi and charging
+- **Weekly**, Backs up your device once per week when connected to Wi-Fi and charging
 
-- **Monthly** – Backs up your device once per month when connected to Wi-Fi and charging
+- **Monthly**, Backs up your device once per month when connected to Wi-Fi and charging
 
-- **Only when I tap “Back up now”** – Only backs up when you manually initiate it
+- **Only when I tap “Back up now”**, Only backs up when you manually initiate it
 
 Choose an automatic backup frequency that makes sense for you. **Daily** is recommended to minimize the risk of data loss between backups. But if you rarely add new data to your device, weekly or monthly may be sufficient.
 

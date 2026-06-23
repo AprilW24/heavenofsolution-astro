@@ -22,7 +22,7 @@ The first and most obvious step is to examine your charging equipment. Often, th
 
 - Ensure the connectors are clean and free from debris
 
-- Try wiggling the cable while it’s plugged in – if the charging starts and stops, it’s likely damaged
+- Try wiggling the cable while it’s plugged in, if the charging starts and stops, it’s likely damaged
 
 **Check the adapter:**
 
@@ -44,7 +44,7 @@ To clean the charging port:
 
 2. Use a small, soft brush (like a clean toothbrush) or compressed air to gently remove any visible debris
 
-3. For stubborn dirt, carefully use a toothpick or plastic dental pick – avoid metal tools that could damage the port
+3. For stubborn dirt, carefully use a toothpick or plastic dental pick, avoid metal tools that could damage the port
 
 4. Once clean, try charging your device again
 

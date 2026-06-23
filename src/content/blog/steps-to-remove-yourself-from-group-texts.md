@@ -6,7 +6,7 @@ category: "Communication Apps"
 featuredImage: "/wp-content/uploads/2024/07/HoS_RemoveYourself-2.jpg"
 ---
 
-We’ve all been there – stuck in a never-ending group text with no escape in sight. Your phone is blowing up with notifications about topics you have zero interest in. Wouldn’t it be great if you could just leave the conversation without any awkwardness? Well, if you’re an Android user, there’s good news. While Android doesn’t have a direct **leave conversation** option like iPhones, there are still ways to remove yourself from those pesky group chats. In this article, we’ll walk you through the steps to take back control of your messaging app and reclaim your sanity.
+We’ve all been there, stuck in a never-ending group text with no escape in sight. Your phone is blowing up with notifications about topics you have zero interest in. Wouldn’t it be great if you could just leave the conversation without any awkwardness? Well, if you’re an Android user, there’s good news. While Android doesn’t have a direct **leave conversation** option like iPhones, there are still ways to remove yourself from those pesky group chats. In this article, we’ll walk you through the steps to take back control of your messaging app and reclaim your sanity.
 
 ## 1. Mute the Conversation
 
@@ -28,7 +28,7 @@ Now you can go about your day in peace without your phone buzzing every two minu
 
 ## 2. Delete the Conversation
 
-If muting the conversation isn’t enough and you want to remove all traces of the group text from your phone, you can delete the entire thread. Keep in mind, this doesn’t actually remove you from the group – it just deletes the conversation from your device. If someone messages the group again, the thread will reappear. But it’s still a good temporary solution. Here’s how to delete a group conversation:
+If muting the conversation isn’t enough and you want to remove all traces of the group text from your phone, you can delete the entire thread. Keep in mind, this doesn’t actually remove you from the group, it just deletes the conversation from your device. If someone messages the group again, the thread will reappear. But it’s still a good temporary solution. Here’s how to delete a group conversation:
 
 ![](/wp-content/uploads/2024/07/HoS_RemoveYourself-1.jpg)
 

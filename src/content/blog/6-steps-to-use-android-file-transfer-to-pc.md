@@ -34,7 +34,7 @@ If Android File Transfer didn’t open automatically when you connected your pho
 
 ## Step 5: Transfer Files to Your PC
 
-Now the easy part – transferring your files! In the Android File Transfer window, navigate to the folders containing the files you want to move, such as Pictures, DCIM, Downloads, etc.To transfer a file, simply drag and drop it from the Android File Transfer window to your desktop or any folder on your PC. You can also select multiple files and folders at once using Shift+Click or Ctrl+Click.Alternatively, you can use the copy (Ctrl+C) and paste (Ctrl+V) commands to transfer files. Right-clicking a file will also bring up options to copy, delete, or rename the file.
+Now the easy part, transferring your files! In the Android File Transfer window, navigate to the folders containing the files you want to move, such as Pictures, DCIM, Downloads, etc.To transfer a file, simply drag and drop it from the Android File Transfer window to your desktop or any folder on your PC. You can also select multiple files and folders at once using Shift+Click or Ctrl+Click.Alternatively, you can use the copy (Ctrl+C) and paste (Ctrl+V) commands to transfer files. Right-clicking a file will also bring up options to copy, delete, or rename the file.
 
 ## Step 6: Disconnect Your Phone
 

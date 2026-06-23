@@ -76,7 +76,7 @@ Toggle the switch next to this option to the off position. The exact wording and
 
 **Step 6: Test it out**
 
-Open WhatsApp and start typing a message to confirm autocorrect is disabled. Try typing some misspelled words or slang terms – they should appear exactly as you typed them, without any automatic corrections.
+Open WhatsApp and start typing a message to confirm autocorrect is disabled. Try typing some misspelled words or slang terms, they should appear exactly as you typed them, without any automatic corrections.
 
 That’s it! You’ve now successfully turned off autocorrect for WhatsApp on your Android device. If you ever want to re-enable autocorrect, simply follow the same steps and toggle the autocorrect option back on.
 
@@ -86,7 +86,7 @@ Here are a few additional tips and common issues to keep in mind:
 
 - **Autocorrect vs. predictive text**: Some keyboards have separate options for autocorrect (automatically changing misspelled words) and predictive text (suggesting words as you type). If you only want to disable autocorrect but keep predictive suggestions, make sure to toggle off the right setting.
 
-- **Can’t find the autocorrect setting**: If you don’t see an autocorrect option in your keyboard settings, try looking for other text correction settings like **Auto replace** or **Predictive text** – these may control the autocorrect functionality on some keyboards.
+- **Can’t find the autocorrect setting**: If you don’t see an autocorrect option in your keyboard settings, try looking for other text correction settings like **Auto replace** or **Predictive text**, these may control the autocorrect functionality on some keyboards.
 
 - **Using a different keyboard app**: If you use a third-party keyboard app like SwiftKey or Grammarly Keyboard, the steps to disable autocorrect may differ slightly. Check the app’s settings or help documentation for specific instructions.
 
@@ -94,7 +94,7 @@ Here are a few additional tips and common issues to keep in mind:
 
 ### Conclusion
 
-Autocorrect can be a double-edged sword – helpful when it catches typos, but frustrating when it changes your intended words. By following the simple steps outlined in this article, you can easily disable autocorrect for WhatsApp on your Android device and take back control of your typing.
+Autocorrect can be a double-edged sword, helpful when it catches typos, but frustrating when it changes your intended words. By following the simple steps outlined in this article, you can easily disable autocorrect for WhatsApp on your Android device and take back control of your typing.
 
 Whether you want to avoid embarrassing mistakes, use non-standard language, or simply prefer unfiltered typing, turning off autocorrect is a quick customization that can make your WhatsApp experience smoother. Just remember that the setting is controlled by your keyboard rather than the WhatsApp app itself.
 

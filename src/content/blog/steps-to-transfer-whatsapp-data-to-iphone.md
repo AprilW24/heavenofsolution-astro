@@ -70,7 +70,7 @@ Before we dive into the steps, make sure you have the following:
 
 ## Method 2: Using a Third-Party WhatsApp Transfer Tool
 
-If you find the iTunes method too technical or time-consuming, you can use a reliable third-party WhatsApp transfer tool like iCareFone Transfer, dr.fone – WhatsApp Transfer, or AnyTrans. These tools simplify the process and allow you to transfer WhatsApp data from Android to iPhone without needing a computer. Here’s a general overview of the steps:
+If you find the iTunes method too technical or time-consuming, you can use a reliable third-party WhatsApp transfer tool like iCareFone Transfer, dr.fone, WhatsApp Transfer, or AnyTrans. These tools simplify the process and allow you to transfer WhatsApp data from Android to iPhone without needing a computer. Here’s a general overview of the steps:
 
 **1. Download and install the WhatsApp transfer tool on your computer**
 

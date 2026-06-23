@@ -50,7 +50,7 @@ If the above methods don’t work for your situation, you can try using a third-
 
 - iMyFone LockWiper (Android)
 
-- Dr.Fone – Screen Unlock (Android)
+- Dr.Fone, Screen Unlock (Android)
 
 - Tenorshare 4uKey for Android
 

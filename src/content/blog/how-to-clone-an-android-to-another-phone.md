@@ -10,7 +10,7 @@ Phone cloning is the process of creating an exact replica of your Android phoneâ
 
 ## Step 1: Download a Reliable Phone Cloning App
 
-The first step is to choose a trustworthy phone cloning app. Some popular options include **CLONEit**, **dr.fone â€“ Phone Transfer**, and **Phone Clone**. These apps are available on the Google Play Store and offer user-friendly interfaces for easy cloning. Download the app on both your old and new Android phones.
+The first step is to choose a trustworthy phone cloning app. Some popular options include **CLONEit**, **dr.fone, Phone Transfer**, and **Phone Clone**. These apps are available on the Google Play Store and offer user-friendly interfaces for easy cloning. Download the app on both your old and new Android phones.
 
 ## Step 2: Connect Both Phones
 

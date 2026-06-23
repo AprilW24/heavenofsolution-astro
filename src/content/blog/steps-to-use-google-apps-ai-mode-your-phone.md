@@ -6,13 +6,13 @@ category: "Google Apps"
 featuredImage: "/wp-content/uploads/2025/11/HoS_Steps-to-Use-Google-Apps-AI-Mode-on-Your-Phone.webp"
 ---
 
-Tired of feeling lost in endless search results on your phone? I’ve been there too, feeling like getting a simple answer should not mean endless scrolling or multi-tab chaos. With the new Google app update, AI Mode steps in, ready to make things way smoother, but there’s a twist—you don’t even get to pick if it’s on or off anymore. If you’ve noticed your searches starting to sound more… conversational, that’s the AI working in the background, turning your regular search into a smarter experience.
+Tired of feeling lost in endless search results on your phone? I’ve been there too, feeling like getting a simple answer should not mean endless scrolling or multi-tab chaos. With the new Google app update, AI Mode steps in, ready to make things way smoother, but there’s a twist, you don’t even get to pick if it’s on or off anymore. If you’ve noticed your searches starting to sound more… conversational, that’s the AI working in the background, turning your regular search into a smarter experience.
 
-In older versions, you had to switch this feature on or maybe even sign up through the Labs menu. Now, the latest Google app brings it to everyone, and there’s no toggle or secret settings menu to escape it. Whether you’re typing, talking, or even snapping a quick pic, AI Mode just rolls in to help. A lot of folks feel a mix of relief and confusion—no need to switch anything, but also no option to turn it off (yeah, it’s permanent now). Don’t worry, I’ll break down what’s changed and show how to make the most of these new superpowers for your day-to-day search routines.
+In older versions, you had to switch this feature on or maybe even sign up through the Labs menu. Now, the latest Google app brings it to everyone, and there’s no toggle or secret settings menu to escape it. Whether you’re typing, talking, or even snapping a quick pic, AI Mode just rolls in to help. A lot of folks feel a mix of relief and confusion, no need to switch anything, but also no option to turn it off (yeah, it’s permanent now). Don’t worry, I’ll break down what’s changed and show how to make the most of these new superpowers for your day-to-day search routines.
 
 ## How Google’s AI Mode Works Under the Hood for Everyone
 
-With the latest update, the Google app’s AI Mode is baked into every search, no opt-in needed. Every time you ask Google something, this smarter helper steps in, breaking down your question, checking context from your other queries, and giving you a direct, chatty answer. Doesn’t matter if you tap, talk, or upload photos—*Gemini* does the work, finding what you need a lot faster than old-school blue links.
+With the latest update, the Google app’s AI Mode is baked into every search, no opt-in needed. Every time you ask Google something, this smarter helper steps in, breaking down your question, checking context from your other queries, and giving you a direct, chatty answer. Doesn’t matter if you tap, talk, or upload photos, *Gemini* does the work, finding what you need a lot faster than old-school blue links.
 
 What makes this different from before? The AI Mode doesn’t just spit out a paragraph and call it a day. It checks follow-ups, lets you tweak your ask, and adds stuff like maps, images, or even action buttons if it thinks it will help. You might ask about the best tacos in *México City* and get a list, a map, and top reviews, all rolled into one. Keep in mind, there is no way to flip this off in your settings anymore, it’s always running whenever you use the app.
 
@@ -68,7 +68,7 @@ Just keep using the Google app the way you always have, and the AI will keep wor
 
 ### What if I want to turn off the AI Mode in Google app?
 
-There’s no way to switch it off anymore—it’s always enabled by default.
+There’s no way to switch it off anymore, it’s always enabled by default.
 
 ### Will the AI Mode always give me the answer at the top?
 

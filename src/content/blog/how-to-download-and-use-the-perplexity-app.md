@@ -34,9 +34,9 @@ The process of downloading Perplexity AI on your Android device is straightforwa
 
 1. **Open Google Play Store**: Locate and tap the Google Play Store icon on your Android device’s home screen or app drawer.
 
-2. **Search for Perplexity**: In the search bar at the top of the Play Store, type “Perplexity AI” or “Perplexity – Ask Anything” and press the search button.
+2. **Search for Perplexity**: In the search bar at the top of the Play Store, type “Perplexity AI” or “Perplexity, Ask Anything” and press the search button.
 
-3. **Locate the Official App**: In the search results, look for the official Perplexity app. It should be titled “Perplexity – Ask Anything” and developed by Perplexity AI.
+3. **Locate the Official App**: In the search results, look for the official Perplexity app. It should be titled “Perplexity, Ask Anything” and developed by Perplexity AI.
 
 4. **Install the App**: Tap on the “Install” button next to the app. If you’re prompted to accept any permissions, review them and tap “Accept” if you agree.
 
@@ -96,7 +96,7 @@ To truly harness the power of Perplexity AI, consider these tips:
 
 ## Conclusion
 
-Downloading and using the Perplexity AI app on your Android phone opens up a world of instant, accurate information at your fingertips. With its intuitive interface, powerful AI-driven search capabilities, and up-to-date information sourcing, Perplexity AI is more than just a search engine—it’s your personal knowledge assistant. By following the steps outlined in this guide, you’ll be well on your way to enhancing your information-seeking experience and expanding your knowledge base with ease.
+Downloading and using the Perplexity AI app on your Android phone opens up a world of instant, accurate information at your fingertips. With its intuitive interface, powerful AI-driven search capabilities, and up-to-date information sourcing, Perplexity AI is more than just a search engine, it’s your personal knowledge assistant. By following the steps outlined in this guide, you’ll be well on your way to enhancing your information-seeking experience and expanding your knowledge base with ease.
 
 ## FAQ
 

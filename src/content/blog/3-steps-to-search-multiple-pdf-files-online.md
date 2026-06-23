@@ -48,11 +48,11 @@ Using Acrobat’s Advanced Search is the most comprehensive way to search the fu
 
 In addition to Acrobat, there are other free and commercial PDF readers that support multi-file search, such as:
 
-- **Foxit Reader** – offers advanced search features similar to Acrobat
+- **Foxit Reader**, offers advanced search features similar to Acrobat
 
-- **Slim PDF** – a minimalist PDF reader with a quick multi-file search function
+- **Slim PDF**, a minimalist PDF reader with a quick multi-file search function
 
-- **PDF Search** – a dedicated desktop search utility for PDFs
+- **PDF Search**, a dedicated desktop search utility for PDFs
 
 There are also online PDF search services like Swiftype that can index and search PDFs hosted on your website or cloud storage platforms like Dropbox, Google Drive and OneDrive.
 

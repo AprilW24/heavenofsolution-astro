@@ -82,7 +82,7 @@ Maintaining a clean and organized contact list on WhatsApp is crucial for severa
 
 ## Conclusion
 
-Managing your WhatsApp contacts, especially those not in your address book, is an important aspect of maintaining your digital privacy and organization. By using the methods outlined in this guide—blocking contacts, deleting chats, or using the clear all chats feature—you can effectively remove unwanted contacts from your WhatsApp. Remember to regularly review your contacts and adjust your privacy settings to ensure a smooth and secure messaging experience.
+Managing your WhatsApp contacts, especially those not in your address book, is an important aspect of maintaining your digital privacy and organization. By using the methods outlined in this guide, blocking contacts, deleting chats, or using the clear all chats feature, you can effectively remove unwanted contacts from your WhatsApp. Remember to regularly review your contacts and adjust your privacy settings to ensure a smooth and secure messaging experience.
 
 ## FAQs
 

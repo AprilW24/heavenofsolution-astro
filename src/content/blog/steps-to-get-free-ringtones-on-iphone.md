@@ -38,7 +38,7 @@ When you’re happy with your new ringtone clip, tap the **Share** icon at the t
 
 #### Step 5: Set as Default Ringtone
 
-Exit GarageBand and open the **Settings** app on your iPhone. Go to **Sounds & Haptics > Ringtone**. Your new custom ringtone will be at the top – select it to make it your new default ringtone!
+Exit GarageBand and open the **Settings** app on your iPhone. Go to **Sounds & Haptics > Ringtone**. Your new custom ringtone will be at the top, select it to make it your new default ringtone!
 
 And that’s it! You’ve successfully set a custom ringtone on your iPhone without needing a computer or iTunes. You can repeat these steps to make multiple ringtones from songs in your music library.
 

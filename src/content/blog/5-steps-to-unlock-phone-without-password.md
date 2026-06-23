@@ -106,7 +106,7 @@ Once in Safe Mode, you may be able to access your device without the third-party
 
 ## Using Specialized Unlocking Software
 
-When all else fails, you might consider using specialized unlocking software. Tools like Dr.Fone – Screen Unlock, PassFab Android Unlocker, or DroidKit offer user-friendly interfaces to unlock various types of Android lock screens without data loss.
+When all else fails, you might consider using specialized unlocking software. Tools like Dr.Fone, Screen Unlock, PassFab Android Unlocker, or DroidKit offer user-friendly interfaces to unlock various types of Android lock screens without data loss.
 
 These tools typically work by:
 

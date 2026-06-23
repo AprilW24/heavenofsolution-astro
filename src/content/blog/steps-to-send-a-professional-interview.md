@@ -14,7 +14,7 @@ When you receive an interview invitation, it’s essential to respond promptly, 
 
 ## Step 2: Use a Clear Subject Line
 
-Your email’s subject line should be clear, concise, and informative. Include your name, the position you’re interviewing for, and the word **confirmation**. For example: “John Doe – Marketing Manager Interview Confirmation.” This helps the interviewer quickly identify the purpose of your email and locate it easily in their inbox.
+Your email’s subject line should be clear, concise, and informative. Include your name, the position you’re interviewing for, and the word **confirmation**. For example: “John Doe, Marketing Manager Interview Confirmation.” This helps the interviewer quickly identify the purpose of your email and locate it easily in their inbox.
 
 ## Step 3: Address the Interviewer Professionally
 

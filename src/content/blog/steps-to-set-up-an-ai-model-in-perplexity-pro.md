@@ -36,7 +36,7 @@ So many folks don’t realize Perplexity Pro gives you choices, not just the sta
 
 Depending on your subscription, you get access to the latest from OpenAI, Anthropic, and a few other options. Sometimes, the app automatically picks the model, but you can choose a different one if you want a specific approach. Free users are usually locked to one model, but Pro subscribers can select what fits their style.
 
-Switching models in Perplexity Pro isn’t just for tech nerds; it’s practical for anyone wanting creative answers or more technical info. Every model has a different way of responding, so you might get longer answers, more direct ones, or better reasoning skills depending on your selection. If you’re not finding the results you want, change it up—sometimes switching from GPT-4o to Claude makes all the difference.
+Switching models in Perplexity Pro isn’t just for tech nerds; it’s practical for anyone wanting creative answers or more technical info. Every model has a different way of responding, so you might get longer answers, more direct ones, or better reasoning skills depending on your selection. If you’re not finding the results you want, change it up, sometimes switching from GPT-4o to Claude makes all the difference.
 
 ## Tweaks, Tips, and Common Problems with Perplexity Pro Mobile AI Models
 

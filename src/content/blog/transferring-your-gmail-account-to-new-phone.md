@@ -164,7 +164,7 @@ Remember, if you’re still having trouble, Google’s support pages are an exce
 
 Congratulations! You’ve successfully transferred your Gmail account to your new phone. You now have access to all your important emails, contacts, and calendar events right at your fingertips.
 
-Remember, your Gmail account is more than just an email service—it’s a gateway to a whole ecosystem of Google products and services. Take some time to explore how you can use Gmail in conjunction with other Google apps to boost your productivity and streamline your digital life.
+Remember, your Gmail account is more than just an email service, it’s a gateway to a whole ecosystem of Google products and services. Take some time to explore how you can use Gmail in conjunction with other Google apps to boost your productivity and streamline your digital life.
 
 As you settle into using Gmail on your new device, don’t forget to keep your account secure. Regularly review your security settings, be cautious about the apps you grant access to your account, and always use strong, unique passwords.
 

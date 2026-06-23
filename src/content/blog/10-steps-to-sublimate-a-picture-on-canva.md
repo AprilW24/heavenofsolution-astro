@@ -6,7 +6,7 @@ category: "Video Players &amp; Editors"
 featuredImage: "/wp-content/uploads/2025/02/10-Steps-to-Sublimate-a-Picture-on-Canva-for-Beginners.webp"
 ---
 
-If you’re new to sublimate, it’s a process that allows you to turn your favorite images into durable designs on items like mugs, tumblers, or even fabrics. The key to successful sublimation is using the right tools and techniques. I’ve found that starting with a clear design is crucial, and that’s where Canva comes in – it’s super easy to use, even if you’re not a pro at graphic design.
+If you’re new to sublimate, it’s a process that allows you to turn your favorite images into durable designs on items like mugs, tumblers, or even fabrics. The key to successful sublimation is using the right tools and techniques. I’ve found that starting with a clear design is crucial, and that’s where Canva comes in, it’s super easy to use, even if you’re not a pro at graphic design.
 
 Creating sublimation designs in Canva is a fun way to personalize items like mugs or tumblers. Here’s how you can get started:
 

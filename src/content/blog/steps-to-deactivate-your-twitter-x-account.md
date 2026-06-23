@@ -98,4 +98,4 @@ Before you deactivate, remember to download your data if you want to keep a reco
 
 If complete deactivation doesn’t feel right for you, consider alternatives like taking a break, protecting your tweets, or using the block and mute functions to curate your experience.
 
-Ultimately, your social media presence should enhance your life, not detract from it. If deactivating your Twitter account feels like the right choice for you, follow the steps outlined in this guide. Remember, it’s your digital life – you’re in control.
+Ultimately, your social media presence should enhance your life, not detract from it. If deactivating your Twitter account feels like the right choice for you, follow the steps outlined in this guide. Remember, it’s your digital life, you’re in control.

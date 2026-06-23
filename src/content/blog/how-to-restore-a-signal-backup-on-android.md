@@ -32,7 +32,7 @@ Before you can restore anything, you need to make sure you have a backup file. S
 
 4. Choose a folder to store your backups.
 
-5. **Write down the 30-digit passphrase** – you’ll need this to restore your backup later.
+5. **Write down the 30-digit passphrase**, you’ll need this to restore your backup later.
 
 **Important**: Signal backups are encrypted and can only be restored using the passphrase. Keep this passphrase safe and secure!
 
@@ -82,7 +82,7 @@ Now you’re ready to restore your backup:
 
 1. You’ll be prompted to enter the 30-digit passphrase you created when setting up backups.
 
-2. **Enter the passphrase carefully** – there are no second chances if you get it wrong.
+2. **Enter the passphrase carefully**, there are no second chances if you get it wrong.
 
 3. Tap **Restore** after entering the passphrase.
 

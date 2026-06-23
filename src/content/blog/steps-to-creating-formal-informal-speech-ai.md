@@ -62,7 +62,7 @@ So next time you’re stuck, just grab your phone, set the tone, and let AI do t
 
 ### How do I know if my speech is formal or informal?
 
-Check the tone and word choices—formal speeches have respectful language and structured flow while informal ones use slang, jokes, and personal stories.
+Check the tone and word choices, formal speeches have respectful language and structured flow while informal ones use slang, jokes, and personal stories.
 
 ### Can I use AI if I have no writing experience?
 

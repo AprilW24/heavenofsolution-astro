@@ -36,7 +36,7 @@ Use the search bar if you have something specific in mind, like **nature** or **
 
 When you find a theme you like, click on it to see a larger preview. This will give you a better sense of what the theme will look like applied to your browser.
 
-If you decide you want to use the theme, click the blue **Add to Chrome** button. A popup will appear asking you to confirm – click **Add theme**. The theme will be immediately applied to Chrome.
+If you decide you want to use the theme, click the blue **Add to Chrome** button. A popup will appear asking you to confirm, click **Add theme**. The theme will be immediately applied to Chrome.
 
 **Tip:** If you change your mind right after adding a theme, look for the **Undo** button at the top of the Chrome Web Store page. Click it to revert to your previous theme.
 
@@ -58,4 +58,4 @@ Themes are just one of the ways you can personalize Chrome. While you’re in th
 
 ## Conclusion
 
-Themes are an easy, free, and fun way to make Chrome feel more like your own. With thousands of themes to choose from, you’re sure to find a look that suits your tastes. By following the simple steps in this article, you can have a fresh new browser style in minutes. So go ahead – express yourself and make Chrome a joy to use!
+Themes are an easy, free, and fun way to make Chrome feel more like your own. With thousands of themes to choose from, you’re sure to find a look that suits your tastes. By following the simple steps in this article, you can have a fresh new browser style in minutes. So go ahead, express yourself and make Chrome a joy to use!

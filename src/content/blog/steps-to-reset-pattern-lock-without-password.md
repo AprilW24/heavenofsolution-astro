@@ -54,7 +54,7 @@ If the above methods don’t work, your last resort to bypass your pattern lock 
 
 3. In recovery mode, use the volume buttons to scroll to **Wipe data/factory reset** and press the Power button to select it.
 
-4. Scroll down to **Yes – delete all user data** and select it.
+4. Scroll down to **Yes, delete all user data** and select it.
 
 5. Once the reset process completes, select the **Reboot system now** option.
 

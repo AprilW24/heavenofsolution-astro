@@ -76,8 +76,8 @@ Many Windows programs expect a keyboard and mouse, which can be awkward to use o
 
 With the steps outlined above, you can run some Windows EXE programs on your Android device without rooting it. The process involves using an extractor app to unpack the EXE file, then running it inside an emulator or compatibility layer.
 
-The experience won’t be perfect – not all programs will work, and performance will be slower than on an actual Windows PC. But for retro gaming or running simple Windows tools, this is a fun way to do more with your Android device.
+The experience won’t be perfect, not all programs will work, and performance will be slower than on an actual Windows PC. But for retro gaming or running simple Windows tools, this is a fun way to do more with your Android device.
 
-Just keep in mind the risks – running Windows programs on Android is still a bit of a hack and could potentially introduce bugs or security issues. Make sure to only run EXE files from sources you trust.
+Just keep in mind the risks, running Windows programs on Android is still a bit of a hack and could potentially introduce bugs or security issues. Make sure to only run EXE files from sources you trust.
 
 Hopefully this guide has helped you get started running EXE files on your Android device. Enjoy exploring this new cross-platform capability!

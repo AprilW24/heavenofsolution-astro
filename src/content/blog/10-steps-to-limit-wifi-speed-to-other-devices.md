@@ -10,7 +10,7 @@ In today’s connected world, managing your home or office WiFi network has beco
 
 ## Introduction
 
-We’ve all been there – you’re trying to stream your favorite show or join an important video call, but your internet connection is frustratingly slow. Meanwhile, someone else on the network is downloading massive files or gaming online, hogging all the bandwidth. Fortunately, there are ways to manage and limit WiFi speed to other devices, ensuring a more equitable distribution of your precious internet resources.
+We’ve all been there, you’re trying to stream your favorite show or join an important video call, but your internet connection is frustratingly slow. Meanwhile, someone else on the network is downloading massive files or gaming online, hogging all the bandwidth. Fortunately, there are ways to manage and limit WiFi speed to other devices, ensuring a more equitable distribution of your precious internet resources.
 
 **Why limit WiFi speed?**
 

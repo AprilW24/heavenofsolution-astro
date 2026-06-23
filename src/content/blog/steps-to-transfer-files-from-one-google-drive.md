@@ -56,4 +56,4 @@ The files will now be deleted from the source Drive account. However, they will 
 
 By following these simple steps, you can seamlessly transfer Google Drive files from one account to another **without having to share anything or compromise privacy**. This allows you to keep your files organized across accounts and maintain control over sensitive information.
 
-The beauty of cloud storage services like Google Drive is how accessible yet secure they make your data. With the transfer method outlined here, you get the best of both worlds – the flexibility to relocate files to different accounts and the peace of mind that your data remains private throughout the process.
+The beauty of cloud storage services like Google Drive is how accessible yet secure they make your data. With the transfer method outlined here, you get the best of both worlds, the flexibility to relocate files to different accounts and the peace of mind that your data remains private throughout the process.

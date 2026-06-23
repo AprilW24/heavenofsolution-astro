@@ -108,11 +108,11 @@ Once you’ve confirmed that everything transferred over correctly to your new p
 
 In addition to the built-in options above, there are also some helpful third-party apps that can make merging phones easier:
 
-- **Smart Switch** – Samsung’s official tool for transferring data to a new Galaxy phone
+- **Smart Switch**, Samsung’s official tool for transferring data to a new Galaxy phone
 
-- **CLONEit** – A popular app that can migrate your data wirelessly or with a cable
+- **CLONEit**, A popular app that can migrate your data wirelessly or with a cable
 
-- **Xender** – Lets you share files between two Android phones using Wi-Fi Direct
+- **Xender**, Lets you share files between two Android phones using Wi-Fi Direct
 
 These apps walk you through the process of migrating your apps, messages, call logs, music, and more.
 

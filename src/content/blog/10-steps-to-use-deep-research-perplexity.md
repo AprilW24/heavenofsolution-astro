@@ -6,7 +6,7 @@ category: "Video Players &amp; Editors"
 featuredImage: "/wp-content/uploads/2025/08/HoS-Steps-to-Use-Deep-Research-Feature-on-Perplexity-App.webp"
 ---
 
-So you want to tap into that *Deep Research* mode in the Perplexity app? I totally get it. This feature can save a ton of time when you need detailed info fast — like prepping reports, learning new markets, or breaking down complicated topics. Instead of scrolling forever, Deep Research finds the answers and brings them together for you. I’ve used it to check market trends and even planned my weekly workouts with the info it pulled. 💡
+So you want to tap into that *Deep Research* mode in the Perplexity app? I totally get it. This feature can save a ton of time when you need detailed info fast, like prepping reports, learning new markets, or breaking down complicated topics. Instead of scrolling forever, Deep Research finds the answers and brings them together for you. I’ve used it to check market trends and even planned my weekly workouts with the info it pulled. 💡
 
 Here’s the deal: Deep Research isn’t like regular search. It combs through hundreds of sources in minutes, reasons through what’s legit, and then lays out a big, neat report. Whether you’re on finance, tech trends, health science, or travel ideas, this tool’s got your back. And yep, even the free version lets you try it, with a few queries each day.
 
@@ -16,7 +16,7 @@ Here’s the deal: Deep Research isn’t like regular search. It combs through h
 
 2. Go straight to the search box at the top of the page.
 
-3. Hit the mode selector — you’ll see options like *Auto* and *Deep Research*.
+3. Hit the mode selector, you’ll see options like *Auto* and *Deep Research*.
 
 4. Flip the switch to *Deep Research* or ***Research ***mode.
 

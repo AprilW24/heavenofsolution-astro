@@ -58,4 +58,4 @@ Saving your important Gmail messages as PDFs is a smart way to preserve them for
 
 By following the simple steps outlined in this guide, you can quickly convert any Gmail email to a PDF on your Android device. While the Gmail app doesn’t support batch saving multiple emails at once, the process is still relatively quick to repeat for individual messages as needed.
 
-Consider making it a habit to save your most critical emails as PDFs and store them securely. That way you’ll have peace of mind knowing you can access them anywhere, anytime — even if you encounter issues with your email account down the line.
+Consider making it a habit to save your most critical emails as PDFs and store them securely. That way you’ll have peace of mind knowing you can access them anywhere, anytime, even if you encounter issues with your email account down the line.

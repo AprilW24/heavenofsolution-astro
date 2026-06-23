@@ -20,7 +20,7 @@ One of the simplest ways to determine when your Android device was activated is 
 
 4. You should see a list of your current and past Android devices along with details like the model name, manufacturer, and last activity date
 
-5. Look for the **Registered** date next to each device – this is the date that device was activated with your Google account
+5. Look for the **Registered** date next to each device, this is the date that device was activated with your Google account
 
 Keep in mind the **Registered** date reflects the last time you activated the device with your Google account. So if you did a factory reset and had to set it up again, this date will update to when you re-activated it.
 

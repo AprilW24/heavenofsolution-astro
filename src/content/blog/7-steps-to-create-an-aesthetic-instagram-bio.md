@@ -38,7 +38,7 @@ Stick to a few carefully selected emojis that tie into your overall aesthetic an
 
 While your bio should primarily focus on expressing your personality, it’s also important to include relevant keywords that help describe who you are and what you do. This will make it easier for potential followers to find you when searching for specific topics or niches on Instagram.
 
-Consider adding a few hashtags to your bio that align with your content themes and target audience. Just be sure not to go overboard – one or two strategically placed hashtags is plenty.
+Consider adding a few hashtags to your bio that align with your content themes and target audience. Just be sure not to go overboard, one or two strategically placed hashtags is plenty.
 
 ## 6. Highlight Your Skills and Passions
 
@@ -54,7 +54,7 @@ Your CTA should be short, direct, and specific to your goals on Instagram. It’
 
 ## Conclusion
 
-By following these 7 steps, you’ll be well on your way to crafting an Instagram bio that perfectly captures your unique style and personality. Remember, your bio is often the first point of contact between you and potential new followers – so it’s worth putting in the effort to make it stand out!
+By following these 7 steps, you’ll be well on your way to crafting an Instagram bio that perfectly captures your unique style and personality. Remember, your bio is often the first point of contact between you and potential new followers, so it’s worth putting in the effort to make it stand out!
 
 To recap, here are the key takeaways for centering your Instagram bio aesthetic:
 
@@ -72,4 +72,4 @@ To recap, here are the key takeaways for centering your Instagram bio aesthetic:
 
 7. Include a clear call-to-action
 
-With a little creativity and strategic thinking, you can create an Instagram bio that not only looks great, but also helps you attract your ideal audience and grow your following. So go ahead and put these tips into action – your perfect aesthetic bio awaits!
+With a little creativity and strategic thinking, you can create an Instagram bio that not only looks great, but also helps you attract your ideal audience and grow your following. So go ahead and put these tips into action, your perfect aesthetic bio awaits!

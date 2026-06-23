@@ -22,7 +22,7 @@ There are a bunch of free sites and apps for this, but look for ones powered by 
 
 2. Log in or make a quick account if needed.
 
-3. Choose or upload your present-day photo – clear, front-facing works best.
+3. Choose or upload your present-day photo, clear, front-facing works best.
 
 4. Pick your childhood pic, making sure the face is sharp and visible.
 

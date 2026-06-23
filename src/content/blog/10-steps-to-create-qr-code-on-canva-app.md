@@ -30,7 +30,7 @@ First things first, make sure you’ve got the Canva app installed on your Andro
 
 4. Hit the “Generate QR Code” button.
 
-5. Your QR code will now appear in your design – how cool is that? 😎
+5. Your QR code will now appear in your design, how cool is that? 😎
 
 ### Customize Your QR Code
 
@@ -40,7 +40,7 @@ First things first, make sure you’ve got the Canva app installed on your Andro
 
 ## Making It Your Own
 
-Now that you’ve got your QR code in place, why not make it pop? 🌈 Canva lets you customize the colors to match your brand or design. Just tap on the QR code and use the color options to change the background and foreground colors. Remember, though, keep it scannable – high contrast is key!
+Now that you’ve got your QR code in place, why not make it pop? 🌈 Canva lets you customize the colors to match your brand or design. Just tap on the QR code and use the color options to change the background and foreground colors. Remember, though, keep it scannable, high contrast is key!
 
 Don’t be afraid to get creative with your QR code placement! Try integrating it into your overall design. For example, you could make it part of an illustration or blend it with a photo background. Just make sure it remains clear and scannable. You could even add a call-to-action near the QR code, like “Scan me for more info!” to encourage engagement. 🎨
 

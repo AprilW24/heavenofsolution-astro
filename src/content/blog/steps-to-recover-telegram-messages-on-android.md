@@ -26,7 +26,7 @@ Telegram has a handy **Undo** feature that lets you quickly reverse a message de
 
 1. Delete a message in Telegram as usual by long pressing on it.
 
-2. You will see an **Undo** prompt appear at the bottom – tap it.
+2. You will see an **Undo** prompt appear at the bottom, tap it.
 
 3. The deleted message will be immediately restored in the chat.
 
@@ -58,7 +58,7 @@ The steps will vary depending on your backup tool. But in most cases you can:
 
 2. Choose a backup that contains Telegram data.
 
-3. Tap restore – this will overwrite your device data with the backup.
+3. Tap restore, this will overwrite your device data with the backup.
 
 4. Your deleted Telegram messages should now be recovered.
 
@@ -72,7 +72,7 @@ These tools dig deep into your device storage to find recoverable Telegram messa
 
 2. Connect your Android phone to the computer via USB.
 
-3. Scan your device – the tool will find deleted Telegram files.
+3. Scan your device, the tool will find deleted Telegram files.
 
 4. Preview and select the Telegram messages to recover.
 

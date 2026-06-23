@@ -54,7 +54,7 @@ To get started with creating a class in Canva Education, make sure you have an a
 
 Creating a class in Canva Education is a simple yet powerful way to enhance your teaching experience. By following these steps, you can set up an organized and engaging learning space that supports both you and your students.
 
-Using Canva for Education can also help you save time by automating some tasks and providing a centralized platform for all your teaching materials. This means you can focus more on what matters most—teaching and interacting with your students.
+Using Canva for Education can also help you save time by automating some tasks and providing a centralized platform for all your teaching materials. This means you can focus more on what matters most, teaching and interacting with your students.
 
 ## FAQs
 

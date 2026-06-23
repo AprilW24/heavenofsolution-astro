@@ -6,7 +6,7 @@ category: "Tools Apps"
 featuredImage: "/wp-content/uploads/2024/04/HeavenofSolution-18.jpg"
 ---
 
-Are you tired of seeing the Upday news app on your Samsung Android phone? While Upday aims to provide personalized news, many users find the notifications annoying or simply don’t use the app. Unfortunately, since Upday comes pre-installed on many Samsung devices, it’s not as straightforward to remove as other apps. But don’t worry – with a few steps, you can disable Upday and stop the unwanted notifications. In this article, we’ll walk you through how to turn off Upday on your Samsung Galaxy phone.
+Are you tired of seeing the Upday news app on your Samsung Android phone? While Upday aims to provide personalized news, many users find the notifications annoying or simply don’t use the app. Unfortunately, since Upday comes pre-installed on many Samsung devices, it’s not as straightforward to remove as other apps. But don’t worry, with a few steps, you can disable Upday and stop the unwanted notifications. In this article, we’ll walk you through how to turn off Upday on your Samsung Galaxy phone.
 
 ## Steps to Disable Upday on Android
 

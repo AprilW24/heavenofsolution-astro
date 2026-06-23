@@ -14,7 +14,7 @@ Before we dive into the how-to, let’s talk about why you might want to send mu
 
 - **Express enthusiasm**: Whether you’re sharing exciting news or just feeling the love, multiple hearts can help convey your upbeat mood.
 
-- **Celebrate a special occasion**: Birthdays, anniversaries, holidays – adding a stream of hearts is a festive way to mark a special day.
+- **Celebrate a special occasion**: Birthdays, anniversaries, holidays, adding a stream of hearts is a festive way to mark a special day.
 
 - **Show appreciation**: Want to thank your followers for their support? A burst of hearts is a warm way to send gratitude.
 

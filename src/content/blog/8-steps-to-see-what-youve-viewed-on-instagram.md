@@ -76,7 +76,7 @@ While it’s fascinating to delve into your Instagram activity, it’s also impo
 
 Being able to see what you’ve viewed on Instagram can be both insightful and practical. Whether you’re trying to find a specific post or simply curious about your browsing habits, the steps outlined in this article will help you navigate Instagram’s activity tracking features.
 
-Remember, the key to a positive Instagram experience is balance. Use these tools to enhance your enjoyment of the platform, but don’t become overly fixated on tracking every interaction. Instagram is ultimately about connecting, sharing, and discovering – so focus on creating meaningful engagement rather than obsessing over your viewing history.
+Remember, the key to a positive Instagram experience is balance. Use these tools to enhance your enjoyment of the platform, but don’t become overly fixated on tracking every interaction. Instagram is ultimately about connecting, sharing, and discovering, so focus on creating meaningful engagement rather than obsessing over your viewing history.
 
 By understanding how to access and manage your activity, you can tailor your Instagram experience to better suit your interests and needs. Whether you’re a casual user or a social media enthusiast, these insights into your viewing habits can help you make the most of your time on the platform.
 

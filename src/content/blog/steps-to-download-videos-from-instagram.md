@@ -116,7 +116,7 @@ If you prefer to work on a larger screen or want to download multiple videos at 
 
 4. In the developer tools panel that opens, search for “video” or “.mp4”.
 
-5. Look for a URL ending in “.mp4” – this is the direct link to the video file.
+5. Look for a URL ending in “.mp4”, this is the direct link to the video file.
 
 6. Copy this URL and paste it into a new browser tab.
 

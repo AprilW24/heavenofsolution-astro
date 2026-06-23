@@ -12,11 +12,11 @@ Transferring files between Android devices or from an Android phone to a PC is a
 
 There are a few key benefits to transferring files wirelessly instead of with a cable:
 
-- **Convenience** – No need to find a cable or physically connect devices
+- **Convenience**, No need to find a cable or physically connect devices
 
-- **Speed** – WiFi transfers are often faster than USB, especially for larger files
+- **Speed**, WiFi transfers are often faster than USB, especially for larger files
 
-- **Multiple devices** – Easily transfer files to multiple devices at once over WiFi
+- **Multiple devices**, Easily transfer files to multiple devices at once over WiFi
 
 Whether you need to share photos, videos, documents or other files, transferring over WiFi is a great option. Let’s look at the best ways to do it.
 
@@ -44,7 +44,7 @@ Another convenient option is to use an FTP (File Transfer Protocol) server app o
 
 - **FTP Server** (free)
 
-- **Solid Explorer** (paid) – full featured file manager with FTP server
+- **Solid Explorer** (paid), full featured file manager with FTP server
 
 To use an FTP server app:
 
@@ -84,9 +84,9 @@ This method works well for transferring files in both directions. You can also a
 
 Finally, there are various Android apps designed specifically for syncing files between devices over WiFi. A couple good options are:
 
-- **Send Anywhere** (free) – quickly send files between devices
+- **Send Anywhere** (free), quickly send files between devices
 
-- **AirDroid** (free basic version) – comprehensive device management features
+- **AirDroid** (free basic version), comprehensive device management features
 
 Using a dedicated syncing app provides a streamlined experience and adds convenience features like QR code scanning to connect devices.
 

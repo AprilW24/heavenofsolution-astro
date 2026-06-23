@@ -72,4 +72,4 @@ While not ideal, this method can help recover at least some of your lost message
 
 Losing important LINE chats can be stressful, but there are several ways to restore your chat history on Android. Always make sure LINE is backed up to Google Drive or create a local backup regularly. If you didn’t have a backup, special recovery software like iMyFone ChatsBack can still retrieve your deleted data.
 
-By following the steps outlined in this article, you have a great chance of getting your precious LINE conversations and media back. Don’t let accidental deletion ruin your day – be proactive about backing up and know the recovery options available to you.
+By following the steps outlined in this article, you have a great chance of getting your precious LINE conversations and media back. Don’t let accidental deletion ruin your day, be proactive about backing up and know the recovery options available to you.

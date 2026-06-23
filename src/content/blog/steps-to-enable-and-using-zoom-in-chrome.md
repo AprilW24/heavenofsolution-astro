@@ -42,7 +42,7 @@ Once force zoom is enabled, you can use Chrome’s built-in zoom controls to adj
 
 3. Select **Zoom**
 
-4. Use the slider to adjust zoom level or tap the **+** and **–** buttons
+4. Use the slider to adjust zoom level or tap the **+** and **, ** buttons
 
 You can also use pinch-to-zoom gestures on web pages to zoom in and out.
 

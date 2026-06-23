@@ -70,4 +70,4 @@ While Chrome’s translation feature is convenient and easy to use, there are a 
 
 Being able to translate pages on your phone opens up a whole world of content and information. With Chrome’s built-in translation feature, it’s easy to read pages in other languages with just a few taps. Whether you’re a frequent traveler, a language learner, or just curious about other cultures, this tool is invaluable.
 
-So next time you come across a page in a foreign language, don’t be intimidated – just let Chrome do the translating for you! With a little practice and some adjustments to your settings, you’ll be navigating the multilingual web like a pro in no time.
+So next time you come across a page in a foreign language, don’t be intimidated, just let Chrome do the translating for you! With a little practice and some adjustments to your settings, you’ll be navigating the multilingual web like a pro in no time.

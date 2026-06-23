@@ -26,7 +26,7 @@ This is your moment to get personal. Facebook is going to ask for the name you u
 
 Next up is gender selection. Facebook wants this detail for their records, but you can choose *Custom* or skip it if you want. Now comes the important part: you can sign up with a mobile number or an email. Put in whichever feels safer for you. If you’re using an email, double-check it’s spelled correctly, because Facebook will send a code to verify what you typed.
 
-Your password should be strong—mix numbers, capital letters, and symbols. Keep it secret and somewhere safe, because losing your password means a headache later. Before you wrap up, Facebook will ask you to confirm your phone or email with a code. Once you type that in, nearly done!
+Your password should be strong, mix numbers, capital letters, and symbols. Keep it secret and somewhere safe, because losing your password means a headache later. Before you wrap up, Facebook will ask you to confirm your phone or email with a code. Once you type that in, nearly done!
 
 If you like, upload a profile pic now or later. Facebook gives the choice to skip and do it after you’re signed in. Your new account is alive and waiting for you to add info, connect with friends, or just start scrolling. 📱
 

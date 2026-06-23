@@ -40,7 +40,7 @@ Additionally, Perplexity Assistant is built into the app for Android users, lett
 
 ## Tips for a Smooth Perplexity Account Setup
 
-Make sure your app is updated to the latest version from the Play Store to access all features including the Assistant. When signing up via email, if you don’t get the confirmation link right away, try resending it—sometimes it takes a moment to arrive. Also, setting a clear username and profile picture helps personalize your experience.
+Make sure your app is updated to the latest version from the Play Store to access all features including the Assistant. When signing up via email, if you don’t get the confirmation link right away, try resending it, sometimes it takes a moment to arrive. Also, setting a clear username and profile picture helps personalize your experience.
 
 Remember, you can always upgrade to a Pro plan later if you want more advanced features like additional Pro Searches per day. But the free account is solid for most casual and even professional uses.
 

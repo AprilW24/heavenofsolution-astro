@@ -22,7 +22,7 @@ Drag and drop your imported media onto the timeline at the bottom of the screen 
 
 ## Step 3: Edit Your Video
 
-Now comes the fun part – editing your video! CapCut offers a wide range of editing tools and features to help you create engaging content:
+Now comes the fun part, editing your video! CapCut offers a wide range of editing tools and features to help you create engaging content:
 
 - **Trim and Split**: Use the trim tool to remove unwanted parts of your clips. You can also split clips into smaller segments for more precise editing.
 
@@ -50,6 +50,6 @@ After exporting, you have two options for uploading to YouTube:
 
 Creating engaging YouTube videos doesn’t have to be difficult or expensive. With CapCut, you have access to a powerful yet intuitive video editing app that can help you produce professional-looking content quickly and easily.
 
-By following the steps outlined in this guide – importing your media, editing your video using CapCut’s various tools and features, and exporting and uploading to YouTube – you’ll be well on your way to creating videos that captivate and grow your audience.
+By following the steps outlined in this guide, importing your media, editing your video using CapCut’s various tools and features, and exporting and uploading to YouTube, you’ll be well on your way to creating videos that captivate and grow your audience.
 
 So what are you waiting for? Download CapCut today and start creating amazing YouTube videos!

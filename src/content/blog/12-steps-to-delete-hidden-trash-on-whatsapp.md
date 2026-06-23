@@ -16,9 +16,9 @@ Let’s sort out the problem from start to finish. You’ll get the easy guide f
 
 Hidden files are files that WhatsApp keeps in folders that you usually can’t see in the app or the phone gallery. These can be old videos, forwarded memes, voice notes, or group photos that seem gone but are hanging out in storage. Deleting a message or clearing media inside the app isn’t always enough because the copies or sent items can stay behind.
 
-You’ll need to dig deeper than the regular in-app controls. Android has more options—its file manager or *Files by Google* app can help. iPhone doesn’t give as much access, so the cleaning relies mostly on the app’s management feature. Always think about making a backup if those old files matter.
+You’ll need to dig deeper than the regular in-app controls. Android has more options, its file manager or *Files by Google* app can help. iPhone doesn’t give as much access, so the cleaning relies mostly on the app’s management feature. Always think about making a backup if those old files matter.
 
-For Android, opening special folders in a file manager reveals photos, video clips, gifs, and more in places like *WhatsApp Images* or *WhatsApp Video.* They also have hidden *Sent* or *Private* folders. Once you find these, it’s easy to spot what hogs space. On iPhone, it’s more locked down—mostly big files and messages are removable, but the secret folders stay.
+For Android, opening special folders in a file manager reveals photos, video clips, gifs, and more in places like *WhatsApp Images* or *WhatsApp Video.* They also have hidden *Sent* or *Private* folders. Once you find these, it’s easy to spot what hogs space. On iPhone, it’s more locked down, mostly big files and messages are removable, but the secret folders stay.
 
 ## Step-by-Step for Deleting WhatsApp Hidden Trash
 

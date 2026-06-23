@@ -26,7 +26,7 @@ Just follow these steps and you’ll be good to go:
 
 3. Click the *Focus* button that shows up below the chat box.
 
-4. Select your desired source from the drop-down menu—think *Academic* or *Social*.
+4. Select your desired source from the drop-down menu, think *Academic* or *Social*.
 
 5. Type in your question or request in the chat.
 
@@ -44,7 +44,7 @@ Just follow these steps and you’ll be good to go:
 
 Using *focus mode* means you don’t have to worry about mixed-quality info. You tell Perplexity where to look, so you stay in control. That’s perfect for when accuracy matters or you’ve got a specific research project.
 
-Most apps throw everything at you, but here you can trust what you get because you picked the source. It also speeds things up—no more digging through unrelated results or jumping between tabs. I usually find what I want much faster and don’t have to double-check facts as much.
+Most apps throw everything at you, but here you can trust what you get because you picked the source. It also speeds things up, no more digging through unrelated results or jumping between tabs. I usually find what I want much faster and don’t have to double-check facts as much.
 
 ## Some Things to Know Before Using Focus Mode
 
@@ -62,7 +62,7 @@ Give it a try the next time you’re looking for answers and need that extra bit
 
 ### How do I find the Focus button on the Perplexity Android app?
 
-Just start a new thread, and you’ll spot the *Focus* button below the chat box—pretty hard to miss once you know it’s there.
+Just start a new thread, and you’ll spot the *Focus* button below the chat box, pretty hard to miss once you know it’s there.
 
 ### Can I change my source after I’ve started a search?
 

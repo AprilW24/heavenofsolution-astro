@@ -44,11 +44,11 @@ Keep in mind this will erase any data or changes made to your phone since that b
 
 If your phone doesn’t have a recycle bin and you don’t want to restore an old backup, a third-party data recovery app may be able to scan your phone’s memory and extract deleted messages. Some options include:
 
-- **SMS Backup & Restore** – This free app allows you to create manual or scheduled backups of your texts to the cloud or your phone’s memory. It can also scan for and recover deleted messages.
+- **SMS Backup & Restore**, This free app allows you to create manual or scheduled backups of your texts to the cloud or your phone’s memory. It can also scan for and recover deleted messages.
 
-- **FonePaw Android Data Recovery** – This desktop program can deeply scan your Android phone for deleted data, including texts, and allow you to selectively restore them to your computer.
+- **FonePaw Android Data Recovery**, This desktop program can deeply scan your Android phone for deleted data, including texts, and allow you to selectively restore them to your computer.
 
-- **EaseUS MobiSaver for Android** – Another PC/Mac program that can recover deleted messages, contacts, photos, etc. from your phone’s internal memory or SD card.
+- **EaseUS MobiSaver for Android**, Another PC/Mac program that can recover deleted messages, contacts, photos, etc. from your phone’s internal memory or SD card.
 
 To use one of these recovery apps or programs:
 

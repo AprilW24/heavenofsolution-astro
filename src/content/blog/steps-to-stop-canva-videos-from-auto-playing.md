@@ -8,7 +8,7 @@ featuredImage: "/wp-content/uploads/2025/02/HoS-AutoPlay-Canva.webp"
 
 If you’re using Canva to create presentations or designs, you might have noticed that videos often start playing automatically. This can be distracting, especially if you’re trying to focus on other elements of your design. In this article, I’ll show you how to stop Canva videos from auto-playing, so you can control when they start and stop.
 
-I’ve been there too—working on a project and suddenly a video starts blasting sound or moving unexpectedly. It’s not only annoying but can also disrupt your workflow. Let’s fix this issue together! 📹
+I’ve been there too, working on a project and suddenly a video starts blasting sound or moving unexpectedly. It’s not only annoying but can also disrupt your workflow. Let’s fix this issue together! 📹
 
 ## Understanding Canva’s Video Settings
 

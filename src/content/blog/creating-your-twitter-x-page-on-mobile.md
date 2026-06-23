@@ -64,7 +64,7 @@ Choosing a secure password is vital for protecting your account:
 
 ### 5. Customize Your Profile
 
-Now comes the fun part – making your profile uniquely yours:
+Now comes the fun part, making your profile uniquely yours:
 
 - **Add a profile picture**: Tap the camera icon to upload a photo from your device or take a new one
 
@@ -156,7 +156,7 @@ Once you’ve created your Twitter page, here are some tips to help you make the
 
 - Include relevant hashtags to increase the discoverability of your tweets
 
-- Don’t overuse hashtags – 1-2 per tweet is often sufficient
+- Don’t overuse hashtags, 1-2 per tweet is often sufficient
 
 - Create or participate in trending hashtags related to your interests or industry
 

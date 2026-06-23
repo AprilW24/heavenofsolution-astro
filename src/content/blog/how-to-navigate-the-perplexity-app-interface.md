@@ -104,7 +104,7 @@ For users who upgrade to Perplexity Pro, additional features become available:
 
 ## Conclusion
 
-The Perplexity app for Android is a powerful tool that puts the world’s knowledge at your fingertips. With its intuitive interface and advanced AI capabilities, it’s more than just a search engine – it’s a personal research assistant that can help you explore, learn, and discover new ideas. By familiarizing yourself with the app’s features and navigation, you can unlock its full potential and enhance your quest for knowledge.
+The Perplexity app for Android is a powerful tool that puts the world’s knowledge at your fingertips. With its intuitive interface and advanced AI capabilities, it’s more than just a search engine, it’s a personal research assistant that can help you explore, learn, and discover new ideas. By familiarizing yourself with the app’s features and navigation, you can unlock its full potential and enhance your quest for knowledge.
 
 ## FAQ
 

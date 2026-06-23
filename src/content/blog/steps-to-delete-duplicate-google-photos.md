@@ -48,11 +48,11 @@ Google has an app called Files by Google that can scan your Android device for d
 
 2. Open the app and tap the **Clean** tab at the bottom
 
-3. Look for a card labeled **Duplicate files** – if there are no duplicates, this card will not appear
+3. Look for a card labeled **Duplicate files**, if there are no duplicates, this card will not appear
 
 4. Tap the **Select files** button on the card to view the duplicate photos
 
-5. The app will group the duplicates together – tap the **Original** label to keep that copy and delete the others
+5. The app will group the duplicates together, tap the **Original** label to keep that copy and delete the others
 
 6. After selecting which copies to remove, tap the **Delete** button to delete the duplicates
 
@@ -76,7 +76,7 @@ The basic process is similar for most of these apps:
 
 3. Select which folders or albums you want it to scan for duplicates
 
-4. Let the app scan your photo library – this may take a few minutes
+4. Let the app scan your photo library, this may take a few minutes
 
 5. Once the scan is complete, the app will show you groups of duplicate or similar photos it found
 

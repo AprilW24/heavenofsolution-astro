@@ -32,7 +32,7 @@ The people you shared with will receive an email invitation to open the document
 
 ### Step 4: Locate the Chat Icon
 
-Once someone else has opened the document, you’ll see their profile picture or initial in a circle at the top of the screen. To the left of the share button, look for the chat icon – it looks like a quote bubble.
+Once someone else has opened the document, you’ll see their profile picture or initial in a circle at the top of the screen. To the left of the share button, look for the chat icon, it looks like a quote bubble.
 
 If you don’t see the chat icon, it means no one else is currently viewing the document. The chat feature only works in real-time when multiple people have the doc open simultaneously.
 

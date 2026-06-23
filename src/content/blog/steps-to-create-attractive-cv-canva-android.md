@@ -46,7 +46,7 @@ The design matters just as much as what you write. Use no more than two fonts, o
 
 Always place your strongest section at the top. If you’re experienced, start with your job history. If you’re fresh out of school, lead with your skills or achievements. Adding a clean headshot is okay if the job calls for it. Just keep it small and sharp.
 
-You can also take advantage of Canva’s design tools—frames, borders, or icons—but keep them subtle. A plain background with simple icons adds charm without looking try-hard.
+You can also take advantage of Canva’s design tools, frames, borders, or icons, but keep them subtle. A plain background with simple icons adds charm without looking try-hard.
 
 ## Conclusion
 

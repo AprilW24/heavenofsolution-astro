@@ -10,7 +10,7 @@ Google Maps is an indispensable tool for navigating our world, whether you’re 
 
 ## Understanding Route Saving in Google Maps
 
-Before we dive into the specifics, it’s important to understand what “saving a route” means in Google Maps. When you save a route, you’re essentially creating a shortcut to a set of directions. This can be done in a few different ways on Android devices, including pinning routes and adding shortcuts to your home screen. It’s worth noting that saving a route doesn’t automatically make it available offline – we’ll cover that aspect separately.
+Before we dive into the specifics, it’s important to understand what “saving a route” means in Google Maps. When you save a route, you’re essentially creating a shortcut to a set of directions. This can be done in a few different ways on Android devices, including pinning routes and adding shortcuts to your home screen. It’s worth noting that saving a route doesn’t automatically make it available offline, we’ll cover that aspect separately.
 
 ## Pinning a Route in Google Maps
 
@@ -80,7 +80,7 @@ Remember that offline maps have size limitations, so for very long routes, you m
 
 ## Making the Most of Saved Routes
 
-Saving routes in Google Maps isn’t just about convenience – it can also help you plan more efficiently and explore new areas. Here are some ways to make the most of this feature:
+Saving routes in Google Maps isn’t just about convenience, it can also help you plan more efficiently and explore new areas. Here are some ways to make the most of this feature:
 
 - **Plan multi-stop trips**: Save routes with multiple stops for complex itineraries or road trips.
 

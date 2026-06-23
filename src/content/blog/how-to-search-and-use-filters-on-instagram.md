@@ -70,7 +70,7 @@ Another effective way to discover new filters is by following filter creators:
 
 3. Tap on the creator’s name to visit their profile.
 
-4. Look for a tab with a sparkle icon – this is where creators showcase their filters.
+4. Look for a tab with a sparkle icon, this is where creators showcase their filters.
 
 5. Follow the creator to stay updated on their new filter releases.
 
@@ -134,7 +134,7 @@ The world of Instagram filters is constantly evolving. To stay on top of trends:
 
 - Keep an eye on what influencers and brands in your niche are using.
 
-- Don’t be afraid to try out new and unconventional filters – you might discover something that perfectly suits your style.
+- Don’t be afraid to try out new and unconventional filters, you might discover something that perfectly suits your style.
 
 ## Conclusion
 

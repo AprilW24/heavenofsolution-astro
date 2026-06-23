@@ -6,7 +6,7 @@ category: "Google Apps"
 featuredImage: "/wp-content/uploads/2024/06/HeavenpfSolution_ClearCookiesChrome.jpg"
 ---
 
-Have you ever been typing in Chrome on your Android phone and noticed that instead of inserting new characters, your typing is overwriting the existing text? This frustrating behavior is called **overwrite mode** or **overtype mode**. Don’t worry though – it’s easy to turn off. In this article, we’ll walk through the simple steps to disable overwrite mode and get back to normal typing in Chrome on Android.
+Have you ever been typing in Chrome on your Android phone and noticed that instead of inserting new characters, your typing is overwriting the existing text? This frustrating behavior is called **overwrite mode** or **overtype mode**. Don’t worry though, it’s easy to turn off. In this article, we’ll walk through the simple steps to disable overwrite mode and get back to normal typing in Chrome on Android.
 
 ## What is Overwrite Mode?
 
@@ -26,7 +26,7 @@ Follow these quick steps to turn off overwrite mode in Chrome on your Android de
 
 5. Tap **Overwrite** to toggle it off. The option should disappear from the menu.
 
-6. Start typing normally – your text should now be inserted instead of overwriting existing characters
+6. Start typing normally, your text should now be inserted instead of overwriting existing characters
 
 That’s it! You’ve successfully disabled overwrite mode. If you ever need to enable it again, just repeat the steps above and tap **Overwrite** in the menu to toggle it back on.
 

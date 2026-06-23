@@ -22,7 +22,7 @@ If you’re okay with a hands-on approach, Canva lets you manually add subtitles
 
 4. **Style your text**: Adjust font, size, color, and alignment using the toolbar above.
 
-5. **Positioning**: Drag and place the text box where it’s most readable—usually at the bottom of the frame.
+5. **Positioning**: Drag and place the text box where it’s most readable, usually at the bottom of the frame.
 
 6. **Repeat for all scenes**: Continue adding new text boxes for each segment of the video.
 
@@ -86,6 +86,6 @@ Yes! Use text effects like shadows or animations from Canva’s toolbar to make 
 
 ### What’s the best way to ensure subtitle readability?
 
-High contrast between text and background is key—dark text on light backgrounds or vice versa works best.
+High contrast between text and background is key, dark text on light backgrounds or vice versa works best.
 
 Adding subtitles doesn’t have to be a chore! Whether you go manual or automated, Canva has tools to make it happen easily. Try these steps out and give your videos that extra touch! 😊

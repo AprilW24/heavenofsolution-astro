@@ -86,7 +86,7 @@ Some popular apps for custom Instagram fonts include:
 
 - Font for Instagram Story
 
-- Fonts – for Instagram
+- Fonts, for Instagram
 
 - Hype Type
 

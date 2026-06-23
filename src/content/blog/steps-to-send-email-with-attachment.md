@@ -18,13 +18,13 @@ On some Android devices or email apps, you may instead see an option that says *
 
 After tapping the attachment icon, you will be presented with a few options for adding an attachment from your Android device:
 
-- **Recent** – A list of your most recently accessed files that you can quickly attach
+- **Recent**, A list of your most recently accessed files that you can quickly attach
 
-- **Google Drive** – Files and documents stored in your Google Drive account
+- **Google Drive**, Files and documents stored in your Google Drive account
 
-- **Device folders** – Quick access to Downloads, Pictures, and other folders
+- **Device folders**, Quick access to Downloads, Pictures, and other folders
 
-- **Browse** – A file explorer to browse all files stored locally on your device
+- **Browse**, A file explorer to browse all files stored locally on your device
 
 Navigate to the file you want to attach. This can be a photo, Word document, PDF, Excel spreadsheet, or virtually any file type. Tap on the file to attach it.
 

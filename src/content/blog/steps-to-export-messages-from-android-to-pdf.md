@@ -24,11 +24,11 @@ There are several reasons you may want to export your Android SMS to PDF:
 
 To get started, you’ll need to download an app that can export text messages to PDF. Some popular options include:
 
-- SMS Backup & Restore – Free, with advanced features like automatic backups
+- SMS Backup & Restore, Free, with advanced features like automatic backups
 
-- SMS to Text – Simple interface for exporting messages to PDF or other formats
+- SMS to Text, Simple interface for exporting messages to PDF or other formats
 
-- Droid Transfer – Allows exporting messages to PDF, HTML, or plain text
+- Droid Transfer, Allows exporting messages to PDF, HTML, or plain text
 
 Choose the app that best suits your needs and install it on your Android phone.
 

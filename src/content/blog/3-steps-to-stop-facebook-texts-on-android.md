@@ -106,4 +106,4 @@ Managing your Facebook notifications, especially text messages, is an important 
 
 Remember, the goal is to make Facebook work for you, not the other way around. Don’t be afraid to experiment with different settings until you find the perfect balance. And if you ever feel overwhelmed by social media notifications, it’s okay to take a step back and disconnect for a while.
 
-By taking control of your notifications, you’re not just reducing digital clutter – you’re also reclaiming your time and attention. So go ahead, make those changes, and enjoy a more peaceful, notification-free Android experience!
+By taking control of your notifications, you’re not just reducing digital clutter, you’re also reclaiming your time and attention. So go ahead, make those changes, and enjoy a more peaceful, notification-free Android experience!

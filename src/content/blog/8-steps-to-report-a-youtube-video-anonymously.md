@@ -14,7 +14,7 @@ Key takeaways:
 
 - YouTube reviews all reports to determine if content violates guidelines
 
-- Reporting is completely anonymous – video creators cannot identify who reported them
+- Reporting is completely anonymous, video creators cannot identify who reported them
 
 - Taking action against inappropriate content helps create a better YouTube community
 

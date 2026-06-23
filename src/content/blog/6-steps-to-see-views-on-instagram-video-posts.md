@@ -78,7 +78,7 @@ This feature allows for more direct engagement with your audience and can be par
 
 Now that you know how to check your video views, you might be wondering how to boost those numbers. Here are some effective strategies to increase your Instagram video views:
 
-**1. Create Engaging Content**: This might seem obvious, but it’s the foundation of success on Instagram. Your videos should be visually appealing, informative, or entertaining – ideally, all three. Consider your audience’s interests and create content that adds value to their Instagram experience.
+**1. Create Engaging Content**: This might seem obvious, but it’s the foundation of success on Instagram. Your videos should be visually appealing, informative, or entertaining, ideally, all three. Consider your audience’s interests and create content that adds value to their Instagram experience.
 
 **2. Use Relevant Hashtags**: Hashtags are a powerful tool for discovery on Instagram. Research and use hashtags that are relevant to your content and industry. This can help your videos appear in searches and explore pages of users interested in similar topics.
 
@@ -90,7 +90,7 @@ Now that you know how to check your video views, you might be wondering how to b
 
 **6. Collaborate with Others**: Partnering with other creators or brands can expose your content to new audiences. Consider doing video collaborations or shoutouts to cross-promote each other’s content.
 
-**7. Experiment with Different Video Formats**: Try out various types of videos – tutorials, behind-the-scenes, day-in-the-life, or trending challenges. See what resonates best with your audience and refine your strategy accordingly.
+**7. Experiment with Different Video Formats**: Try out various types of videos, tutorials, behind-the-scenes, day-in-the-life, or trending challenges. See what resonates best with your audience and refine your strategy accordingly.
 
 **8. Use Captions Effectively**: Write compelling captions that encourage viewers to engage with your video. Ask questions, share interesting facts, or provide context that adds value to the visual content.
 

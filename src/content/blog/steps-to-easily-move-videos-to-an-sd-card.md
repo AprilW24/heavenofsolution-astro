@@ -8,7 +8,7 @@ featuredImage: "/wp-content/uploads/2024/07/HeavenofSolution_MoveVideos.jpg"
 
 If you’re running out of storage space on your Android phone, one easy solution is to move some of your larger files, like videos, to an SD card. Many Android phones have an SD card slot that allows you to expand your storage capacity. By moving videos and other media to the SD card, you can free up valuable space on your phone’s internal memory.
 
-In this article, we’ll walk through the simple steps to transfer a video from your Android phone’s internal storage to an SD card. We’ll cover two methods – using the Files by Google app that works on any Android phone, and using the My Files app on Samsung Galaxy devices. Let’s get started!
+In this article, we’ll walk through the simple steps to transfer a video from your Android phone’s internal storage to an SD card. We’ll cover two methods, using the Files by Google app that works on any Android phone, and using the My Files app on Samsung Galaxy devices. Let’s get started!
 
 ### 1. Before You Begin
 

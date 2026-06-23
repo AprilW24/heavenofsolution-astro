@@ -22,7 +22,7 @@ In today’s digital age, our email inboxes can quickly become cluttered with me
 
 ## Understanding Gmail’s Mobile Limitations
 
-Before we dive into the specifics, it’s important to note that the Gmail mobile app doesn’t have the same robust filtering and sorting options as its desktop counterpart. This means we’ll need to get a bit creative with our approach. Don’t worry, though – with a few simple tricks, you’ll be sorting your emails by size like a pro in no time.
+Before we dive into the specifics, it’s important to note that the Gmail mobile app doesn’t have the same robust filtering and sorting options as its desktop counterpart. This means we’ll need to get a bit creative with our approach. Don’t worry, though, with a few simple tricks, you’ll be sorting your emails by size like a pro in no time.
 
 ## Method 1: Using Search Operators
 

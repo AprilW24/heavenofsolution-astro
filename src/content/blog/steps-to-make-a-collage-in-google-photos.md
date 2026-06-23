@@ -108,6 +108,6 @@ To share your collage:
 
 Creating a collage in Google Photos on your Android device is a straightforward and enjoyable process. With just a few taps, you can transform your individual photos into a beautiful, shareable composition that tells a story or captures the essence of a moment. The app’s intuitive interface and variety of customization options make it accessible for users of all skill levels.
 
-Remember, the key to a great collage is selecting photos that work well together and experimenting with different layouts until you find the one that best suits your vision. Don’t be afraid to get creative and try out various combinations – the beauty of digital collage-making is that you can always start over if you’re not satisfied with the result.
+Remember, the key to a great collage is selecting photos that work well together and experimenting with different layouts until you find the one that best suits your vision. Don’t be afraid to get creative and try out various combinations, the beauty of digital collage-making is that you can always start over if you’re not satisfied with the result.
 
 Whether you’re commemorating a special event, showcasing your travels, or simply creating a fun visual representation of your memories, Google Photos’ collage feature is a powerful tool at your fingertips. So go ahead, dive into your photo library, and start creating stunning collages that bring your photos to life in new and exciting ways.

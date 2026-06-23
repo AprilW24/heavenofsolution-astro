@@ -8,7 +8,7 @@ featuredImage: "/wp-content/uploads/2025/11/HoS_Steps-to-Create-Quick-Summaries-
 
 Struggling to bite through endless documents or web pages on your phone? Been there. Long texts can zap your energy and kill your vibe, especially if you just want the main points for work, school, or a quick share with friends. Luckily, your phone isn’t just for selfies and scrolling. You can actually get smart, fast summaries with just a few taps if you know where to look and what prompt to use.
 
-Let me talk you through the stress I felt, too. Juggling PDFs, articles, or those giant meeting notes was eating so much of my time—and I started looking for a way that was fast, easy, and didn’t feel like homework. Here’s how you can get the same shortcut and skip the heavy reading thanks to a bunch of handy AI tools and some smart ways to use them. Your focus gets freed up for memes, music, and what really matters.
+Let me talk you through the stress I felt, too. Juggling PDFs, articles, or those giant meeting notes was eating so much of my time, and I started looking for a way that was fast, easy, and didn’t feel like homework. Here’s how you can get the same shortcut and skip the heavy reading thanks to a bunch of handy AI tools and some smart ways to use them. Your focus gets freed up for memes, music, and what really matters.
 
 ## How Modern AI Tools Work on Mobile
 

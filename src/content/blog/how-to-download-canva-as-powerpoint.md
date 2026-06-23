@@ -92,7 +92,7 @@ These slides should now appear in your PowerPoint presentation, maintaining thei
 
 ### 5. Adding Animated Slides to PowerPoint
 
-Now for the exciting part – adding your animated slides:
+Now for the exciting part, adding your animated slides:
 
 1. In PowerPoint, create a new blank slide where you want to insert an animated slide.
 
@@ -112,7 +112,7 @@ With all your slides now in PowerPoint, it’s time for some final adjustments:
 
 - **Adjust timings**: For your animated GIF slides, you might want to adjust how long they display. Right-click on the slide, select “Transitions,” and adjust the timing under “Advance Slide.”
 
-- **Add transitions**: Consider adding transitions between your regular slides to create a smoother flow. Be careful not to overdo it – simple fade transitions often work best.
+- **Add transitions**: Consider adding transitions between your regular slides to create a smoother flow. Be careful not to overdo it, simple fade transitions often work best.
 
 - **Review and test**: Play through your entire presentation to ensure everything looks and functions as expected.
 
@@ -130,7 +130,7 @@ To make the most of this process, keep these tips in mind:
 
 ## Conclusion
 
-Downloading Canva presentations as PowerPoint files with animations intact may seem challenging at first, but with this step-by-step guide, you’re well-equipped to tackle the task. Remember, the key is to export your regular slides as a PowerPoint file and your animated slides as individual GIFs. By combining these elements in a new PowerPoint presentation, you can create a dynamic, visually appealing slideshow that captures the best of both worlds – Canva’s design prowess and PowerPoint’s familiarity and compatibility.
+Downloading Canva presentations as PowerPoint files with animations intact may seem challenging at first, but with this step-by-step guide, you’re well-equipped to tackle the task. Remember, the key is to export your regular slides as a PowerPoint file and your animated slides as individual GIFs. By combining these elements in a new PowerPoint presentation, you can create a dynamic, visually appealing slideshow that captures the best of both worlds, Canva’s design prowess and PowerPoint’s familiarity and compatibility.
 
 With practice, you’ll find that this process becomes second nature, allowing you to leverage the strengths of both platforms to create presentations that truly stand out. So go ahead, unleash your creativity, and wow your audience with stunning visuals and seamless animations!
 

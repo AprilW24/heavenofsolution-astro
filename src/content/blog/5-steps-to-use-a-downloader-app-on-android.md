@@ -38,9 +38,9 @@ The first step is to download and install ADM on your Android phone or tablet. H
 
 When you first open ADM, it will request several permissions in order to function properly. The main permissions it needs are:
 
-- **Storage** – to save downloaded files on your device
+- **Storage**, to save downloaded files on your device
 
-- **Phone** – to pause downloads on incoming calls
+- **Phone**, to pause downloads on incoming calls
 
 Tap **Allow** when prompted to grant these permissions. You can always adjust them later in your device’s Apps settings if needed.
 
@@ -48,15 +48,15 @@ Tap **Allow** when prompted to grant these permissions. You can always adjust th
 
 Before you start downloading, it’s a good idea to configure ADM’s settings for optimal performance. Tap the **three-dot menu** button and select **Settings**. Here are some key settings to customize:
 
-- **Download folder** – choose where downloads are saved
+- **Download folder**, choose where downloads are saved
 
-- **Number of simultaneous downloads** – more downloads at once can slow things down
+- **Number of simultaneous downloads**, more downloads at once can slow things down
 
-- **Number of parts** – break files into parts for multi-threaded downloading (4-8 is good)
+- **Number of parts**, break files into parts for multi-threaded downloading (4-8 is good)
 
-- **Speed limits** – set max speeds if needed to conserve data or bandwidth
+- **Speed limits**, set max speeds if needed to conserve data or bandwidth
 
-- **Scheduler** – set up automatic downloading rules
+- **Scheduler**, set up automatic downloading rules
 
 Feel free to explore the other settings and customize ADM to your liking. Remember you can always come back and adjust these later.
 
@@ -78,13 +78,13 @@ Now when you click on download links in your browser, the files will automatical
 
 You’re now ready to start downloading files with ADM! There are a few ways to initiate a download:
 
-- **Browser integration** – click download links and they’ll open in ADM
+- **Browser integration**, click download links and they’ll open in ADM
 
-- **Copy URL** – copy a file’s URL, open ADM, and paste it in
+- **Copy URL**, copy a file’s URL, open ADM, and paste it in
 
-- **Torrent files** – download .torrent files and open them with ADM
+- **Torrent files**, download .torrent files and open them with ADM
 
-- **Built-in browser** – use ADM’s basic built-in browser to navigate to files
+- **Built-in browser**, use ADM’s basic built-in browser to navigate to files
 
 Once a download starts, you’ll see its progress and details. You can **pause**, **resume**, or **cancel** downloads as needed. Completed downloads can be opened right from the ADM interface.
 

@@ -8,7 +8,7 @@ featuredImage: "/wp-content/uploads/2025/10/Steps-to-Recognize-Fake-News-with-AI
 
 We all scroll through our feeds every day, and fake news has gotten tricky to spot. Deepfakes, voice clones, and bogus posts are popping up faster than ever, and they can fool even the most tech-savvy of us. The problem is that misinformation spreads fast, stirring confusion and chaos.
 
-But here’s the good part—AI isn’t just creating fakes; it’s also fighting them. From phone apps that scan videos for manipulation to fact-check bots that analyze claims, you’ve got smart tools right in your pocket. This post breaks down how AI can help you catch fake stuff before it spreads and how to use those tools like a pro 📱🤔
+But here’s the good part, AI isn’t just creating fakes; it’s also fighting them. From phone apps that scan videos for manipulation to fact-check bots that analyze claims, you’ve got smart tools right in your pocket. This post breaks down how AI can help you catch fake stuff before it spreads and how to use those tools like a pro 📱🤔
 
 And don’t worry, we’ll keep it simple. If you’ve got a phone and a few minutes, you’ll have what you need to filter the lies from the truth like a digital detective.
 

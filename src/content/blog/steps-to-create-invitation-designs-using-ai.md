@@ -12,7 +12,7 @@ AI invitation tools on your phone remove stress and save time. You just type wha
 
 ## Picking the Right App for AI Invitation Designing
 
-There are a ton of good apps and web tools for creating invitation designs with AI. MolyPix.AI, Canva, and FlipHTML5 bring professional templates and let you use simple prompts so you don’t need to mess with layouts or colors. Just enter your event details and the vibe you want, and the app spits out an invite that’s unique—no graphic design degree needed.
+There are a ton of good apps and web tools for creating invitation designs with AI. MolyPix.AI, Canva, and FlipHTML5 bring professional templates and let you use simple prompts so you don’t need to mess with layouts or colors. Just enter your event details and the vibe you want, and the app spits out an invite that’s unique, no graphic design degree needed.
 
 Most AI-powered options take you through the whole process, so you don’t need to stress about missing out on RSVP info or forgetting *venú* details. Plus, they have mobile-friendly layouts, you can pick fonts, drop in pics, or even use a Remix feature for a new look. These platforms work for *cumpleaños*, weddings, business events, and casual hangouts. You can edit everything before sharing online or printing at home.
 
@@ -24,7 +24,7 @@ Most AI-powered options take you through the whole process, so you don’t need 
 
 3. Choose an event type, like *boda*, *cumpleaños*, or business meeting.
 
-4. Fill in your event details—name, date, time, location, RSVP contact.
+4. Fill in your event details, name, date, time, location, RSVP contact.
 
 5. Decide on your preferred design theme, color, or layout.
 
@@ -48,7 +48,7 @@ This is flexible for swapping in any details, theme, or event type you want. Jus
 
 ## Extra Features Can Personalize Your Invitation Design
 
-You get editing tools built into most AI apps, so you can add pics, change colors, or tweak fonts until the invite fits your style. Some platforms let you upload your own images or logos for an even more personal look. You’re not stuck with one single design—refresh, remix, and regenerate until it feels right.
+You get editing tools built into most AI apps, so you can add pics, change colors, or tweak fonts until the invite fits your style. Some platforms let you upload your own images or logos for an even more personal look. You’re not stuck with one single design, refresh, remix, and regenerate until it feels right.
 
 If you need to match your invitation to a certain holiday, business motif, or include a QR code for digital RSVP, these tools have options. Once your design looks perfect, just download, share directly with your guest list, or post it on *Instagram* and other socials.
 
@@ -78,4 +78,4 @@ Yes, the invitations can be saved as images or PDFs and printed at home or throu
 
 ### Are the invitation designs unique every time I use a new prompt?
 
-They sure are—the style, colors, and layout change based on what you type into your prompt, so every invite can be different.
+They sure are, the style, colors, and layout change based on what you type into your prompt, so every invite can be different.

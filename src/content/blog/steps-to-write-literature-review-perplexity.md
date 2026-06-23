@@ -46,11 +46,11 @@ Then, it’s time to review the sources you pulled: check their credibility, dat
 
 Once you’ve got the bones of your review, use Perplexity to sharpen things up. The app lets you export your work to PDF or share your results straight from the platform. You can even organize your notes by themes or time periods. Want to see connections between papers? Ask Perplexity to show related literature, so you aren’t just repeating past research but digging deeper.
 
-One feature I love is the conversational follow-up: ask things like “what’s missing in this research?” or “which paper compares behavioral economics and sociology best?” Then, you get a quick summary and links to jump directly to each study. If you’re working with other people, you can invite them to review or add comments—all in one space. Just keep your focus on extracting insights and avoid getting lost in endless searching! 📚
+One feature I love is the conversational follow-up: ask things like “what’s missing in this research?” or “which paper compares behavioral economics and sociology best?” Then, you get a quick summary and links to jump directly to each study. If you’re working with other people, you can invite them to review or add comments, all in one space. Just keep your focus on extracting insights and avoid getting lost in endless searching! 📚
 
 ## Conclusion
 
-Writing a literature review doesn’t have to be slow and painful. The right tools let you search smarter, organize thoughts, and synthesize info without the usual headaches. I’ve shaved hours off my review process with Perplexity by asking better questions and letting AI speed up my grunt work. Just remember to cross-check and read the originals yourself—accuracy beats speed every time.
+Writing a literature review doesn’t have to be slow and painful. The right tools let you search smarter, organize thoughts, and synthesize info without the usual headaches. I’ve shaved hours off my review process with Perplexity by asking better questions and letting AI speed up my grunt work. Just remember to cross-check and read the originals yourself, accuracy beats speed every time.
 
 Ready to give your literature review that polished finish? Use my guide above to pair your own critical reading with Perplexity’s AI help. You’ll free up time and maybe even enjoy the process. Happy writing! 🚀
 
@@ -66,7 +66,7 @@ Yes! Just ask about themes that are least discussed or check for conflicting fin
 
 ### Is it safe to trust all answers from Perplexity?
 
-Always double-check—AI can miss details or generate mistakes, so always read the original papers.
+Always double-check, AI can miss details or generate mistakes, so always read the original papers.
 
 ### Can I organize my sources with Perplexity?
 

@@ -46,7 +46,7 @@ Remember, the key is to find a balance between what’s in demand and what you e
 
 ## Step 3: Design Your Canva Templates
 
-Now comes the fun part – creating your templates! When designing, keep these points in mind:
+Now comes the fun part, creating your templates! When designing, keep these points in mind:
 
 1. **Start from scratch:** Canva’s terms of use prohibit selling their pre-made templates. Create original designs using Canva’s free elements, fonts, and your creativity.
 
@@ -122,7 +122,7 @@ Remember, building a successful Etsy shop takes time and effort. Be patient and 
 
 ## Conclusion
 
-Selling Canva templates on Etsy can be a rewarding way to monetize your creativity and design skills. By following these steps – from setting up your Canva account to marketing your products – you’ll be well on your way to building a successful digital product business. Remember to stay up-to-date with Canva’s terms of use and Etsy’s policies, and always strive to create high-quality, unique templates that solve problems for your customers. With dedication and persistence, you can turn your Canva template shop into a thriving source of passive income.
+Selling Canva templates on Etsy can be a rewarding way to monetize your creativity and design skills. By following these steps, from setting up your Canva account to marketing your products, you’ll be well on your way to building a successful digital product business. Remember to stay up-to-date with Canva’s terms of use and Etsy’s policies, and always strive to create high-quality, unique templates that solve problems for your customers. With dedication and persistence, you can turn your Canva template shop into a thriving source of passive income.
 
 ## FAQ
 

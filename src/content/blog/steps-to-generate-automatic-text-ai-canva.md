@@ -76,4 +76,4 @@ Yep, it works on both desktop and the Canva mobile app.
 
 ### What kind of content can it make?
 
-It can write anything—captions, blog ideas, quotes, short bios, letters, and even summaries.
+It can write anything, captions, blog ideas, quotes, short bios, letters, and even summaries.

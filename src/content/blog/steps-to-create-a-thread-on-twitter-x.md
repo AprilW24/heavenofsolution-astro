@@ -32,7 +32,7 @@ Now that we understand the purpose and benefits of Twitter threads, let’s get 
 
 ### Step 1: Open the Twitter App
 
-The first step is simple – open the Twitter app on your Android device. Make sure you’re logged into the account from which you want to post the thread.
+The first step is simple, open the Twitter app on your Android device. Make sure you’re logged into the account from which you want to post the thread.
 
 ### Step 2: Compose Your First Tweet
 

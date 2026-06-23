@@ -54,13 +54,13 @@ The Facebook app background will now change to black/dark gray.
 
 ### Benefits of Using Dark Mode
 
-- Easier on your eyes, especially at night – Dark mode reduces brightness and glare
+- Easier on your eyes, especially at night, Dark mode reduces brightness and glare
 
-- Save battery life – Dark interfaces use less power on OLED displays
+- Save battery life, Dark interfaces use less power on OLED displays
 
-- Looks sleek – Many people prefer dark mode aesthetically
+- Looks sleek, Many people prefer dark mode aesthetically
 
-- Won’t disrupt night vision – Using your phone in the dark won’t negatively impact eyesight
+- Won’t disrupt night vision, Using your phone in the dark won’t negatively impact eyesight
 
 So if you often use Facebook at night or want to enable a darker, sleeker look, be sure to turn on Facebook’s built-in dark mode.
 

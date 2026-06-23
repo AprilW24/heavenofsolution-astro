@@ -50,7 +50,7 @@ The process to share your Exchange calendar on Android is very similar to iOS:
 
 **4. Tap the plus sign** and enter the name or email of the person you want to share with.
 
-**5. Choose their permission level** – view all details, edit, or view only free/busy.
+**5. Choose their permission level**, view all details, edit, or view only free/busy.
 
 **6. Tap “Add”** to send the sharing invitation.
 

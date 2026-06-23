@@ -40,15 +40,15 @@ Now just keep playing to set a high score! The current score displays in the upp
 
 Here are some tips to help you set higher Snake scores in Google Chrome:
 
-- **Move around the edges** – This gives you more space to react.
+- **Move around the edges**, This gives you more space to react.
 
-- **Cut corners around pellets** – Don’t pick them up head-on.
+- **Cut corners around pellets**, Don’t pick them up head-on.
 
-- **Feint in one direction** – Then quickly grab the pellet from the side.
+- **Feint in one direction**, Then quickly grab the pellet from the side.
 
-- **Use zoom out** – More space to see pellets and corners.
+- **Use zoom out**, More space to see pellets and corners.
 
-- **Practice regularly** – Familiarize yourself with the keystrokes.
+- **Practice regularly**, Familiarize yourself with the keystrokes.
 
 ### Conclusion
 

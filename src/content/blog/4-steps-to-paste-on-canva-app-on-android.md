@@ -8,7 +8,7 @@ featuredImage: "/wp-content/uploads/2025/03/4-Steps-to-Paste-on-Canva-App-on-And
 
 If you’re a creative person or someone who loves designing on the go, the Canva app is a fantastic tool for Android users. It offers a wide range of templates, fonts, and design elements that make creating anything from social media posts to presentations a breeze. 
 
-One of the most useful features in Canva is the ability to copy and paste elements, which can save you a lot of time and effort when you need to reuse content across different designs. However, if you’re new to using Canva on your Android device, figuring out how to copy and paste might seem a bit tricky at first. Don’t worry, though—once you get the hang of it, you’ll be creating seamless designs in no time! 📱
+One of the most useful features in Canva is the ability to copy and paste elements, which can save you a lot of time and effort when you need to reuse content across different designs. However, if you’re new to using Canva on your Android device, figuring out how to copy and paste might seem a bit tricky at first. Don’t worry, though, once you get the hang of it, you’ll be creating seamless designs in no time! 📱
 
 ### Understanding the Basics
 

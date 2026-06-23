@@ -156,4 +156,4 @@ Enabling voice search in Chrome for Android can significantly enhance your brows
 
 Remember, voice search technology is continually evolving, so keep an eye out for new features and improvements in future Chrome updates. As you become more comfortable with voice search, you may find it becoming an indispensable part of your daily digital interactions.
 
-Whether you’re looking up quick facts, navigating to websites, or performing complex searches, voice search in Chrome for Android is a powerful tool at your fingertips – or rather, at the tip of your tongue. Give it a try and experience the convenience of browsing the web with just your voice!
+Whether you’re looking up quick facts, navigating to websites, or performing complex searches, voice search in Chrome for Android is a powerful tool at your fingertips, or rather, at the tip of your tongue. Give it a try and experience the convenience of browsing the web with just your voice!

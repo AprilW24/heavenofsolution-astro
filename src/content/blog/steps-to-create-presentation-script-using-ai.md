@@ -46,7 +46,7 @@ I usually start in ChatGPT or Gemini and then finalize my edits in Google Slides
 
 Here’s one AI prompt I use when I need a script that feels natural and ready to use. Just copy, paste, and replace the parts in brackets with your details.
 
-Write a full presentation script that lasts around [time, like 5 minutes]. The topic is [your topic]. Make it sound clear, confident, and natural — like someone talking to an audience casually. Include a short intro, key points in separate paragraphs, and a closing line that sounds memorable. Don’t make it sound too formal or like a textbook.
+Write a full presentation script that lasts around [time, like 5 minutes]. The topic is [your topic]. Make it sound clear, confident, and natural, like someone talking to an audience casually. Include a short intro, key points in separate paragraphs, and a closing line that sounds memorable. Don’t make it sound too formal or like a textbook.
 
 ## Conclusion
 

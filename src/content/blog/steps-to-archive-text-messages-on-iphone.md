@@ -22,7 +22,7 @@ The easiest way to archive iPhone text messages is using iCloud backup. Here are
 
 **Step 5:** Scroll to the bottom and tap on **iCloud Backup**. Ensure **iCloud Backup** is turned on. This will back up your entire iPhone, including text messages, to iCloud.
 
-The advantage of using iCloud backup is it happens automatically in the background as long as you have internet connectivity. The downside is you cannot directly access the backed up text messages – you would need to restore the backup to an iPhone to view the messages.
+The advantage of using iCloud backup is it happens automatically in the background as long as you have internet connectivity. The downside is you cannot directly access the backed up text messages, you would need to restore the backup to an iPhone to view the messages.
 
 ### 2. Use iTunes Backup
 

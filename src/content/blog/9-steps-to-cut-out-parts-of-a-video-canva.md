@@ -10,7 +10,7 @@ If you’re looking to edit videos on the go, Canva’s Android app is a great t
 
 ![](/wp-content/uploads/2024/11/HoS_Canva.jpg)
 
-When it comes to video editing, precision is key. You might have recorded a great video, but there are moments you wish you could remove—like a pause, a mistake, or an unnecessary segment. Canva makes this process easy by providing a simple yet effective video editing interface. With Canva, you can upload your video, trim it to focus on the important parts, and even add transitions or effects to make it more engaging. The app is user-friendly, making it accessible to both beginners and experienced editors. Plus, it supports various video formats, so you can work with whatever you have on hand. Here’s how you can use Canva to cut out parts of a video on Android:
+When it comes to video editing, precision is key. You might have recorded a great video, but there are moments you wish you could remove, like a pause, a mistake, or an unnecessary segment. Canva makes this process easy by providing a simple yet effective video editing interface. With Canva, you can upload your video, trim it to focus on the important parts, and even add transitions or effects to make it more engaging. The app is user-friendly, making it accessible to both beginners and experienced editors. Plus, it supports various video formats, so you can work with whatever you have on hand. Here’s how you can use Canva to cut out parts of a video on Android:
 
 ## Understanding Canva’s Video Editing Features
 

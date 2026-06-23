@@ -14,7 +14,7 @@ The digital world gets wild; messages vanish before you know it. Not every phone
 
 A lot of folks still don’t know Android phones actually create local WhatsApp backups without telling you. These local files are the secret weapon, sometimes you can restore conversations from them if you move quick. I’ve done this myself when my old phone lost messages. Just remember, local backups only stick around for a few days, so speed is key if you want to use this hack.
 
-When it comes to iPhone, things are a bit more strict, but there are *third-party* apps that scan your device for deleted messages and sometimes pull back the stuff you thought was gone. Apps like *Gbyte Recovery* and *UltData* are pretty famous for this—don’t expect miracles, but they help if your messages aren’t totally overwritten.
+When it comes to iPhone, things are a bit more strict, but there are *third-party* apps that scan your device for deleted messages and sometimes pull back the stuff you thought was gone. Apps like *Gbyte Recovery* and *UltData* are pretty famous for this, don’t expect miracles, but they help if your messages aren’t totally overwritten.
 
 ## Step-by-Step Use of Data Recovery Tools for WhatsApp Without Backup
 
@@ -34,7 +34,7 @@ Trying these steps out can help get your deleted chats back, even when backup is
 
 Sometimes you just need to ask. I deleted some conversations, realized my friend still had them in their *WhatsApp* archive. Just asked them to send over the messages again. If you erase messages from your side, they might still exist for the other person till they update their *WhatsApp* app or clear their chat. This simple trick only works with select chats, but it’s worth trying if your lost message was extra important.
 
-There’s also a tiny window to undo deletion on your own phone—just a few seconds after you delete a message, an *Undo* button sometimes appears. I’ve used it once in a panic. If you’re fast, you can reverse the delete and get your chats back immediately.
+There’s also a tiny window to undo deletion on your own phone, just a few seconds after you delete a message, an *Undo* button sometimes appears. I’ve used it once in a panic. If you’re fast, you can reverse the delete and get your chats back immediately.
 
 ## Conclusion
 

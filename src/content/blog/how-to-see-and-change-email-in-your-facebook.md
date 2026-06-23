@@ -6,7 +6,7 @@ category: "Social Apps"
 featuredImage: "/wp-content/uploads/2021/10/Facebook.jpg"
 ---
 
-Ever get stuck trying to figure out which email you used for your Facebook? Or maybe you want to swap it out for a new one and keep your account up-to-date? I’ve been there, and trust me, it’s easier than you think. I’ll walk you through checking your current email and switching it up right from your Android phone. No stress, just simple steps—so you can keep your Facebook notifications rolling into the right inbox. 📱✉️
+Ever get stuck trying to figure out which email you used for your Facebook? Or maybe you want to swap it out for a new one and keep your account up-to-date? I’ve been there, and trust me, it’s easier than you think. I’ll walk you through checking your current email and switching it up right from your Android phone. No stress, just simple steps, so you can keep your Facebook notifications rolling into the right inbox. 📱✉️
 
 Sometimes, we forget which email we used when signing up, or we just want to use a new one. Facebook lets you see, add, or switch your email address right from the app. If you’re worried about missing updates or just want to tidy up your account, these steps will sort you out. Let’s get your Facebook details sorted and keep things running smooth.
 
@@ -44,13 +44,13 @@ Sometimes, we forget which email we used when signing up, or we just want to use
 
 ## What Happens When You Change Your Email on Facebook
 
-Changing your email on Facebook doesn’t mess with your account or posts. Your login just updates to the new email, and all notifications start coming to the new address. If you added a new email, you’ll need to confirm it through a code sent to that inbox—just to make sure it’s really you.
+Changing your email on Facebook doesn’t mess with your account or posts. Your login just updates to the new email, and all notifications start coming to the new address. If you added a new email, you’ll need to confirm it through a code sent to that inbox, just to make sure it’s really you.
 
 If you ever lose access to your old email, switching to a new one keeps your account safe and easy to recover. You can keep multiple emails linked, but only one can be set as primary for logins and alerts. If you hit any snags (like not getting the confirmation code), double-check your spam folder or try again.
 
 ## Why You Might Not Be Able to Remove Your Old Email
 
-Sometimes, Facebook won’t let you remove your old email until you’ve set a new one as primary. If you’re stuck, make sure your new email is confirmed and set as the main one. Still can’t delete it? Try using a browser on your computer—some features work better there. If all else fails, Facebook support can help, but usually, the steps above do the trick.
+Sometimes, Facebook won’t let you remove your old email until you’ve set a new one as primary. If you’re stuck, make sure your new email is confirmed and set as the main one. Still can’t delete it? Try using a browser on your computer, some features work better there. If all else fails, Facebook support can help, but usually, the steps above do the trick.
 
 ## Conclusion
 

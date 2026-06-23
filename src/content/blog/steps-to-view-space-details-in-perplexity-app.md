@@ -6,7 +6,7 @@ category: "AI Apps"
 featuredImage: "/wp-content/uploads/2025/11/HoS_Steps-to-View-Space-Details-in-the-Perplexity-App.webp"
 ---
 
-Ever been in the Perplexity app and wondered what the heck is inside a *Space* and where to find all the info you need? Maybe you joined a new project, or someone shared a Space with you and it’s full of mystery. It used to frustrate me too, until I figured out exactly how to see what makes each *Space* tick, from sources to descriptions to those special instructions that change how the AI responds. If finding this info feels tricky, or you always miss those details, don’t worry—I got you.
+Ever been in the Perplexity app and wondered what the heck is inside a *Space* and where to find all the info you need? Maybe you joined a new project, or someone shared a Space with you and it’s full of mystery. It used to frustrate me too, until I figured out exactly how to see what makes each *Space* tick, from sources to descriptions to those special instructions that change how the AI responds. If finding this info feels tricky, or you always miss those details, don’t worry, I got you.
 
 The good news is, checking out the nitty-gritty details of a Space in the app is super easy once you know where to tap. You’ll be able to see if there are custom setup notes, who added what, where the files and links live, and what kind of info you can pull up for your own threads in that Space. I’ll show you every quick step, so even if you’re new to Perplexity Spaces, you’ll be moving like a pro in a few taps. Ready? Let’s go! 🚀
 
@@ -38,7 +38,7 @@ That’s it. A few swipes and you’re in. 🫰
 
 ## What kind of info is visible when you view Space details
 
-Once you reach the details screen, it’s more than just a name and a list of posts. I always check for a few things that help me know how to use the Space or what’s expected. You’ll find a *Description* that usually gives a short rundown of the Space—think topic, project, or team message. There’s a section called *Instructions* where special rules or custom prompts set the vibe for how the AI answers in that Space. Down below, the *Sources* part lists out web links, uploaded files, or anything the owner connected as a knowledge base for everyone.
+Once you reach the details screen, it’s more than just a name and a list of posts. I always check for a few things that help me know how to use the Space or what’s expected. You’ll find a *Description* that usually gives a short rundown of the Space, think topic, project, or team message. There’s a section called *Instructions* where special rules or custom prompts set the vibe for how the AI answers in that Space. Down below, the *Sources* part lists out web links, uploaded files, or anything the owner connected as a knowledge base for everyone.
 
 Some Spaces get super organized, and you’ll see extensive notes, templates, or shared files ready to go. Others just keep it simple with a couple tags and a link or two. These details can change the way you ask questions or what kind of help you get, so don’t skip this screen.
 

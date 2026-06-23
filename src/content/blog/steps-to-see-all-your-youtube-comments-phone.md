@@ -12,7 +12,7 @@ YouTube has become an integral part of our daily lives, offering a platform for 
 
 Before we dive into the step-by-step process, it’s important to understand why you might want to review your YouTube comment history. Perhaps you’ve made an insightful comment that you’d like to reference again, or maybe you’re curious about your past interactions on the platform. Whatever your reason, having access to your comment history can be both useful and enlightening.
 
-It’s worth noting that the method to view your YouTube comments on mobile devices is not as straightforward as it is on desktop computers. The YouTube mobile app doesn’t have a built-in feature to directly access your comment history. However, don’t worry – there’s still a way to see all your comments, and we’ll guide you through the process.
+It’s worth noting that the method to view your YouTube comments on mobile devices is not as straightforward as it is on desktop computers. The YouTube mobile app doesn’t have a built-in feature to directly access your comment history. However, don’t worry, there’s still a way to see all your comments, and we’ll guide you through the process.
 
 ## Steps to See All Your YouTube Comments on Your Phone
 

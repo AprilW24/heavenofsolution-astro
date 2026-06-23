@@ -58,7 +58,7 @@ While Google Docs offers dozens of fonts to choose from, they aren’t all creat
 
 - **Consider your audience.** Choose fonts that match the tone of your content and will resonate with your readers. For example, a serious business document should use a traditional font while a casual note to a friend can be more playful.
 
-- **When in doubt, pick a standard font.** If you’re unsure which font to use, you can’t go wrong with classics like Times New Roman, Arial, Verdana, or Georgia. They are popular for a reason – they look good and are very readable.
+- **When in doubt, pick a standard font.** If you’re unsure which font to use, you can’t go wrong with classics like Times New Roman, Arial, Verdana, or Georgia. They are popular for a reason, they look good and are very readable.
 
 ### Troubleshooting Font Issues in Google Docs Mobile
 

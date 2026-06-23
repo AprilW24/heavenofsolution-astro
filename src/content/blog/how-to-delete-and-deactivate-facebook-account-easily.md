@@ -52,7 +52,7 @@ All info, from your posts to login history, can be copied. The process is fast, 
 
 Deactivation makes your page invisible, but your stuff stays safe. You can come back whenever by logging in again, and everyone will see your profile back like nothing happened. If you delete, everything is gone after 30 days. Also, if you’ve created multiple profiles under one *Facebook* account, deleting the main one wipes out all others. For linked apps and games, you’ll need to reconnect them if you decide to start fresh.
 
-A few things still linger—your name might remain in group messages or apps you used before. To be completely wiped, unlink everything through your settings before deleting. Back up contacts and info from *Messenger* too, since they go away after you confirm deletion.
+A few things still linger, your name might remain in group messages or apps you used before. To be completely wiped, unlink everything through your settings before deleting. Back up contacts and info from *Messenger* too, since they go away after you confirm deletion.
 
 ## Conclusion
 

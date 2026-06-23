@@ -76,6 +76,6 @@ In addition to the methods outlined above, there are a few other ways to get iTu
 
 ## Conclusion
 
-So there you have it – several ways to get your beloved iTunes music library onto your Android phone or tablet. Whether you prefer the straightforward method of manually transferring files, the convenience of syncing through Google Play Music, or the seamless integration of the Apple Music app, you have options to get your tunes on your Android device.
+So there you have it, several ways to get your beloved iTunes music library onto your Android phone or tablet. Whether you prefer the straightforward method of manually transferring files, the convenience of syncing through Google Play Music, or the seamless integration of the Apple Music app, you have options to get your tunes on your Android device.
 
 The best method for you ultimately depends on the size of your iTunes library, your willingness to pay for subscriptions, and how much time you want to spend setting things up. But with a little effort, you’ll be jamming out to your iTunes playlists on your Android in no time! Happy listening!

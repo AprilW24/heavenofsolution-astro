@@ -44,11 +44,11 @@ Instagram will then process your request and send you a link to download your da
 
 If the above methods don’t work, you can try using third-party recovery tools that specialize in retrieving deleted Instagram posts. These tools often require you to log in with your Instagram credentials and may come with a fee. However, they can be effective in recovering posts that were deleted long ago. Some popular recovery tools include:
 
-- **Recoverit** – A data recovery software that can recover deleted Instagram posts from your device’s storage.
+- **Recoverit**, A data recovery software that can recover deleted Instagram posts from your device’s storage.
 
-- **Fonelab** – An iOS and Android data recovery tool that can retrieve deleted Instagram posts, stories, and messages.
+- **Fonelab**, An iOS and Android data recovery tool that can retrieve deleted Instagram posts, stories, and messages.
 
-- **iMobie PhoneRescue** – A recovery tool that can restore deleted Instagram posts, as well as other social media content.
+- **iMobie PhoneRescue**, A recovery tool that can restore deleted Instagram posts, as well as other social media content.
 
 Before using any third-party recovery tool, make sure to research and read reviews to ensure the legitimacy and safety of the software.
 

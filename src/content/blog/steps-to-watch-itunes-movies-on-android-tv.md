@@ -80,4 +80,4 @@ Converting does take some extra time and effort compared to streaming, but it gi
 
 So while there’s no **iTunes app** for Android TV, by using one of the methods above, you can still enjoy your iTunes movie collection on the big screen. The Apple TV app is the most seamless option if it’s available on your TV. AirPlay and screen mirroring are also easy to use from an iPhone, iPad or Mac. And if you want a permanent, DRM-free solution, converting the videos with a third-party tool is the way to go.
 
-Whichever method you choose, you’ll be able to make the most of your iTunes library and watch your favorite movies and shows on your Android TV. No need to repurchase or subscribe to another service – with a few steps, you can bring your existing collection to the big screen.
+Whichever method you choose, you’ll be able to make the most of your iTunes library and watch your favorite movies and shows on your Android TV. No need to repurchase or subscribe to another service, with a few steps, you can bring your existing collection to the big screen.

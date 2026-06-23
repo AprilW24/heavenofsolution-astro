@@ -36,7 +36,7 @@ Some devices keep things simple, just letting you move and resize, while others 
 
 Having Google’s search right at your fingertips kinda changes the whole experience of using your phone. No need to open an app, just type or tap for voice search and boom, information delivered. It’s not just about searching either, you can access features like Google Lens or get quick answers with voice. This tiny bar makes you faster and more productive every day, whether you’re hunting for directions, lyrics, or details on that *kimchi* recipe your friend texted last night. I use it daily, and honestly, feel lost if it’s missing from my screen.
 
-Got questions about the bar, or want to try more widgets? There’s a widget for nearly everything—weather, shortcuts, even your calendar. Mix and match your setup, make your phone your own. If you ever lose the bar, you already know how easy it is to get it back.
+Got questions about the bar, or want to try more widgets? There’s a widget for nearly everything, weather, shortcuts, even your calendar. Mix and match your setup, make your phone your own. If you ever lose the bar, you already know how easy it is to get it back.
 
 ## Conclusion
 

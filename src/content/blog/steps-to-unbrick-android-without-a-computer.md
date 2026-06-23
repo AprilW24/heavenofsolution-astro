@@ -58,7 +58,7 @@ To perform a factory reset:
 
 4. In recovery mode, highlight **Wipe data/factory reset** and press Power to select
 
-5. Scroll down to **Yes – delete all user data** and press Power
+5. Scroll down to **Yes, delete all user data** and press Power
 
 6. Once done, select **Reboot system now**
 

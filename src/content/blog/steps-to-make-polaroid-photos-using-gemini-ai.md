@@ -24,7 +24,7 @@ Another thing I dig is the creative part. You can mix styles, use backgrounds yo
 
 3. Prepare one or two selfie images, or grab snapshots you want to turn into *polaroids*.
 
-4. Decide on a vibe—retro, cozy, urban, *anime*, outdoor, or something else.
+4. Decide on a vibe, retro, cozy, urban, *anime*, outdoor, or something else.
 
 5. Tap “**Upload**” and choose your photo(s).
 

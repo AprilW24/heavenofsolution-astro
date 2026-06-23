@@ -54,7 +54,7 @@ With your project open, it’s time to add the text you want to animate:
 
 ## Step 4: Apply Text Animation
 
-Now comes the fun part – adding animation to your text:
+Now comes the fun part, adding animation to your text:
 
 1. Select the text box you want to animate.
 
@@ -64,7 +64,7 @@ Now comes the fun part – adding animation to your text:
 
 4. Adjust the duration of the animation if needed.
 
-Canva offers various animation styles, so experiment to find the one that best suits your content. Remember, consistency is key – try to stick to one or two animation styles throughout your video for a cohesive look.
+Canva offers various animation styles, so experiment to find the one that best suits your content. Remember, consistency is key, try to stick to one or two animation styles throughout your video for a cohesive look.
 
 ## Step 5: Fine-tune Your Timing
 
@@ -124,7 +124,7 @@ Once you’re satisfied with your animated text video:
 
 Animating text in Canva video is a powerful way to create engaging content that captures your audience’s attention. By following these steps and experimenting with different styles and timings, you can produce professional-looking videos that effectively communicate your message.
 
-Remember, the key to success lies in planning, consistency, and practice. Don’t be discouraged if your first attempts aren’t perfect – with each video you create, you’ll become more proficient in using Canva’s text animation features.
+Remember, the key to success lies in planning, consistency, and practice. Don’t be discouraged if your first attempts aren’t perfect, with each video you create, you’ll become more proficient in using Canva’s text animation features.
 
 As you continue to explore Canva’s capabilities, you’ll discover even more ways to enhance your videos. From adding transitions between scenes to incorporating your own footage, the possibilities are vast. So, start experimenting today and watch your video content come to life with animated text!
 

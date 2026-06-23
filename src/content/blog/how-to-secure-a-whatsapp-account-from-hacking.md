@@ -12,13 +12,13 @@ Most people think WhatsApp is already safe because of *end-to-end encryption*, b
 
 ## Why Social Hacking is a Big Problem on WhatsApp
 
-Social hacking isn’t about breaking codes—it’s about tricking people. Hackers might act like they’re your friend, a family member, or even WhatsApp support. They’ll ask for your *verification code*, send fake links, or try to get you to share personal info. Once they have what they want, they can take over your account, message your contacts, or worse.
+Social hacking isn’t about breaking codes, it’s about tricking people. Hackers might act like they’re your friend, a family member, or even WhatsApp support. They’ll ask for your *verification code*, send fake links, or try to get you to share personal info. Once they have what they want, they can take over your account, message your contacts, or worse.
 
-The scary part? These attacks are getting more convincing. You might get a message that looks totally normal, but it’s a trap. That’s why it’s smart to double-check everything and never share codes or sensitive info—even if the message seems legit. I’ve seen people get caught off guard by someone pretending to be a close friend, so don’t let your guard down.
+The scary part? These attacks are getting more convincing. You might get a message that looks totally normal, but it’s a trap. That’s why it’s smart to double-check everything and never share codes or sensitive info, even if the message seems legit. I’ve seen people get caught off guard by someone pretending to be a close friend, so don’t let your guard down.
 
 ## How WhatsApp’s Built-In Security Features Help You Stay Safe
 
-WhatsApp has some solid security features, but you’ve got to turn them on and use them right. Things like *two-step verification*, *app lock*, and *end-to-end encrypted backups* make it way harder for hackers to break in—even if they get your number or try to log in from a new device. These settings are easy to set up and give you way more control over your privacy.
+WhatsApp has some solid security features, but you’ve got to turn them on and use them right. Things like *two-step verification*, *app lock*, and *end-to-end encrypted backups* make it way harder for hackers to break in, even if they get your number or try to log in from a new device. These settings are easy to set up and give you way more control over your privacy.
 
 I always check my *linked devices* to make sure nobody else is logged in, and I keep my privacy settings tight. I also avoid public Wi-Fi for WhatsApp and only download the app from the official store. These little habits add up and make a huge difference in keeping your account safe.
 
@@ -42,7 +42,7 @@ I always check my *linked devices* to make sure nobody else is logged in, and I 
 
 ## Keeping Your Chats Private and Avoiding Sneaky Attacks
 
-Privacy is more than just locking your app. I always keep my *last seen*, profile photo, and status visible only to my contacts—or sometimes to nobody. This keeps random people from seeing too much about me. I also turn off message previews on my lock screen so nobody can read my chats if my phone is lying around.
+Privacy is more than just locking your app. I always keep my *last seen*, profile photo, and status visible only to my contacts, or sometimes to nobody. This keeps random people from seeing too much about me. I also turn off message previews on my lock screen so nobody can read my chats if my phone is lying around.
 
 If I get a weird message or call from someone I don’t know, I block and report them right away. Hackers love to use fake accounts to fish for info, so don’t give them a chance. And if you ever think you clicked something shady, change your passwords and check your account security ASAP.
 
@@ -54,7 +54,7 @@ If you ever lose access to your account, act fast. Use your recovery email, rese
 
 ## Conclusion
 
-Securing your WhatsApp from social hacking isn’t hard—it just takes a few minutes and some smart habits. I lock down my account, watch for weird messages, and never share codes or personal info. It’s way better to be safe than sorry.
+Securing your WhatsApp from social hacking isn’t hard, it just takes a few minutes and some smart habits. I lock down my account, watch for weird messages, and never share codes or personal info. It’s way better to be safe than sorry.
 
 Take these steps seriously, and you’ll keep hackers out and your chats private. Stay sharp, keep your info close, and enjoy messaging without the stress. 👍
 
@@ -66,11 +66,11 @@ Go to *Settings* → *Account* → *Two-step verification* and follow the prompt
 
 ### What should I do if I get a message asking for my WhatsApp code?
 
-Ignore it, block the sender, and never share your code with anyone—even if they seem familiar.
+Ignore it, block the sender, and never share your code with anyone, even if they seem familiar.
 
 ### Can someone hack my WhatsApp if they have my phone number?
 
-Not easily, but if they trick you into sharing a code or PIN, they can take over your account—so always keep that info private.
+Not easily, but if they trick you into sharing a code or PIN, they can take over your account, so always keep that info private.
 
 ### How do I check for unknown devices on my WhatsApp?
 

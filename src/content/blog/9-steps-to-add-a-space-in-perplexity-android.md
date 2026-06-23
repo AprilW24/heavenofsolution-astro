@@ -8,7 +8,7 @@ featuredImage: "/wp-content/uploads/2025/05/Steps-to-add-a-space-in-the-Perplexi
 
 I used to get lost in my threads and research on Perplexity, especially when things got messy on my phone. If you’re like me and want to keep everything tidy or collaborate with others, adding a *Space* in the Perplexity Android app is the way to go. *Spaces* let you group threads, upload files, and even set custom instructions for the AI. It’s a simple fix that makes your workflow smoother and your projects easier to manage. I’ll walk you through the exact steps, plus some tips on how to use *Spaces* like a pro. Ready to level up your Perplexity game? 🛠️
 
-Sometimes, features on apps can feel hidden, especially after an update. I’ve been there—tapping around, trying to find where to start a new *Space*. If you want to organize your research, work with friends, or just keep your AI chats sorted, this guide will show you how to do it step by step. No jargon, no guessing, just clear instructions and a few extra pointers to make sure you get the most out of *Spaces*.
+Sometimes, features on apps can feel hidden, especially after an update. I’ve been there, tapping around, trying to find where to start a new *Space*. If you want to organize your research, work with friends, or just keep your AI chats sorted, this guide will show you how to do it step by step. No jargon, no guessing, just clear instructions and a few extra pointers to make sure you get the most out of *Spaces*.
 
 ## How to Add a Space in the Perplexity Android App
 
@@ -34,19 +34,19 @@ Adding a *Space* is quick and painless. Here’s how I do it on my Android phone
 
 9. Start adding threads or uploading files to your new *Space*.
 
-That’s it—your *Space* is ready to go! 🎉
+That’s it, your *Space* is ready to go! 🎉
 
 ## Why Spaces Make Organizing and Collaborating Easier
 
-I love using *Spaces* because they help me keep all my research, files, and conversations grouped by topic. No more scrolling through endless threads or mixing up projects. If you’re working with others, you can invite them to your *Space* so everyone can contribute. You can upload files (if you’re on Perplexity Pro), set up custom instructions, and even choose how the AI pulls its answers—whether from the web, your files, or both.
+I love using *Spaces* because they help me keep all my research, files, and conversations grouped by topic. No more scrolling through endless threads or mixing up projects. If you’re working with others, you can invite them to your *Space* so everyone can contribute. You can upload files (if you’re on Perplexity Pro), set up custom instructions, and even choose how the AI pulls its answers, whether from the web, your files, or both.
 
 On top of that, *Spaces* are editable. Change the title, update the description, or tweak the AI instructions whenever you want. If you used the old *Collections* feature, those were automatically turned into *Spaces*, so you don’t lose your past work. It’s all about making things easier and more flexible for whatever you’re working on.
 
 ## Tips for Using Spaces to Get the Most Out of Perplexity
 
-Once you’ve set up a *Space*, you can do more than just store threads. I like to use the “Sources” option to control where the AI looks for answers—just web, just my uploaded files, or both. This is super handy for research-heavy projects or when I want more tailored responses. If you’re collaborating, sharing is easy—just send an invite or a link, and your teammates can jump in and start contributing.
+Once you’ve set up a *Space*, you can do more than just store threads. I like to use the “Sources” option to control where the AI looks for answers, just web, just my uploaded files, or both. This is super handy for research-heavy projects or when I want more tailored responses. If you’re collaborating, sharing is easy, just send an invite or a link, and your teammates can jump in and start contributing.
 
-Uploading files is a game changer for group work or deep dives into a topic. Every file you add is available in all threads within the *Space*, so you never have to hunt for documents again. And if you need to update, just edit the *Space*—it’s all super flexible.
+Uploading files is a game changer for group work or deep dives into a topic. Every file you add is available in all threads within the *Space*, so you never have to hunt for documents again. And if you need to update, just edit the *Space*, it’s all super flexible.
 
 ## Conclusion
 
@@ -66,7 +66,7 @@ Yes, but you need to be a Perplexity Pro user to upload files to your *Space*.
 
 ### Can I edit the details of a Space after creating it?
 
-Absolutely—you can change the name, description, and instructions whenever you want.
+Absolutely, you can change the name, description, and instructions whenever you want.
 
 ### Is it possible to invite others to my Space?
 

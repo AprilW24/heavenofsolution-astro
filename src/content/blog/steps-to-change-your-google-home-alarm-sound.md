@@ -98,6 +98,6 @@ If all else fails, try deleting the alarm and re-creating it from scratch.
 
 ## Conclusion
 
-With the Google Home app and a compatible smart speaker or display, you can make your mornings a bit brighter by customizing your alarm tones. Wake up to a favorite song, a peppy radio station, or even a message from a cartoon character – the choice is yours! Just follow the steps outlined here to get started.
+With the Google Home app and a compatible smart speaker or display, you can make your mornings a bit brighter by customizing your alarm tones. Wake up to a favorite song, a peppy radio station, or even a message from a cartoon character, the choice is yours! Just follow the steps outlined here to get started.
 
-While you can’t upload your own audio files to use as alarms, Google provides a good variety of built-in options to choose from. And the best part is, you can set and manage everything hands-free with just your voice. So go ahead and give it a try – you may be surprised what a difference it makes in starting your day off right.
+While you can’t upload your own audio files to use as alarms, Google provides a good variety of built-in options to choose from. And the best part is, you can set and manage everything hands-free with just your voice. So go ahead and give it a try, you may be surprised what a difference it makes in starting your day off right.

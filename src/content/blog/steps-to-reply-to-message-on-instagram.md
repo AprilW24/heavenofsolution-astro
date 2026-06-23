@@ -48,7 +48,7 @@ If you find swiping a bit tricky, there’s an alternative method you can use:
 
 2. A menu will appear with several options. Look for the **“Reply”** option and tap on it.
 
-3. The rest of the process remains the same – compose your message and send it.
+3. The rest of the process remains the same, compose your message and send it.
 
 This method can be particularly useful if you’re having trouble with the swiping gesture or if you prefer a more deliberate action.
 

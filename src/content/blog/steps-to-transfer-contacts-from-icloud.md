@@ -6,7 +6,7 @@ category: "Tools Apps"
 featuredImage: "/wp-content/uploads/2022/03/7-Steps-to-Move-Contacts-from-Phone-to-SD-Card-for-Android.jpg"
 ---
 
-Are you switching from an iPhone to an Android phone but don’t have your old iPhone handy to transfer your contacts? Don’t worry – you can still move your iCloud contacts over to your new Android device even without access to your iPhone. Here’s how:
+Are you switching from an iPhone to an Android phone but don’t have your old iPhone handy to transfer your contacts? Don’t worry, you can still move your iCloud contacts over to your new Android device even without access to your iPhone. Here’s how:
 
 ### Step 1: Export Contacts from iCloud
 
@@ -68,7 +68,7 @@ The benefit is it’s a bit more streamlined than manually exporting and importi
 
 Switching from iPhone to Android doesn’t mean you have to leave your contacts behind. Even without your old iPhone, you can easily export your iCloud contacts to your computer, import them to your Google account, and sync them to your new Android phone.
 
-The process is straightforward – just sign into iCloud.com, export your contacts, then import them at contacts.google.com. Make sure contact sync is enabled on your Android device and your contacts will appear like magic.
+The process is straightforward, just sign into iCloud.com, export your contacts, then import them at contacts.google.com. Make sure contact sync is enabled on your Android device and your contacts will appear like magic.
 
 Alternatively, contacts transfer apps provide a streamlined way to migrate your iCloud contacts directly to your Android phone. But the manual export/import method works great too.
 

@@ -6,7 +6,7 @@ category: "Tools Apps"
 featuredImage: "/wp-content/uploads/2024/06/HeavenofSolution_SignalMessage.jpg"
 ---
 
-Signal is a popular secure messaging app that stores all your conversations locally on your device. This ensures maximum privacy, but can make it tricky to transfer your message history when switching to a new phone – especially if you no longer have access to your old device.
+Signal is a popular secure messaging app that stores all your conversations locally on your device. This ensures maximum privacy, but can make it tricky to transfer your message history when switching to a new phone, especially if you no longer have access to your old device.
 
 Fortunately, there are a few methods you can use to migrate your Signal account and messages to a new phone without needing your previous device. Here’s a step-by-step guide on how to do it.
 
@@ -14,7 +14,7 @@ Fortunately, there are a few methods you can use to migrate your Signal account 
 
 If you previously enabled backups on your old phone, you can use the backup file to restore your messages on the new device. Here’s how:
 
-1. **Locate your backup file** – Signal backups are stored in a folder on your old device, usually named **Signal**. Connect your old phone to a computer and copy this folder to transfer the backup.
+1. **Locate your backup file**, Signal backups are stored in a folder on your old device, usually named **Signal**. Connect your old phone to a computer and copy this folder to transfer the backup.
 
 2. On your new phone, **install Signal and select “Transfer or restore account”** when prompted.
 

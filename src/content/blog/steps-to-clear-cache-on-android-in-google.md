@@ -102,4 +102,4 @@ Clearing cache on your Android phone is a simple maintenance task that can have 
 
 We covered how to clear cache for popular Google apps like Chrome, Maps, Gmail, Drive, and Photos. But you can use the same general process for other apps by going to Settings > Storage > Other Apps.
 
-Clearing cache is a safe process that doesn’t remove any important data. At worst, some apps may take a bit longer to load the next time you use them. But your phone will quickly rebuild that cache over time. Think of it like occasionally decluttering a closet – it makes things tidier and helps everything run more smoothly.
+Clearing cache is a safe process that doesn’t remove any important data. At worst, some apps may take a bit longer to load the next time you use them. But your phone will quickly rebuild that cache over time. Think of it like occasionally decluttering a closet, it makes things tidier and helps everything run more smoothly.

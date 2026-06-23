@@ -162,4 +162,4 @@ Managing your Facebook tags is an important aspect of maintaining your online pr
 
 Remember that while these methods can help you remove existing tags, it’s equally important to be mindful of future tagging. By implementing best practices and regularly reviewing your Activity Log, you can ensure that your Facebook profile accurately represents you and aligns with your personal and professional goals.
 
-Ultimately, taking control of your tagged posts is about more than just cleaning up your timeline – it’s about curating your online identity and protecting your privacy in an increasingly connected world. So take the time to manage your Facebook tags, and enjoy a more organized and intentional social media presence.
+Ultimately, taking control of your tagged posts is about more than just cleaning up your timeline, it’s about curating your online identity and protecting your privacy in an increasingly connected world. So take the time to manage your Facebook tags, and enjoy a more organized and intentional social media presence.

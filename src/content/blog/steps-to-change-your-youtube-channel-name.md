@@ -40,7 +40,7 @@ Now, let’s get to the heart of the matter. Here’s a detailed guide on how to
 
 6. **Save your changes**: Once you’re satisfied with your new name, look for a “Save” or “Confirm” button, usually located in the top right corner of the screen. Tap this to apply your changes.
 
-7. **Wait for the update**: After saving, it may take a little time for your new name to appear across all of YouTube. Be patient – the change should be visible within a few minutes to a few hours.
+7. **Wait for the update**: After saving, it may take a little time for your new name to appear across all of YouTube. Be patient, the change should be visible within a few minutes to a few hours.
 
 It’s worth noting that while this process is straightforward, YouTube does have some restrictions on name changes. For instance, you can only change your name a limited number of times within a certain period, so make sure you’re confident about your new name before making the switch.
 

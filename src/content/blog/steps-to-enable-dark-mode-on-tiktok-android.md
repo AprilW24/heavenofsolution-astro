@@ -34,7 +34,7 @@ Good news for Android users! TikTok has finally rolled out an official dark mode
 
 5. Choose **“Dark mode”** from the available options.
 
-If you don’t see this option, make sure your TikTok app is updated to the latest version. If it’s still not available, don’t worry – we have alternative methods for you.
+If you don’t see this option, make sure your TikTok app is updated to the latest version. If it’s still not available, don’t worry, we have alternative methods for you.
 
 ## Method 2: Using Android’s System-wide Dark Mode
 

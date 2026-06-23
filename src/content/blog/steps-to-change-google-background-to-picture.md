@@ -50,7 +50,7 @@ In the customization menu:
 
 ### 4. Upload Your Own Image
 
-Now comes the exciting part – uploading your personal image:
+Now comes the exciting part, uploading your personal image:
 
 - In the image selection screen, you’ll see various options including preset images and themes
 
@@ -122,6 +122,6 @@ While changing your Google background is usually a smooth process, you might enc
 
 Changing your Google background to a personal picture is a simple yet effective way to customize your browsing experience. By following the steps outlined in this guide, you can easily transform the look of your Google homepage to reflect your personality, interests, or current mood.
 
-Remember, the perfect background image can do more than just look good – it can inspire you, boost your productivity, and make your daily internet use more enjoyable. Don’t be afraid to experiment with different images until you find one that truly resonates with you.
+Remember, the perfect background image can do more than just look good, it can inspire you, boost your productivity, and make your daily internet use more enjoyable. Don’t be afraid to experiment with different images until you find one that truly resonates with you.
 
 Whether you choose a stunning landscape, a beloved pet, or an abstract design, your personalized Google background is a small but meaningful way to make your digital space feel more like home. So go ahead, upload that special picture, and enjoy your newly customized Google experience!

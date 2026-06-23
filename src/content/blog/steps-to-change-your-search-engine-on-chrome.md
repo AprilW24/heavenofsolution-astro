@@ -58,11 +58,11 @@ Changing your default search engine in Chrome for Android is a quick and easy pr
 
 5. **Select your preferred search engine:** Tap on “Search engine,” and you’ll see a list of available options. By default, you’ll likely see Google, Bing, Yahoo, and DuckDuckGo. Simply tap on the search engine you want to use as your default.
 
-6. **Confirm your choice:** Once you’ve tapped on your preferred search engine, Chrome will automatically set it as the default. You don’t need to save or confirm your choice – it’s that simple!
+6. **Confirm your choice:** Once you’ve tapped on your preferred search engine, Chrome will automatically set it as the default. You don’t need to save or confirm your choice, it’s that simple!
 
 7. **Test your new search engine:** To make sure the change has taken effect, go back to the Chrome home page and try a search using the address bar. You should now see results from your newly selected search engine.
 
-It’s worth noting that the list of available search engines may vary depending on your location and the version of Chrome you’re using. If you don’t see the search engine you want to use, don’t worry – we’ll cover how to add a custom search engine later in this article.
+It’s worth noting that the list of available search engines may vary depending on your location and the version of Chrome you’re using. If you don’t see the search engine you want to use, don’t worry, we’ll cover how to add a custom search engine later in this article.
 
 ## Popular Alternative Search Engines
 

@@ -138,7 +138,7 @@ Syncing keeps your data backed up and accessible across devices. But syncing a l
 
 Knowing how to remove saved usernames and accounts from your Android device gives you more control over your data. It helps keep your personal information private and makes sure you can always access the accounts you need.
 
-Remember, deleting a username from the Gmail login screen won’t affect your Google account—it just removes Chrome’s record of that name on your device. You can still sign in with the username by typing it manually. And if you change your mind, you can always save usernames again in Chrome’s settings.
+Remember, deleting a username from the Gmail login screen won’t affect your Google account, it just removes Chrome’s record of that name on your device. You can still sign in with the username by typing it manually. And if you change your mind, you can always save usernames again in Chrome’s settings.
 
 For better security, get in the habit of signing out of your Google accounts on shared devices or when selling or giving away an old phone. Removing accounts remotely is also a smart way to protect your data on a lost or stolen device.
 

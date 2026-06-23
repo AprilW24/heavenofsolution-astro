@@ -6,7 +6,7 @@ category: "Social Apps"
 featuredImage: "/wp-content/uploads/2024/07/HeavenofSolution_AcceptFollowrequest.jpg"
 ---
 
-Instagram’s privacy settings allow you to control who can see your posts and stories by letting you approve or deny follow requests. When someone sends you a follow request, you have the option to confirm or delete it. But what if you accidentally tap **Delete** or later regret denying someone’s request? No worries – you can still accept their follow request with a few quick steps.
+Instagram’s privacy settings allow you to control who can see your posts and stories by letting you approve or deny follow requests. When someone sends you a follow request, you have the option to confirm or delete it. But what if you accidentally tap **Delete** or later regret denying someone’s request? No worries, you can still accept their follow request with a few quick steps.
 
 ## Step 1: Find the User’s Profile
 

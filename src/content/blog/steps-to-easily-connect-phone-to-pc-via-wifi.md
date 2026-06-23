@@ -14,13 +14,13 @@ In this guide, we’ll walk through several simple methods to link your phone an
 
 There are a few key benefits to connecting your phone to your computer wirelessly:
 
-- **Convenience** – No need to search for your charging cable every time you want to transfer some photos or files. With a WiFi connection, your phone and PC can talk to each other cable-free.
+- **Convenience**, No need to search for your charging cable every time you want to transfer some photos or files. With a WiFi connection, your phone and PC can talk to each other cable-free.
 
-- **Multitasking** – You can use your phone normally while it’s connected to your computer. Send texts, make calls, and use apps while simultaneously transferring data or mirroring your screen.
+- **Multitasking**, You can use your phone normally while it’s connected to your computer. Send texts, make calls, and use apps while simultaneously transferring data or mirroring your screen.
 
-- **Flexibility** – Connect from anywhere in WiFi range. You’re not limited by the length of your USB cable.
+- **Flexibility**, Connect from anywhere in WiFi range. You’re not limited by the length of your USB cable.
 
-- **Speed** – WiFi transfers can be faster than using a cable, especially if you have a USB 2.0 port. Some of the latest WiFi standards offer very fast speeds.
+- **Speed**, WiFi transfers can be faster than using a cable, especially if you have a USB 2.0 port. Some of the latest WiFi standards offer very fast speeds.
 
 Now that you know the perks, let’s dive into how to actually connect your phone to your PC using different methods.
 
@@ -44,11 +44,11 @@ Windows 10 and 11 come with a built-in “Your Phone” app that lets you link y
 
 There are also many third-party apps that specialize in connecting your phone to your computer over WiFi. Some top options include:
 
-- **AirDroid** – Feature-rich remote access and file transfer tool. Works with Android and iOS.
+- **AirDroid**, Feature-rich remote access and file transfer tool. Works with Android and iOS.
 
-- **Pushbullet** – Lets you send files, links, and messages between your devices. Has an Android app, iOS app, and desktop programs.
+- **Pushbullet**, Lets you send files, links, and messages between your devices. Has an Android app, iOS app, and desktop programs.
 
-- **Send Anywhere** – Cross-platform file sharing tool that works over WiFi. Available for Android, iOS, Windows, Mac, and more.
+- **Send Anywhere**, Cross-platform file sharing tool that works over WiFi. Available for Android, iOS, Windows, Mac, and more.
 
 The setup process varies between apps, but typically involves installing the app on both your phone and computer, making sure both are on the same WiFi network, and following the app’s instructions to connect the devices. These apps often support useful bonus features like remote screenshot capture and notification mirroring.
 

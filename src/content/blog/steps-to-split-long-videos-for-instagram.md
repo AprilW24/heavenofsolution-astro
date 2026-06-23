@@ -36,7 +36,7 @@ Use your chosen tool to split your video into 15-second segments. The exact proc
 
 ## Step 5: Add Transitions and Effects (Optional)
 
-If desired, you can add transitions and effects to your video segments to make them more engaging. Many video splitting tools will allow you to add music, text overlays, stickers, and more. Just be sure not to overdo it – the focus should still be on your video content.
+If desired, you can add transitions and effects to your video segments to make them more engaging. Many video splitting tools will allow you to add music, text overlays, stickers, and more. Just be sure not to overdo it, the focus should still be on your video content.
 
 ## Step 6: Export Your Video Segments
 

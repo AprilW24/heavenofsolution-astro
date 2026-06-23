@@ -128,6 +128,6 @@ It’s important to remember that app design is an evolving process, and what mi
 
 As users, we play a crucial role in shaping the future of the apps we love. By providing constructive feedback and actively engaging with new features, we contribute to the app’s evolution. Who knows? The ability to choose your preferred color scheme might just be included in a future update based on user feedback.
 
-In the meantime, focus on the aspects of WhatsApp that make it an indispensable tool in your daily life – its reliability, security, and the connections it facilitates. After all, the essence of communication lies not in the color of the app, but in the messages we share and the relationships we nurture through it.
+In the meantime, focus on the aspects of WhatsApp that make it an indispensable tool in your daily life, its reliability, security, and the connections it facilitates. After all, the essence of communication lies not in the color of the app, but in the messages we share and the relationships we nurture through it.
 
 Remember to keep your WhatsApp updated to ensure you have access to the latest features, security updates, and potential customization options that may be introduced in the future. Embrace the change, explore the app’s features, and continue to connect with the people who matter most to you, regardless of the interface color.

@@ -26,11 +26,11 @@ Under the Privacy and security menu, tap the **Clear browsing data** option. Thi
 
 On the Clear browsing data page, you’ll see a list of data types that you can delete:
 
-- **Browsing history** – Records of the websites you’ve visited
+- **Browsing history**, Records of the websites you’ve visited
 
-- **Cookies and site data** – Files and data stored by websites you’ve visited
+- **Cookies and site data**, Files and data stored by websites you’ve visited
 
-- **Cached images and files** – Temporary data saved to speed up page loading
+- **Cached images and files**, Temporary data saved to speed up page loading
 
 Make sure **Cookies and site data** is selected. You can also choose to clear your browsing history and cached data.
 
@@ -66,9 +66,9 @@ For more control over cookies, you can change your settings to automatically blo
 
 - **Allow all cookies** (default)
 
-- **Block third-party cookies** – Blocks cookies from outside sources
+- **Block third-party cookies**, Blocks cookies from outside sources
 
-- **Block all cookies** – Prevents any site from saving cookies
+- **Block all cookies**, Prevents any site from saving cookies
 
 Choosing to block third-party or all cookies can help protect your privacy but may cause issues with some websites.
 

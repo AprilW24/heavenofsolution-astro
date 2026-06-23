@@ -14,7 +14,7 @@ Let’s make the hunt for the next restaurant smooth. I’ll show the best ways 
 
 ## How Perplexity Works to Personalize Restaurant Choices
 
-Perplexity has a special setup with *OpenTable* so you get matches based on your exact wish list. Instead of sorting through hundreds of search results, it picks out spots that fit your requests—menu, vibe, location, and more. No need to jump between apps. You type or speak your wishlist, see only places that check your boxes, and can even book a table directly.
+Perplexity has a special setup with *OpenTable* so you get matches based on your exact wish list. Instead of sorting through hundreds of search results, it picks out spots that fit your requests, menu, vibe, location, and more. No need to jump between apps. You type or speak your wishlist, see only places that check your boxes, and can even book a table directly.
 
 What I really like is how smart it is about context. Say you’re planning dinner for a group: you can mention everything the group needs, like allergies, favorite foods, or preferred neighborhood. Perplexity brings up precise results, not just random “top-rated” spots. That means less second-guessing and fewer wasted evenings. Plus, the voice mode is handy if you’re multitasking while your friends argue in the background.
 
@@ -28,7 +28,7 @@ Here’s how I get the best results every time:
 
 3. Type or use voice to ask for restaurant recommendations.
 
-4. Be specific—mention location, cuisine, vibe, dietary needs, and group size.
+4. Be specific, mention location, cuisine, vibe, dietary needs, and group size.
 
 5. Include details about date and time if you want to book right away.
 
@@ -48,11 +48,11 @@ Here’s the full prompt I use every time I want honest, customized suggestions:
 
 Can you recommend restaurants in *city* for *occasion*? Make sure they fit *dietary needs* and vibe is *describe vibe*, and I need a table for *number* people on *date and time*. Please show restaurants that allow reservations and link reviews if possible.
 
-Send that in Perplexity, and you’ll get results that actually fit the situation. You can swap in anything for the details—birthday parties, vegan spots, late-night eats, whatever you want.
+Send that in Perplexity, and you’ll get results that actually fit the situation. You can swap in anything for the details, birthday parties, vegan spots, late-night eats, whatever you want.
 
 ## Why Details Matter for Getting the Best Restaurant Matches
 
-What makes Perplexity’s answers worth it is how it reads every nuance in your request. If you’re not clear about what you want, you might end up staring at another list of “top places near me” and feeling lost. Being as exact as possible—right down to allergies and favorite dishes, lets Perplexity fine-tune ideas that work specifically for you.
+What makes Perplexity’s answers worth it is how it reads every nuance in your request. If you’re not clear about what you want, you might end up staring at another list of “top places near me” and feeling lost. Being as exact as possible, right down to allergies and favorite dishes, lets Perplexity fine-tune ideas that work specifically for you.
 
 The more you give it, the better you eat. It pulls info not just from *OpenTable* but also reviews, tags, and menus. I usually mention things like “quiet for conversation” or “great outdoor space” and instantly see relevant picks. It makes every meal feel planned, not just random.
 
@@ -66,7 +66,7 @@ For special occasions, it goes the extra mile. Just mention any requests, and st
 
 Picking a spot to eat shouldn’t be stressful. Perplexity’s restaurant finder makes it way easier by listening to what you actually ask for and giving practical options. Next time you’re group-texting about dinner, just ask Perplexity with your details and hit reserve. Meals get better when the choosing is simple. 🍕 🎉
 
-No more endless scrolling—just the right restaurants for you and your crew, every time.
+No more endless scrolling, just the right restaurants for you and your crew, every time.
 
 ## FAQs
 

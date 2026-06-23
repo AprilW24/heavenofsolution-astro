@@ -36,7 +36,7 @@ Follow these steps to clear cache and data for the Google Play Store:
 
 After clearing cache and data, reopen the Play Store and see if your problem is fixed. You may need to re-accept the terms and re-enter your account password.
 
-Some guides also recommend clearing data for **Google Play Services**, which is a background process that enables core functionality for the Play Store and other Google apps. The steps are the same as above – find Google Play Services in the apps list, tap Storage, and clear the cache and data. Note that clearing data for Play Services will require you to re-login to your Google accounts on the device.
+Some guides also recommend clearing data for **Google Play Services**, which is a background process that enables core functionality for the Play Store and other Google apps. The steps are the same as above, find Google Play Services in the apps list, tap Storage, and clear the cache and data. Note that clearing data for Play Services will require you to re-login to your Google accounts on the device.
 
 ### Why Clear Play Store Cache and Data?
 

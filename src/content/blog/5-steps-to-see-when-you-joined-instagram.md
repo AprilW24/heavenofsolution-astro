@@ -148,7 +148,7 @@ Since its launch in 2010, Instagram has significantly impacted how we share and 
 
 Discovering when you joined Instagram can be a fun and nostalgic experience. Whether you use the data download feature, check your first post, or search for your welcome email, each method offers a glimpse into your digital past. Remember to approach third-party tools with caution and prioritize your account’s security.
 
-Your Instagram join date is more than just a date—it’s the beginning of your journey on one of the world’s most popular social media platforms. It marks the start of countless shared moments, connections made, and experiences documented. As you look back on your time on Instagram, take a moment to appreciate how the platform has evolved and how your use of it has changed over time.
+Your Instagram join date is more than just a date, it’s the beginning of your journey on one of the world’s most popular social media platforms. It marks the start of countless shared moments, connections made, and experiences documented. As you look back on your time on Instagram, take a moment to appreciate how the platform has evolved and how your use of it has changed over time.
 
 Whether you’re a day-one user or a recent addition to the Instagram community, knowing your join date adds a personal touch to your social media experience. It’s a reminder of how long you’ve been part of this global digital community and how much you’ve shared and grown along the way.
 

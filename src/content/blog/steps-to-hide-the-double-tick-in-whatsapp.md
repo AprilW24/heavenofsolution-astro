@@ -58,6 +58,6 @@ If selectively hiding your **last seen** status sounds like too much work, there
 
 In today’s hyper-connected world, it’s nice to have some control over your privacy. Hiding read receipts in WhatsApp is an easy way to take back a bit of your digital life. With the double blue ticks disabled, you’re free to open and read messages on your own schedule without feeling pressured to respond right away.
 
-While disabling read receipts does sacrifice some of the instant feedback we’re used to with messaging, it’s worth it for the privacy and peace of mind. Just remember that it’s a two-way street – you won’t be able to tell when others have read your messages either.
+While disabling read receipts does sacrifice some of the instant feedback we’re used to with messaging, it’s worth it for the privacy and peace of mind. Just remember that it’s a two-way street, you won’t be able to tell when others have read your messages either.
 
 Luckily, hiding read receipts in WhatsApp on Android only takes a few seconds in the app’s privacy settings. Whether you want to keep your messaging habits to yourself or just buy some time before replying, it’s a handy trick to have in your digital toolbox. Give it a try and enjoy a more private messaging experience!

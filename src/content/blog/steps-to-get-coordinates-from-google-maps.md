@@ -84,6 +84,6 @@ This is very handy if someone shares coordinates with you and you want to see wh
 
 As you can see, getting coordinates from Google Maps on your phone is a quick and easy process. Whether you’re on an Android device or iPhone, you can drop a pin on the map, copy the coordinates, and share that precise location with others in just a few taps.
 
-Being able to find and share exact GPS coordinates can be extremely useful in a variety of situations – from meeting up with friends to sharing the location of an emergency or giving a precise position out in the wilderness. And by retrieving the coordinates from Google Maps, you can have confidence that the information is accurate and reliable.
+Being able to find and share exact GPS coordinates can be extremely useful in a variety of situations, from meeting up with friends to sharing the location of an emergency or giving a precise position out in the wilderness. And by retrieving the coordinates from Google Maps, you can have confidence that the information is accurate and reliable.
 
 So the next time you need to get the coordinates for a location, just pull out your phone, open up Google Maps, and follow the simple steps outlined above. In no time at all, you’ll have the latitude and longitude you need and be able to share it with ease.

@@ -6,7 +6,7 @@ category: "Communication Apps"
 featuredImage: "/wp-content/uploads/2024/04/HeavenofSolution-15.jpg"
 ---
 
-Have you ever accidentally reacted to a message on Facebook Messenger with the wrong emoji? Maybe you sent a 😂 reaction to a serious message or a ❤️ to a friend when you meant to send a 👍. Don’t worry – it happens to the best of us! Fortunately, Facebook makes it easy to remove or change your reaction on Messenger. In this article, we’ll walk through the simple steps to delete a reaction you sent on Facebook Messenger for Android.
+Have you ever accidentally reacted to a message on Facebook Messenger with the wrong emoji? Maybe you sent a 😂 reaction to a serious message or a ❤️ to a friend when you meant to send a 👍. Don’t worry, it happens to the best of us! Fortunately, Facebook makes it easy to remove or change your reaction on Messenger. In this article, we’ll walk through the simple steps to delete a reaction you sent on Facebook Messenger for Android.
 
 ### Why Delete a Reaction on Messenger?
 

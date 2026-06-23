@@ -92,7 +92,7 @@ After the reset, your phone will restart like new. This should resolve any persi
 
 ## Conclusion
 
-A frozen Android phone is never fun to deal with, but by following the steps outlined above, you should be able to get things running smoothly again in no time. Remember, prevention is the best medicine – so keep your phone updated, manage your storage wisely, and be selective about how many apps you run at once. With proper care, you can keep your Android phone freeze-free.
+A frozen Android phone is never fun to deal with, but by following the steps outlined above, you should be able to get things running smoothly again in no time. Remember, prevention is the best medicine, so keep your phone updated, manage your storage wisely, and be selective about how many apps you run at once. With proper care, you can keep your Android phone freeze-free.
 
 If your phone continues to freeze even after trying these steps, it may be a sign of a more serious hardware issue, like a failing battery. In that case, it’s best to visit a professional repair shop or contact your phone manufacturer for further assistance.
 

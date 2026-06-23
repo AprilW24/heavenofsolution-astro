@@ -6,7 +6,7 @@ category: "Social Apps"
 featuredImage: "/wp-content/uploads/2023/12/Heaven-of-Solution.jpg"
 ---
 
-Instagram recently introduced a great accessibility feature – auto-captions for Stories. This allows creators to easily add captions to their Story videos, making them more inclusive.
+Instagram recently introduced a great accessibility feature, auto-captions for Stories. This allows creators to easily add captions to their Story videos, making them more inclusive.
 
 Adding auto-captions to Stories is a breeze. Follow these simple steps:
 
@@ -68,13 +68,13 @@ And that’s it! Adding auto-captions to Instagram Stories is very simple.
 
 Here are some great reasons to use auto-captions on Stories:
 
-- **Increased accessibility** – People with hearing disabilities can understand your videos better
+- **Increased accessibility**, People with hearing disabilities can understand your videos better
 
-- **Wider reach** – Captions make content consumable without audio, increasing views
+- **Wider reach**, Captions make content consumable without audio, increasing views
 
-- **Engagement** – Viewers are more likely to watch the full video with captions
+- **Engagement**, Viewers are more likely to watch the full video with captions
 
-- **SEO value** – Transcripts help Instagram understand your content better
+- **SEO value**, Transcripts help Instagram understand your content better
 
 Overall, auto-captions make your Instagram content more inclusive. Enable this excellent feature and reap the benefits!
 

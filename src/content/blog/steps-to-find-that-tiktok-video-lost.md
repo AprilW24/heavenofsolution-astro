@@ -6,7 +6,7 @@ category: "Social Apps"
 featuredImage: "/wp-content/uploads/2024/08/HoS_FindThatTikTok.png"
 ---
 
-It’s a familiar scenario for avid TikTok users – you’re watching an interesting video, but accidentally refresh the feed before you can finish it or interact with it. Suddenly, that video seems lost forever in the endless stream of content. Don’t despair! There are actually several ways you can track down that elusive lost TikTok video.
+It’s a familiar scenario for avid TikTok users, you’re watching an interesting video, but accidentally refresh the feed before you can finish it or interact with it. Suddenly, that video seems lost forever in the endless stream of content. Don’t despair! There are actually several ways you can track down that elusive lost TikTok video.
 
 ## 1. Check Your Watch History
 

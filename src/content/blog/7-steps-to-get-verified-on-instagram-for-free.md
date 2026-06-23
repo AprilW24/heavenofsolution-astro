@@ -28,13 +28,13 @@ Now let’s dive into the steps to apply for free Instagram verification.
 
 Before applying, make sure your Instagram account meets these basic eligibility criteria:
 
-- **Your account must be public** – Private accounts are not eligible for verification
+- **Your account must be public**, Private accounts are not eligible for verification
 
-- **Your profile must be complete** – This includes a bio, profile photo, and at least one post
+- **Your profile must be complete**, This includes a bio, profile photo, and at least one post
 
 - **Your account must represent a real person, registered business, or entity**
 
-- **You must have a notable online presence** – Instagram looks for accounts that are featured in multiple news sources
+- **You must have a notable online presence**, Instagram looks for accounts that are featured in multiple news sources
 
 Additionally, your account should follow Instagram’s Terms of Service and Community Guidelines.
 

@@ -46,7 +46,7 @@ The app has five tabs at the bottom:
 
 Tap any tab to start discovering music. When you find a song or album you like, tap the Play button to start streaming. You can also add it to your Library, download it for offline listening, or add it to a playlist.
 
-### Step 5: Optional – Use Apple Music With Other Apps
+### Step 5: Optional, Use Apple Music With Other Apps
 
 In addition to the main app, there are a couple other ways to enjoy Apple Music on Android:
 

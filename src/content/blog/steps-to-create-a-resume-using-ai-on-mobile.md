@@ -18,13 +18,13 @@ Take a moment to decide which app or site fits your style and needs. Tons of opt
 
 AI resume builders like Canva, Rezi, MyPerfectResume, and Resume Now work seamlessly on phones. These platforms usually give you professional templates, real-time editing, the option to save your info, and the ability to download your resume in formats that work for job applications. Plus, they throw in AI suggestions for bullet points, summaries, and skills while keeping layouts clean.
 
-What’s awesome about using mobile AI tools is the speed—sharing, editing, and updating can all be done on your phone. Pick a service that gives you the features you want like keyword optimization, export options, and a smooth user experience.
+What’s awesome about using mobile AI tools is the speed, sharing, editing, and updating can all be done on your phone. Pick a service that gives you the features you want like keyword optimization, export options, and a smooth user experience.
 
 ## How AI Tools Change the Resume Game for Everyone
 
 Writing a resume can feel overwhelming, but AI does the heavy lifting. It grabs details from your work, education, and skills, and shapes them into something that hiring managers and application systems actually notice. You can easily follow prompts for each section, see suggested skills, and tweak descriptions to match all kinds of job listings.
 
-Having this tech in your pocket means you can send job applications from anywhere—even while hanging with friends or waiting for coffee. It also keeps your resume fresh, so you can update info or rework sections every time you pick up a new skill or take a new job.
+Having this tech in your pocket means you can send job applications from anywhere, even while hanging with friends or waiting for coffee. It also keeps your resume fresh, so you can update info or rework sections every time you pick up a new skill or take a new job.
 
 AI resume builders walk you through every step. They handle design and structure, nudge you to add missing info, and make sure your resume passes through those strict company filters. This way, you don’t miss out on jobs just because of formatting or poor keyword matches.
 

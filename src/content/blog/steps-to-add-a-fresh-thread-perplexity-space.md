@@ -6,7 +6,7 @@ category: "Video Players &amp; Editors"
 featuredImage: "/wp-content/uploads/2025/06/add-a-new-thread-in-Perplexity-Space.webp"
 ---
 
-I get how confusing it can feel to try something new on your phone. If you want to add a fresh thread inside a Perplexity Space using your Android device, here’s what’s up—and how to make it happen without stress.
+I get how confusing it can feel to try something new on your phone. If you want to add a fresh thread inside a Perplexity Space using your Android device, here’s what’s up, and how to make it happen without stress.
 
 First, let’s talk about why you’d do this. Maybe you’re working on a project, or you want to keep your research organized. Spaces help you group all your chats and files together, so everything is easy to find. Now, how do you actually add a new thread? It’s easier than you think, and I’ll walk you through every part.
 
@@ -34,7 +34,7 @@ Step-by-step guide to starting a thread in your Space
 
 5. Type your question or topic for the new thread.
 
-6. If you want, pick your sources—like web, files, or both.
+6. If you want, pick your sources, like web, files, or both.
 
 7. Press send or the arrow button to start the thread.
 
@@ -42,7 +42,7 @@ Step-by-step guide to starting a thread in your Space
 
 9. Repeat these steps anytime you want to add another thread.
 
-That’s it—no extra taps or hidden menus. Just type and go.
+That’s it, no extra taps or hidden menus. Just type and go.
 
 ## Tips and Tricks for Using Perplexity Spaces on Android
 
@@ -54,7 +54,7 @@ If you’re a Pro user, you can pick different AI models for your Space. This is
 
 Adding a new thread in Perplexity Space on Android is quick and simple. Just open your Space, type your question, and hit send. It’s a smart way to keep your chats and files organized, and it’s perfect for teamwork or personal projects.
 
-If you ever feel lost, just remember: tap the Library, choose your Space, and start typing. Everything stays in one place, so you can focus on what matters—getting answers and moving forward.
+If you ever feel lost, just remember: tap the Library, choose your Space, and start typing. Everything stays in one place, so you can focus on what matters, getting answers and moving forward.
 
 ## FAQs
 
@@ -68,7 +68,7 @@ Yes, you can upload files directly to your Space if you have the right account.
 
 ### **Can I invite others to my Space?**
 
-Absolutely—share your Space with friends or coworkers for easy collaboration.
+Absolutely, share your Space with friends or coworkers for easy collaboration.
 
 ### **Do I need a Pro account to use Spaces?**
 

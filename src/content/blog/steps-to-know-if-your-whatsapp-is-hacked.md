@@ -134,6 +134,6 @@ Hackers often use social engineering tactics to trick users into giving away the
 
 Protecting your WhatsApp account on Android requires vigilance and proactive security measures. By following these steps and staying alert to unusual activity, you can significantly reduce the risk of your account being hacked. Remember, if you suspect that your account has been compromised, act quickly to secure it and report the issue to WhatsApp support.
 
-In today’s digital age, where our personal information is increasingly vulnerable, taking the time to regularly check the security of your WhatsApp account is not just advisable – it’s essential. By making these checks a part of your routine, you can enjoy the convenience of WhatsApp while maintaining your privacy and security.
+In today’s digital age, where our personal information is increasingly vulnerable, taking the time to regularly check the security of your WhatsApp account is not just advisable, it’s essential. By making these checks a part of your routine, you can enjoy the convenience of WhatsApp while maintaining your privacy and security.
 
 Stay safe, stay informed, and keep your WhatsApp conversations private and secure!

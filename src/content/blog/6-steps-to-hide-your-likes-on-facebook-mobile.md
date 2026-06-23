@@ -110,4 +110,4 @@ As social media continues to evolve, it’s crucial to stay informed about the t
 
 Ultimately, the decision to hide likes or keep them visible is a personal one. Some users find that visible likes help them discover popular content or gauge public opinion, while others prefer a more neutral browsing experience. Whatever you choose, the most important thing is that you feel comfortable and in control of your Facebook experience.
 
-By following the steps in this guide and regularly reviewing your privacy settings, you can ensure that your time on Facebook remains positive, meaningful, and aligned with your privacy preferences. Remember, social media should enhance your life, not control it – so don’t hesitate to adjust your settings until you find the right balance for you.
+By following the steps in this guide and regularly reviewing your privacy settings, you can ensure that your time on Facebook remains positive, meaningful, and aligned with your privacy preferences. Remember, social media should enhance your life, not control it, so don’t hesitate to adjust your settings until you find the right balance for you.

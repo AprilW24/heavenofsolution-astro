@@ -32,11 +32,11 @@ I know how annoying it can be when you can’t find the delete option, or when y
 
 7. Read the warning about data removal and confirm.
 
-8. Wait for the confirmation message—your account is now set to be deleted.
+8. Wait for the confirmation message, your account is now set to be deleted.
 
 ## What Happens After You Delete Your Account
 
-Once you hit delete, your account and all your info—like search history, preferences, and shared content—get marked for deletion. The app holds your data for up to 30 days, just in case you change your mind. After that, it’s gone for good. If you had a *Pro* plan, you’ll need to cancel your subscription before deleting. If you skip that, you might still get billed, so double-check.
+Once you hit delete, your account and all your info, like search history, preferences, and shared content, get marked for deletion. The app holds your data for up to 30 days, just in case you change your mind. After that, it’s gone for good. If you had a *Pro* plan, you’ll need to cancel your subscription before deleting. If you skip that, you might still get billed, so double-check.
 
 Just a heads-up: any illegal activity or flagged content could still be held for law enforcement if needed. So, while your regular data gets wiped, some stuff might stick around if there’s a legal reason.
 

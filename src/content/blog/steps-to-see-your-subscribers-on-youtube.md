@@ -14,7 +14,7 @@ Before we dive into the steps, let’s briefly discuss why it’s important to k
 
 ## The YouTube Mobile App Limitation
 
-It’s important to note that the standard YouTube mobile app doesn’t provide a direct way to view a complete list of your subscribers. This limitation has been a source of frustration for many creators who prefer to manage their channels on the go. However, don’t worry – there’s a workaround that allows you to access this information using your mobile device’s web browser.
+It’s important to note that the standard YouTube mobile app doesn’t provide a direct way to view a complete list of your subscribers. This limitation has been a source of frustration for many creators who prefer to manage their channels on the go. However, don’t worry, there’s a workaround that allows you to access this information using your mobile device’s web browser.
 
 ## Steps to See Your Subscribers on YouTube Mobile
 
@@ -80,7 +80,7 @@ Understanding your subscriber base can provide valuable insights to help grow yo
 
 ## Conclusion
 
-While the process of viewing your YouTube subscribers on mobile devices isn’t as straightforward as it could be, following the steps outlined in this guide will give you access to this important information. Remember that your subscribers are more than just numbers – they’re real people who have chosen to support your content. By regularly checking and engaging with your subscriber list, you can foster a stronger community around your channel and drive continued growth.
+While the process of viewing your YouTube subscribers on mobile devices isn’t as straightforward as it could be, following the steps outlined in this guide will give you access to this important information. Remember that your subscribers are more than just numbers, they’re real people who have chosen to support your content. By regularly checking and engaging with your subscriber list, you can foster a stronger community around your channel and drive continued growth.
 
 As YouTube continues to evolve, we may see improvements in mobile functionality for creators. Until then, this method provides a reliable way to stay connected with your audience, no matter where you are. Keep creating great content, engage with your subscribers, and watch your YouTube channel flourish!
 

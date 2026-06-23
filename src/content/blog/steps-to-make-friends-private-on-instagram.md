@@ -154,7 +154,7 @@ Review and revoke access to any third-party apps that you’ve connected to your
 
 ## Conclusion
 
-While Instagram doesn’t offer a direct option to hide your friends list without making your entire account private, there are several steps you can take to enhance your privacy and control who sees your connections. By implementing a combination of these methods – setting your account to private, managing your follower list, blocking specific users, and being mindful of the information you share – you can significantly improve your privacy on the platform.
+While Instagram doesn’t offer a direct option to hide your friends list without making your entire account private, there are several steps you can take to enhance your privacy and control who sees your connections. By implementing a combination of these methods, setting your account to private, managing your follower list, blocking specific users, and being mindful of the information you share, you can significantly improve your privacy on the platform.
 
 Remember that social media privacy is an ongoing process. Regularly review your settings and the content you share to ensure that you’re comfortable with your level of exposure on Instagram. By taking control of your privacy settings, you can enjoy the benefits of social networking while maintaining a level of privacy that suits your personal preferences.
 

@@ -78,6 +78,6 @@ Now any new Snaps you capture will save both to Memories and your Android’s ca
 
 ### Conclusion
 
-Backing up your Android’s camera roll to Snapchat Memories is an easy way to keep your photos and videos safe, organized, and accessible within the app. By connecting your camera roll, importing existing snaps, and setting up automatic saving of new snaps, you can rest assured your memories are preserved. So go ahead and snap away – your camera roll is covered!
+Backing up your Android’s camera roll to Snapchat Memories is an easy way to keep your photos and videos safe, organized, and accessible within the app. By connecting your camera roll, importing existing snaps, and setting up automatic saving of new snaps, you can rest assured your memories are preserved. So go ahead and snap away, your camera roll is covered!
 
 Just remember, Snapchat doesn’t back up camera roll content to their servers, so it’s still a good idea to periodically backup your phone to your computer or the cloud. Happy Snapping!

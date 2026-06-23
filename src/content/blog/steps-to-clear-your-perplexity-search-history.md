@@ -40,7 +40,7 @@ Here’s the super simple way to wipe your entire search history in the *Perplex
 
 If you don’t want to erase your whole history, you can just delete specific chats or threads. Here’s how I do it:
 
-Open the app, then tap the icon that takes you to your history or threads. Find the chat you want to remove—maybe it’s that embarrassing question you asked at 2 AM. Tap the three dots (⋮) next to it, then hit *Delete*. Confirm, and that single chat is gone—no need to clear everything.
+Open the app, then tap the icon that takes you to your history or threads. Find the chat you want to remove, maybe it’s that embarrassing question you asked at 2 AM. Tap the three dots (⋮) next to it, then hit *Delete*. Confirm, and that single chat is gone, no need to clear everything.
 
 This method is perfect if you just want to tidy up a bit without losing all your past searches. You can repeat this as many times as you want for different chats. 🗑️
 

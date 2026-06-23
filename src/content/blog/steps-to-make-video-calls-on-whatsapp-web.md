@@ -66,4 +66,4 @@ The group video call will work similarly to a one-on-one call, with everyone’s
 
 WhatsApp Web makes it easy to stay connected with your contacts even when you’re away from your phone. By following the steps outlined in this article, you can quickly and easily make video calls right from your computer using your Android phone. Whether you’re catching up with friends, collaborating with colleagues, or staying in touch with family, WhatsApp Web video calls are a convenient and reliable way to communicate.
 
-So next time you need to make a video call, give WhatsApp Web a try – you might be surprised at how simple and effective it is! Just remember to make sure you have a stable internet connection for the best video and audio quality.
+So next time you need to make a video call, give WhatsApp Web a try, you might be surprised at how simple and effective it is! Just remember to make sure you have a stable internet connection for the best video and audio quality.

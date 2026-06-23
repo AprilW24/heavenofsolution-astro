@@ -128,4 +128,4 @@ There’s no set limit on how many comments you can delete, but if you’re dele
 
 ### Can I delete comments on Instagram from a computer?
 
-Yes, you can delete comments on Instagram using a web browser on your computer. The process is similar – hover over the comment, click the three-dot menu, and select “Delete.”
+Yes, you can delete comments on Instagram using a web browser on your computer. The process is similar, hover over the comment, click the three-dot menu, and select “Delete.”

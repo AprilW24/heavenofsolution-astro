@@ -20,7 +20,7 @@ In this article, we’ll walk through the steps to enable and use disappearing m
 
 3. Tap Default message timer
 
-4. Select a duration – 24 hours, 7 days, or 90 days
+4. Select a duration, 24 hours, 7 days, or 90 days
 
 Now, any new individual chats you start will have disappearing messages enabled by default for the duration you selected. You can always change this setting for specific chats.
 
@@ -32,7 +32,7 @@ Now, any new individual chats you start will have disappearing messages enabled 
 
 3. Tap Disappearing messages
 
-4. Select a duration – 24 hours, 7 days, or 90 days
+4. Select a duration, 24 hours, 7 days, or 90 days
 
 Once enabled, any new messages sent in that chat will disappear after the chosen time period. Previously sent or received messages will not be affected.
 
@@ -44,7 +44,7 @@ Once enabled, any new messages sent in that chat will disappear after the chosen
 
 3. Tap Disappearing messages
 
-4. Select a duration – 24 hours, 7 days, or 90 days
+4. Select a duration, 24 hours, 7 days, or 90 days
 
 By default, any group participant can enable disappearing messages. However, group admins have the ability to restrict this so only admins can turn disappearing messages on or off.
 
@@ -82,12 +82,12 @@ You can disable disappearing messages at any time for individual or group chats:
 
 4. Select Off
 
-This will not affect messages already sent with disappearing mode on – those will still expire based on the duration that was set at the time. Only new messages will stop disappearing.
+This will not affect messages already sent with disappearing mode on, those will still expire based on the duration that was set at the time. Only new messages will stop disappearing.
 
 ## Conclusion
 
 Disappearing messages is a useful WhatsApp feature to give you more control over your message history and privacy. By automatically deleting messages after a designated time period, you can feel more comfortable having sensitive conversations without a permanent record.
 
-The setup process is straightforward – just a few taps to enable disappearing messages by default or for specific chats. You can choose an expiration period of 24 hours, 7 days, or 90 days. And if there are certain messages you want to keep, you have that option too before they disappear.
+The setup process is straightforward, just a few taps to enable disappearing messages by default or for specific chats. You can choose an expiration period of 24 hours, 7 days, or 90 days. And if there are certain messages you want to keep, you have that option too before they disappear.
 
 Give disappearing messages a try on WhatsApp to add an extra layer of privacy to your chats! Let me know if you have any other questions.

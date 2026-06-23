@@ -30,21 +30,21 @@ Plenty of people get tripped up with app subscriptions. Google Play and the App 
 
 9. Double-check in the subscription area that your plan status says “Canceled.”
 
-10. Breathe easy—no more unexpected charges next month!
+10. Breathe easy, no more unexpected charges next month!
 
 ## Understanding Where to Cancel Depending on How You Signed Up
 
 Some folks use Perplexity through the website, others use the Google Play Store or Apple App Store. The process you follow depends on where you originally subscribed.
 
-If you signed up through the website, your cancellation button will be right in the *Perplexity Pro* subscription section in Settings. Hit the *Manage Subscription* option, then follow the prompts till you see that confirmation message. For *Android* users, head to Google Play, look under *Payments & Subscriptions*, find *Perplexity – Ask Anything*, and choose *Cancel subscription*. On *iOS*, it’s under *Subscriptions* in your Apple ID settings, where you’ll spot *Perplexity – Ask Anything* ready to be turned off.
+If you signed up through the website, your cancellation button will be right in the *Perplexity Pro* subscription section in Settings. Hit the *Manage Subscription* option, then follow the prompts till you see that confirmation message. For *Android* users, head to Google Play, look under *Payments & Subscriptions*, find *Perplexity, Ask Anything*, and choose *Cancel subscription*. On *iOS*, it’s under *Subscriptions* in your Apple ID settings, where you’ll spot *Perplexity, Ask Anything* ready to be turned off.
 
-One heads-up: deleting your Perplexity account won’t stop billing by itself. You absolutely have to cancel your subscription first, or you might still get charged. Don’t forget to snag that cancellation email for your records—sometimes servers can get a little slow sending confirmation.
+One heads-up: deleting your Perplexity account won’t stop billing by itself. You absolutely have to cancel your subscription first, or you might still get charged. Don’t forget to snag that cancellation email for your records, sometimes servers can get a little slow sending confirmation.
 
 ## What Happens After You Cancel and Other Pro Tips
 
 Wondering what happens after you cancel? You’ll keep access to your *Perplexity Pro* features until the end of your current billing cycle. That means even if you cancel right now, you can still use any perks you paid for until your subscription period runs out. No refunds for unused time (unless local laws require it), but you won’t keep getting charged moving forward.
 
-If you have any snags—say your cancellation didn’t seem to stick, or something didn’t update—drop a message through the in-app support or email the Perplexity team. They’re usually pretty quick to help, but always give it a day or two for final emails and status updates. And if you changed your mind later? Just head back to subscriptions and reactivate; no drama.
+If you have any snags, say your cancellation didn’t seem to stick, or something didn’t update, drop a message through the in-app support or email the Perplexity team. They’re usually pretty quick to help, but always give it a day or two for final emails and status updates. And if you changed your mind later? Just head back to subscriptions and reactivate; no drama.
 
 ## Conclusion
 
@@ -56,7 +56,7 @@ If you want to come back someday, it’s pretty easy to start things up again. F
 
 ### How do I know if my Perplexity subscription is canceled?
 
-Check the subscription section after following the steps and watch for a confirmation email—it should say “Canceled” or show an end date.
+Check the subscription section after following the steps and watch for a confirmation email, it should say “Canceled” or show an end date.
 
 ### Will I get a refund after canceling?
 
@@ -64,11 +64,11 @@ Usually, you keep access for the time you already paid for, but refunds are only
 
 ### Can I restart my Perplexity subscription later?
 
-Absolutely—head back to the subscription area, choose a plan, and you’ll be back on Pro in seconds.
+Absolutely, head back to the subscription area, choose a plan, and you’ll be back on Pro in seconds.
 
 ### What if I delete my Perplexity account before canceling?
 
-Deleting your account does not stop the app store from billing you—always cancel the subscription first.
+Deleting your account does not stop the app store from billing you, always cancel the subscription first.
 
 ### Who do I contact if something goes wrong?
 

@@ -76,4 +76,4 @@ The files will now be copied to your SD card.
 
 Moving files from your Android device to an SD card is a simple process that can help you free up storage space on your device. Whether you use the Files by Google app, your device’s built-in file manager, or a computer, transferring files to an SD card is a quick and easy way to manage your device’s storage.
 
-By following the steps outlined in this article, you can ensure that your Android device has enough space for new apps, photos, and files without having to delete your existing data. So, go ahead and give it a try – your device will thank you for it!
+By following the steps outlined in this article, you can ensure that your Android device has enough space for new apps, photos, and files without having to delete your existing data. So, go ahead and give it a try, your device will thank you for it!

@@ -82,4 +82,4 @@ To restart your device:
 
 Encountering Facebook videos not playing on your mobile device can be a frustrating experience, but by following the steps outlined in this article, you can troubleshoot and resolve the issue. Remember to check your internet connection, update the Facebook app, clear cache and data, disable hardware acceleration (if using a browser), enable autoplay, and restart your device if necessary.
 
-If the problem persists after trying these steps, consider reaching out to Facebook’s support team or seeking assistance from your device manufacturer. Don’t let video playback issues hinder your Facebook experience – take action and enjoy seamless video streaming on your mobile device.
+If the problem persists after trying these steps, consider reaching out to Facebook’s support team or seeking assistance from your device manufacturer. Don’t let video playback issues hinder your Facebook experience, take action and enjoy seamless video streaming on your mobile device.

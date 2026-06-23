@@ -18,7 +18,7 @@ Key takeaways:
 
 - Always back up important videos before attempting bulk deletion
 
-If you’re looking to give your TikTok account a fresh start or simply want to remove a large number of videos quickly, you’ve probably realized that TikTok doesn’t make it easy to delete multiple videos at once. While the platform allows you to delete videos individually, there’s no built-in feature to remove all your content in one go without deleting your entire account. However, don’t worry – there are still ways to achieve this goal. In this comprehensive guide, we’ll explore various methods and workarounds to help you delete all your TikTok videos efficiently while keeping your account intact.
+If you’re looking to give your TikTok account a fresh start or simply want to remove a large number of videos quickly, you’ve probably realized that TikTok doesn’t make it easy to delete multiple videos at once. While the platform allows you to delete videos individually, there’s no built-in feature to remove all your content in one go without deleting your entire account. However, don’t worry, there are still ways to achieve this goal. In this comprehensive guide, we’ll explore various methods and workarounds to help you delete all your TikTok videos efficiently while keeping your account intact.
 
 ## Understanding TikTok’s Limitations
 

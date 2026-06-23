@@ -130,7 +130,7 @@ Paid plans start at 100GB and go up to 30TB, providing ample space for most user
 
 ## Conclusion
 
-Emptying your Google Drive on Android is a multifaceted process that involves more than just deleting files. By following these steps—deleting unnecessary files, emptying the trash, converting files to Google formats, managing Google Photos, and utilizing the Storage Manager tool—you can effectively optimize your Google Drive storage and ensure you have enough space for your important files.
+Emptying your Google Drive on Android is a multifaceted process that involves more than just deleting files. By following these steps, deleting unnecessary files, emptying the trash, converting files to Google formats, managing Google Photos, and utilizing the Storage Manager tool, you can effectively optimize your Google Drive storage and ensure you have enough space for your important files.
 
 Remember, managing your Google Drive storage is an ongoing process. It’s a good practice to regularly review your files, delete what’s no longer needed, and keep an eye on your storage usage. By staying proactive, you can avoid running out of space unexpectedly and ensure that your Google Drive continues to serve as an efficient and reliable cloud storage solution for all your digital needs.
 

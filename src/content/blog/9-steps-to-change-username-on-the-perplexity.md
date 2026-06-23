@@ -14,7 +14,7 @@ I’ll break down the exact steps, what to expect, and a few things to watch out
 
 ## Where to Find the Username Setting in the Perplexity
 
-So, first things first: you need to know where to look. The username setting isn’t buried, but it’s not right in your face either. On the Perplexity Android app, your profile and account settings are all in one spot. The app’s layout is simple, but if you’re new, it might take a second to find the right menu. Just look for your profile icon or the little gear symbol—those are your best friends for any account changes.
+So, first things first: you need to know where to look. The username setting isn’t buried, but it’s not right in your face either. On the Perplexity Android app, your profile and account settings are all in one spot. The app’s layout is simple, but if you’re new, it might take a second to find the right menu. Just look for your profile icon or the little gear symbol, those are your best friends for any account changes.
 
 Once you’re in the settings, you’ll see your account info, including your current username and email. The app lets you update your username right from here, so you don’t need to visit a website or use a different device. It’s all about making your experience as smooth as possible.
 
@@ -46,11 +46,11 @@ Here’s exactly how I changed my username on the Perplexity app for Android. Ju
 
 After you hit save, your new username should show up right away in the app. If you don’t see it, just close the app and open it again. The change is instant, and you don’t need to log out or restart your phone. Your profile, threads, and collections will all update with your new handle.
 
-Just a heads up: usernames need to be unique, so if someone else already has the one you want, you’ll need to try another. Also, keep it simple—no spaces or special characters, just standard Latin letters and numbers. If you share threads or collections, remember that your username might be visible to others, so pick something you’re cool with.
+Just a heads up: usernames need to be unique, so if someone else already has the one you want, you’ll need to try another. Also, keep it simple, no spaces or special characters, just standard Latin letters and numbers. If you share threads or collections, remember that your username might be visible to others, so pick something you’re cool with.
 
 ## Conclusion
 
-Changing your username on the Perplexity Android app is quick and painless. I’ve done it myself, and it only took a minute. Just follow the steps, pick a name you like, and you’re all set for a more personal experience. If you ever get bored of your handle again, you can always update it—no stress.
+Changing your username on the Perplexity Android app is quick and painless. I’ve done it myself, and it only took a minute. Just follow the steps, pick a name you like, and you’re all set for a more personal experience. If you ever get bored of your handle again, you can always update it, no stress.
 
 A fresh username can make your profile feel brand new, and it’s one of those small tweaks that just feels good. Go for it and make your Perplexity account truly yours!
 
@@ -62,7 +62,7 @@ You can change it as often as you want, but you need to pick a unique name each 
 
 ### Can I use special characters or spaces in my username?
 
-Nope, stick to Latin letters and numbers—no spaces or special symbols.
+Nope, stick to Latin letters and numbers, no spaces or special symbols.
 
 ### Will changing my username affect my threads or saved content?
 

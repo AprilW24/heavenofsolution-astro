@@ -32,7 +32,7 @@ Under the comment you’ve chosen, you’ll see a **Reply** button. Click on thi
 
 ### Step 5: Type Your Comment
 
-In the reply field, type out your comment as usual. There’s no need to manually type **@** or the person’s username – the system will automatically tag them when you reply.
+In the reply field, type out your comment as usual. There’s no need to manually type **@** or the person’s username, the system will automatically tag them when you reply.
 
 ![](/wp-content/uploads/2024/08/HoS_TagSomeoneon-1.jpg)
 

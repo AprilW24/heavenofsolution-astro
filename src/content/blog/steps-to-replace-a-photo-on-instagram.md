@@ -62,6 +62,6 @@ By following these tips, you can reduce the likelihood of needing to replace a p
 
 ## Conclusion
 
-Replacing a photo on Instagram after posting may not be a straightforward process, but it is possible with a little bit of effort. By deleting the original post, re-uploading the corrected photo, engaging with your followers, and learning from your mistakes, you can keep your Instagram feed looking its best. Remember, everyone makes mistakes – it’s how you handle them that counts!
+Replacing a photo on Instagram after posting may not be a straightforward process, but it is possible with a little bit of effort. By deleting the original post, re-uploading the corrected photo, engaging with your followers, and learning from your mistakes, you can keep your Instagram feed looking its best. Remember, everyone makes mistakes, it’s how you handle them that counts!
 
 So the next time you realize you’ve posted the wrong photo on Instagram, don’t panic. Just follow these steps and you’ll have your post fixed in no time. Happy gramming!

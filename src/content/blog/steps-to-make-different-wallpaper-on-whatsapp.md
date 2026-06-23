@@ -36,9 +36,9 @@ Want every chat to feel unique? This step-by-step makes sure each conversation s
 
 ## Choosing the Best Wallpaper for Each Contact on WhatsApp
 
-Setting different wallpapers for every chat isn’t just about making things look pretty. It helps me remember what’s happening in each conversation—work, family, or friends—so I don’t text the wrong info to the wrong person. I always pick something that fits the mood of my talks. For family, maybe a group photo; for my flaky friend, probably a funny meme; and for work, I stick with a solid color or something simple.
+Setting different wallpapers for every chat isn’t just about making things look pretty. It helps me remember what’s happening in each conversation, work, family, or friends, so I don’t text the wrong info to the wrong person. I always pick something that fits the mood of my talks. For family, maybe a group photo; for my flaky friend, probably a funny meme; and for work, I stick with a solid color or something simple.
 
-I don’t go wild with colors unless I know I’ll still be able to read messages without straining my eyes. WhatsApp lets us preview images before setting them, so scroll through a few options and see what looks best with the chat bubbles. If you’ve snapped a good pic recently, use that—it’s a fun way to show off your creativity.
+I don’t go wild with colors unless I know I’ll still be able to read messages without straining my eyes. WhatsApp lets us preview images before setting them, so scroll through a few options and see what looks best with the chat bubbles. If you’ve snapped a good pic recently, use that, it’s a fun way to show off your creativity.
 
 Personal touches also mean no one else’s chat list will look just like mine. Whether you pick wallpapers for fun or for quick organization, you’re in control. Just make sure your images aren’t too crowded; clean backgrounds usually work better.
 

@@ -6,7 +6,7 @@ category: "Google Apps"
 featuredImage: "/wp-content/uploads/2024/06/HoS_GooglePhotos-1.png"
 ---
 
-If you use Google Photos to back up the pictures and videos on your phone, you may have run into a common issue – when you delete photos from the Google Photos app, it also deletes them from your device. This happens because Google Photos syncs deletions between your phone and the cloud backup by default.
+If you use Google Photos to back up the pictures and videos on your phone, you may have run into a common issue, when you delete photos from the Google Photos app, it also deletes them from your device. This happens because Google Photos syncs deletions between your phone and the cloud backup by default.
 
 However, there are times when you may want to delete photos from your Google Photos backup to free up online storage space, but still keep the originals on your phone. Fortunately, it’s possible to do this with a few steps. Here’s how:
 

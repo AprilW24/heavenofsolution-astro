@@ -10,7 +10,7 @@ If you’ve recently upgraded to a new Android phone, one of the first things yo
 
 ## Why Back Up Your Android Phone to Google Drive?
 
-Before we dive into the restoration process, let’s talk about why backing up your Android phone to Google Drive is so important. Your phone likely contains a treasure trove of important data – contacts, photos, videos, text messages, apps, and more. If your phone is ever lost, stolen, or damaged, having a recent backup means you won’t lose all that precious information.
+Before we dive into the restoration process, let’s talk about why backing up your Android phone to Google Drive is so important. Your phone likely contains a treasure trove of important data, contacts, photos, videos, text messages, apps, and more. If your phone is ever lost, stolen, or damaged, having a recent backup means you won’t lose all that precious information.
 
 Backing up to Google Drive is automatic and happens wirelessly whenever your phone is connected to Wi-Fi and plugged in to charge. It’s a seamless, set-it-and-forget-it process. And best of all, it’s free with your Google account (up to 15GB of storage).
 

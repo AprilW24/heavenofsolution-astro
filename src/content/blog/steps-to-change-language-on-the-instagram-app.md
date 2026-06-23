@@ -28,4 +28,4 @@ Instagram is one of the most popular social media platforms, with over 1 billion
 
 6. After selecting, the language will change automatically.
 
-Changing the language in the Instagram app is a very simple process that can be completed in just a few taps. So whether you want Instagram in your native tongue or are looking to learn a new language, go ahead and update those language settings. With Instagram now supporting over 36 languages, you have plenty of options to choose from. Change it back anytime you want – it’s that easy!
+Changing the language in the Instagram app is a very simple process that can be completed in just a few taps. So whether you want Instagram in your native tongue or are looking to learn a new language, go ahead and update those language settings. With Instagram now supporting over 36 languages, you have plenty of options to choose from. Change it back anytime you want, it’s that easy!

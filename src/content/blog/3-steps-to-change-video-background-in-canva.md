@@ -20,7 +20,7 @@ A well-chosen background color can:
 
 - **Hide cluttered or unprofessional environments**.
 
-Whether you’re removing a messy room or adding a pop of color, Canva’s tools make it easy—no advanced editing skills required.
+Whether you’re removing a messy room or adding a pop of color, Canva’s tools make it easy, no advanced editing skills required.
 
 ### **How to Change a Video Background Color in Canva**
 

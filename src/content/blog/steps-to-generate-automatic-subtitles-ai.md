@@ -14,7 +14,7 @@ Once you’re done reading, you’ll know how to pick the right app, upload your
 
 ## The main apps that create subtitles automatically on Android
 
-There are plenty of AI tools, but a few stand out for accuracy and speed. **SendShort** is one of the best for free subtitle generation—it detects any language, adds captions with great timing, and even lets you style them with colors and animations. **Vozo AI** is another good pick, with over 200 styles and translation options for more than 100 languages.
+There are plenty of AI tools, but a few stand out for accuracy and speed. **SendShort** is one of the best for free subtitle generation, it detects any language, adds captions with great timing, and even lets you style them with colors and animations. **Vozo AI** is another good pick, with over 200 styles and translation options for more than 100 languages.
 
 If you want a quick online option, **SubtitleBee** and **Kapwing** both work right from your browser. Just upload your clip, and they’ll handle the rest. Apps like **Captiono** from Google Play also create precise subtitles and sync them directly into your video, perfect for social media uploads.
 
@@ -44,7 +44,7 @@ These tools use advanced AI speech recognition. They analyze your voice, turn it
 
 ## How to pick the right AI subtitle app for your Android
 
-Go for apps with high transcription accuracy and minimal manual editing. SendShort and Vozo AI both deliver results up to around 95–98% accurate. If you need translations, Vozo AI or Maestra are perfect for making multilingual versions.
+Go for apps with high transcription accuracy and minimal manual editing. SendShort and Vozo AI both deliver results up to around 95, 98% accurate. If you need translations, Vozo AI or Maestra are perfect for making multilingual versions.
 
 Keep an eye on export formats too. Apps that support *SRT* or directly embedded captions save you time later if you edit elsewhere. Also, check if there’s a watermark on free exports; if that’s a dealbreaker, consider a low-cost plan to remove it.
 
@@ -72,7 +72,7 @@ Yes, since the AI processing usually happens online.
 
 ### Are the subtitles accurate?
 
-Most apps reach up to 95–98% accuracy, depending on the audio quality.
+Most apps reach up to 95, 98% accuracy, depending on the audio quality.
 
 ### Can I export subtitle files separately?
 

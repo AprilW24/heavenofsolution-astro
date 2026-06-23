@@ -18,7 +18,7 @@ The easiest way to check your Facebook messages without the Messenger app is to 
 
 **Step 3:** Tap on the **Messages** icon located below the search bar to access your inbox.
 
-**Step 4:** From here, you can view your recent conversations, reply to messages, and send new ones – all without the Messenger app!
+**Step 4:** From here, you can view your recent conversations, reply to messages, and send new ones, all without the Messenger app!
 
 One downside of using the mobile site is that you’ll need to refresh the page to check for new messages, as it doesn’t provide real-time notifications like the app does. However, it’s still a convenient option if you only check your messages occasionally.
 
@@ -62,4 +62,4 @@ Once enabled, your Facebook and Instagram messages will appear together in the I
 
 As you can see, there are several ways to access your Facebook messages without relying on the standalone Messenger app. Whether you prefer using the mobile website, the main Facebook app, the Messenger site, or even Instagram, you have options to stay connected on your own terms.
 
-While some methods may not offer the full range of features you’d get with the Messenger app, they provide a convenient way to quickly check and respond to messages without the need for an additional app. So go ahead and try out these alternative methods – you might just find a new preferred way to keep in touch with your Facebook friends!
+While some methods may not offer the full range of features you’d get with the Messenger app, they provide a convenient way to quickly check and respond to messages without the need for an additional app. So go ahead and try out these alternative methods, you might just find a new preferred way to keep in touch with your Facebook friends!

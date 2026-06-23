@@ -36,7 +36,7 @@ Signing in is quick if you’ve got your info ready. Here’s how you do it:
 
 Let’s talk about logging out. Maybe you want to protect your privacy, or just switch to a different account. This process clears you out of the app. Here’s how it works on pretty much any recent device:
 
-The first step is just opening the Google app. You’ll need to hit up your profile icon, which sits up top in the corner. From there, tap “Manage accounts on this device.” This section shows every account currently loaded on your phone. Pick the one you want gone and choose “Remove from this device.” Confirm when asked. That’s it—once you do this, you’re officially logged out of your Google account across the app and other Google services on your phone.
+The first step is just opening the Google app. You’ll need to hit up your profile icon, which sits up top in the corner. From there, tap “Manage accounts on this device.” This section shows every account currently loaded on your phone. Pick the one you want gone and choose “Remove from this device.” Confirm when asked. That’s it, once you do this, you’re officially logged out of your Google account across the app and other Google services on your phone.
 
 If you use an *Android*, sometimes you might need to go into your phone’s Settings to finish the job. Head to Settings, scroll to Accounts, tap the Google account you want to remove, and hit “Remove account.” No extra steps, just clean and easy.
 
@@ -60,7 +60,7 @@ Tap your profile icon, select the account you want, or add a new one to make the
 
 ### Can I log out of just the Google app without removing my account from my phone?
 
-Not really—removing the account logs you out from all Google apps on your device.
+Not really, removing the account logs you out from all Google apps on your device.
 
 ### What if I forget my Google account password?
 

@@ -14,7 +14,7 @@ I tried it, and honestly, it’s one of the easiest setups ever. You don’t nee
 
 Perplexity AI brings its smart search chatbot right inside WhatsApp. It’s like having a built-in search buddy that responds faster than opening your browser. You can ask simple questions or request research-backed summaries, and it replies instantly.
 
-What makes this setup stand out is how accessible it is. No app store downloads, no permissions, nothing complex — just a chat window that feels like messaging a friend. The bot can even summarize articles or help generate quick info on any topic.
+What makes this setup stand out is how accessible it is. No app store downloads, no permissions, nothing complex, just a chat window that feels like messaging a friend. The bot can even summarize articles or help generate quick info on any topic.
 
 On top of that, it works globally. Whether you’re commuting, multitasking at work, or just too lazy to open your browser, Perplexity on WhatsApp saves your time in real, daily situations.
 
@@ -32,13 +32,13 @@ On top of that, it works globally. Whether you’re commuting, multitasking at w
 
 6. Tap it to open a new chat window.
 
-7. Type your first question or request — keep it casual.
+7. Type your first question or request, keep it casual.
 
 8. Wait a few seconds for a response.
 
 9. Keep the chat going; it supports follow-up questions too.
 
-10. You’re all set — now you can get info, summaries, or images anytime.
+10. You’re all set, now you can get info, summaries, or images anytime.
 
 ## Features That Make Using It Super Convenient
 

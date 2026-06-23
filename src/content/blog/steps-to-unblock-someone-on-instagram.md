@@ -62,7 +62,7 @@ So what actually happens when you unblock an account? Here’s what to expect:
 
 - Previous likes and comments from them on your posts will be restored
 
-- You will not automatically follow them again – you’ll have to re-follow manually if you choose
+- You will not automatically follow them again, you’ll have to re-follow manually if you choose
 
 - Messages you sent them while they were blocked will now be delivered
 

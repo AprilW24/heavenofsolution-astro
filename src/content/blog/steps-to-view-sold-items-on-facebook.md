@@ -58,4 +58,4 @@ Be sure to analyze details like:
 
 - What prices buyers ultimately paid
 
-Consistently monitoring your sold Marketplace data will lead to more sales and happier customers. So next time an item sells, don’t just forget about it — review the listing and learn from it!
+Consistently monitoring your sold Marketplace data will lead to more sales and happier customers. So next time an item sells, don’t just forget about it, review the listing and learn from it!

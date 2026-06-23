@@ -46,15 +46,15 @@ That’s it! With just a few taps, you’ve added a stylish outline effect to yo
 
 While outlining text is a great way to add flair to your designs, there are a few best practices to keep in mind:
 
-- **Use it sparingly** – Outline effects work best when used strategically on important text. If you outline every bit of text, it loses its impact.
+- **Use it sparingly**, Outline effects work best when used strategically on important text. If you outline every bit of text, it loses its impact.
 
-- **Keep it legible** – Avoid using super thick outlines or outlining small text, as this can make your text difficult to read.
+- **Keep it legible**, Avoid using super thick outlines or outlining small text, as this can make your text difficult to read.
 
-- **Pair it with the right font** – Outline effects tend to work better with bold, simple fonts. Avoid outlining script or highly ornamental fonts.
+- **Pair it with the right font**, Outline effects tend to work better with bold, simple fonts. Avoid outlining script or highly ornamental fonts.
 
-- **Consider your color choices** – Make sure there is enough contrast between your outline color and the text/background color for legibility.
+- **Consider your color choices**, Make sure there is enough contrast between your outline color and the text/background color for legibility.
 
-- **Check it on multiple devices** – Canva designs can render differently on various screen sizes, so double check that your outlined text looks good across mobile and desktop.
+- **Check it on multiple devices**, Canva designs can render differently on various screen sizes, so double check that your outlined text looks good across mobile and desktop.
 
 By following these tips, you can ensure your outlined text enhances rather than detracts from your overall mobile design.
 
@@ -64,13 +64,13 @@ Outlining your text is just one of the many ways you can add visual interest and
 
 **More Text Effects to Try:**
 
-- Shadow – add a drop shadow effect
+- Shadow, add a drop shadow effect
 
-- Neon – give your text a glowing neon look
+- Neon, give your text a glowing neon look
 
-- Lift – create a 3D effect
+- Lift, create a 3D effect
 
-- Curve – bend your text into an arch or curve shape
+- Curve, bend your text into an arch or curve shape
 
 **Explore the Canva App:**
 
@@ -82,7 +82,7 @@ Outlining your text is just one of the many ways you can add visual interest and
 
 - Collaborate with team members on a design in real-time
 
-With a little creativity and exploration, you can create stunning Canva designs on the go from the palm of your hand. The outline text effect is a great place to start – give it a try in your next mobile design!
+With a little creativity and exploration, you can create stunning Canva designs on the go from the palm of your hand. The outline text effect is a great place to start, give it a try in your next mobile design!
 
 ## Conclusion
 

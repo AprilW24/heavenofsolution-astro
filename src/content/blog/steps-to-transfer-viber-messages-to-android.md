@@ -66,7 +66,7 @@ After restoring, you should have access to all your previous Viber purchases on 
 
 It’s important to note that Viber backups are platform-specific. So if you are switching from an iPhone to an Android phone, there is no way to transfer your Viber message history between the two different platforms.
 
-Your Viber messages are only transferable when staying within the same operating system – from one Android phone to another Android, or from an iPhone to another iPhone. Keep this in mind if you are considering changing mobile platforms.
+Your Viber messages are only transferable when staying within the same operating system, from one Android phone to another Android, or from an iPhone to another iPhone. Keep this in mind if you are considering changing mobile platforms.
 
 ## Conclusion
 

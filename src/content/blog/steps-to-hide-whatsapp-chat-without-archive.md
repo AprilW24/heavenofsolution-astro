@@ -10,7 +10,7 @@ WhatsApp is a popular messaging application used by millions of people worldwide
 
 ### Hiding WhatsApp Chats Without Archive
 
-#### – Using GBWhatsApp
+####, Using GBWhatsApp
 
 GBWhatsApp is a modified version of WhatsApp that offers additional features, including the ability to hide chats without archiving them. To hide a chat using GBWhatsApp, follow these steps:
 
@@ -20,7 +20,7 @@ GBWhatsApp is a modified version of WhatsApp that offers additional features, in
 
 3. Tap the three-dot menu at the top-right corner of the screen and select **Hide chat** from the options.
 
-#### – Using WhatsApp App Lock
+####, Using WhatsApp App Lock
 
 WhatsApp App Lock is a feature that allows you to lock individual chats within the app. To use this feature, follow these steps:
 

@@ -48,11 +48,11 @@ Changing the site permission tells Chrome that you trust the site and want to al
 
 If the above steps don’t resolve the issue, you may need to adjust your Safe Browsing settings in Chrome. There are three protection levels:
 
-1. **Enhanced Protection** – Offers the most proactive security against threats, but may block more downloads
+1. **Enhanced Protection**, Offers the most proactive security against threats, but may block more downloads
 
-2. **Standard Protection** – The default setting, protects against known threats
+2. **Standard Protection**, The default setting, protects against known threats
 
-3. **No Protection** – Turns off Safe Browsing entirely, leaving you vulnerable to threats
+3. **No Protection**, Turns off Safe Browsing entirely, leaving you vulnerable to threats
 
 To maximize security, you should keep Safe Browsing on if possible. But if you need to download a blocked file, you can temporarily lower or disable protection:
 

@@ -12,13 +12,13 @@ Google Chrome is one of the most popular web browsers, known for its speed, simp
 
 Chrome apps are web-based applications that run inside the Chrome browser. They are designed to work offline, have access to local storage, and integrate with hardware like USB devices. Some popular examples of Chrome apps include:
 
-- Google Docs – for creating and editing documents
+- Google Docs, for creating and editing documents
 
-- Evernote – for taking notes and organizing information
+- Evernote, for taking notes and organizing information
 
-- Grammarly – for checking spelling and grammar
+- Grammarly, for checking spelling and grammar
 
-- Zoom – for video conferencing
+- Zoom, for video conferencing
 
 Chrome apps can be installed from the Chrome Web Store and launched right from Chrome. Let’s go through the process step-by-step.
 

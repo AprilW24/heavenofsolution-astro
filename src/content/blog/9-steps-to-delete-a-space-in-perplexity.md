@@ -22,7 +22,7 @@ The Perplexity app is all about keeping your projects and research organized, bu
 
 4. Tap to open that *Space*.
 
-5. Look for the three-dot menu (*ellipsis*) in the corner—usually top right and tap it.
+5. Look for the three-dot menu (*ellipsis*) in the corner, usually top right and tap it.
 
 6. Select the “**Delete**” option from the menu.
 
@@ -30,7 +30,7 @@ The Perplexity app is all about keeping your projects and research organized, bu
 
 8. Wait a second for the app to process your request.
 
-9. The *Space* will disappear from your list—done! 🗑️
+9. The *Space* will disappear from your list, done! 🗑️
 
 ## Why You Might Want to Delete Old Spaces
 
@@ -40,15 +40,15 @@ If you’re a Perplexity Pro user, you might also have files attached to differe
 
 ## What Happens After You Delete a Space
 
-Once you delete a *Space*, it’s gone for good—there’s no undo button. That means any threads, files, or notes in that *Space* are wiped out. If you’re not sure, maybe back up anything important before you go through with it.
+Once you delete a *Space*, it’s gone for good, there’s no undo button. That means any threads, files, or notes in that *Space* are wiped out. If you’re not sure, maybe back up anything important before you go through with it.
 
 I’ve accidentally deleted the wrong *Space* before, so now I always take a quick look to make sure I’m deleting the right one. It’s better to be safe than sorry, especially if you’ve got important research or files in there.
 
 ## Conclusion
 
-Deleting a *Space* in Perplexity on Android is simple once you know where to look. Just tap the *ellipsis* in your chosen *Space* and hit delete—easy as that. Keeping your *Spaces* organized saves time and helps you stay focused on your projects. Just remember, once it’s gone, it’s gone, so double-check before you confirm.
+Deleting a *Space* in Perplexity on Android is simple once you know where to look. Just tap the *ellipsis* in your chosen *Space* and hit delete, easy as that. Keeping your *Spaces* organized saves time and helps you stay focused on your projects. Just remember, once it’s gone, it’s gone, so double-check before you confirm.
 
-If you ever feel overwhelmed by clutter in your Perplexity app, don’t stress—just clean up your *Spaces* and enjoy a fresh start. Happy organizing! 📱✨
+If you ever feel overwhelmed by clutter in your Perplexity app, don’t stress, just clean up your *Spaces* and enjoy a fresh start. Happy organizing! 📱✨
 
 ## FAQs
 

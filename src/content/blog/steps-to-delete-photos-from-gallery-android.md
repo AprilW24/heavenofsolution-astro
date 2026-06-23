@@ -146,4 +146,4 @@ Managing your photo gallery on Android doesn’t have to be a daunting task. Wit
 
 Whether you prefer deleting photos individually, in bulk, or using specialized apps like Google Photos, there’s a method that will suit your needs. By maintaining a clean and organized photo gallery, you’ll not only free up valuable storage space but also make it easier to find and enjoy the photos that truly matter to you.
 
-So, take some time to declutter your Android gallery today – your future self will thank you for the organized and streamlined photo collection!
+So, take some time to declutter your Android gallery today, your future self will thank you for the organized and streamlined photo collection!

@@ -24,7 +24,7 @@ Let’s start with the fundamental steps to crop a photo directly within the Ins
 
 2. **Select or take a photo**: You can either choose an existing photo from your gallery by swiping up or tapping the gallery icon, or take a new photo using the Stories camera.
 
-3. **Enter edit mode**: Once you’ve selected or taken a photo, you’ll see various editing options at the top of the screen. Look for the square icon with two arrows pointing outwards – this is the resize/crop tool.
+3. **Enter edit mode**: Once you’ve selected or taken a photo, you’ll see various editing options at the top of the screen. Look for the square icon with two arrows pointing outwards, this is the resize/crop tool.
 
 4. **Adjust the crop**: Tap the resize/crop icon to enter the cropping mode. You’ll see a grid overlay on your image. Use your fingers to pinch and zoom the image to adjust its size and position within the frame.
 
@@ -84,7 +84,7 @@ Now that you’re familiar with both basic and advanced cropping techniques, let
 
 Mastering the art of cropping photos for Instagram Stories is a valuable skill that can significantly enhance your social media presence. By following the basic steps outlined in this guide and experimenting with advanced techniques, you can create more engaging, visually appealing Stories that capture your audience’s attention.
 
-Remember that effective cropping is about more than just resizing an image – it’s about thoughtful composition, storytelling, and creating a visual impact. As you practice these techniques, you’ll develop an eye for what works best in the Stories format and how to make your content stand out in the crowded world of social media.
+Remember that effective cropping is about more than just resizing an image, it’s about thoughtful composition, storytelling, and creating a visual impact. As you practice these techniques, you’ll develop an eye for what works best in the Stories format and how to make your content stand out in the crowded world of social media.
 
 Don’t be afraid to push the boundaries and try new things with your crops. Instagram Stories offer a perfect platform for experimentation, allowing you to see what resonates with your audience in real-time. Pay attention to which types of crops and compositions generate the most engagement, and use this feedback to refine your approach over time.
 

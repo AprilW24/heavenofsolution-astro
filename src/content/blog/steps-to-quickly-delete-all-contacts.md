@@ -56,7 +56,7 @@ If for some reason the above steps don’t work on your particular Android phone
 
 5. Select **Clear data** and then tap **OK** on the popup to confirm
 
-This will erase not only your contacts but all data associated with the Contacts app. The end result is the same though – all of your contacts will be deleted.
+This will erase not only your contacts but all data associated with the Contacts app. The end result is the same though, all of your contacts will be deleted.
 
 #### 4. Syncing Contacts After Deleting
 

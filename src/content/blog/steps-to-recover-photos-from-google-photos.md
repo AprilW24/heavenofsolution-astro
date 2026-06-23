@@ -76,4 +76,4 @@ To avoid future scares, be sure to:
 
 - Consider using the **Archive feature** instead of deleting photos you want to remove from your main library
 
-Hopefully these tips will help keep your Google Photos safe and recoverable. Don’t give up if you’ve lost important pictures – with some persistence and quick action, there’s a good chance of getting them back!
+Hopefully these tips will help keep your Google Photos safe and recoverable. Don’t give up if you’ve lost important pictures, with some persistence and quick action, there’s a good chance of getting them back!

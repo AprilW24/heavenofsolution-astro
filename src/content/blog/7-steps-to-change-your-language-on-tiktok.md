@@ -36,7 +36,7 @@ Now that you understand the benefits, let’s get started! Follow these simple s
 
 5. Under **App Language**, tap **Change Language**.
 
-6. Select your desired language(s) – you can add multiple!
+6. Select your desired language(s), you can add multiple!
 
 7. Toggle **Show Translations** on to view captions in your chosen language(s).
 

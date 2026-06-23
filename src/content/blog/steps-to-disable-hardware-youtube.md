@@ -34,7 +34,7 @@ Hardware acceleration is enabled by default on most Android devices. You can ver
 
 7. Scroll down to the Drawing section
 
-8. Look for **Disable HW overlays** – if this is unchecked, hardware acceleration is currently enabled
+8. Look for **Disable HW overlays**, if this is unchecked, hardware acceleration is currently enabled
 
 If you don’t see a **Disable HW overlays** option, your device manufacturer may have removed it. But you can still disable hardware acceleration through other means, as we’ll explain next.
 

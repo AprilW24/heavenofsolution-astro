@@ -14,11 +14,11 @@ So, if you’re looking for a way to hit pause on *Instagram* without any stress
 
 Sometimes, social media just gets overwhelming. Notifications, endless feeds, and the pressure to keep up can mess with your head. Taking a break can help you reset, focus on what matters, and protect your privacy. When you disable your account, your profile, photos, and comments go invisible, but nothing gets deleted. You can come back anytime, just by logging in again.
 
-People use this feature for all sorts of reasons. Maybe you’re studying for exams, starting a new job, or just want to spend less time online. Whatever your reason, this option is totally reversible. You don’t lose your followers or posts—they’re just hidden until you’re ready to return.
+People use this feature for all sorts of reasons. Maybe you’re studying for exams, starting a new job, or just want to spend less time online. Whatever your reason, this option is totally reversible. You don’t lose your followers or posts, they’re just hidden until you’re ready to return.
 
 ## Step-by-Step Guide to Temporarily Disable Your Instagram Account
 
-Alright, here’s how you can do it in six quick steps—no confusion, no hassle:
+Alright, here’s how you can do it in six quick steps, no confusion, no hassle:
 
 1. Open a browser (on your phone or computer) and go to *Instagram.com*.
 
@@ -46,7 +46,7 @@ Your login also gets reset on all devices, so if you had the app on your phone o
 
 ## Things to Know Before Disabling Your Instagram Account
 
-There are a couple of things to keep in mind before you go on your break. You can only disable your account once a week, so if you reactivate and then want to take another break, you’ll have to wait. Also, you can’t do this from the app—you have to use a browser. That’s just how *Instagram* set it up.
+There are a couple of things to keep in mind before you go on your break. You can only disable your account once a week, so if you reactivate and then want to take another break, you’ll have to wait. Also, you can’t do this from the app, you have to use a browser. That’s just how *Instagram* set it up.
 
 Your friends won’t get notified that you left, and your DMs will disappear until you’re back. If you’re running a business or creator account, your content and analytics pause too. So, make sure you’re cool with being offline for a bit. But honestly, it’s a pretty chill way to take a breather from the social scene.
 

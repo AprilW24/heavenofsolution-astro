@@ -20,7 +20,7 @@ Next, navigate to the video that has the comment you want to pin. The easiest wa
 
 ### Step 2: Scroll Down to the Comments Section
 
-Once the video starts playing, tap anywhere on the video to bring up the video controls and info. Look for the comments button below the video title – it will say something like **123 Comments**. Tap on this to scroll down to the comments section.
+Once the video starts playing, tap anywhere on the video to bring up the video controls and info. Look for the comments button below the video title, it will say something like **123 Comments**. Tap on this to scroll down to the comments section.
 
 All the comments on the video will load below, with the newest comments first by default. Take a moment to browse through and find the comment you want to pin to the top. This could be a comment you previously posted yourself, or a comment from a viewer that you want to highlight.
 

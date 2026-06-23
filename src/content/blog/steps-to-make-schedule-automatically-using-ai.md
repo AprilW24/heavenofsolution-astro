@@ -62,7 +62,7 @@ Apps like *Motion*, *Lindy*, *Reclaim*, or *CalendarHero* are good picks for mob
 
 ### Can AI handle recurring events and reminders?
 
-Yep, you just need to set up the settings once—AI schedules them and reminds you automatically.
+Yep, you just need to set up the settings once, AI schedules them and reminds you automatically.
 
 ### Do I have to approve suggestions or does AI decide for me?
 

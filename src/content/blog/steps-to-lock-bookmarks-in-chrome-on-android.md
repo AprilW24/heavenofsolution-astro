@@ -54,7 +54,7 @@ Several Chrome extensions offer bookmark management with password protection fea
 
 - Secure Bookmarks
 
-- Hush – Private Bookmarking
+- Hush, Private Bookmarking
 
 - Privacy Bookmarks
 

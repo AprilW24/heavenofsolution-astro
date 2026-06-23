@@ -16,11 +16,11 @@ This article provides a step-by-step guide on how to open HEIC files on your And
 
 The easiest way to open HEIC files on Android is by installing a dedicated HEIC viewer app from the Google Play Store. Some good options include:
 
-- **Luma HEIC Viewer** – Allows viewing, editing and converting HEIC files.
+- **Luma HEIC Viewer**, Allows viewing, editing and converting HEIC files.
 
-- **HEIC Image Viewer** – View, share and convert HEIC images.
+- **HEIC Image Viewer**, View, share and convert HEIC images.
 
-- **Heic Converter** – Batch convert HEIC images to JPG or PNG.
+- **Heic Converter**, Batch convert HEIC images to JPG or PNG.
 
 To install:
 

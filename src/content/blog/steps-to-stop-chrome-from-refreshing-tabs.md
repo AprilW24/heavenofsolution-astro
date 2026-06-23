@@ -70,7 +70,7 @@ If the tab refreshing stops, re-enable the extensions one by one until you find 
 
 When writing an article like this, it’s important to make the content engaging and easy to read. Use short paragraphs, bold text for emphasis, and clear step-by-step instructions. Add relevant images if possible to break up the text.
 
-Tell a story – perhaps open with an anecdote about how frustrating it is when tabs unexpectedly reload and you lose your place. Explain why this happens in terms the average reader can understand. Most importantly, provide clear, actionable steps the reader can take to resolve the issue.
+Tell a story, perhaps open with an anecdote about how frustrating it is when tabs unexpectedly reload and you lose your place. Explain why this happens in terms the average reader can understand. Most importantly, provide clear, actionable steps the reader can take to resolve the issue.
 
 ## Conclusion
 

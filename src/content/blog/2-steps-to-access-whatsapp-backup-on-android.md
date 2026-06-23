@@ -6,7 +6,7 @@ category: "Communication Apps"
 featuredImage: "/wp-content/uploads/2023/01/HeavenofSolution-1.jpg"
 ---
 
-There are two main ways WhatsApp backs up data on Android devices – to Google Drive and local storage. Google Drive backups happen automatically based on your selected frequency – daily, weekly or monthly. Local backups are created daily at 2 AM and saved on your phone’s internal storage.
+There are two main ways WhatsApp backs up data on Android devices, to Google Drive and local storage. Google Drive backups happen automatically based on your selected frequency, daily, weekly or monthly. Local backups are created daily at 2 AM and saved on your phone’s internal storage.
 
 **Here are some key things to know about WhatsApp backups on Android:**
 

@@ -68,4 +68,4 @@ If the above methods don’t work, you can try using a third-party data recovery
 
 Losing precious Instagram photos can be a distressing experience, but with the methods outlined in this article, you have a good chance of recovering them on your Android device. Remember to regularly back up your photos to cloud services like Google Photos or use Instagram’s Archive feature to prevent accidental deletions in the future.
 
-By following these step-by-step guides, you can breathe a sigh of relief knowing that your cherished memories are not lost forever. Don’t let a simple mistake ruin your Instagram experience—take action and undelete those photos today!
+By following these step-by-step guides, you can breathe a sigh of relief knowing that your cherished memories are not lost forever. Don’t let a simple mistake ruin your Instagram experience, take action and undelete those photos today!

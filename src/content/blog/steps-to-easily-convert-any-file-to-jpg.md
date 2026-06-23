@@ -14,13 +14,13 @@ In this article, we’ll walk through the steps to change a file to JPG format u
 
 The first step is to select an online JPG converter tool. Some of the best options include:
 
-- **Smallpdf** – Supports converting PDF, PNG, BMP, TIFF, and GIF to JPG
+- **Smallpdf**, Supports converting PDF, PNG, BMP, TIFF, and GIF to JPG
 
-- **Convertio** – Converts over 300 different file types to JPG
+- **Convertio**, Converts over 300 different file types to JPG
 
-- **Zamzar** – Allows JPG conversion from formats like PDF, PNG, SVG, and more
+- **Zamzar**, Allows JPG conversion from formats like PDF, PNG, SVG, and more
 
-- **FreeConvert** – Offers conversion to JPG from BMP, GIF, PNG, WEBP, HEIC and other formats
+- **FreeConvert**, Offers conversion to JPG from BMP, GIF, PNG, WEBP, HEIC and other formats
 
 Once you’ve picked an online converter, navigate to the website and look for an option to **upload the file you want to convert**. Most tools let you either drag-and-drop the file into the browser window, or click a button to browse and select the file from your device.
 
@@ -34,11 +34,11 @@ The exact steps vary a bit between tools, but it’s usually very straightforwar
 
 Some online JPG converters provide options to **customize the converted JPG file**. Common settings you may see include:
 
-- **JPG quality/compression level** – A lower quality makes a smaller file size, while higher quality preserves more detail but with a larger file size.
+- **JPG quality/compression level**, A lower quality makes a smaller file size, while higher quality preserves more detail but with a larger file size.
 
-- **Resize dimensions** – The ability to scale the converted JPG to a specific width/height or percentage of the original size.
+- **Resize dimensions**, The ability to scale the converted JPG to a specific width/height or percentage of the original size.
 
-- **Extract single images** – For PDFs with multiple pages, some tools let you extract individual pages as separate JPGs.
+- **Extract single images**, For PDFs with multiple pages, some tools let you extract individual pages as separate JPGs.
 
 Depending on your needs, you may want to adjust some of these settings before starting the JPG conversion. But the default options are fine in most cases.
 

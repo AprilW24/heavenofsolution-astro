@@ -18,7 +18,7 @@ There are a few key reasons why you may want to hide your WiFi network:
 
 - **Privacy:** You may simply not want to broadcast your WiFi network name to anyone nearby for privacy reasons, especially if your SSID contains personal information.
 
-Keep in mind that hiding your SSID does not encrypt your network traffic or prevent more sophisticated hacking attempts – it simply makes your network harder to find. Make sure to also use strong encryption like WPA2 and a long, unique password for the best WiFi security.
+Keep in mind that hiding your SSID does not encrypt your network traffic or prevent more sophisticated hacking attempts, it simply makes your network harder to find. Make sure to also use strong encryption like WPA2 and a long, unique password for the best WiFi security.
 
 ### Step 1: Access Your Router Settings
 

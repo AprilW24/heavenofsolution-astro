@@ -54,7 +54,7 @@ Your address will now show in your bio and users can tap it for directions.
 
 ### Step 3: Create a Custom Location
 
-To tag your exact business location, you may need to create a custom location. Unfortunately this can’t be done directly on Instagram anymore – you need to use Facebook. Here’s how:
+To tag your exact business location, you may need to create a custom location. Unfortunately this can’t be done directly on Instagram anymore, you need to use Facebook. Here’s how:
 
 1. Open your Facebook app and create a new post
 

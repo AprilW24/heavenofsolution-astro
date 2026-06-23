@@ -24,7 +24,7 @@ One of the most common reasons for message blocking is that the contact you’re
 
 4. Review the list of blocked numbers.
 
-5. To unblock a number, tap the **X** or **–** icon next to it.
+5. To unblock a number, tap the **X** or **, ** icon next to it.
 
 6. Confirm by tapping **Unblock** when prompted.
 

@@ -36,7 +36,7 @@ Let’s get into how I use Perplexity for market research. I promise you’ll fe
 
 ## Using Perplexity to Size Up Competitors and Trends in Your Market
 
-Whenever I’m curious about what my competition is up to or which trends are getting traction, Perplexity feels like a one-stop shop. I start by typing the business names, products, or even foreign terms if the market is global. The app grabs stuff from news, blogs, reviews, and sometimes social posts—all in one place. I scroll through the top results to spot anything useful, from new product launches to what people are complaining about.
+Whenever I’m curious about what my competition is up to or which trends are getting traction, Perplexity feels like a one-stop shop. I start by typing the business names, products, or even foreign terms if the market is global. The app grabs stuff from news, blogs, reviews, and sometimes social posts, all in one place. I scroll through the top results to spot anything useful, from new product launches to what people are complaining about.
 
 For digging into trends, I type in questions about recent changes, industry growth, or technology coming up. Sometimes Perplexity throws charts, graphs, or headline lists at me, and that’s perfect for a fast read. I don’t worry about missing info since the app updates pretty often, so I feel like my search is never old news.
 
@@ -50,7 +50,7 @@ If you’re busy, you don’t have to spend hours scrolling; just skimming throu
 
 Market research doesn’t need to be complicated, boring, or waste your time. Using Perplexity brings together answers in a way that’s super easy to read and share. Once you go through these steps, you’ll feel confident pulling info for any project or pitch.
 
-If you ever get stuck or need something in a foreign language, the app’s quick search and chat features help you out. I save time, get better ideas, and actually stay interested in research—and if I can do it, so can you.
+If you ever get stuck or need something in a foreign language, the app’s quick search and chat features help you out. I save time, get better ideas, and actually stay interested in research, and if I can do it, so can you.
 
 ## FAQs
 
@@ -72,7 +72,7 @@ You can use most features without signing up, but saving results works better wi
 
 ### Can I export findings from Perplexity to my own notes**?**
 
-Totally—I just copy, paste, or use built-in sharing tools to pull info into my own docs.
+Totally, I just copy, paste, or use built-in sharing tools to pull info into my own docs.
 
 ## Example Prompt for Market Research in Perplexity
 

@@ -40,9 +40,9 @@ Adding someone to WhatsApp can be done in a few ways, and I like simple steps be
 
 The better I organize my contacts, the easier it is to message the right people, and it’s super simple to fix mistakes or delete old numbers. Here’s my routine: If I get a new number, I just tap “Edit” from the contact’s profile (look for the pencil icon), change the details, and hit “Save.” If a contact is no longer needed, I delete them from my phone’s address book, which removes them from WhatsApp too.
 
-Deleted or blocked contacts disappear from chats right away, so I don’t have to deal with clutter. For people who want to keep work and personal contacts separate, naming contacts clearly (like “Anna – *Marketing*”) makes searching way faster. If a number isn’t syncing, a quick refresh in WhatsApp brings them up to date.
+Deleted or blocked contacts disappear from chats right away, so I don’t have to deal with clutter. For people who want to keep work and personal contacts separate, naming contacts clearly (like “Anna, *Marketing*”) makes searching way faster. If a number isn’t syncing, a quick refresh in WhatsApp brings them up to date.
 
-New features keep popping up—like searching by contact name or phone number—making it easier for me to find people without scrolling endlessly. Seriously, keeping things organized just saves time.
+New features keep popping up, like searching by contact name or phone number, making it easier for me to find people without scrolling endlessly. Seriously, keeping things organized just saves time.
 
 ## Syncing Contacts If Numbers Don’t Show Up
 

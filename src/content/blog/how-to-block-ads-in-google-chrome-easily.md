@@ -14,7 +14,7 @@ Those ad-choked pages? No more. Let’s get straight into how you can make your 
 
 ## Chrome’s Built-In Tools Help, but Extensions Do the Heavy Lifting
 
-Chrome comes with simple controls to reduce certain pop-ups and block the most in-your-face ads, especially those that violate browser policy. But even with these settings, sponsored content and tracking cookies stick around. That’s why most people, including me, go the extra mile and install powerful ad-blocking extensions. They kill most types of ads—static, video, pop-ups—and often pick up some privacy perks along the way.
+Chrome comes with simple controls to reduce certain pop-ups and block the most in-your-face ads, especially those that violate browser policy. But even with these settings, sponsored content and tracking cookies stick around. That’s why most people, including me, go the extra mile and install powerful ad-blocking extensions. They kill most types of ads, static, video, pop-ups, and often pick up some privacy perks along the way.
 
 Still, it helps to know both approaches. You’ll need to mix some settings inside Chrome and add an extension or two for the full upgrade. Some people prefer sticking with built-in settings to keep things basic, while others (like me) gravitate toward robust extensions that wipe out nearly all unwanted stuff.
 
@@ -56,7 +56,7 @@ That’s honestly all it takes! Sometimes small tweaks like clearing pop-ups and
 
 ## What to Expect and Customization Tips
 
-Installing an ad blocker takes all of a minute, but there’s more you can do if you’re curious. Many extensions let you whitelist your favorite news source (to support them), pause blocking on certain pages, or fine-tune how strict the filter is. Some have dark mode or other fun personalization tools—I always enjoy those little touches.
+Installing an ad blocker takes all of a minute, but there’s more you can do if you’re curious. Many extensions let you whitelist your favorite news source (to support them), pause blocking on certain pages, or fine-tune how strict the filter is. Some have dark mode or other fun personalization tools, I always enjoy those little touches.
 
 Keep in mind, Chrome updates can sometimes mess with how well certain blockers work. If ads start slipping through again, it’s usually time to check for updates or try a different extension. Community forums and extension homepages are great spots for troubleshooting if you hit a snag.
 
@@ -64,7 +64,7 @@ Keep in mind, Chrome updates can sometimes mess with how well certain blockers w
 
 Cleaning up ads in Chrome doesn’t have to be a headache. A simple mix of Chrome settings and a trusted ad blocker clears out most of the trash, making everything faster and less distracting. If you want zero interruptions and care about privacy, upgrades like AdGuard and Ghostery come in clutch. Your sanity is worth a couple setup steps.
 
-Even if ads try to sneak in after a Chrome update, it’s easy to swap blockers or tweak your settings. The web feels lighter—and scrolling is way more chill—when you take a few moments to block the noise.
+Even if ads try to sneak in after a Chrome update, it’s easy to swap blockers or tweak your settings. The web feels lighter, and scrolling is way more chill, when you take a few moments to block the noise.
 
 ## FAQs
 
@@ -74,7 +74,7 @@ Use a strong ad blocker like AdGuard or AdBlock, both known for catching most vi
 
 ### Will Chrome’s own settings block every ad?
 
-Nope—they stop the worst pop-ups, but you’ll still see plenty of others unless you use an extension.
+Nope, they stop the worst pop-ups, but you’ll still see plenty of others unless you use an extension.
 
 ### Can I use more than one ad blocker at once?
 

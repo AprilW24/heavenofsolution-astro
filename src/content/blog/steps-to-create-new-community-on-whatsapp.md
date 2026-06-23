@@ -42,7 +42,7 @@ Anyone I invite sees one home base for all group messages, but each group still 
 
 ## Why WhatsApp Communities Make Big Chats Manageable
 
-Communities save me time by slashing the number of duplicate messages sent across group chats. If my class, project team, or event crew has ten groups, I can lock them all together under one roof. This spares everyone from info overload and lets me post one update in Announcements for instant delivery to all members. Besides less spam, admins get better control over privacy and membership. The invite link feature makes bringing in new members easy. Need just one privacy group within a community? I can create subgroups with different access and rules. It’s flexible enough for any group—school, work, sports, remote teams, hobbies, and extended family gatherings 👋
+Communities save me time by slashing the number of duplicate messages sent across group chats. If my class, project team, or event crew has ten groups, I can lock them all together under one roof. This spares everyone from info overload and lets me post one update in Announcements for instant delivery to all members. Besides less spam, admins get better control over privacy and membership. The invite link feature makes bringing in new members easy. Need just one privacy group within a community? I can create subgroups with different access and rules. It’s flexible enough for any group, school, work, sports, remote teams, hobbies, and extended family gatherings 👋
 
 ## Conclusion
 
@@ -70,4 +70,4 @@ Only if I upgrade them, otherwise they are just group admins inside the communit
 
 ### Can I remove or add groups later?
 
-Yep, it’s totally flexible—groups can be added or dropped any time.
+Yep, it’s totally flexible, groups can be added or dropped any time.

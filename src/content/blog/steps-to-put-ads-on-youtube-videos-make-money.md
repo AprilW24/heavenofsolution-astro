@@ -126,4 +126,4 @@ Remember, success on YouTube isn’t just about enabling ads. Focus on creating 
 
 Lastly, stay informed about YouTube’s policies and guidelines, as they may change over time. Regularly check for updates in the YouTube Studio app to ensure you’re maximizing your monetization opportunities while complying with platform rules.
 
-With dedication, creativity, and smart use of the tools at your fingertips, you can turn your YouTube passion into a profitable venture – all from the convenience of your smartphone.
+With dedication, creativity, and smart use of the tools at your fingertips, you can turn your YouTube passion into a profitable venture, all from the convenience of your smartphone.

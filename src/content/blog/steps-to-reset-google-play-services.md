@@ -42,7 +42,7 @@ Clearing the cache and data for Google Play Services can resolve many common iss
 
 ### Step 3: Uninstall Google Play Services Updates
 
-If clearing the cache and data didn’t resolve the issue, the next step is to uninstall any updates to Google Play Services and revert it back to the factory version that came with your device. Don’t worry – Google Play Services will automatically update itself again after this step.
+If clearing the cache and data didn’t resolve the issue, the next step is to uninstall any updates to Google Play Services and revert it back to the factory version that came with your device. Don’t worry, Google Play Services will automatically update itself again after this step.
 
 To uninstall updates:
 
@@ -122,6 +122,6 @@ After the factory reset finishes, your device will restart and you’ll need to 
 
 ## Conclusion
 
-Resetting Google Play Services on your Android device is a multi-step process that can resolve many common issues and restore functionality to your apps. By following the steps outlined in this article – checking for Android updates, clearing cache and data, uninstalling updates, updating Google Play Services, re-adding your Google account, and factory resetting as a last resort – you should be able to troubleshoot and fix any Google Play Services problems you encounter.
+Resetting Google Play Services on your Android device is a multi-step process that can resolve many common issues and restore functionality to your apps. By following the steps outlined in this article, checking for Android updates, clearing cache and data, uninstalling updates, updating Google Play Services, re-adding your Google account, and factory resetting as a last resort, you should be able to troubleshoot and fix any Google Play Services problems you encounter.
 
 While dealing with technical issues on your device can be frustrating, taking the time to methodically go through these reset steps can save you a lot of headaches in the long run and keep your Android device running smoothly. Don’t hesitate to seek additional help or contact Google support if you continue to have problems with Google Play Services after trying these steps.

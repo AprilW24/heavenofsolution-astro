@@ -26,7 +26,7 @@ If you have a recent Samsung Galaxy phone like the S23, changing your video call
 
 7. Once you’ve made your selection, tap Done to apply the new background
 
-Your background will immediately change so only you are clearly visible, with the background blurred or replaced by the image you selected. This only affects your video feed – the other person on the call will not see the background changes you made.
+Your background will immediately change so only you are clearly visible, with the background blurred or replaced by the image you selected. This only affects your video feed, the other person on the call will not see the background changes you made.
 
 Some additional tips for Samsung devices:
 
@@ -34,7 +34,7 @@ Some additional tips for Samsung devices:
 
 - You can change your background at any time during the video call
 
-- Background settings are not persistent – they reset for each new video call
+- Background settings are not persistent, they reset for each new video call
 
 - Currently only certain Samsung models like the S23 support video background changes
 

@@ -92,4 +92,4 @@ In this guide, we covered how to:
 
 By implementing these notification preferences, your Android device will remain distraction-free while still allowing you to engage with Twitter on your own terms. Less noise, more meaningful interactions.
 
-Remember, it’s your Twitter experience – don’t be afraid to customize notification settings in a way that works best for you and your social media habits. The options are there, it’s just a matter of fine-tuning to your liking.
+Remember, it’s your Twitter experience, don’t be afraid to customize notification settings in a way that works best for you and your social media habits. The options are there, it’s just a matter of fine-tuning to your liking.

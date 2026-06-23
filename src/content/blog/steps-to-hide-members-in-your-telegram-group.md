@@ -14,11 +14,11 @@ In this guide, we’ll walk through the steps to hide members in your Telegram g
 
 There are a few key reasons you may want to hide the member list in your Telegram groups:
 
-- **Prevent unwanted private messages (PM) and spam** – When the member list is public, anyone in the group can view it and potentially send spam or harassing messages to other members. Hiding the list helps protect members from this.
+- **Prevent unwanted private messages (PM) and spam**, When the member list is public, anyone in the group can view it and potentially send spam or harassing messages to other members. Hiding the list helps protect members from this.
 
-- **Protect member privacy** – Some members may not want their Telegram username or membership in certain groups to be public knowledge. Allowing them to hide enhances privacy.
+- **Protect member privacy**, Some members may not want their Telegram username or membership in certain groups to be public knowledge. Allowing them to hide enhances privacy.
 
-- **Maintain competitive advantage** – If you run groups related to your products or services, keeping your member list private prevents competitors from easily accessing and attempting to poach your audience.
+- **Maintain competitive advantage**, If you run groups related to your products or services, keeping your member list private prevents competitors from easily accessing and attempting to poach your audience.
 
 Whatever your reasons, hiding the member list is a good way to provide a safer, more private experience for your Telegram community. Fortunately, it’s a straightforward process.
 
@@ -26,11 +26,11 @@ Whatever your reasons, hiding the member list is a good way to provide a safer, 
 
 Before diving into the steps, there are a couple key requirements to hide members in your Telegram group:
 
-1. **You must be a group admin** – Only admins have the ability to change group settings like hiding members. If you’re not an admin, you’ll need to request the change from an admin or become one yourself.
+1. **You must be a group admin**, Only admins have the ability to change group settings like hiding members. If you’re not an admin, you’ll need to request the change from an admin or become one yourself.
 
-2. **Your group must have over 100 members** – Telegram only allows groups with more than 100 members to hide the participant list. If your group is under that size, you’ll need to grow it further first.
+2. **Your group must have over 100 members**, Telegram only allows groups with more than 100 members to hide the participant list. If your group is under that size, you’ll need to grow it further first.
 
-3. **You need the latest version of Telegram** – The member hiding feature was introduced in a 2022 update, so make sure you’re running the latest version of the Telegram app on Android.
+3. **You need the latest version of Telegram**, The member hiding feature was introduced in a 2022 update, so make sure you’re running the latest version of the Telegram app on Android.
 
 As long as you meet those criteria, you’re ready to change your settings and hide that member list. Let’s walk through it step-by-step.
 
@@ -66,11 +66,11 @@ If at any point you want to unhide members and make the list public again, simpl
 
 While hiding members is a very useful privacy feature, there are a couple limitations and factors to keep in mind:
 
-- **Member list is still accessible to admins** – Even with the list hidden, all group admins will still be able to view and search members. Keep this in mind when choosing admins and considering what group data they should have access to.
+- **Member list is still accessible to admins**, Even with the list hidden, all group admins will still be able to view and search members. Keep this in mind when choosing admins and considering what group data they should have access to.
 
-- **Other privacy settings still apply** – Hiding members only affects the participant list. Other group configurations like whether the group is public/private, who can add members, edit group info, etc are still set independently. Make sure to review all your privacy settings for a comprehensive approach.
+- **Other privacy settings still apply**, Hiding members only affects the participant list. Other group configurations like whether the group is public/private, who can add members, edit group info, etc are still set independently. Make sure to review all your privacy settings for a comprehensive approach.
 
-- **Feature is not available for channels** – Currently, the ability to hide members only applies to Telegram groups, not broadcast channels. Channels have a separate set of available administrator tools and privacy options.
+- **Feature is not available for channels**, Currently, the ability to hide members only applies to Telegram groups, not broadcast channels. Channels have a separate set of available administrator tools and privacy options.
 
 By understanding these aspects of the member hiding feature, you can utilize it thoughtfully to maximize the privacy and experience for your Telegram community.
 

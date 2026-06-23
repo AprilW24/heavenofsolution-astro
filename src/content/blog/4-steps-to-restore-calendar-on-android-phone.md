@@ -8,7 +8,7 @@ featuredImage: "/wp-content/uploads/2024/03/HoS.jpg"
 
 Calendars on our phones are extremely important for keeping track of events, appointments, birthdays, and other important dates. However, sometimes calendar data can get deleted or lost due to issues like accidental deletion, OS updates, switching phones, etc. Losing calendar data can be frustrating as you may miss out on events or appointments.
 
-The good news is – with the right steps, you can easily restore your calendar on an Android phone. This article provides step-by-step instructions to restore your calendar using different methods.
+The good news is, with the right steps, you can easily restore your calendar on an Android phone. This article provides step-by-step instructions to restore your calendar using different methods.
 
 ### Method 1: Restore from Google Calendar Trash
 

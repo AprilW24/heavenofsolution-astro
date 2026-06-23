@@ -6,7 +6,7 @@ category: "Communication Apps"
 featuredImage: "/wp-content/uploads/2021/10/Steps-to-Hide-Your-WhatsApp-Online-Status-1.png"
 ---
 
-Everyone needs a break sometimes, and WhatsApp constantly buzzing can make it tough to unplug. Maybe you’re looking for peace, want to ignore group drama, or just need space to focus. Silencing your account without deleting it or losing your messages sounds tricky, huh? I get that—it can feel like you’re stuck with endless notifications popping up or messages that just won’t stop.
+Everyone needs a break sometimes, and WhatsApp constantly buzzing can make it tough to unplug. Maybe you’re looking for peace, want to ignore group drama, or just need space to focus. Silencing your account without deleting it or losing your messages sounds tricky, huh? I get that, it can feel like you’re stuck with endless notifications popping up or messages that just won’t stop.
 
 Here’s the good news: stepping away from WhatsApp is possible, and you can get your time off without losing your chats or uninstalling everything. I pulled together different ways to freeze your WhatsApp account for a while. If you want to hit pause, I’ll run through four no-fuss methods that help you tune out but easily jump back later.
 

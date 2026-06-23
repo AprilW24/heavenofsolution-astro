@@ -18,7 +18,7 @@ Perplexity AI runs detailed searches across the web and academic databases, givi
 
 This is a big deal for research on mobile. You can literally run an academic search while on the bus, then share that report as a PDF or in your *Perplexity Page*. It’s built for students, academics, and researchers who want speed without losing quality.
 
-The Android app interface makes everything simple—search bar in the middle, filters for modes like Academic or Web, and a button to switch on Deep Research when you need more serious results. Just update your app to the latest version, and you’re good.
+The Android app interface makes everything simple, search bar in the middle, filters for modes like Academic or Web, and a button to switch on Deep Research when you need more serious results. Just update your app to the latest version, and you’re good.
 
 ## Step-by-Step to Use Perplexity AI for Research on Android
 
