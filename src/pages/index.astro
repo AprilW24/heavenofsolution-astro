@@ -47,7 +47,7 @@ function formatDate(dateStr: string) {
           placeholder="Search guides (e.g. instagram, canva, perplexity)..." 
           style="width: 100%; padding: 1.25rem 2rem; border-radius: 99px; border: 2px solid var(--border); font-size: 1.1rem; font-family: inherit; transition: all 0.3s; outline: none;"
         />
-        <button style="position: absolute; right: 8px; top: 8px; background: var(--primary); color: white; border: none; padding: 0.85rem 1.75rem; border-radius: 99px; font-weight: 600; cursor: pointer; font-family: inherit; transition: background 0.2s;">Search</button>
+        <button id="search-button" style="position: absolute; right: 8px; top: 8px; background: var(--primary); color: white; border: none; padding: 0.85rem 1.75rem; border-radius: 99px; font-weight: 600; cursor: pointer; font-family: inherit; transition: background 0.2s;">Search</button>
       </div>
     </div>
   </section>
@@ -71,15 +71,15 @@ function formatDate(dateStr: string) {
   </section>
 
   <!-- Latest Posts Grid -->
-  <section style="padding: 5rem 0;">
+  <section id="guides-section" style="padding: 5rem 0;">
     <div class="container">
       <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 3rem;">
         <div>
-          <h2 style="font-size: 2.25rem; font-weight: 800; letter-spacing: -0.02em;">Latest Guides</h2>
-          <p style="color: var(--text-muted); margin-top: 0.25rem;">Newly released step-by-step tutorials.</p>
+          <h2 id="section-title" style="font-size: 2.25rem; font-weight: 800; letter-spacing: -0.02em;">Latest Guides</h2>
+          <p id="section-desc" style="color: var(--text-muted); margin-top: 0.25rem;">Newly released step-by-step tutorials.</p>
         </div>
         <div style="font-weight: 700;">
-          Total Guides: <span style="color: var(--primary);">{posts.length}</span>
+          <span id="count-label">Total Guides:</span> <span id="total-count-val" style="color: var(--primary);">{posts.length}</span>
         </div>
       </div>
 
@@ -177,10 +177,18 @@ function formatDate(dateStr: string) {
     }));
 
     const searchInput = document.getElementById('search-input');
+    const searchButton = document.getElementById('search-button');
     const postsGrid = document.getElementById('posts-grid');
     const resultsContainer = document.getElementById('search-results-container');
     const resultsGrid = document.getElementById('search-results-grid');
     const noResultsMsg = document.getElementById('no-results-msg');
+    
+    const sectionTitle = document.getElementById('section-title');
+    const sectionDesc = document.getElementById('section-desc');
+    const countLabel = document.getElementById('count-label');
+    const totalCountVal = document.getElementById('total-count-val');
+    const guidesSection = document.getElementById('guides-section');
+    const totalPostsCount = searchData.length;
     
     function formatDate(dateStr) {
       if (!dateStr) return '';
@@ -192,13 +200,16 @@ function formatDate(dateStr: string) {
       });
     }
 
-    searchInput.addEventListener('input', (e) => {
-      const query = e.target.value.toLowerCase().trim();
-      
+    function performSearch(query) {
       if (query.length === 0) {
         // Show default latest posts
         postsGrid.style.display = 'grid';
         resultsContainer.style.display = 'none';
+        
+        sectionTitle.textContent = 'Latest Guides';
+        sectionDesc.textContent = 'Newly released step-by-step tutorials.';
+        countLabel.textContent = 'Total Guides:';
+        totalCountVal.textContent = totalPostsCount;
         return;
       }
       
@@ -212,7 +223,15 @@ function formatDate(dateStr: string) {
         post.title.toLowerCase().includes(query) || 
         post.description.toLowerCase().includes(query) ||
         post.category.toLowerCase().includes(query)
-      ).slice(0, 30); // Limit results for performance
+      );
+      
+      // Update title and counts
+      sectionTitle.textContent = `Search Results for "${query}"`;
+      sectionDesc.textContent = `Displaying search results matching your keyword.`;
+      countLabel.textContent = 'Matching Guides:';
+      totalCountVal.textContent = filtered.length;
+
+      const displayList = filtered.slice(0, 30); // Limit results for performance
 
       if (filtered.length === 0) {
         noResultsMsg.style.display = 'block';
@@ -221,7 +240,7 @@ function formatDate(dateStr: string) {
         noResultsMsg.style.display = 'none';
         resultsGrid.style.display = 'grid';
         
-        filtered.forEach(post => {
+        displayList.forEach(post => {
           const dateFormatted = post.pubDate ? formatDate(post.pubDate) : '';
           const cardHtml = `
             <article 
@@ -262,6 +281,29 @@ function formatDate(dateStr: string) {
           resultsGrid.insertAdjacentHTML('beforeend', cardHtml);
         });
       }
+    }
+
+    function scrollToResults() {
+      guidesSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    searchInput.addEventListener('input', (e) => {
+      const query = e.target.value.toLowerCase().trim();
+      performSearch(query);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        const query = e.target.value.toLowerCase().trim();
+        performSearch(query);
+        scrollToResults();
+      }
+    });
+
+    searchButton.addEventListener('click', () => {
+      const query = searchInput.value.toLowerCase().trim();
+      performSearch(query);
+      scrollToResults();
     });
   </script>
 
