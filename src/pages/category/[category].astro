@@ -3,7 +3,10 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const posts = (await getCollection('blog')).map(post => ({
+    ...post,
+    slug: post.id.replace(/\.mdx?$/, '')
+  }));
   
   // Ambil semua kategori unik
   const categories = [...new Set(posts.map(post => post.data.category).filter(Boolean))];
@@ -57,7 +60,7 @@ function formatDate(dateStr: string) {
           <article 
             style="display: flex; flex-direction: column; background: white; border: 1px solid var(--border); border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.02); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer;"
             class="post-card"
-            onclick={`window.location.href='/blog/${post.id}'`}
+            onclick={`window.location.href='/${post.slug}'`}
           >
             <!-- Card Image -->
             <div style="position: relative; aspect-ratio: 16/10; overflow: hidden; background-color: var(--bg-alt);">
@@ -76,7 +79,7 @@ function formatDate(dateStr: string) {
                 {post.data.pubDate ? formatDate(post.data.pubDate) : ''}
               </div>
               <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.75rem; line-height: 1.35; color: var(--text); transition: color 0.2s;">
-                <a href={`/blog/${post.id}`} style="color: inherit;">
+                <a href={`/${post.slug}`} style="color: inherit;">
                   {post.data.title}
                 </a>
               </h3>
