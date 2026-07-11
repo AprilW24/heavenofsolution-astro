@@ -1,24 +1,24 @@
-Ôªø---
+---
 title: "10 Steps to Change Voice Mode on Perplexity to Automatic Speech Detection on Android"
 description: "Ever get tired of tapping your phone just to talk to your AI assistant? Yeah, me too. Sometimes, you just want to talk and have your assistant listen-no"
 pubDate: "2025-05-08T23:24:08+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/05/Perplexity-Voice-HoS-1.webp"
 ---
 
-Ever get tired of tapping your phone just to talk to your AI assistant? Yeah, me too. Sometimes, you just want to talk and have your assistant listen-no buttons, no fuss. That‚Äôs where *hands free* mode on Perplexity comes in. It lets you chat with the app using your voice, kind of like having a real conversation. No more holding down a button or repeating yourself because the mic didn‚Äôt catch you.
+Ever get tired of tapping your phone just to talk to your AI assistant? Yeah, me too. Sometimes, you just want to talk and have your assistant listen-no buttons, no fuss. Thatís where *hands free* mode on Perplexity comes in. It lets you chat with the app using your voice, kind of like having a real conversation. No more holding down a button or repeating yourself because the mic didnít catch you.
 
-I‚Äôve been using Perplexity on Android for a while, and switching to *hands free* voice mode seriously makes things easier. Whether I‚Äôm cooking, driving, or just too lazy to type, I can just say what I need and get answers. If you want to set up automatic speech detection, I‚Äôll walk you through the steps. It‚Äôs quick, and you‚Äôll be talking to your AI assistant like it‚Äôs second nature. üó£Ô∏è
+Iíve been using Perplexity on Android for a while, and switching to *hands free* voice mode seriously makes things easier. Whether Iím cooking, driving, or just too lazy to type, I can just say what I need and get answers. If you want to set up automatic speech detection, Iíll walk you through the steps. Itís quick, and youíll be talking to your AI assistant like itís second nature. ???
 
 ## How Perplexity Voice Modes Work
 
-Perplexity‚Äôs voice features on Android are all about making things smoother. Instead of typing, you can just talk. Voice mode can answer questions, create reminders, play music, and even help with web tasks. The *hands free* setting is the one you want for automatic speech detection-it listens for your voice and responds, so you don‚Äôt have to keep tapping your screen.
+Perplexityís voice features on Android are all about making things smoother. Instead of typing, you can just talk. Voice mode can answer questions, create reminders, play music, and even help with web tasks. The *hands free* setting is the one you want for automatic speech detection-it listens for your voice and responds, so you donít have to keep tapping your screen.
 
-The best part? This mode is perfect for multitasking. You can keep a conversation going while doing other things, and the assistant stays responsive. If you‚Äôre trying to be more productive or just want a more natural way to interact, *hands free* is the way to go. Plus, it works in the background, so you don‚Äôt have to keep the app open all the time.
+The best part? This mode is perfect for multitasking. You can keep a conversation going while doing other things, and the assistant stays responsive. If youíre trying to be more productive or just want a more natural way to interact, *hands free* is the way to go. Plus, it works in the background, so you donít have to keep the app open all the time.
 
 ## Switching to Hands Free Voice Mode on Perplexity
 
-Here‚Äôs how I set it up on my Android phone:
+Hereís how I set it up on my Android phone:
 
 1. Open the Perplexity app on your Android device.
 
@@ -44,25 +44,25 @@ Here‚Äôs how I set it up on my Android phone:
 
 9. Test it by asking a simple question out loud.
 
-10. Enjoy chatting with Perplexity without pressing any buttons! üé§
+10. Enjoy chatting with Perplexity without pressing any buttons! ??
 
 ## What to Expect After Turning On Hands Free Mode
 
-Once you‚Äôve got *hands free* mode on, you‚Äôll notice the difference right away. The app listens for your voice and responds, so you don‚Äôt have to do anything extra. It‚Äôs a lot more natural-just start talking, and Perplexity will pick up your questions. If you‚Äôre worried about privacy, you can always mute the mic or switch back to push-to-talk mode in the settings.
+Once youíve got *hands free* mode on, youíll notice the difference right away. The app listens for your voice and responds, so you donít have to do anything extra. Itís a lot more natural-just start talking, and Perplexity will pick up your questions. If youíre worried about privacy, you can always mute the mic or switch back to push-to-talk mode in the settings.
 
-This feature is a real time-saver, especially if you‚Äôre busy or have your hands full. You can use it to set reminders, ask questions, or even control smart devices if you‚Äôve got them connected. The voice recognition is pretty accurate, and you can tweak the settings if you need to change the language or voice style. If you ever want to turn it off, just go back to the *Voice Mode* menu and pick a different option.
+This feature is a real time-saver, especially if youíre busy or have your hands full. You can use it to set reminders, ask questions, or even control smart devices if youíve got them connected. The voice recognition is pretty accurate, and you can tweak the settings if you need to change the language or voice style. If you ever want to turn it off, just go back to the *Voice Mode* menu and pick a different option.
 
 ## Conclusion
 
-Switching Perplexity to *hands free* voice mode on Android is super simple and makes using the app way more convenient. No more fumbling with buttons-just talk and get what you need. I use it every day, and it‚Äôs made things a lot easier for me.
+Switching Perplexity to *hands free* voice mode on Android is super simple and makes using the app way more convenient. No more fumbling with buttons-just talk and get what you need. I use it every day, and itís made things a lot easier for me.
 
-If you want a more natural, hands-off way to interact with your AI assistant, give this a try. It only takes a minute to set up, and you‚Äôll never want to go back to typing or tapping again. Give it a shot and see how much smoother your day gets! üöÄ
+If you want a more natural, hands-off way to interact with your AI assistant, give this a try. It only takes a minute to set up, and youíll never want to go back to typing or tapping again. Give it a shot and see how much smoother your day gets! ??
 
 ## FAQs
 
 ### How do I know if hands free mode is active?
 
-You‚Äôll see a visual indicator or animation showing that the mic is listening for your voice.
+Youíll see a visual indicator or animation showing that the mic is listening for your voice.
 
 ### Can I switch back to push-to-talk mode?
 
@@ -72,10 +72,10 @@ Yep, just go to the *Voice Mode* settings and pick a different option.
 
 Yes, Perplexity keeps listening even if you switch to another app.
 
-### What if Perplexity isn‚Äôt picking up my voice?
+### What if Perplexity isnít picking up my voice?
 
 Check your microphone permissions and make sure *hands free* is selected in the settings.
 
 ### Can I change the voice or language in hands free mode?
 
-You can adjust language and some voice settings in the app‚Äôs settings menu.
+You can adjust language and some voice settings in the appís settings menu.

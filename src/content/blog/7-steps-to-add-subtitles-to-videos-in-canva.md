@@ -1,16 +1,16 @@
-Ôªø---
+---
 title: "7 Steps to Add Subtitles to Videos in Canva"
 description: "Ever watched a video without sound and wished for subtitles? Subtitles make videos accessible and engaging, whether it's for social media or personal"
 pubDate: "2025-02-09T11:02:09+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2024/11/HoS_Canva.jpg"
 ---
 
-Ever watched a video without sound and wished for subtitles? Subtitles make videos accessible and engaging, whether it‚Äôs for social media or personal projects. Canva has tools to help you add subtitles, either manually or with automated features. Let‚Äôs break it down step-by-step so you can get started today. üé•‚ú®
+Ever watched a video without sound and wished for subtitles? Subtitles make videos accessible and engaging, whether itís for social media or personal projects. Canva has tools to help you add subtitles, either manually or with automated features. Letís break it down step-by-step so you can get started today. ???
 
 ## **Manual Subtitles in Canva**
 
-If you‚Äôre okay with a hands-on approach, Canva lets you manually add subtitles using text boxes.
+If youíre okay with a hands-on approach, Canva lets you manually add subtitles using text boxes.
 
 ![](/wp-content/uploads/2025/02/Canva_HoS-2.webp)
 
@@ -22,13 +22,13 @@ If you‚Äôre okay with a hands-on approach, Canva lets you manually add subtitles
 
 4. **Style your text**: Adjust font, size, color, and alignment using the toolbar above.
 
-5. **Positioning**: Drag and place the text box where it‚Äôs most readable, usually at the bottom of the frame.
+5. **Positioning**: Drag and place the text box where itís most readable, usually at the bottom of the frame.
 
 6. **Repeat for all scenes**: Continue adding new text boxes for each segment of the video.
 
 7. **Export your video**: Once done, click *Share* > *Download* to save your video with embedded subtitles.
 
-üí° **Pro Tip**: Use contrasting colors between text and background for better readability.
+?? **Pro Tip**: Use contrasting colors between text and background for better readability.
 
 ## **Automated Subtitles with VEED Integration**
 
@@ -38,13 +38,13 @@ For faster results, Canva integrates with apps like *Subtitles by VEED*. This to
 
 - Open your design and go to the left toolbar.
 
-- Scroll down to *Apps*, search for ‚ÄúSubtitles by VEED,‚Äù and install it.
+- Scroll down to *Apps*, search for ìSubtitles by VEED,î and install it.
 
 2. **Upload your video**: Click *Choose File* and upload your video.
 
 3. **Select language and style**:
 
-- Pick the language of your video‚Äôs audio.
+- Pick the language of your videoís audio.
 
 - Choose from 24+ pre-made subtitle styles (fonts, colors, animations).
 
@@ -52,7 +52,7 @@ For faster results, Canva integrates with apps like *Subtitles by VEED*. This to
 
 5. **Review and edit**:
 
-- While VEED doesn‚Äôt allow editing within Canva, you can tweak positioning and style in VEED‚Äôs standalone editor if needed.
+- While VEED doesnít allow editing within Canva, you can tweak positioning and style in VEEDís standalone editor if needed.
 
 6. **Download your subtitled video**: Export the final version directly from Canva.
 
@@ -60,7 +60,7 @@ For faster results, Canva integrates with apps like *Subtitles by VEED*. This to
 
 - Keep sentences short and easy to read.
 
-- Use animations sparingly; they‚Äôre fun but can distract viewers.
+- Use animations sparingly; theyíre fun but can distract viewers.
 
 - Test readability on different devices (e.g., phone vs desktop).
 
@@ -70,22 +70,22 @@ For faster results, Canva integrates with apps like *Subtitles by VEED*. This to
 
 ### How do I edit subtitles after generating them?
 
-If you used VEED in Canva, export the video and edit it in VEED‚Äôs standalone editor for full customization.
+If you used VEED in Canva, export the video and edit it in VEEDís standalone editor for full customization.
 
-### Can I use Canva‚Äôs free version for subtitles?
+### Can I use Canvaís free version for subtitles?
 
 Yes! Manual subtitling is free, but automated options like VEED may have usage limits.
 
 ### Does Canva support auto-captioning natively?
 
-No, it doesn‚Äôt transcribe audio directly. You‚Äôll need third-party apps like VEED or SendShort for automation.
+No, it doesnít transcribe audio directly. Youíll need third-party apps like VEED or SendShort for automation.
 
 ### Can I animate my subtitles in Canva?
 
-Yes! Use text effects like shadows or animations from Canva‚Äôs toolbar to make them pop.
+Yes! Use text effects like shadows or animations from Canvaís toolbar to make them pop.
 
-### What‚Äôs the best way to ensure subtitle readability?
+### Whatís the best way to ensure subtitle readability?
 
 High contrast between text and background is key, dark text on light backgrounds or vice versa works best.
 
-Adding subtitles doesn‚Äôt have to be a chore! Whether you go manual or automated, Canva has tools to make it happen easily. Try these steps out and give your videos that extra touch! üòä
+Adding subtitles doesnít have to be a chore! Whether you go manual or automated, Canva has tools to make it happen easily. Try these steps out and give your videos that extra touch! ??

@@ -1,16 +1,16 @@
-ï»¿---
+---
 title: "7 Steps to Outline Text in Canva on Your Phone"
 description: "Have you ever wanted to make your text really pop in your Canva designs? Outlining your text is a great way to add visual interest and make certain words or"
 pubDate: "2024-08-05T09:47:53+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2024/08/HeavenofSolution_OutlineText.jpg"
 ---
 
-Have you ever wanted to make your text really pop in your Canva designs? Outlining your text is a great way to add visual interest and make certain words or phrases stand out. The good news is that itâ€™s really easy to outline text in Canva, even on your phone! In this article, weâ€™ll walk through the simple steps to add an outline effect to any text in your mobile Canva designs.
+Have you ever wanted to make your text really pop in your Canva designs? Outlining your text is a great way to add visual interest and make certain words or phrases stand out. The good news is that it’s really easy to outline text in Canva, even on your phone! In this article, we’ll walk through the simple steps to add an outline effect to any text in your mobile Canva designs.
 
 ### Why Outline Text?
 
-Before we dive into the how-to, letâ€™s quickly cover why you might want to outline text in the first place:
+Before we dive into the how-to, let’s quickly cover why you might want to outline text in the first place:
 
 - It draws attention to important words or phrases
 
@@ -20,7 +20,7 @@ Before we dive into the how-to, letâ€™s quickly cover why you might want to outl
 
 - Outlining helps text stand out against busy background images or patterns
 
-Whether youâ€™re creating social media posts, flyers, invitations or any other type of graphic design, knowing how to outline your text is a valuable skill to have in your design toolbox. So letâ€™s get started!
+Whether you’re creating social media posts, flyers, invitations or any other type of graphic design, knowing how to outline your text is a valuable skill to have in your design toolbox. So let’s get started!
 
 ## Step-by-Step Guide to Outlining Text in Canva Mobile
 
@@ -36,11 +36,11 @@ Follow these simple steps to add an outline to your text in the Canva mobile app
 
 5. **Choose the Outline effect**Scroll through the various text effects until you find the **Outline** option. Tap it to apply the outline effect to your selected text.
 
-6. **Adjust the outline thickness**After applying the outline effect, youâ€™ll see a slider appear below your text. Drag the slider left or right to decrease or increase the thickness of the outline.
+6. **Adjust the outline thickness**After applying the outline effect, you’ll see a slider appear below your text. Drag the slider left or right to decrease or increase the thickness of the outline.
 
 7. **Change the outline color (optional)**If you want to change the color of the outline, simply tap the color selector in the text editing menu and choose a new color for your outline.
 
-Thatâ€™s it! With just a few taps, youâ€™ve added a stylish outline effect to your text that will help it stand out in your design. Feel free to experiment with different outline thicknesses and colors to get the look you want.
+That’s it! With just a few taps, you’ve added a stylish outline effect to your text that will help it stand out in your design. Feel free to experiment with different outline thicknesses and colors to get the look you want.
 
 ### Tips for Using Outlined Text Effectively
 
@@ -104,4 +104,4 @@ Outlining text is a quick and easy way to make words stand out in your Canva des
 
 By strategically applying outline text effects and following best practices like keeping it legible and using it sparingly, you can create eye-catching, professional looking designs right from your phone.
 
-The Canva app puts a powerful array of design tools at your fingertips, so donâ€™t be afraid to explore and experiment with different text effects, graphics, and templates to take your mobile designs to the next level. Happy designing!
+The Canva app puts a powerful array of design tools at your fingertips, so don’t be afraid to explore and experiment with different text effects, graphics, and templates to take your mobile designs to the next level. Happy designing!

@@ -1,12 +1,12 @@
-Ôªø---
+---
 title: "10 Steps to Make a Resume on Canva for Freshers"
 description: "Creating a resume as a fresher can be challenging, especially when you're trying to stand out in a competitive job market. Canva offers an easy-to-use"
 pubDate: "2025-03-08T09:44:42+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/03/HoS-Resume.webp"
 ---
 
-Creating a resume as a fresher can be challenging, especially when you‚Äôre trying to stand out in a competitive job market. Canva offers an easy-to-use platform with hundreds of templates designed to help you create a professional and visually appealing resume. Here‚Äôs how you can use Canva to make a great resume:
+Creating a resume as a fresher can be challenging, especially when youíre trying to stand out in a competitive job market. Canva offers an easy-to-use platform with hundreds of templates designed to help you create a professional and visually appealing resume. Hereís how you can use Canva to make a great resume:
 
 ## Understanding Canva and Its Benefits
 
@@ -14,15 +14,15 @@ Canva is a versatile design tool that simplifies the process of creating a resum
 
 ## Choosing the Right Template
 
-Canva provides numerous templates suitable for various industries and styles. For freshers, it‚Äôs essential to choose a template that highlights your educational achievements and transferable skills. You can opt for minimalist designs for traditional roles or more creative templates for artistic fields.
+Canva provides numerous templates suitable for various industries and styles. For freshers, itís essential to choose a template that highlights your educational achievements and transferable skills. You can opt for minimalist designs for traditional roles or more creative templates for artistic fields.
 
 ## Step-by-Step Guide to Creating Your Resume
 
-Here‚Äôs how you can create your resume on Canva:
+Hereís how you can create your resume on Canva:
 
 1. **Sign Up or Log In**: Go to Canva.com and create an account or log in if you already have one.
 
-2. **Search for Resume Templates**: Type ‚Äúresume‚Äù in the search bar and apply filters to find the perfect template.
+2. **Search for Resume Templates**: Type ìresumeî in the search bar and apply filters to find the perfect template.
 
 ![](/wp-content/uploads/2025/03/10-Steps-to-Make-a-Resume-on-Canva-for-Freshers.webp)
 
@@ -44,7 +44,7 @@ Here‚Äôs how you can create your resume on Canva:
 
 ## Tips for Freshers
 
-When creating your resume, focus on highlighting transferable skills and educational achievements. Use clear headings, professional fonts, and ensure your resume is easy to read. Don‚Äôt hesitate to experiment with different colors and layouts to make your resume stand out.
+When creating your resume, focus on highlighting transferable skills and educational achievements. Use clear headings, professional fonts, and ensure your resume is easy to read. Donít hesitate to experiment with different colors and layouts to make your resume stand out.
 
 ## Conclusion
 
@@ -58,7 +58,7 @@ Canva offers easy-to-use templates, a drag-and-drop editor, and AI tools to simp
 
 ### How do I choose the right template for my industry?
 
-Browse through Canva‚Äôs template library and filter by industry or style to find a template that suits your job application.
+Browse through Canvaís template library and filter by industry or style to find a template that suits your job application.
 
 ### Can I customize my resume for different job applications?
 

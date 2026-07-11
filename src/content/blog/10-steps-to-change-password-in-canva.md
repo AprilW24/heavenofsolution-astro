@@ -1,16 +1,16 @@
-Ôªø---
+---
 title: "10 Steps to Change Password in Canva Using Phone"
 description: "Changing your password in Canva using a phone is a straightforward process that helps keep your account secure. Here's how you can do it:"
 pubDate: "2025-03-08T10:21:13+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/03/HoS-Password.webp"
 ---
 
-Changing your password in Canva using a phone is a straightforward process that helps keep your account secure. Here‚Äôs how you can do it:
+Changing your password in Canva using a phone is a straightforward process that helps keep your account secure. Hereís how you can do it:
 
 ## Why Change Your Password?
 
-Changing your password regularly is crucial for maintaining the security of your Canva account. Whether you‚Äôve forgotten your current password, suspect unauthorized access, or simply want to enhance your security, updating your password is quick and easy.
+Changing your password regularly is crucial for maintaining the security of your Canva account. Whether youíve forgotten your current password, suspect unauthorized access, or simply want to enhance your security, updating your password is quick and easy.
 
 ## Getting Started
 
@@ -18,27 +18,27 @@ Before you begin, make sure you have access to your email or phone number associ
 
 ## How to Change Your Password on Mobile
 
-While Canva doesn‚Äôt have a dedicated mobile app for changing passwords, you can use the mobile browser to access the website and follow these steps. Here‚Äôs a brief overview of what you‚Äôll need to do:
+While Canva doesnít have a dedicated mobile app for changing passwords, you can use the mobile browser to access the website and follow these steps. Hereís a brief overview of what youíll need to do:
 
 ![](/wp-content/uploads/2025/03/10-Steps-to-Change-Password-in-Canva-Using-Phone.webp)
 
 1. Open a mobile web browser and navigate to Canva.com.
 
-2. Sign into your Canva account if you‚Äôre not already logged in.
+2. Sign into your Canva account if youíre not already logged in.
 
 3. Tap your account name at the top right corner to open the menu.
 
-4. Select ‚ÄúSettings‚Äù from the menu.
+4. Select ìSettingsî from the menu.
 
-5. Tap ‚ÄúLogin and Security‚Äù on the left side of the screen.
+5. Tap ìLogin and Securityî on the left side of the screen.
 
-6. Find the password field in the Login section and tap ‚ÄúUpdate.‚Äù
+6. Find the password field in the Login section and tap ìUpdate.î
 
 7. Enter your current password to confirm.
 
-8. Enter your new password twice, ensuring it‚Äôs at least eight characters long and includes a mix of letters, numbers, and symbols.
+8. Enter your new password twice, ensuring itís at least eight characters long and includes a mix of letters, numbers, and symbols.
 
-9. Tap ‚ÄúSave‚Äù to update your password.
+9. Tap ìSaveî to update your password.
 
 10. Log back in with your new password to continue using Canva.
 
@@ -54,7 +54,7 @@ Creating a strong password is key to protecting your online accounts. A good pas
 
 ## Conclusion
 
-Changing your Canva password on a phone is a simple process that enhances your account‚Äôs security. By following these steps, you can protect your designs and personal information effectively.
+Changing your Canva password on a phone is a simple process that enhances your accountís security. By following these steps, you can protect your designs and personal information effectively.
 
 ## FAQs
 
@@ -64,7 +64,7 @@ Change your password every few months to maintain security.
 
 ### What If I Forget My New Password?
 
-Use the ‚ÄúForgot Password‚Äù option on the login screen to reset it.
+Use the ìForgot Passwordî option on the login screen to reset it.
 
 ### Can I Use the Same Password for Multiple Accounts?
 

@@ -1,12 +1,12 @@
-ï»¿---
+---
 title: "5 Steps to Turn On Dark Mode on Canva App Android"
 description: "When it comes to designing on the go, the Canva app is a powerful tool for creating stunning visuals. Whether you're crafting social media posts,"
 pubDate: "2025-03-08T10:48:50+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/01/Canva._HoS.jpg"
 ---
 
-When it comes to designing on the go, the Canva app is a powerful tool for creating stunning visuals. Whether youâ€™re crafting social media posts, presentations, or infographics, having a comfortable interface is key. One feature that can enhance your design experience is dark mode, which not only looks sleek but also helps reduce eye strain. Letâ€™s explore how to enable it on your Android device.
+When it comes to designing on the go, the Canva app is a powerful tool for creating stunning visuals. Whether you’re crafting social media posts, presentations, or infographics, having a comfortable interface is key. One feature that can enhance your design experience is dark mode, which not only looks sleek but also helps reduce eye strain. Let’s explore how to enable it on your Android device.
 
 ## Why Switch to Dark Mode?
 
@@ -14,7 +14,7 @@ Switching to dark mode on Canva can reduce eye strain, especially in low-light e
 
 ## Steps to Enable Dark Mode on Android
 
-Before diving into the steps, itâ€™s worth noting that enabling dark mode in the Canva app is a straightforward process that doesnâ€™t require any additional downloads or complicated settings. Here are the steps to turn on dark mode in the Canva app on Android:
+Before diving into the steps, it’s worth noting that enabling dark mode in the Canva app is a straightforward process that doesn’t require any additional downloads or complicated settings. Here are the steps to turn on dark mode in the Canva app on Android:
 
 1. Open the Canva app and tap on the **Menu** icon (usually three horizontal lines).
 
@@ -34,11 +34,11 @@ If you prefer your app to match your system settings, you can select **Sync with
 
 ## Additional Tips
 
-Once youâ€™ve enabled dark mode, there are a few more tweaks you can make to optimize your design experience. Here are some tips to help you get the most out of dark mode:
+Once you’ve enabled dark mode, there are a few more tweaks you can make to optimize your design experience. Here are some tips to help you get the most out of dark mode:
 
 - **High Color Contrast**: For better visibility in dark mode, go to **Settings** > **Accessibility** and toggle on **High Color Contrast**. This enhances the border colors of elements in the editor, making them more distinct against the dark background.
 
-- **System Sync**: If you choose **Sync with system**, Canva will automatically switch between light and dark modes based on your deviceâ€™s settings.
+- **System Sync**: If you choose **Sync with system**, Canva will automatically switch between light and dark modes based on your device’s settings.
 
 ## Conclusion
 
@@ -52,7 +52,7 @@ Dark mode reduces eye strain and gives your interface a modern look, helping you
 
 ### Can I sync dark mode with my system settings?
 
-Yes, you can choose to sync Canvaâ€™s theme with your deviceâ€™s settings, allowing it to automatically switch between light and dark modes.
+Yes, you can choose to sync Canva’s theme with your device’s settings, allowing it to automatically switch between light and dark modes.
 
 ### Is dark mode available on all Canva platforms?
 

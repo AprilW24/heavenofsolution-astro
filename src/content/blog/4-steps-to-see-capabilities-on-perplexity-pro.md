@@ -1,18 +1,18 @@
-Ôªø---
+---
 title: "4 Steps to See Capabilities on Perplexity Pro Android"
-description: "If you‚Äôre using Perplexity Pro on your Android and want to check out what cool things it can do, I‚Äôve got you covered. Sometimes it‚Äôs tricky to find all the"
+description: "If youíre using Perplexity Pro on your Android and want to check out what cool things it can do, Iíve got you covered. Sometimes itís tricky to find all the"
 pubDate: "2025-05-06T23:40:58+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/05/HoS-Perplexity-5.webp"
 ---
 
-If you‚Äôre using Perplexity Pro on your Android and want to check out what cool things it can do, I‚Äôve got you covered. Sometimes it‚Äôs tricky to find all the assistant‚Äôs features, especially with all the updates and new stuff they add. This guide will walk you through the simple steps to access the capabilities menu and explain what each feature actually does so you can get the most out of your AI assistant.
+If youíre using Perplexity Pro on your Android and want to check out what cool things it can do, Iíve got you covered. Sometimes itís tricky to find all the assistantís features, especially with all the updates and new stuff they add. This guide will walk you through the simple steps to access the capabilities menu and explain what each feature actually does so you can get the most out of your AI assistant.
 
-Knowing these features can save you time and make your phone feel smarter-whether you want to play music, get reminders, or even book a restaurant. Plus, the assistant is designed to work smoothly with your apps, so you don‚Äôt have to jump around your phone. Let‚Äôs get into how you can see and use these capabilities on your Perplexity Pro Android app.
+Knowing these features can save you time and make your phone feel smarter-whether you want to play music, get reminders, or even book a restaurant. Plus, the assistant is designed to work smoothly with your apps, so you donít have to jump around your phone. Letís get into how you can see and use these capabilities on your Perplexity Pro Android app.
 
 ## How to Access the Capabilities Menu on Perplexity
 
-First things first, here‚Äôs how to find the capabilities section inside the app:
+First things first, hereís how to find the capabilities section inside the app:
 
 1. Open your Perplexity app on your Android device.
 
@@ -26,17 +26,17 @@ First things first, here‚Äôs how to find the capabilities section inside the app
 
 ![](/wp-content/uploads/2025/05/HoS-Perplexity-1.webp)
 
-Boom! Now you‚Äôre inside the menu where you can see all the assistant‚Äôs tricks and tools lined up.
+Boom! Now youíre inside the menu where you can see all the assistantís tricks and tools lined up.
 
 ## What Each Capability Means
 
-Once you‚Äôre in the capabilities menu, you‚Äôll see a list of features. Here‚Äôs what each one does and why it‚Äôs useful:
+Once youíre in the capabilities menu, youíll see a list of features. Hereís what each one does and why itís useful:
 
 **Search and Play Media**This lets you ask the assistant to find and play music, podcasts, or videos from apps like Spotify or YouTube Music. No need to open those apps yourself-just say what you want, and it plays instantly.
 
 ![](/wp-content/uploads/2025/05/HoS-Perplexity-2.webp)
 
-**Intelligent Reminders**You can set smart reminders that don‚Äôt just alert you at a fixed time but can understand context, like ‚Äúremind me to watch the new episode when it‚Äôs out.‚Äù The assistant figures out the date and sets it for you automatically.
+**Intelligent Reminders**You can set smart reminders that donít just alert you at a fixed time but can understand context, like ìremind me to watch the new episode when itís out.î The assistant figures out the date and sets it for you automatically.
 
 ![](/wp-content/uploads/2025/05/HoS-Perplexity-3.webp)
 
@@ -44,11 +44,11 @@ Once you‚Äôre in the capabilities menu, you‚Äôll see a list of features. Here‚Äô
 
 **Navigation and Rides**Ask the assistant for directions or to book a ride with services like Uber. It handles the booking and navigation without you opening multiple apps.
 
-**Notifications Summary**Instead of checking every single notification, the assistant can give you a quick summary of what‚Äôs important, so you stay updated without getting overwhelmed.
+**Notifications Summary**Instead of checking every single notification, the assistant can give you a quick summary of whatís important, so you stay updated without getting overwhelmed.
 
-**Ask About Screen Context**This is pretty cool-you can ask the assistant what‚Äôs on your screen right now. It can explain articles, fact-check info, or describe images without you needing to copy or type anything.
+**Ask About Screen Context**This is pretty cool-you can ask the assistant whatís on your screen right now. It can explain articles, fact-check info, or describe images without you needing to copy or type anything.
 
-**Ask with Camera**Point your camera at something and ask the assistant about it. It can identify objects, translate text, or give you info about what you‚Äôre looking at live.
+**Ask with Camera**Point your camera at something and ask the assistant about it. It can identify objects, translate text, or give you info about what youíre looking at live.
 
 **Help with Restaurant Reservation**Want to book a table? Just ask the assistant to reserve a spot at a restaurant, and it will handle the booking for you.
 
@@ -56,15 +56,15 @@ Once you‚Äôre in the capabilities menu, you‚Äôll see a list of features. Here‚Äô
 
 **Reach Out to Businesses**Need to call or message a business? The assistant can do that directly, making it easy to get in touch without searching for contact info.
 
-**Actions Chaining**This feature lets you combine several commands into one. For example, you can say, ‚ÄúSend a message to John, then play my workout playlist,‚Äù and the assistant will do both in order without you repeating yourself.
+**Actions Chaining**This feature lets you combine several commands into one. For example, you can say, ìSend a message to John, then play my workout playlist,î and the assistant will do both in order without you repeating yourself.
 
 ## Step-by-Step to Use a Capability
 
-Here‚Äôs a quick example of how to set an intelligent reminder:
+Hereís a quick example of how to set an intelligent reminder:
 
 1. Open Perplexity Assistant.
 
-2. Say or type, ‚ÄúRemind me to check the weather tomorrow morning.‚Äù
+2. Say or type, ìRemind me to check the weather tomorrow morning.î
 
 3. The assistant finds the right time for the reminder.
 
@@ -76,9 +76,9 @@ Here‚Äôs a quick example of how to set an intelligent reminder:
 
 ## Conclusion
 
-Checking out the capabilities on Perplexity Pro for Android is super straightforward once you know where to look. Tapping your profile, scrolling to Assistant, and hitting Capabilities opens up a world of handy tools that can make your daily phone use smoother and faster. From playing media to booking rides or restaurants, the assistant handles a lot so you don‚Äôt have to.
+Checking out the capabilities on Perplexity Pro for Android is super straightforward once you know where to look. Tapping your profile, scrolling to Assistant, and hitting Capabilities opens up a world of handy tools that can make your daily phone use smoother and faster. From playing media to booking rides or restaurants, the assistant handles a lot so you donít have to.
 
-These features aren‚Äôt just fancy extras-they‚Äôre designed to save you time and keep things simple. So take a moment to explore the capabilities menu and start using the assistant like a pro. Your phone just got a lot smarter.
+These features arenít just fancy extras-theyíre designed to save you time and keep things simple. So take a moment to explore the capabilities menu and start using the assistant like a pro. Your phone just got a lot smarter.
 
 ## FAQs
 
@@ -100,4 +100,4 @@ Yes, the assistant supports voice commands for almost everything, making it hand
 
 ### Is Perplexity Assistant better than Google Assistant?
 
-It offers some unique features like intelligent reminders and screen context analysis, so it‚Äôs a solid alternative depending on your needs.
+It offers some unique features like intelligent reminders and screen context analysis, so itís a solid alternative depending on your needs.

@@ -1,20 +1,20 @@
-Ôªø---
+---
 title: "10 Steps to Change Email Address on Canva Without Password"
-description: "If you‚Äôre locked out of your Canva account because you forgot your password but need to change your email address, it can feel like a dead end. Usually,"
+description: "If youíre locked out of your Canva account because you forgot your password but need to change your email address, it can feel like a dead end. Usually,"
 pubDate: "2025-04-21T12:55:34+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/04/HoS_ChangeEmailCanva.webp"
 ---
 
-If you‚Äôre locked out of your Canva account because you forgot your password but need to change your email address, it can feel like a dead end. Usually, changing your email means logging in and updating your profile, but without a password, you‚Äôre stuck. The good news is, there‚Äôs a way around this by resetting your password first, even if you don‚Äôt remember it. This article breaks down exactly how to get your email updated on Canva without the password hassle.
+If youíre locked out of your Canva account because you forgot your password but need to change your email address, it can feel like a dead end. Usually, changing your email means logging in and updating your profile, but without a password, youíre stuck. The good news is, thereís a way around this by resetting your password first, even if you donít remember it. This article breaks down exactly how to get your email updated on Canva without the password hassle.
 
-Changing your email on Canva is important if you want to keep your account info current or switch to a new email you use more often. But since Canva prioritizes account security, it requires you to verify your identity before making changes. I‚Äôll walk you through the process step-by-step, plus share some tips on handling linked accounts and troubleshooting common issues like not getting verification emails. By the end, you‚Äôll have your email switched smoothly and safely.
+Changing your email on Canva is important if you want to keep your account info current or switch to a new email you use more often. But since Canva prioritizes account security, it requires you to verify your identity before making changes. Iíll walk you through the process step-by-step, plus share some tips on handling linked accounts and troubleshooting common issues like not getting verification emails. By the end, youíll have your email switched smoothly and safely.
 
 ## Resetting Your Password and Changing Your Email Address on Canva
 
-The first step is to reset your password since you can‚Äôt change your email without logging in. Here‚Äôs how:
+The first step is to reset your password since you canít change your email without logging in. Hereís how:
 
-1. Go to Canva‚Äôs login page and click ‚Äú**Forgot Password**.‚Äù
+1. Go to Canvaís login page and click ì**Forgot Password**.î
 
 2. Enter your current email address linked to Canva.
 
@@ -24,9 +24,9 @@ The first step is to reset your password since you can‚Äôt change your email wit
 
 5. Click your profile or settings icon in the top right corner.
 
-6. Select ‚Äú**Settings**‚Äù or ‚Äú**Your Profile**.‚Äù
+6. Select ì**Settings**î or ì**Your Profile**.î
 
-7. Click ‚Äú**Edit**‚Äù next to your email address.
+7. Click ì**Edit**î next to your email address.
 
 8. Enter the verification code sent to your current email.
 
@@ -38,31 +38,31 @@ This process ensures you regain control of your account and update your email se
 
 ## Managing Linked Accounts
 
-Many Canva users sign up using Google or Facebook accounts, which link your Canva login to those services. Before changing your email, it‚Äôs smart to disconnect these linked accounts to prevent any login conflicts later. You can do this by going to your Account settings and finding the ‚ÄúConnected accounts‚Äù section, then clicking ‚ÄúDisconnect‚Äù next to Google or Facebook. This step helps avoid confusion when you switch your login email.
+Many Canva users sign up using Google or Facebook accounts, which link your Canva login to those services. Before changing your email, itís smart to disconnect these linked accounts to prevent any login conflicts later. You can do this by going to your Account settings and finding the ìConnected accountsî section, then clicking ìDisconnectî next to Google or Facebook. This step helps avoid confusion when you switch your login email.
 
-Also, make sure your new email isn‚Äôt already tied to another Canva account, as Canva only allows one account per email. If your new email is in use, you‚Äôll need to resolve that first, possibly by contacting Canva support. Remember, keeping your login info clean and separate helps keep your account safe and easy to access.
+Also, make sure your new email isnít already tied to another Canva account, as Canva only allows one account per email. If your new email is in use, youíll need to resolve that first, possibly by contacting Canva support. Remember, keeping your login info clean and separate helps keep your account safe and easy to access.
 
 ## Troubleshooting Common Issues
 
-Sometimes, you might not receive the verification code Canva sends to your email. This can happen if the email lands in your spam or junk folder, so always check there first. If it‚Äôs not there, try resending the code or double-check that you typed your email correctly. Also, some email providers might block or quarantine Canva‚Äôs messages, so adding Canva‚Äôs domain to your safe sender list can help.
+Sometimes, you might not receive the verification code Canva sends to your email. This can happen if the email lands in your spam or junk folder, so always check there first. If itís not there, try resending the code or double-check that you typed your email correctly. Also, some email providers might block or quarantine Canvaís messages, so adding Canvaís domain to your safe sender list can help.
 
-If you‚Äôre using a business or educational email, especially with Microsoft Outlook or Office 365, emails might get stuck in quarantine. In that case, you or your email admin should check the quarantine folder and release the Canva emails. Running a message trace can help identify where the emails are getting held up. These steps usually solve most email delivery problems and get your verification codes through.
+If youíre using a business or educational email, especially with Microsoft Outlook or Office 365, emails might get stuck in quarantine. In that case, you or your email admin should check the quarantine folder and release the Canva emails. Running a message trace can help identify where the emails are getting held up. These steps usually solve most email delivery problems and get your verification codes through.
 
 ## Conclusion
 
-Changing your Canva email without knowing your password starts with resetting that password safely. Once you‚Äôre back in your account, updating your email is straightforward and protected by verification steps to keep your data secure. Taking care of linked accounts and being ready for email hiccups makes the whole process smoother.
+Changing your Canva email without knowing your password starts with resetting that password safely. Once youíre back in your account, updating your email is straightforward and protected by verification steps to keep your data secure. Taking care of linked accounts and being ready for email hiccups makes the whole process smoother.
 
-By following these steps, you keep your Canva account updated without losing access or your designs. It‚Äôs all about patience and making sure you follow the right order to avoid any lockouts or confusion. Now you can keep your Canva profile fresh with the email you want to use.
+By following these steps, you keep your Canva account updated without losing access or your designs. Itís all about patience and making sure you follow the right order to avoid any lockouts or confusion. Now you can keep your Canva profile fresh with the email you want to use.
 
 ## FAQs
 
 ### How do I reset my Canva password if I forgot it?
 
-Click ‚ÄúForgot Password‚Äù on the login page, enter your current email, and follow the reset link sent to your inbox.
+Click ìForgot Passwordî on the login page, enter your current email, and follow the reset link sent to your inbox.
 
 ### Why does Canva send a verification code when I change my email?
 
-It‚Äôs a security step to confirm you‚Äôre the account owner and prevent unauthorized changes.
+Itís a security step to confirm youíre the account owner and prevent unauthorized changes.
 
 ### Will I lose my designs if I change my email address?
 
@@ -72,6 +72,6 @@ No, your designs and files stay safe and linked to your account regardless of em
 
 No, each email can only be connected to one Canva account to avoid confusion.
 
-### What if I don‚Äôt get the verification email from Canva?
+### What if I donít get the verification email from Canva?
 
 Check your spam folder, add Canva to your safe senders, and if using business email, check quarantine or ask your admin to release the email.

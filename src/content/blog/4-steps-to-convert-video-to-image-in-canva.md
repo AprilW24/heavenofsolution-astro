@@ -1,18 +1,18 @@
-ï»¿---
+---
 title: "4 Steps to Convert Video to Image in Canva"
 description: "If you're looking to extract images from videos using Canva, you're in the right place! While Canva is primarily known for its graphic design capabilities, it"
 pubDate: "2025-02-12T11:30:30+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/02/HoS_ImagetoVideoCanva.webp"
 ---
 
-If youâ€™re looking to extract images from videos using Canva, youâ€™re in the right place! While Canva is primarily known for its graphic design capabilities, it doesnâ€™t directly support video-to-image conversion. However, Iâ€™ll guide you through a workaround that involves using other tools in conjunction with Canva to achieve your goal.
+If you’re looking to extract images from videos using Canva, you’re in the right place! While Canva is primarily known for its graphic design capabilities, it doesn’t directly support video-to-image conversion. However, I’ll guide you through a workaround that involves using other tools in conjunction with Canva to achieve your goal.
 
-Converting video to images can be useful for creating thumbnails, GIFs, or even static images for presentations. The process might seem a bit complex, but with the right tools and steps, itâ€™s quite manageable. In this article, Iâ€™ll walk you through how to do it efficiently.
+Converting video to images can be useful for creating thumbnails, GIFs, or even static images for presentations. The process might seem a bit complex, but with the right tools and steps, it’s quite manageable. In this article, I’ll walk you through how to do it efficiently.
 
 ## Understanding the Process
 
-To convert video to images, youâ€™ll typically need a video editing or conversion tool. Since Canva doesnâ€™t directly support this, weâ€™ll use an external tool to extract frames from the video and then import them into Canva for editing.
+To convert video to images, you’ll typically need a video editing or conversion tool. Since Canva doesn’t directly support this, we’ll use an external tool to extract frames from the video and then import them into Canva for editing.
 
 ## Steps to Convert Video to Images
 
@@ -58,7 +58,7 @@ Once you have your images, you can import them into Canva for further editing:
 
 2. Click on **Uploads** and select the images you extracted.
 
-3. Use Canvaâ€™s editing tools to adjust, resize, or enhance your images as needed.
+3. Use Canva’s editing tools to adjust, resize, or enhance your images as needed.
 
 ### Step 4: Edit and Use Your Images
 
@@ -76,7 +76,7 @@ Now that your images are in Canva, you can use them for various purposes:
 
 - **Use Templates**: Canva offers many templates that can help you quickly design with your images.
 
-- **Experiment with Effects**: Canvaâ€™s effects can add a professional touch to your images.
+- **Experiment with Effects**: Canva’s effects can add a professional touch to your images.
 
 - **Collaborate**: Invite others to edit your designs in real-time.
 
@@ -100,7 +100,7 @@ Yes, tools like ClipConverter and Shotcut are free and can help you convert vide
 
 ### How Do I Optimize Images for Web Use?
 
-Use Canvaâ€™s compression tools or external tools like TinyPNG to reduce image size without losing quality.
+Use Canva’s compression tools or external tools like TinyPNG to reduce image size without losing quality.
 
 ### Can I Use These Images for Commercial Purposes?
 

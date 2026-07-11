@@ -1,34 +1,34 @@
-Ôªø---
+---
 title: "6 Steps to Rotate a Canva Video Online for Free"
 description: "If you're working with videos in Canva and need to rotate them, you might be wondering how to do it without leaving the platform or spending extra money."
 pubDate: "2025-02-12T11:05:31+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/02/HoS_Canva-VIdeo.webp"
 ---
 
-If you‚Äôre working with videos in Canva and need to rotate them, you might be wondering how to do it without leaving the platform or spending extra money. Rotating videos can be a simple yet crucial step in video editing, especially if your footage was recorded in the wrong orientation. In this article, I‚Äôll guide you through the steps to rotate a Canva video online for free.
+If youíre working with videos in Canva and need to rotate them, you might be wondering how to do it without leaving the platform or spending extra money. Rotating videos can be a simple yet crucial step in video editing, especially if your footage was recorded in the wrong orientation. In this article, Iíll guide you through the steps to rotate a Canva video online for free.
 
-Canva is a versatile tool that allows you to create a wide range of visual content, from social media posts to presentations and videos. While it‚Äôs primarily known for graphic design, Canva also offers basic video editing features, including rotation. Here‚Äôs how you can rotate your videos in Canva without needing any additional software.
+Canva is a versatile tool that allows you to create a wide range of visual content, from social media posts to presentations and videos. While itís primarily known for graphic design, Canva also offers basic video editing features, including rotation. Hereís how you can rotate your videos in Canva without needing any additional software.
 
 ## How to Rotate a Video in Canva
 
 Rotating a video in Canva is straightforward. Here are the steps:
 
-1. **Log in to Canva**: Start by logging into your Canva account. If you don‚Äôt have one, you can sign up for free.
+1. **Log in to Canva**: Start by logging into your Canva account. If you donít have one, you can sign up for free.
 
-2. **Create a New Project**: Click on ‚ÄúCreate a design‚Äù and choose ‚ÄúCustom dimensions‚Äù or select a pre-set template that suits your needs. For video, you might want to choose a template like ‚ÄúYouTube video‚Äù or ‚ÄúSocial media video.‚Äù
+2. **Create a New Project**: Click on ìCreate a designî and choose ìCustom dimensionsî or select a pre-set template that suits your needs. For video, you might want to choose a template like ìYouTube videoî or ìSocial media video.î
 
-3. **Upload Your Video**: Click on ‚ÄúUploads‚Äù in the left sidebar and select ‚ÄúUpload your own images or videos.‚Äù Choose the video file you want to rotate.
+3. **Upload Your Video**: Click on ìUploadsî in the left sidebar and select ìUpload your own images or videos.î Choose the video file you want to rotate.
 
 4. **Add the Video to Your Design**: Once uploaded, drag and drop the video onto your design canvas.
 
-5. **Rotate the Video**: To rotate the video, click on it to select it. You‚Äôll see a rotate icon (a circular arrow) in the top toolbar. Click this icon to rotate your video 90 degrees at a time. You can also use the keyboard shortcuts Ctrl + [(Windows) or Command + [ (Mac) to rotate counterclockwise, and Ctrl + ] (Windows) or Command +](/steps-to-rotate-a-canva-video-online-for-free/Mac) to rotate clockwise.
+5. **Rotate the Video**: To rotate the video, click on it to select it. Youíll see a rotate icon (a circular arrow) in the top toolbar. Click this icon to rotate your video 90 degrees at a time. You can also use the keyboard shortcuts Ctrl + [(Windows) or Command + [ (Mac) to rotate counterclockwise, and Ctrl + ] (Windows) or Command +](/steps-to-rotate-a-canva-video-online-for-free/Mac) to rotate clockwise.
 
-6. **Adjust and Download**: After rotating your video, you can adjust its position or add other elements like text or images. Once you‚Äôre satisfied, click on ‚ÄúDownload‚Äù and choose the video format you prefer.
+6. **Adjust and Download**: After rotating your video, you can adjust its position or add other elements like text or images. Once youíre satisfied, click on ìDownloadî and choose the video format you prefer.
 
 ### Tips for Working with Videos in Canva
 
-- **Video Length**: Keep in mind that Canva has limitations on video length for free accounts. You might need to upgrade if you‚Äôre working with longer videos.
+- **Video Length**: Keep in mind that Canva has limitations on video length for free accounts. You might need to upgrade if youíre working with longer videos.
 
 - **Resolution**: Ensure your video resolution is suitable for your intended use. Higher resolutions are better for larger screens.
 
@@ -36,7 +36,7 @@ Rotating a video in Canva is straightforward. Here are the steps:
 
 ## Using Other Free Tools to Rotate Videos
 
-If you find that Canva doesn‚Äôt meet all your video rotation needs or if you prefer using other tools, there are several free online video editors available:
+If you find that Canva doesnít meet all your video rotation needs or if you prefer using other tools, there are several free online video editors available:
 
 - **Kapwing**: Offers a range of video editing tools, including rotation, and supports various file formats.
 
@@ -48,7 +48,7 @@ These tools can be useful if you need more advanced video editing capabilities b
 
 ## Conclusion
 
-Rotating a video in Canva is a simple process that can be completed in just a few steps. Whether you‚Äôre creating content for social media or a presentation, Canva‚Äôs video editing features can help you get the job done quickly and efficiently. If you need more advanced editing options, exploring other free online tools can be a good alternative.
+Rotating a video in Canva is a simple process that can be completed in just a few steps. Whether youíre creating content for social media or a presentation, Canvaís video editing features can help you get the job done quickly and efficiently. If you need more advanced editing options, exploring other free online tools can be a good alternative.
 
 ![](/wp-content/uploads/2025/01/Canva._HoS.jpg)
 

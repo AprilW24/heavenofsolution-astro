@@ -1,18 +1,18 @@
-Ôªø---
+---
 title: "11 Steps to Use File Upload on Perplexity App for Android"
 description: "Ever needed to get quick answers from a document or PDF right on your phone? The file upload feature in the Perplexity app for Android makes it super easy to"
 pubDate: "2025-04-27T09:59:17+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/04/HoS_Perplexity-1.webp"
 ---
 
-Ever needed to get quick answers from a document or *PDF* right on your phone? The file upload feature in the Perplexity app for Android makes it super easy to ask questions about your files and get instant help. Whether you‚Äôre a student, researcher, or just someone who wants to break down a long report, this tool can save you a ton of time. No more scrolling through endless pages-just upload, ask, and get what you need.
+Ever needed to get quick answers from a document or *PDF* right on your phone? The file upload feature in the Perplexity app for Android makes it super easy to ask questions about your files and get instant help. Whether youíre a student, researcher, or just someone who wants to break down a long report, this tool can save you a ton of time. No more scrolling through endless pages-just upload, ask, and get what you need.
 
-I‚Äôve used this feature to summarize books, translate notes, and even get feedback on my drafts. If you‚Äôre new to Perplexity or just haven‚Äôt tried uploading files yet, I‚Äôll walk you through the whole thing. You‚Äôll see how simple it is, what types of files you can use, and some tips to make the most out of it. Let‚Äôs get into it! üì±‚ú®
+Iíve used this feature to summarize books, translate notes, and even get feedback on my drafts. If youíre new to Perplexity or just havenít tried uploading files yet, Iíll walk you through the whole thing. Youíll see how simple it is, what types of files you can use, and some tips to make the most out of it. Letís get into it! ???
 
 ## How the File Upload Feature Works
 
-Perplexity‚Äôs file upload isn‚Äôt just for *PDFs*-you can also upload plain text, images, and code files. Once your file is uploaded, the app uses its AI to read and answer your questions based on the content. It‚Äôs perfect for summarizing long documents, getting explanations for tough topics, or even proofreading your writing. If your file is short, the app will read the whole thing; for longer files, it picks out the most important parts to answer your questions.
+Perplexityís file upload isnít just for *PDFs*-you can also upload plain text, images, and code files. Once your file is uploaded, the app uses its AI to read and answer your questions based on the content. Itís perfect for summarizing long documents, getting explanations for tough topics, or even proofreading your writing. If your file is short, the app will read the whole thing; for longer files, it picks out the most important parts to answer your questions.
 
 Privacy is a big deal here. Your files stay private and are only used to answer your questions. Free users can upload up to three files a day (each up to 25 MB), while *Pro* users get unlimited uploads. You can upload up to four files at once, and your files stick around for 30 days if you need to ask more questions later.
 
@@ -24,11 +24,11 @@ Privacy is a big deal here. Your files stay private and are only used to answer 
 
 ![](/wp-content/uploads/2025/04/HoS_Perplexity.-2.webp)
 
-3. Look for the ‚Äú**üîó Attach**‚Äù button next to the search bar and tap it.
+3. Look for the ì**?? Attach**î button next to the search bar and tap it.
 
 ![](/wp-content/uploads/2025/04/HoS_Perplexity.-3.webp)
 
-4. Next select ‚Äú**Upload a file**.‚Äù
+4. Next select ì**Upload a file**.î
 
 ![](/wp-content/uploads/2025/04/HoS_Perplexity.-4.webp)
 
@@ -40,35 +40,35 @@ Privacy is a big deal here. Your files stay private and are only used to answer 
 
 8. Hit send and watch the app analyze your file.
 
-9. Read the answer or summary based on your file‚Äôs content.
+9. Read the answer or summary based on your fileís content.
 
 10. Ask follow-up questions if you want more details.
 
-11. Repeat for up to three files a day (or more if you‚Äôre a *Pro* user).
+11. Repeat for up to three files a day (or more if youíre a *Pro* user).
 
 ## Tips for Getting the Most Out of File Uploads
 
-If you‚Äôre uploading a long document, keep your questions specific to get better answers. For example, instead of just asking for a summary, you can ask about a certain chapter or section. The app is smart, but the more direct your question, the more helpful the response.
+If youíre uploading a long document, keep your questions specific to get better answers. For example, instead of just asking for a summary, you can ask about a certain chapter or section. The app is smart, but the more direct your question, the more helpful the response.
 
-You can‚Äôt download the files after uploading, but you can always see snippets of the text in the ‚ÄúView Sources‚Äù area. If you‚Äôre working on a project or research, this makes it easy to keep track of what you‚Äôve asked and what answers you‚Äôve gotten. And don‚Äôt forget-your files will be available for 30 days, so you can come back and ask more questions any time.
+You canít download the files after uploading, but you can always see snippets of the text in the ìView Sourcesî area. If youíre working on a project or research, this makes it easy to keep track of what youíve asked and what answers youíve gotten. And donít forget-your files will be available for 30 days, so you can come back and ask more questions any time.
 
 ## Conclusion
 
 Using the file upload feature on the Perplexity app for Android is a real time-saver. Just upload your file, ask your questions, and get answers without any hassle. It works for all sorts of files and is perfect for anyone who wants quick, reliable info straight from their documents.
 
-Give it a try next time you need to break down a long report, summarize a book, or just get some help with your notes. It‚Äôs easy, private, and works right from your phone. Happy uploading! üöÄ
+Give it a try next time you need to break down a long report, summarize a book, or just get some help with your notes. Itís easy, private, and works right from your phone. Happy uploading! ??
 
 ## FAQs
 
 ### How many files can I upload each day on the free plan?
 
-You can upload up to three files a day if you‚Äôre using the free version.
+You can upload up to three files a day if youíre using the free version.
 
 ### What types of files can I upload?
 
 You can upload *PDFs*, plain text files, images, and code files.
 
-### What‚Äôs the maximum file size for uploads?
+### Whatís the maximum file size for uploads?
 
 Each file can be up to 25 MB.
 
@@ -78,4 +78,4 @@ Yes, you can upload up to four files at once.
 
 ### Are my uploaded files private?
 
-Yes, your files are private and only used to answer your questions-they‚Äôre not shared or used for anything else.
+Yes, your files are private and only used to answer your questions-theyíre not shared or used for anything else.

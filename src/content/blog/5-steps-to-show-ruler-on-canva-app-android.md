@@ -1,22 +1,22 @@
-Ôªø---
+---
 title: "5 Steps to Show Ruler on Canva App Android"
 description: "If you're trying to use rulers on the Canva app for Android, you might face some limitations compared to the desktop version. However, here's how you can work"
 pubDate: "2025-03-08T09:57:51+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/03/HoS-Ruler.webp"
 ---
 
-If you‚Äôre trying to use rulers on the Canva app for Android, you might face some limitations compared to the desktop version. However, here‚Äôs how you can work around it and use guides, which serve a similar purpose:
+If youíre trying to use rulers on the Canva app for Android, you might face some limitations compared to the desktop version. However, hereís how you can work around it and use guides, which serve a similar purpose:
 
 ## The Challenge with Rulers on Mobile
 
-The Canva mobile app doesn‚Äôt directly support rulers like the desktop version. Instead, you can use guides to help align elements on your design.
+The Canva mobile app doesnít directly support rulers like the desktop version. Instead, you can use guides to help align elements on your design.
 
 One of the main reasons for this limitation is the smaller screen size of mobile devices, which makes it difficult to effectively display and interact with rulers. Additionally, the mobile app is optimized for touch-based interactions, which can make precise ruler measurements less practical.
 
 ## Using Guides on Canva Mobile
 
-When designing on mobile, it‚Äôs essential to make the most of the tools available. Guides in Canva can help you achieve professional-looking alignments without needing rulers. Here‚Äôs how you can use them:
+When designing on mobile, itís essential to make the most of the tools available. Guides in Canva can help you achieve professional-looking alignments without needing rulers. Hereís how you can use them:
 
 1. Open your design in the Canva app.
 
@@ -36,7 +36,7 @@ If you really need to use rulers, you can open Canva in a web browser on your mo
 
 2. Go to Canva.com and log in.
 
-3. Tap the three dots in the browser‚Äôs address bar and select **Desktop site**.
+3. Tap the three dots in the browserís address bar and select **Desktop site**.
 
 ![](/wp-content/uploads/2025/03/5-Steps-to-Show-Ruler-on-Canva-App-Android.webp)
 
@@ -48,7 +48,7 @@ This method allows you to use rulers but might be less convenient for mobile des
 
 ## Conclusion
 
-While the Canva mobile app doesn‚Äôt support rulers directly, using guides can help you achieve similar alignment goals. For precise ruler measurements, switching to the desktop view in a browser is a workaround.
+While the Canva mobile app doesnít support rulers directly, using guides can help you achieve similar alignment goals. For precise ruler measurements, switching to the desktop view in a browser is a workaround.
 
 ## FAQs
 
@@ -60,14 +60,14 @@ You can access guides by tapping the three dots at the top right, then selecting
 
 Yes, you can customize the number of columns or rows and their spacing when adding guides.
 
-#### Why can‚Äôt I find the ‚ÄúShow Rulers‚Äù option on the mobile app?
+#### Why canít I find the ìShow Rulersî option on the mobile app?
 
 The mobile app does not support rulers directly; you need to use guides or switch to desktop view in a browser for rulers.
 
 #### How do I switch to desktop view on my mobile browser?
 
-Tap the three dots in the browser‚Äôs address bar and select **Desktop site**.
+Tap the three dots in the browserís address bar and select **Desktop site**.
 
-#### Are guides available in Canva‚Äôs free version?
+#### Are guides available in Canvaís free version?
 
 Yes, guides are available in both free and paid versions of Canva.

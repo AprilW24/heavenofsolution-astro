@@ -1,18 +1,18 @@
-ï»¿---
+---
 title: "3 Steps to Play YouTube Videos in the Background on iPhone and Android"
 description: "Have you ever wanted to listen to a YouTube video while doing other things on your phone? Maybe you're following along with a tutorial or listening to a long"
 pubDate: "2024-06-13T16:51:34+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2024/06/HoS_PlayYoutube-2.jpg"
 ---
 
-Have you ever wanted to listen to a YouTube video while doing other things on your phone? Maybe youâ€™re following along with a tutorial or listening to a long podcast episode. Normally, the YouTube app stops playing audio as soon as you switch to another app or lock your screen.
+Have you ever wanted to listen to a YouTube video while doing other things on your phone? Maybe you’re following along with a tutorial or listening to a long podcast episode. Normally, the YouTube app stops playing audio as soon as you switch to another app or lock your screen.
 
-Luckily, there are a few ways to keep YouTube videos playing in the background on both iPhone and Android devices. Some methods require a paid YouTube Premium subscription, but there are also free workarounds using your mobile web browser. Letâ€™s dive into the steps for each method.
+Luckily, there are a few ways to keep YouTube videos playing in the background on both iPhone and Android devices. Some methods require a paid YouTube Premium subscription, but there are also free workarounds using your mobile web browser. Let’s dive into the steps for each method.
 
 ### 1. Play YouTube in the Background with YouTube Premium
 
-The official way to play YouTube in the background is by subscribing to YouTube Premium. This paid service from Google removes ads, allows downloads, and enables background playback in the YouTube app. Hereâ€™s how to use it:
+The official way to play YouTube in the background is by subscribing to YouTube Premium. This paid service from Google removes ads, allows downloads, and enables background playback in the YouTube app. Here’s how to use it:
 
 1. Sign up for YouTube Premium. It costs $11.99/month but there is a 1-month free trial.
 
@@ -30,9 +30,9 @@ The video will continue playing in the background while you use other apps or wh
 
 ### 2. Play YouTube in the Background Using Safari (iPhone)
 
-If you donâ€™t want to pay for YouTube Premium, you can trick YouTube into thinking youâ€™re playing a video from a desktop browser. Then it will allow background playback for free. This currently works on iPhone using Safari:
+If you don’t want to pay for YouTube Premium, you can trick YouTube into thinking you’re playing a video from a desktop browser. Then it will allow background playback for free. This currently works on iPhone using Safari:
 
-1. Open Safari and go to youtube.com. Donâ€™t use the YouTube app.
+1. Open Safari and go to youtube.com. Don’t use the YouTube app.
 
 2. Find the video you want to play in the background.
 
@@ -86,7 +86,7 @@ To summarize, you can play YouTube videos in the background on both iPhone and A
 
 1. Subscribing to YouTube Premium for official background playback support
 
-2. Using Safariâ€™s desktop mode on iPhone to trick YouTubeâ€™s website
+2. Using Safari’s desktop mode on iPhone to trick YouTube’s website
 
 3. Requesting the desktop site in Firefox or Chrome on Android
 

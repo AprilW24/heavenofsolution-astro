@@ -1,20 +1,20 @@
-ï»¿---
+---
 title: "2 Steps to Save a Video from Canva to Google Drive for Free"
 description: "If you're using Canva to create videos and want to save them directly to Google Drive, you might be wondering how to do it without any extra costs. Canva is a"
 pubDate: "2025-02-09T11:15:58+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/02/Canva-Video_HoS.webp"
 ---
 
-If youâ€™re using Canva to create videos and want to save them directly to Google Drive, you might be wondering how to do it without any extra costs. Canva is a fantastic tool for creating visual content, but it doesnâ€™t directly support video exports to Google Drive like it does for images or PDFs. However, there are some workarounds to achieve this. Hereâ€™s how you can save your video from Canva to Google Drive for free.
+If you’re using Canva to create videos and want to save them directly to Google Drive, you might be wondering how to do it without any extra costs. Canva is a fantastic tool for creating visual content, but it doesn’t directly support video exports to Google Drive like it does for images or PDFs. However, there are some workarounds to achieve this. Here’s how you can save your video from Canva to Google Drive for free.
 
-## The Problem: Canvaâ€™s Limitations
+## The Problem: Canva’s Limitations
 
-Canva is primarily designed for graphic design and doesnâ€™t have a built-in feature to export videos directly to Google Drive. However, you can still manage to save your video files by downloading them and then manually uploading them to Google Drive.
+Canva is primarily designed for graphic design and doesn’t have a built-in feature to export videos directly to Google Drive. However, you can still manage to save your video files by downloading them and then manually uploading them to Google Drive.
 
 ## Solution Overview
 
-To save a video from Canva to Google Drive, youâ€™ll need to download the video from Canva and then upload it to Google Drive manually. Here are the steps:
+To save a video from Canva to Google Drive, you’ll need to download the video from Canva and then upload it to Google Drive manually. Here are the steps:
 
 ## Steps to Save a Video from Canva to Google Drive
 
@@ -54,7 +54,7 @@ If you frequently need to export videos from Canva to Google Drive, you might co
 
 ## Conclusion
 
-Saving a video from Canva to Google Drive involves a simple two-step process: downloading the video from Canva and then uploading it to Google Drive. While Canva doesnâ€™t offer direct video export to Google Drive, this method ensures you can still manage your videos effectively.
+Saving a video from Canva to Google Drive involves a simple two-step process: downloading the video from Canva and then uploading it to Google Drive. While Canva doesn’t offer direct video export to Google Drive, this method ensures you can still manage your videos effectively.
 
 ## FAQs
 

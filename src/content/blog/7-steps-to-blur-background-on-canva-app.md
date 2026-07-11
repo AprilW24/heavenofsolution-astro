@@ -1,16 +1,16 @@
-Ôªø---
+---
 title: "7 Steps to Blur Background on Canva App Android"
 description: "When editing photos, one of the most effective ways to make your subject stand out is by blurring the background. This technique, often used in photography,"
 pubDate: "2025-02-28T22:10:07+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/02/Background-HoS.webp"
 ---
 
-When editing photos, one of the most effective ways to make your subject stand out is by blurring the background. This technique, often used in photography, can now be easily applied using design apps like Canva. Whether you‚Äôre creating social media posts, presentations, or any other visual content, a blurred background can make your images look more polished.
+When editing photos, one of the most effective ways to make your subject stand out is by blurring the background. This technique, often used in photography, can now be easily applied using design apps like Canva. Whether youíre creating social media posts, presentations, or any other visual content, a blurred background can make your images look more polished.
 
-Blurring the background of an image on the Canva app for Android can help focus attention on the main subject and add a professional touch to your designs. Here‚Äôs how you can do it:
+Blurring the background of an image on the Canva app for Android can help focus attention on the main subject and add a professional touch to your designs. Hereís how you can do it:
 
-## Understanding Canva‚Äôs Blur Feature
+## Understanding Canvaís Blur Feature
 
 Canva offers a simple way to blur backgrounds, making it easy to create visually appealing designs. The app allows you to apply a blur effect to the entire image or use a brush to blur specific parts. This feature is especially useful for creating a bokeh effect or making your subject stand out.
 
@@ -20,21 +20,21 @@ Before you start blurring, ensure you have the image you want to work with. You 
 
 ## Step-by-Step Guide to Blurring Background
 
-Before we dive into the steps, it‚Äôs good to know that Canva‚Äôs user-friendly interface makes it easy to experiment with different effects. You can always undo changes if you don‚Äôt like them, so feel free to try out different blur levels.
+Before we dive into the steps, itís good to know that Canvaís user-friendly interface makes it easy to experiment with different effects. You can always undo changes if you donít like them, so feel free to try out different blur levels.
 
 1. **Open Canva App**: Launch the Canva app on your Android device.
 
 2. **Select Design Type**: Choose the type of design you want to create.
 
-3. **Upload Image**: Tap the ‚Äú+‚Äù button, select ‚ÄúImage,‚Äù and upload your photo.
+3. **Upload Image**: Tap the ì+î button, select ìImage,î and upload your photo.
 
 4. **Select Image**: Tap on the uploaded image to bring up the editing menu.
 
-5. **Apply Blur Effect**: Tap on ‚ÄúEffects‚Äù and select ‚ÄúBlur‚Äù or ‚ÄúBackground Blur.‚Äù
+5. **Apply Blur Effect**: Tap on ìEffectsî and select ìBlurî or ìBackground Blur.î
 
 6. **Adjust Blur Intensity**: Use the slider to adjust the blur level.
 
-7. **Preview and Save**: Preview your changes and tap ‚ÄúDone‚Äù to apply the effect.
+7. **Preview and Save**: Preview your changes and tap ìDoneî to apply the effect.
 
 ## Advanced Technique: Using Background Removal
 
@@ -44,7 +44,7 @@ For a more sophisticated look, you can remove the background and then place the 
 
 Blurring backgrounds in Canva is a straightforward process that can significantly enhance your designs. By following these steps, you can create professional-looking images with ease. Additionally, experimenting with different blur levels and techniques can help you find the perfect balance for your visual content.
 
-Another great thing about using Canva is that it‚Äôs accessible on both desktop and mobile devices, allowing you to work on your designs anywhere. This flexibility, combined with its intuitive interface, makes Canva a go-to tool for both beginners and experienced designers.
+Another great thing about using Canva is that itís accessible on both desktop and mobile devices, allowing you to work on your designs anywhere. This flexibility, combined with its intuitive interface, makes Canva a go-to tool for both beginners and experienced designers.
 
 ## FAQs
 
@@ -58,4 +58,4 @@ Yes, use the blur slider to adjust the intensity.
 
 ### Is background removal available on the mobile app?
 
-Yes, Canva‚Äôs mobile app supports background removal with a Pro subscription.
+Yes, Canvaís mobile app supports background removal with a Pro subscription.

@@ -1,14 +1,14 @@
-Ôªø---
+---
 title: "10 Steps to Create an Attractive CV on Canva Android"
-description: "If you‚Äôre job hunting and only have your phone on hand, don‚Äôt stress üòå. Canva for Android makes it easy to build a clean, eye-catching CV without needing a"
+description: "If youíre job hunting and only have your phone on hand, donít stress ??. Canva for Android makes it easy to build a clean, eye-catching CV without needing a"
 pubDate: "2025-10-21T00:01:31+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/10/Steps-to-Create-an-Attractive-CV-on-Canva-Android_HoS.webp"
 ---
 
-If you‚Äôre job hunting and only have your phone on hand, don‚Äôt stress üòå. Canva for Android makes it easy to build a clean, eye-catching CV without needing a laptop. The trick is knowing which tools inside the app work best and how to make your info stand out. This guide breaks it all down for you so you can build something that looks pro, straight from your phone.
+If youíre job hunting and only have your phone on hand, donít stress ??. Canva for Android makes it easy to build a clean, eye-catching CV without needing a laptop. The trick is knowing which tools inside the app work best and how to make your info stand out. This guide breaks it all down for you so you can build something that looks pro, straight from your phone.
 
-I‚Äôve been there typing out resumes on a phone screen can feel tiny and clunky. But Canva‚Äôs layout tools and ready-made templates make it simple. Whether you‚Äôre going for a creative job or something more corporate, this method will help you design a CV that looks solid without wasting hours.
+Iíve been there typing out resumes on a phone screen can feel tiny and clunky. But Canvaís layout tools and ready-made templates make it simple. Whether youíre going for a creative job or something more corporate, this method will help you design a CV that looks solid without wasting hours.
 
 ## Why Canva Works Great for Mobile CV Design
 
@@ -16,17 +16,17 @@ Canva is built for quick design work. You open the app, pick a template, and eve
 
 The app includes thousands of *resume* and *CV* templates, each styled for different job types. You can pick a bold modern look or something minimalist and clean. The best part is that most of these templates are free. You can swap fonts, shift sections, and even resize it for printing or online applications.
 
-Canva also keeps your work synced if you ever want to move from your phone to a laptop. And yes, it‚Äôs compatible with *ATS* (Applicant Tracking Systems), just stay away from overly graphic-heavy designs.
+Canva also keeps your work synced if you ever want to move from your phone to a laptop. And yes, itís compatible with *ATS* (Applicant Tracking Systems), just stay away from overly graphic-heavy designs.
 
 ## Steps to Make a CV on Canva Using Android
 
 1. Open the Canva app and sign in with your *Google* account.
 
-2. Tap the ‚Äú+‚Äù button and search for ‚ÄúCV‚Äù or ‚Äúresume.‚Äù
+2. Tap the ì+î button and search for ìCVî or ìresume.î
 
 3. Choose a simple, professional template (avoid the ones with too many shapes).
 
-4. Tap ‚ÄúCustomize‚Äù to open the template in the editor.
+4. Tap ìCustomizeî to open the template in the editor.
 
 5. Replace the sample name and title with yours.
 
@@ -42,23 +42,23 @@ Canva also keeps your work synced if you ever want to move from your phone to a 
 
 ## How to Make Your CV Look Professional
 
-The design matters just as much as what you write. Use no more than two fonts, one for headings and one for the body. Stick to neutral tones like gray or navy instead of loud colors. Canva lets you adjust spacing between lines, so don‚Äôt let your text look cramped.
+The design matters just as much as what you write. Use no more than two fonts, one for headings and one for the body. Stick to neutral tones like gray or navy instead of loud colors. Canva lets you adjust spacing between lines, so donít let your text look cramped.
 
-Always place your strongest section at the top. If you‚Äôre experienced, start with your job history. If you‚Äôre fresh out of school, lead with your skills or achievements. Adding a clean headshot is okay if the job calls for it. Just keep it small and sharp.
+Always place your strongest section at the top. If youíre experienced, start with your job history. If youíre fresh out of school, lead with your skills or achievements. Adding a clean headshot is okay if the job calls for it. Just keep it small and sharp.
 
-You can also take advantage of Canva‚Äôs design tools, frames, borders, or icons, but keep them subtle. A plain background with simple icons adds charm without looking try-hard.
+You can also take advantage of Canvaís design tools, frames, borders, or icons, but keep them subtle. A plain background with simple icons adds charm without looking try-hard.
 
 ## Conclusion
 
 Building a CV on Canva Android is way easier than most people think. You can finish a polished version in less than thirty minutes, all while commuting or chilling at home. The templates give you a professional base, and all you do is customize it to match your personality and goals.
 
-A strong CV can open doors for interviews. So, update it often, keep it visually tidy, and always proofread before hitting send. You got this üí™.
+A strong CV can open doors for interviews. So, update it often, keep it visually tidy, and always proofread before hitting send. You got this ??.
 
 ## FAQs
 
 ### How do I get Canva on Android?
 
-Go to *Google Play Store*, search ‚ÄúCanva,‚Äù and install it for free.
+Go to *Google Play Store*, search ìCanva,î and install it for free.
 
 ### Can I use Canva without paying?
 

@@ -1,8 +1,8 @@
-﻿---
+---
 title: "11 Steps to Delete All Likes on YouTube at Once on Android"
 description: "Like videos on YouTube help the video creator to know that the video makes you happy and enjoy it. Your one like can help them to make other good videos the"
 pubDate: "2023-01-30T17:43:27+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2023/01/HeavenofSolution-4.jpg"
 ---
 

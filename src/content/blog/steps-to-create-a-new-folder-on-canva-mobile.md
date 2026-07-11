@@ -1,22 +1,22 @@
-Ôªø---
+---
 title: "10 Steps to Create a New Folder on Canva Mobile"
-description: "Ever found yourself scrolling through Canva on your phone and your designs feel all over the place? Yeah, I‚Äôve been there. Managing a bunch of projects can"
+description: "Ever found yourself scrolling through Canva on your phone and your designs feel all over the place? Yeah, Iíve been there. Managing a bunch of projects can"
 pubDate: "2025-11-09T14:29:12+07:00"
-category: "Video Players &amp; Editors"
+category: "Video Players & Editors"
 featuredImage: "/wp-content/uploads/2025/11/Steps-to-Create-a-New-Folder-on-Canva-Mobile.webp"
 ---
 
-Ever found yourself scrolling through *Canva* on your phone and your designs feel all over the place? Yeah, I‚Äôve been there. Managing a bunch of projects can get messy fast. If you‚Äôre tired of searching every time you need a design, creating folders is a lifesaver. You can stash designs, sort by project, or group them in any way that works for you.
+Ever found yourself scrolling through *Canva* on your phone and your designs feel all over the place? Yeah, Iíve been there. Managing a bunch of projects can get messy fast. If youíre tired of searching every time you need a design, creating folders is a lifesaver. You can stash designs, sort by project, or group them in any way that works for you.
 
-Folders on *Canva* mobile really help organize things, whether you‚Äôre working solo, part of a group, or collaborating with classmates. You get the option to name them whatever you want, and you can even invite others. Once you set up your folders, finding the right design is way quicker.
+Folders on *Canva* mobile really help organize things, whether youíre working solo, part of a group, or collaborating with classmates. You get the option to name them whatever you want, and you can even invite others. Once you set up your folders, finding the right design is way quicker.
 
-Follow along with the simple steps, and you‚Äôll see how easy it is to tidy up your workspace. Ready to clean things up and find your files faster? Let‚Äôs get started! üì±‚ú®
+Follow along with the simple steps, and youíll see how easy it is to tidy up your workspace. Ready to clean things up and find your files faster? Letís get started! ???
 
 ## Step-by-step to making a brand new folder from your phone
 
 1. Open the *Canva* app.
 
-2. Tap ‚Äú**Your Designs**‚Äù to see all your projects.
+2. Tap ì**Your Designs**î to see all your projects.
 
 ![](/wp-content/uploads/2025/11/10-Steps-to-Create-a-New-Folder-on-Canva-Mobile_HoS.webp)
 
@@ -24,7 +24,7 @@ Follow along with the simple steps, and you‚Äôll see how easy it is to tidy up y
 
 ![](/wp-content/uploads/2025/11/10-Steps-to-Create-a-New-Folder-on-Canva-Mobile_HoS-2.webp)
 
-4. Pick ‚Äú**New folder**‚Äù from the options.
+4. Pick ì**New folder**î from the options.
 
 ![](/wp-content/uploads/2025/11/10-Steps-to-Create-a-New-Folder-on-Canva-Mobile_HoS-3.webp)
 
@@ -44,23 +44,23 @@ Follow along with the simple steps, and you‚Äôll see how easy it is to tidy up y
 
 ## How folders make it easier to keep everything sorted and stress-free
 
-When your designs are split up into different folders, things aren‚Äôt just easier to find, you‚Äôll also save time. Sorting illustrations for work, school, or personal use means no more endless scrolling. Plus, sharing gets simple since you can invite people straight into a folder, and they get access to just those files.
+When your designs are split up into different folders, things arenít just easier to find, youíll also save time. Sorting illustrations for work, school, or personal use means no more endless scrolling. Plus, sharing gets simple since you can invite people straight into a folder, and they get access to just those files.
 
-If you ever need to rename, delete, or share a folder, that‚Äôs easy too. With a few taps, folders can be updated or shared with teammates, no matter if you‚Äôre working alone or with a whole group. These features can help anyone, from students to pros.
+If you ever need to rename, delete, or share a folder, thatís easy too. With a few taps, folders can be updated or shared with teammates, no matter if youíre working alone or with a whole group. These features can help anyone, from students to pros.
 
 Trying it once will show how much more manageable your workspace becomes. Organizing your work in folders keeps things neat and makes you feel in control of your creative stuff.
 
 ## Tips for sharing folders and grouping designs with others
 
-This part is especially handy if you work with other people a lot. Once you‚Äôve made a folder, you can add email addresses to give your friends or coworkers access. They‚Äôll be able to see the designs right away, and you get to choose if they can just view or even edit the folder. Sharing with a team or a group is useful for joint projects, client work, or class assignments.
+This part is especially handy if you work with other people a lot. Once youíve made a folder, you can add email addresses to give your friends or coworkers access. Theyíll be able to see the designs right away, and you get to choose if they can just view or even edit the folder. Sharing with a team or a group is useful for joint projects, client work, or class assignments.
 
-Names, groups, and permissions can be changed later, so you‚Äôre never stuck. You only need to invite people once. If you add new designs, they‚Äôll automatically show up in the folder for everyone who has access. Makes working together that much smoother. ü§ù
+Names, groups, and permissions can be changed later, so youíre never stuck. You only need to invite people once. If you add new designs, theyíll automatically show up in the folder for everyone who has access. Makes working together that much smoother. ??
 
 ## Conclusion
 
-Organizing your designs is a smart move, and *Canva* makes it quick for anyone using their phone. I use folders to keep all my projects sorted, and it‚Äôs been a huge help. Setting them up is so easy, you‚Äôll wonder why you didn‚Äôt do it sooner.
+Organizing your designs is a smart move, and *Canva* makes it quick for anyone using their phone. I use folders to keep all my projects sorted, and itís been a huge help. Setting them up is so easy, youíll wonder why you didnít do it sooner.
 
-You‚Äôll notice less clutter and can share with folks without hassle. Get started and watch your workspace turn way more manageable.
+Youíll notice less clutter and can share with folks without hassle. Get started and watch your workspace turn way more manageable.
 
 ## FAQs
 
