@@ -12,7 +12,7 @@ export async function getStaticPaths() {
   const categories = [...new Set(posts.map(post => post.data.category).filter(Boolean))];
   
   return categories.map(category => {
-    const categorySlug = category.toLowerCase().replace(/\s+/g, '-');
+    const categorySlug = category.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
     const filteredPosts = posts.filter(post => post.data.category === category)
       .sort((a, b) => {
         const dateA = new Date(a.data.pubDate || 0).getTime();

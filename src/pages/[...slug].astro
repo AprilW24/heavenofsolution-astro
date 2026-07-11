@@ -49,7 +49,7 @@ const isContactPage = type === 'page' && entry.id === 'contact';
         {entry.data.category && (
           <div style="margin-bottom: 1.5rem;">
             <a 
-              href={`/category/${entry.data.category.toLowerCase().replace(/\s+/g, '-')}`} 
+              href={`/category/${entry.data.category.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}`} 
               style="background: var(--primary-light); color: var(--primary); padding: 0.35rem 0.85rem; border-radius: 99px; font-weight: 700; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; display: inline-block;"
             >
               {entry.data.category}

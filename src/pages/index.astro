@@ -72,7 +72,7 @@ function formatDate(dateStr: string) {
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
         {categories.map((category) => (
           <a 
-            href={`/category/${category.toLowerCase().replace(/\s+/g, '-')}`} 
+            href={`/category/${category.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}`} 
             style="background: white; border: 1px solid var(--border); padding: 0.75rem 1.5rem; border-radius: 99px; font-weight: 600; color: var(--text); box-shadow: 0 2px 4px rgba(0,0,0,0.02); transition: all 0.2s ease;"
             class="category-tag"
           >
